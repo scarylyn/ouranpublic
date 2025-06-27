@@ -1,0 +1,2788 @@
+{
+    "Code Address": 1984,
+    "Text Address": 9092,
+    "Original Text Block Size": 4094,
+    "pointers": [
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 0,
+            "Text Position": 9092,
+            "Pointer Position": 2004,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 6,
+            "Text Position": 9098,
+            "Pointer Position": 2014,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": 22272,
+            "Size": 4,
+            "Offset": 7,
+            "Text Position": 9099,
+            "Pointer Position": 2128,
+            "Original Text": "bg52",
+            "New Text": ""
+        },
+        {
+            "Type": 22272,
+            "Size": 6,
+            "Offset": 11,
+            "Text Position": 9103,
+            "Pointer Position": 2158,
+            "Original Text": "bg16_a",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 26,
+            "Offset": 17,
+            "Text Position": 9109,
+            "Pointer Position": 2192,
+            "Original Text": "キーンコーンカーンコーン。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 20,
+            "Offset": 43,
+            "Text Position": 9135,
+            "Pointer Position": 2224,
+            "Original Text": "今日の授業もお終い。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 63,
+            "Text Position": 9155,
+            "Pointer Position": 2240,
+            "Original Text": "ホスト部もお休みだし、少しだけ図書室に寄っ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 14,
+            "Offset": 105,
+            "Text Position": 9197,
+            "Pointer Position": 2252,
+            "Original Text": "てから帰ろう。",
+            "New Text": ""
+        },
+        {
+            "Type": 19968,
+            "Size": 6,
+            "Offset": 119,
+            "Text Position": 9211,
+            "Pointer Position": 2296,
+            "Original Text": "bg10_a",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 24,
+            "Offset": 125,
+            "Text Position": 9217,
+            "Pointer Position": 2332,
+            "Original Text": "図書室に寄る途中で――。",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 8,
+            "Offset": 149,
+            "Text Position": 9241,
+            "Pointer Position": 2348,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 8,
+            "Offset": 157,
+            "Text Position": 9249,
+            "Pointer Position": 2360,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 165,
+            "Text Position": 9257,
+            "Pointer Position": 2368,
+            "Original Text": "b-leo_a11",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 174,
+            "Text Position": 9266,
+            "Pointer Position": 2376,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 8,
+            "Offset": 178,
+            "Text Position": 9270,
+            "Pointer Position": 2412,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 186,
+            "Text Position": 9278,
+            "Pointer Position": 2470,
+            "Original Text": "レオ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 14,
+            "Offset": 190,
+            "Text Position": 9282,
+            "Pointer Position": 2482,
+            "Original Text": "「ハルヒくん」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 204,
+            "Text Position": 9296,
+            "Pointer Position": 2514,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 22,
+            "Offset": 210,
+            "Text Position": 9302,
+            "Pointer Position": 2526,
+            "Original Text": "「あ、こんにちは……」",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 232,
+            "Text Position": 9324,
+            "Pointer Position": 2542,
+            "Original Text": "明日まで会わないと思っていたレオさんに声を",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 12,
+            "Offset": 274,
+            "Text Position": 9366,
+            "Pointer Position": 2554,
+            "Original Text": "かけられた。",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 286,
+            "Text Position": 9378,
+            "Pointer Position": 2586,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 30,
+            "Offset": 292,
+            "Text Position": 9384,
+            "Pointer Position": 2598,
+            "Original Text": "「今日は、どうしたんですか？」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 8,
+            "Offset": 322,
+            "Text Position": 9414,
+            "Pointer Position": 2614,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 330,
+            "Text Position": 9422,
+            "Pointer Position": 2622,
+            "Original Text": "b-leo_a12",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 339,
+            "Text Position": 9431,
+            "Pointer Position": 2630,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 344,
+            "Text Position": 9436,
+            "Pointer Position": 2688,
+            "Original Text": "レオ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 44,
+            "Offset": 348,
+            "Text Position": 9440,
+            "Pointer Position": 2700,
+            "Original Text": "「明日のことを、鏡夜くんと話しに来たんだよ」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 392,
+            "Text Position": 9484,
+            "Pointer Position": 2732,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 20,
+            "Offset": 398,
+            "Text Position": 9490,
+            "Pointer Position": 2744,
+            "Original Text": "「勝負の内容は――」",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 8,
+            "Offset": 418,
+            "Text Position": 9510,
+            "Pointer Position": 2760,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 8,
+            "Offset": 426,
+            "Text Position": 9518,
+            "Pointer Position": 2790,
+            "Original Text": "b-leo_a2",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 8,
+            "Offset": 434,
+            "Text Position": 9526,
+            "Pointer Position": 2802,
+            "Original Text": "b-leo_a2",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 442,
+            "Text Position": 9534,
+            "Pointer Position": 2810,
+            "Original Text": "b-leo_a22",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 451,
+            "Text Position": 9543,
+            "Pointer Position": 2818,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 8,
+            "Offset": 456,
+            "Text Position": 9548,
+            "Pointer Position": 2854,
+            "Original Text": "b-leo_a2",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 464,
+            "Text Position": 9556,
+            "Pointer Position": 2912,
+            "Original Text": "レオ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 34,
+            "Offset": 468,
+            "Text Position": 9560,
+            "Pointer Position": 2924,
+            "Original Text": "「言えないよ。お楽しみなんだから」",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 502,
+            "Text Position": 9594,
+            "Pointer Position": 2940,
+            "Original Text": "そう言ってレオさんは笑った。……本当に楽し",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 26,
+            "Offset": 544,
+            "Text Position": 9636,
+            "Pointer Position": 2952,
+            "Original Text": "みにしてるって感じがする。",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 8,
+            "Offset": 570,
+            "Text Position": 9662,
+            "Pointer Position": 2968,
+            "Original Text": "b-leo_a2",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 578,
+            "Text Position": 9670,
+            "Pointer Position": 2976,
+            "Original Text": "b-leo_a23",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 587,
+            "Text Position": 9679,
+            "Pointer Position": 2984,
+            "Original Text": "komari",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 593,
+            "Text Position": 9685,
+            "Pointer Position": 3042,
+            "Original Text": "レオ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 597,
+            "Text Position": 9689,
+            "Pointer Position": 3054,
+            "Original Text": "「それより、ボクのせいでいろいろ迷惑をかけ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 12,
+            "Offset": 639,
+            "Text Position": 9731,
+            "Pointer Position": 3066,
+            "Original Text": "てごめんね」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 651,
+            "Text Position": 9743,
+            "Pointer Position": 3098,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 20,
+            "Offset": 657,
+            "Text Position": 9749,
+            "Pointer Position": 3110,
+            "Original Text": "「いえ、そんな……」",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 8,
+            "Offset": 677,
+            "Text Position": 9769,
+            "Pointer Position": 3126,
+            "Original Text": "b-leo_a2",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 8,
+            "Offset": 685,
+            "Text Position": 9777,
+            "Pointer Position": 3156,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 8,
+            "Offset": 693,
+            "Text Position": 9785,
+            "Pointer Position": 3168,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 701,
+            "Text Position": 9793,
+            "Pointer Position": 3176,
+            "Original Text": "b-leo_a12",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 710,
+            "Text Position": 9802,
+            "Pointer Position": 3184,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 8,
+            "Offset": 715,
+            "Text Position": 9807,
+            "Pointer Position": 3220,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 723,
+            "Text Position": 9815,
+            "Pointer Position": 3278,
+            "Original Text": "レオ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 727,
+            "Text Position": 9819,
+            "Pointer Position": 3290,
+            "Original Text": "「でも、ホスト部のみんなが元に戻ってくれた",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 18,
+            "Offset": 769,
+            "Text Position": 9861,
+            "Pointer Position": 3302,
+            "Original Text": "みたいで良かった」",
+            "New Text": ""
+        },
+        {
+            "Type": 13568,
+            "Size": 8,
+            "Offset": 787,
+            "Text Position": 9879,
+            "Pointer Position": 3318,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 5,
+            "Offset": 795,
+            "Text Position": 9887,
+            "Pointer Position": 3354,
+            "Original Text": "ron_a",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 5,
+            "Offset": 800,
+            "Text Position": 9892,
+            "Pointer Position": 3366,
+            "Original Text": "ron_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 805,
+            "Text Position": 9897,
+            "Pointer Position": 3374,
+            "Original Text": "ron_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 811,
+            "Text Position": 9903,
+            "Pointer Position": 3382,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 5,
+            "Offset": 815,
+            "Text Position": 9907,
+            "Pointer Position": 3418,
+            "Original Text": "ron_a",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 2,
+            "Offset": 820,
+            "Text Position": 9912,
+            "Pointer Position": 3476,
+            "Original Text": "王",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 38,
+            "Offset": 822,
+            "Text Position": 9914,
+            "Pointer Position": 3488,
+            "Original Text": "「勝手なことばかり言わないでください」",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 8,
+            "Offset": 860,
+            "Text Position": 9952,
+            "Pointer Position": 3504,
+            "Original Text": "b-leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 5,
+            "Offset": 868,
+            "Text Position": 9960,
+            "Pointer Position": 3534,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 5,
+            "Offset": 873,
+            "Text Position": 9965,
+            "Pointer Position": 3546,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 878,
+            "Text Position": 9970,
+            "Pointer Position": 3554,
+            "Original Text": "leo_a2",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 884,
+            "Text Position": 9976,
+            "Pointer Position": 3562,
+            "Original Text": "komari",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 5,
+            "Offset": 890,
+            "Text Position": 9982,
+            "Pointer Position": 3598,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 895,
+            "Text Position": 9987,
+            "Pointer Position": 3656,
+            "Original Text": "レオ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 10,
+            "Offset": 899,
+            "Text Position": 9991,
+            "Pointer Position": 3668,
+            "Original Text": "「王……」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 5,
+            "Offset": 909,
+            "Text Position": 10001,
+            "Pointer Position": 3684,
+            "Original Text": "ron_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 914,
+            "Text Position": 10006,
+            "Pointer Position": 3692,
+            "Original Text": "ron_a2",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 920,
+            "Text Position": 10012,
+            "Pointer Position": 3700,
+            "Original Text": "majime",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 2,
+            "Offset": 926,
+            "Text Position": 10018,
+            "Pointer Position": 3758,
+            "Original Text": "王",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 928,
+            "Text Position": 10020,
+            "Pointer Position": 3770,
+            "Original Text": "「手早く用事を済ませてください。私には明日",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 970,
+            "Text Position": 10062,
+            "Pointer Position": 3782,
+            "Original Text": "のことで手配しなくてはならないことが――」",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 5,
+            "Offset": 1012,
+            "Text Position": 10104,
+            "Pointer Position": 3798,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 11,
+            "Offset": 1017,
+            "Text Position": 10109,
+            "Pointer Position": 3828,
+            "Original Text": "yoshituna_a",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 11,
+            "Offset": 1028,
+            "Text Position": 10120,
+            "Pointer Position": 3840,
+            "Original Text": "yoshituna_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 1039,
+            "Text Position": 10131,
+            "Pointer Position": 3848,
+            "Original Text": "yoshituna_a2",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1051,
+            "Text Position": 10143,
+            "Pointer Position": 3856,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 11,
+            "Offset": 1055,
+            "Text Position": 10147,
+            "Pointer Position": 3892,
+            "Original Text": "yoshituna_a",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 1066,
+            "Text Position": 10158,
+            "Pointer Position": 3950,
+            "Original Text": "豪徳寺",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 24,
+            "Offset": 1072,
+            "Text Position": 10164,
+            "Pointer Position": 3962,
+            "Original Text": "「それなら先に戻ってろ」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 5,
+            "Offset": 1096,
+            "Text Position": 10188,
+            "Pointer Position": 3978,
+            "Original Text": "ron_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1101,
+            "Text Position": 10193,
+            "Pointer Position": 3986,
+            "Original Text": "ron_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1107,
+            "Text Position": 10199,
+            "Pointer Position": 3994,
+            "Original Text": "nirami",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 2,
+            "Offset": 1113,
+            "Text Position": 10205,
+            "Pointer Position": 4052,
+            "Original Text": "王",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 8,
+            "Offset": 1115,
+            "Text Position": 10207,
+            "Pointer Position": 4064,
+            "Original Text": "「何？」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 1123,
+            "Text Position": 10215,
+            "Pointer Position": 4080,
+            "Original Text": "yoshituna_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 1134,
+            "Text Position": 10226,
+            "Pointer Position": 4088,
+            "Original Text": "yoshituna_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1146,
+            "Text Position": 10238,
+            "Pointer Position": 4096,
+            "Original Text": "nirami",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 1152,
+            "Text Position": 10244,
+            "Pointer Position": 4154,
+            "Original Text": "豪徳寺",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 36,
+            "Offset": 1158,
+            "Text Position": 10250,
+            "Pointer Position": 4166,
+            "Original Text": "「お前がレオについている必要はない」",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 6,
+            "Offset": 1194,
+            "Text Position": 10286,
+            "Pointer Position": 4178,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 5,
+            "Offset": 1200,
+            "Text Position": 10292,
+            "Pointer Position": 4242,
+            "Original Text": "ron_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1205,
+            "Text Position": 10297,
+            "Pointer Position": 4250,
+            "Original Text": "ron_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 1211,
+            "Text Position": 10303,
+            "Pointer Position": 4258,
+            "Original Text": "ikari",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 2,
+            "Offset": 1216,
+            "Text Position": 10308,
+            "Pointer Position": 4316,
+            "Original Text": "王",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 32,
+            "Offset": 1218,
+            "Text Position": 10310,
+            "Pointer Position": 4328,
+            "Original Text": "「護衛ごときが、私に指図を……」",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 5,
+            "Offset": 1250,
+            "Text Position": 10342,
+            "Pointer Position": 4344,
+            "Original Text": "ron_a",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 11,
+            "Offset": 1255,
+            "Text Position": 10347,
+            "Pointer Position": 4374,
+            "Original Text": "yoshituna_a",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 5,
+            "Offset": 1266,
+            "Text Position": 10358,
+            "Pointer Position": 4404,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 5,
+            "Offset": 1271,
+            "Text Position": 10363,
+            "Pointer Position": 4416,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1276,
+            "Text Position": 10368,
+            "Pointer Position": 4424,
+            "Original Text": "leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1282,
+            "Text Position": 10374,
+            "Pointer Position": 4432,
+            "Original Text": "komari",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 5,
+            "Offset": 1288,
+            "Text Position": 10380,
+            "Pointer Position": 4468,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": 22528,
+            "Size": 3,
+            "Offset": 1293,
+            "Text Position": 10385,
+            "Pointer Position": 4514,
+            "Original Text": "ase",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 1296,
+            "Text Position": 10388,
+            "Pointer Position": 4566,
+            "Original Text": "レオ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 40,
+            "Offset": 1300,
+            "Text Position": 10392,
+            "Pointer Position": 4578,
+            "Original Text": "「ご、ごめんね、ハルヒくん。ボクらはこれ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 8,
+            "Offset": 1340,
+            "Text Position": 10432,
+            "Pointer Position": 4590,
+            "Original Text": "で――」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 1348,
+            "Text Position": 10440,
+            "Pointer Position": 4622,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 12,
+            "Offset": 1354,
+            "Text Position": 10446,
+            "Pointer Position": 4634,
+            "Original Text": "「……はあ」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 5,
+            "Offset": 1366,
+            "Text Position": 10458,
+            "Pointer Position": 4650,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1371,
+            "Text Position": 10463,
+            "Pointer Position": 4658,
+            "Original Text": "leo_a2",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1377,
+            "Text Position": 10469,
+            "Pointer Position": 4666,
+            "Original Text": "tohoho",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 1383,
+            "Text Position": 10475,
+            "Pointer Position": 4724,
+            "Original Text": "レオ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 1387,
+            "Text Position": 10479,
+            "Pointer Position": 4736,
+            "Original Text": "「ほら、王も由綱もケンカしないでって言って",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 10,
+            "Offset": 1429,
+            "Text Position": 10521,
+            "Pointer Position": 4748,
+            "Original Text": "るでしょ」",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 5,
+            "Offset": 1439,
+            "Text Position": 10531,
+            "Pointer Position": 4764,
+            "Original Text": "leo_a",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 1444,
+            "Text Position": 10536,
+            "Pointer Position": 4794,
+            "Original Text": "ケンカでも始めそうな２人に声をかけながら、",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 36,
+            "Offset": 1486,
+            "Text Position": 10578,
+            "Pointer Position": 4806,
+            "Original Text": "レオさんは校舎のなかへ消えていった。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 10,
+            "Offset": 1522,
+            "Text Position": 10614,
+            "Pointer Position": 4822,
+            "Original Text": "…………。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 1532,
+            "Text Position": 10624,
+            "Pointer Position": 4838,
+            "Original Text": "絢爛のホスト部って、みんなバラバラみたいだ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 10,
+            "Offset": 1574,
+            "Text Position": 10666,
+            "Pointer Position": 4850,
+            "Original Text": "なあ……。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 1584,
+            "Text Position": 10676,
+            "Pointer Position": 4866,
+            "Original Text": "なんか図書室に寄る気分じゃなくなったし、今",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 16,
+            "Offset": 1626,
+            "Text Position": 10718,
+            "Pointer Position": 4878,
+            "Original Text": "日はもう帰ろう。",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 1642,
+            "Text Position": 10734,
+            "Pointer Position": 4890,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 1648,
+            "Text Position": 10740,
+            "Pointer Position": 4908,
+            "Original Text": "sure2",
+            "New Text": ""
+        },
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 1653,
+            "Text Position": 10745,
+            "Pointer Position": 4942,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 1659,
+            "Text Position": 10751,
+            "Pointer Position": 4952,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": 19968,
+            "Size": 6,
+            "Offset": 1660,
+            "Text Position": 10752,
+            "Pointer Position": 5110,
+            "Original Text": "bg24_a",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 1666,
+            "Text Position": 10758,
+            "Pointer Position": 5162,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 30,
+            "Offset": 1672,
+            "Text Position": 10764,
+            "Pointer Position": 5174,
+            "Original Text": "「あれ、あそこにいるのは……」",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 1702,
+            "Text Position": 10794,
+            "Pointer Position": 5190,
+            "Original Text": "倉賀野さんに桜塚さん、上賀茂さん……。ホス",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 22,
+            "Offset": 1744,
+            "Text Position": 10836,
+            "Pointer Position": 5202,
+            "Original Text": "ト部のお客さんたちだ。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 1766,
+            "Text Position": 10858,
+            "Pointer Position": 5218,
+            "Original Text": "最近はいろいろあって、ゆっくりお話もしてな",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 40,
+            "Offset": 1808,
+            "Text Position": 10900,
+            "Pointer Position": 5230,
+            "Original Text": "いし……。ちょっと声をかけてみようかな。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 1848,
+            "Text Position": 10940,
+            "Pointer Position": 5246,
+            "Original Text": "みんな帰るところだから、１人にしか声をかけ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 14,
+            "Offset": 1890,
+            "Text Position": 10982,
+            "Pointer Position": 5258,
+            "Original Text": "られないけど。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 20,
+            "Offset": 1904,
+            "Text Position": 10996,
+            "Pointer Position": 5274,
+            "Original Text": "……誰にしようかな。",
+            "New Text": ""
+        },
+        {
+            "Type": "Choice",
+            "Size": 10,
+            "Offset": 1924,
+            "Text Position": 11016,
+            "Pointer Position": 5286,
+            "Original Text": "倉賀野さん",
+            "New Text": ""
+        },
+        {
+            "Type": "Choice",
+            "Size": 8,
+            "Offset": 1934,
+            "Text Position": 11026,
+            "Pointer Position": 5304,
+            "Original Text": "桜塚さん",
+            "New Text": ""
+        },
+        {
+            "Type": "Choice",
+            "Size": 10,
+            "Offset": 1942,
+            "Text Position": 11034,
+            "Pointer Position": 5322,
+            "Original Text": "上賀茂さん",
+            "New Text": ""
+        },
+        {
+            "Type": "Choice",
+            "Size": 12,
+            "Offset": 1952,
+            "Text Position": 11044,
+            "Pointer Position": 5340,
+            "Original Text": "声をかけない",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 1964,
+            "Text Position": 11056,
+            "Pointer Position": 5364,
+            "Original Text": "select",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 6,
+            "Offset": 1970,
+            "Text Position": 11062,
+            "Pointer Position": 5376,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 1976,
+            "Text Position": 11068,
+            "Pointer Position": 5440,
+            "Original Text": "select",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 1982,
+            "Text Position": 11074,
+            "Pointer Position": 5450,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 1983,
+            "Text Position": 11075,
+            "Pointer Position": 5482,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 1989,
+            "Text Position": 11081,
+            "Pointer Position": 5500,
+            "Original Text": "sure3",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 1994,
+            "Text Position": 11086,
+            "Pointer Position": 5536,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 2000,
+            "Text Position": 11092,
+            "Pointer Position": 5554,
+            "Original Text": "sure4",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 2005,
+            "Text Position": 11097,
+            "Pointer Position": 5590,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 2011,
+            "Text Position": 11103,
+            "Pointer Position": 5608,
+            "Original Text": "sure5",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 2016,
+            "Text Position": 11108,
+            "Pointer Position": 5644,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 2022,
+            "Text Position": 11114,
+            "Pointer Position": 5662,
+            "Original Text": "sure6",
+            "New Text": ""
+        },
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 2027,
+            "Text Position": 11119,
+            "Pointer Position": 5700,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 2033,
+            "Text Position": 11125,
+            "Pointer Position": 5710,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 6,
+            "Offset": 2034,
+            "Text Position": 11126,
+            "Pointer Position": 5794,
+            "Original Text": "倉賀野",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 12,
+            "Offset": 2040,
+            "Text Position": 11132,
+            "Pointer Position": 5812,
+            "Original Text": "ハルヒ指名率",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 11,
+            "Offset": 2052,
+            "Text Position": 11144,
+            "Pointer Position": 5830,
+            "Original Text": "b-momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 11,
+            "Offset": 2063,
+            "Text Position": 11155,
+            "Pointer Position": 5842,
+            "Original Text": "b-momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2074,
+            "Text Position": 11166,
+            "Pointer Position": 5850,
+            "Original Text": "b-momoka_a11",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 2086,
+            "Text Position": 11178,
+            "Pointer Position": 5858,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 11,
+            "Offset": 2090,
+            "Text Position": 11182,
+            "Pointer Position": 5894,
+            "Original Text": "b-momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2101,
+            "Text Position": 11193,
+            "Pointer Position": 5952,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 14,
+            "Offset": 2107,
+            "Text Position": 11199,
+            "Pointer Position": 5964,
+            "Original Text": "「倉賀野さん」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 2121,
+            "Text Position": 11213,
+            "Pointer Position": 5980,
+            "Original Text": "b-momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2132,
+            "Text Position": 11224,
+            "Pointer Position": 5988,
+            "Original Text": "b-momoka_a12",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 2144,
+            "Text Position": 11236,
+            "Pointer Position": 5996,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2149,
+            "Text Position": 11241,
+            "Pointer Position": 6054,
+            "Original Text": "倉賀野",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 32,
+            "Offset": 2155,
+            "Text Position": 11247,
+            "Pointer Position": 6066,
+            "Original Text": "「あ、ハルヒ君もお帰りですか？」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2187,
+            "Text Position": 11279,
+            "Pointer Position": 6098,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 30,
+            "Offset": 2193,
+            "Text Position": 11285,
+            "Pointer Position": 6110,
+            "Original Text": "「はい、今日はお休みですから」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 2223,
+            "Text Position": 11315,
+            "Pointer Position": 6126,
+            "Original Text": "b-momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2234,
+            "Text Position": 11326,
+            "Pointer Position": 6134,
+            "Original Text": "b-momoka_a13",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 2246,
+            "Text Position": 11338,
+            "Pointer Position": 6142,
+            "Original Text": "komari",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2252,
+            "Text Position": 11344,
+            "Pointer Position": 6200,
+            "Original Text": "倉賀野",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 26,
+            "Offset": 2258,
+            "Text Position": 11350,
+            "Pointer Position": 6212,
+            "Original Text": "「……明日に備えてですね」",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 2284,
+            "Text Position": 11376,
+            "Pointer Position": 6228,
+            "Original Text": "あ、そっか。鏡夜先輩が連絡してるから、事情",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 16,
+            "Offset": 2326,
+            "Text Position": 11418,
+            "Pointer Position": 6240,
+            "Original Text": "は知ってるんだ。",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 2342,
+            "Text Position": 11434,
+            "Pointer Position": 6256,
+            "Original Text": "b-momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2353,
+            "Text Position": 11445,
+            "Pointer Position": 6264,
+            "Original Text": "b-momoka_a15",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 2365,
+            "Text Position": 11457,
+            "Pointer Position": 6272,
+            "Original Text": "kana",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2369,
+            "Text Position": 11461,
+            "Pointer Position": 6330,
+            "Original Text": "倉賀野",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 34,
+            "Offset": 2375,
+            "Text Position": 11467,
+            "Pointer Position": 6342,
+            "Original Text": "「怪我なんて、しないでくださいね」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2409,
+            "Text Position": 11501,
+            "Pointer Position": 6374,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 2415,
+            "Text Position": 11507,
+            "Pointer Position": 6386,
+            "Original Text": "「勝負ですけど、そんなに荒っぽいことにはな",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 20,
+            "Offset": 2457,
+            "Text Position": 11549,
+            "Pointer Position": 6398,
+            "Original Text": "らないと思いますよ」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 2477,
+            "Text Position": 11569,
+            "Pointer Position": 6414,
+            "Original Text": "b-momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2488,
+            "Text Position": 11580,
+            "Pointer Position": 6422,
+            "Original Text": "b-momoka_a12",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 2500,
+            "Text Position": 11592,
+            "Pointer Position": 6430,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 2505,
+            "Text Position": 11597,
+            "Pointer Position": 6472,
+            "Original Text": "そう言うと、倉賀野さんはうなずいてくれた。",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 11,
+            "Offset": 2547,
+            "Text Position": 11639,
+            "Pointer Position": 6488,
+            "Original Text": "b-momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 2558,
+            "Text Position": 11650,
+            "Pointer Position": 6518,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 2564,
+            "Text Position": 11656,
+            "Pointer Position": 6536,
+            "Original Text": "sure7",
+            "New Text": ""
+        },
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 2569,
+            "Text Position": 11661,
+            "Pointer Position": 6570,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 2575,
+            "Text Position": 11667,
+            "Pointer Position": 6580,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 4,
+            "Offset": 2576,
+            "Text Position": 11668,
+            "Pointer Position": 6664,
+            "Original Text": "桜塚",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 12,
+            "Offset": 2580,
+            "Text Position": 11672,
+            "Pointer Position": 6682,
+            "Original Text": "ハルヒ指名率",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 11,
+            "Offset": 2592,
+            "Text Position": 11684,
+            "Pointer Position": 6700,
+            "Original Text": "b-kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 11,
+            "Offset": 2603,
+            "Text Position": 11695,
+            "Pointer Position": 6712,
+            "Original Text": "b-kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2614,
+            "Text Position": 11706,
+            "Pointer Position": 6720,
+            "Original Text": "b-kimiko_a11",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 2626,
+            "Text Position": 11718,
+            "Pointer Position": 6728,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 11,
+            "Offset": 2630,
+            "Text Position": 11722,
+            "Pointer Position": 6764,
+            "Original Text": "b-kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2641,
+            "Text Position": 11733,
+            "Pointer Position": 6822,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 12,
+            "Offset": 2647,
+            "Text Position": 11739,
+            "Pointer Position": 6834,
+            "Original Text": "「桜塚さん」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 2659,
+            "Text Position": 11751,
+            "Pointer Position": 6850,
+            "Original Text": "b-kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2670,
+            "Text Position": 11762,
+            "Pointer Position": 6858,
+            "Original Text": "b-kimiko_a12",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 2682,
+            "Text Position": 11774,
+            "Pointer Position": 6866,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 2687,
+            "Text Position": 11779,
+            "Pointer Position": 6924,
+            "Original Text": "桜塚",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 26,
+            "Offset": 2691,
+            "Text Position": 11783,
+            "Pointer Position": 6936,
+            "Original Text": "「ハルヒ君も帰るところ？」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2717,
+            "Text Position": 11809,
+            "Pointer Position": 6968,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 30,
+            "Offset": 2723,
+            "Text Position": 11815,
+            "Pointer Position": 6980,
+            "Original Text": "「はい、今日はお休みですから」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 2753,
+            "Text Position": 11845,
+            "Pointer Position": 6996,
+            "Original Text": "b-kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2764,
+            "Text Position": 11856,
+            "Pointer Position": 7004,
+            "Original Text": "b-kimiko_a14",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 2776,
+            "Text Position": 11868,
+            "Pointer Position": 7012,
+            "Original Text": "ikari",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 2781,
+            "Text Position": 11873,
+            "Pointer Position": 7070,
+            "Original Text": "桜塚",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 26,
+            "Offset": 2785,
+            "Text Position": 11877,
+            "Pointer Position": 7082,
+            "Original Text": "「明日の決闘に備えて、ね」",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 2811,
+            "Text Position": 11903,
+            "Pointer Position": 7098,
+            "Original Text": "……鏡夜先輩からの連絡は、微妙に間違って伝",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 16,
+            "Offset": 2853,
+            "Text Position": 11945,
+            "Pointer Position": 7110,
+            "Original Text": "わってるみたい。",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2869,
+            "Text Position": 11961,
+            "Pointer Position": 7142,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 40,
+            "Offset": 2875,
+            "Text Position": 11967,
+            "Pointer Position": 7154,
+            "Original Text": "「あの、『決闘』じゃなくて『勝負』です」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 2915,
+            "Text Position": 12007,
+            "Pointer Position": 7170,
+            "Original Text": "b-kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 2926,
+            "Text Position": 12018,
+            "Pointer Position": 7178,
+            "Original Text": "b-kimiko_a16",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 2938,
+            "Text Position": 12030,
+            "Pointer Position": 7186,
+            "Original Text": "odoroki",
+            "New Text": ""
+        },
+        {
+            "Type": 22528,
+            "Size": 10,
+            "Offset": 2945,
+            "Text Position": 12037,
+            "Pointer Position": 7232,
+            "Original Text": "bikkuri1_r",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 2955,
+            "Text Position": 12047,
+            "Pointer Position": 7284,
+            "Original Text": "桜塚",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 20,
+            "Offset": 2959,
+            "Text Position": 12051,
+            "Pointer Position": 7296,
+            "Original Text": "「え？　そうなの？」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 2979,
+            "Text Position": 12071,
+            "Pointer Position": 7328,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 2985,
+            "Text Position": 12077,
+            "Pointer Position": 7340,
+            "Original Text": "「ええ、ですから心配していただくほど危ない",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 22,
+            "Offset": 3027,
+            "Text Position": 12119,
+            "Pointer Position": 7352,
+            "Original Text": "ことにはなりませんよ」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 3049,
+            "Text Position": 12141,
+            "Pointer Position": 7368,
+            "Original Text": "b-kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 3060,
+            "Text Position": 12152,
+            "Pointer Position": 7376,
+            "Original Text": "b-kimiko_a18",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 3072,
+            "Text Position": 12164,
+            "Pointer Position": 7384,
+            "Original Text": "yoro",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 4,
+            "Offset": 3076,
+            "Text Position": 12168,
+            "Pointer Position": 7442,
+            "Original Text": "桜塚",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 44,
+            "Offset": 3080,
+            "Text Position": 12172,
+            "Pointer Position": 7454,
+            "Original Text": "「そうなんだ……。それなら、わたくしも安心か",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 4,
+            "Offset": 3124,
+            "Text Position": 12216,
+            "Pointer Position": 7466,
+            "Original Text": "な」",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 3128,
+            "Text Position": 12220,
+            "Pointer Position": 7482,
+            "Original Text": "そうつぶやくと、桜塚さんはにっこり笑ってく",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 6,
+            "Offset": 3170,
+            "Text Position": 12262,
+            "Pointer Position": 7494,
+            "Original Text": "れた。",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 11,
+            "Offset": 3176,
+            "Text Position": 12268,
+            "Pointer Position": 7510,
+            "Original Text": "b-kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 3187,
+            "Text Position": 12279,
+            "Pointer Position": 7540,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 3193,
+            "Text Position": 12285,
+            "Pointer Position": 7558,
+            "Original Text": "sure7",
+            "New Text": ""
+        },
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 3198,
+            "Text Position": 12290,
+            "Pointer Position": 7592,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 3204,
+            "Text Position": 12296,
+            "Pointer Position": 7602,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 6,
+            "Offset": 3205,
+            "Text Position": 12297,
+            "Pointer Position": 7686,
+            "Original Text": "上賀茂",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 12,
+            "Offset": 3211,
+            "Text Position": 12303,
+            "Pointer Position": 7704,
+            "Original Text": "ハルヒ指名率",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 11,
+            "Offset": 3223,
+            "Text Position": 12315,
+            "Pointer Position": 7722,
+            "Original Text": "b-tubaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 11,
+            "Offset": 3234,
+            "Text Position": 12326,
+            "Pointer Position": 7734,
+            "Original Text": "b-tubaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 3245,
+            "Text Position": 12337,
+            "Pointer Position": 7742,
+            "Original Text": "b-tubaki_a11",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 3257,
+            "Text Position": 12349,
+            "Pointer Position": 7750,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 11,
+            "Offset": 3261,
+            "Text Position": 12353,
+            "Pointer Position": 7786,
+            "Original Text": "b-tubaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 3272,
+            "Text Position": 12364,
+            "Pointer Position": 7844,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 14,
+            "Offset": 3278,
+            "Text Position": 12370,
+            "Pointer Position": 7856,
+            "Original Text": "「上賀茂さん」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 3292,
+            "Text Position": 12384,
+            "Pointer Position": 7872,
+            "Original Text": "b-tubaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 3303,
+            "Text Position": 12395,
+            "Pointer Position": 7880,
+            "Original Text": "b-tubaki_a12",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 3315,
+            "Text Position": 12407,
+            "Pointer Position": 7888,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 3320,
+            "Text Position": 12412,
+            "Pointer Position": 7946,
+            "Original Text": "上賀茂",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 38,
+            "Offset": 3326,
+            "Text Position": 12418,
+            "Pointer Position": 7958,
+            "Original Text": "「あら、ハルヒくん。今お帰りですのね」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 3364,
+            "Text Position": 12456,
+            "Pointer Position": 7990,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 30,
+            "Offset": 3370,
+            "Text Position": 12462,
+            "Pointer Position": 8002,
+            "Original Text": "「はい、今日はお休みですから」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 3400,
+            "Text Position": 12492,
+            "Pointer Position": 8018,
+            "Original Text": "b-tubaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 3411,
+            "Text Position": 12503,
+            "Pointer Position": 8026,
+            "Original Text": "b-tubaki_a18",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 3423,
+            "Text Position": 12515,
+            "Pointer Position": 8034,
+            "Original Text": "yoro",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 3427,
+            "Text Position": 12519,
+            "Pointer Position": 8092,
+            "Original Text": "上賀茂",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 44,
+            "Offset": 3433,
+            "Text Position": 12525,
+            "Pointer Position": 8104,
+            "Original Text": "「明日のためにですのね。……わたくし、ホスト",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 36,
+            "Offset": 3477,
+            "Text Position": 12569,
+            "Pointer Position": 8116,
+            "Original Text": "部のみなさんの勝利を祈っていますわ」",
+            "New Text": ""
+        },
+        {
+            "Type": "Speaker",
+            "Size": 6,
+            "Offset": 3513,
+            "Text Position": 12605,
+            "Pointer Position": 8148,
+            "Original Text": "ハルヒ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 44,
+            "Offset": 3519,
+            "Text Position": 12611,
+            "Pointer Position": 8160,
+            "Original Text": "「お願いします。上賀茂さんのお祈りなら、とっ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 28,
+            "Offset": 3563,
+            "Text Position": 12655,
+            "Pointer Position": 8172,
+            "Original Text": "ても効果がありそうですから」",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 11,
+            "Offset": 3591,
+            "Text Position": 12683,
+            "Pointer Position": 8188,
+            "Original Text": "b-tubaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 3602,
+            "Text Position": 12694,
+            "Pointer Position": 8196,
+            "Original Text": "b-tubaki_a17",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 3614,
+            "Text Position": 12706,
+            "Pointer Position": 8204,
+            "Original Text": "tere",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 3618,
+            "Text Position": 12710,
+            "Pointer Position": 8246,
+            "Original Text": "そう言うと、上賀茂さんは恥ずかしそうに笑っ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 4,
+            "Offset": 3660,
+            "Text Position": 12752,
+            "Pointer Position": 8258,
+            "Original Text": "た。",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 11,
+            "Offset": 3664,
+            "Text Position": 12756,
+            "Pointer Position": 8274,
+            "Original Text": "b-tubaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 3675,
+            "Text Position": 12767,
+            "Pointer Position": 8304,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 3681,
+            "Text Position": 12773,
+            "Pointer Position": 8322,
+            "Original Text": "sure7",
+            "New Text": ""
+        },
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 3686,
+            "Text Position": 12778,
+            "Pointer Position": 8356,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 3692,
+            "Text Position": 12784,
+            "Pointer Position": 8366,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 3693,
+            "Text Position": 12785,
+            "Pointer Position": 8450,
+            "Original Text": "……鏡夜先輩から事情は伝わってるはずだし、",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 26,
+            "Offset": 3735,
+            "Text Position": 12827,
+            "Pointer Position": 8462,
+            "Original Text": "声をかけなくてもいいかな。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 16,
+            "Offset": 3761,
+            "Text Position": 12853,
+            "Pointer Position": 8478,
+            "Original Text": "このまま帰ろう。",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 3777,
+            "Text Position": 12869,
+            "Pointer Position": 8490,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 3783,
+            "Text Position": 12875,
+            "Pointer Position": 8508,
+            "Original Text": "sure7",
+            "New Text": ""
+        },
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 3788,
+            "Text Position": 12880,
+            "Pointer Position": 8542,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 3794,
+            "Text Position": 12886,
+            "Pointer Position": 8552,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": 19968,
+            "Size": 6,
+            "Offset": 3795,
+            "Text Position": 12887,
+            "Pointer Position": 8680,
+            "Original Text": "bg43_c",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 3801,
+            "Text Position": 12893,
+            "Pointer Position": 8716,
+            "Original Text": "明日が勝負の日なのに、肝心の内容は知らされ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 14,
+            "Offset": 3843,
+            "Text Position": 12935,
+            "Pointer Position": 8728,
+            "Original Text": "ないまま……。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 3857,
+            "Text Position": 12949,
+            "Pointer Position": 8744,
+            "Original Text": "これで大丈夫なのかなあって考えるだけ、無駄",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 20,
+            "Offset": 3899,
+            "Text Position": 12991,
+            "Pointer Position": 8756,
+            "Original Text": "なんだよね、きっと。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 10,
+            "Offset": 3919,
+            "Text Position": 13011,
+            "Pointer Position": 8772,
+            "Original Text": "…………。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 42,
+            "Offset": 3929,
+            "Text Position": 13021,
+            "Pointer Position": 8788,
+            "Original Text": "パソコンのチェック、忘れないうちにしておこ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 4,
+            "Offset": 3971,
+            "Text Position": 13063,
+            "Pointer Position": 8800,
+            "Original Text": "う。",
+            "New Text": ""
+        },
+        {
+            "Type": 29952,
+            "Size": 10,
+            "Offset": 3975,
+            "Text Position": 13067,
+            "Pointer Position": 8816,
+            "Original Text": "グラフ経過",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 12,
+            "Offset": 3985,
+            "Text Position": 13077,
+            "Pointer Position": 8834,
+            "Original Text": "グラフキャラ",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 32,
+            "Offset": 3997,
+            "Text Position": 13089,
+            "Pointer Position": 8870,
+            "Original Text": "少し早いけど、今日はもう寝よう。",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 36,
+            "Offset": 4029,
+            "Text Position": 13121,
+            "Pointer Position": 8886,
+            "Original Text": "明日は、大変な１日になりそうだしね。",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 4065,
+            "Text Position": 13157,
+            "Pointer Position": 8898,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 16128,
+            "Size": 5,
+            "Offset": 4071,
+            "Text Position": 13163,
+            "Pointer Position": 8916,
+            "Original Text": "sure8",
+            "New Text": ""
+        },
+        {
+            "Type": 30208,
+            "Size": 6,
+            "Offset": 4076,
+            "Text Position": 13168,
+            "Pointer Position": 8950,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 8961,
+            "Size": 1,
+            "Offset": 4082,
+            "Text Position": 13174,
+            "Pointer Position": 8960,
+            "Original Text": "i",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 6,
+            "Offset": 4083,
+            "Text Position": 13175,
+            "Pointer Position": 9054,
+            "Original Text": "switch",
+            "New Text": ""
+        },
+        {
+            "Type": 29696,
+            "Size": 5,
+            "Offset": 4089,
+            "Text Position": 13181,
+            "Pointer Position": 9078,
+            "Original Text": "sure1",
+            "New Text": ""
+        }
+    ]
+}

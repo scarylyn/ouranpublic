@@ -1,0 +1,1780 @@
+{
+    "Code Address": 120,
+    "Text Address": 4796,
+    "Original Text Block Size": 1256,
+    "pointers": [
+        {
+            "Type": 22272,
+            "Size": 4,
+            "Offset": 0,
+            "Text Position": 4796,
+            "Pointer Position": 168,
+            "Original Text": "bg53",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 7,
+            "Offset": 4,
+            "Text Position": 4800,
+            "Pointer Position": 190,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 7,
+            "Offset": 11,
+            "Text Position": 4807,
+            "Pointer Position": 202,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 18,
+            "Text Position": 4814,
+            "Pointer Position": 210,
+            "Original Text": "ED_CM00",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 25,
+            "Text Position": 4821,
+            "Pointer Position": 218,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 7,
+            "Offset": 29,
+            "Text Position": 4825,
+            "Pointer Position": 254,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 36,
+            "Text Position": 4832,
+            "Pointer Position": 372,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 43,
+            "Text Position": 4839,
+            "Pointer Position": 380,
+            "Original Text": "ED_CM01",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 50,
+            "Text Position": 4846,
+            "Pointer Position": 388,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 54,
+            "Text Position": 4850,
+            "Pointer Position": 448,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 61,
+            "Text Position": 4857,
+            "Pointer Position": 456,
+            "Original Text": "ED_CM02",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 68,
+            "Text Position": 4864,
+            "Pointer Position": 464,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 8,
+            "Offset": 72,
+            "Text Position": 4868,
+            "Pointer Position": 514,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 8,
+            "Offset": 80,
+            "Text Position": 4876,
+            "Pointer Position": 526,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 88,
+            "Text Position": 4884,
+            "Pointer Position": 534,
+            "Original Text": "ED_MI00",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 95,
+            "Text Position": 4891,
+            "Pointer Position": 542,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 8,
+            "Offset": 99,
+            "Text Position": 4895,
+            "Pointer Position": 578,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 7,
+            "Offset": 107,
+            "Text Position": 4903,
+            "Pointer Position": 620,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 7,
+            "Offset": 114,
+            "Text Position": 4910,
+            "Pointer Position": 632,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 121,
+            "Text Position": 4917,
+            "Pointer Position": 640,
+            "Original Text": "ED_NM01",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 128,
+            "Text Position": 4924,
+            "Pointer Position": 648,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 7,
+            "Offset": 132,
+            "Text Position": 4928,
+            "Pointer Position": 684,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 139,
+            "Text Position": 4935,
+            "Pointer Position": 744,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 146,
+            "Text Position": 4942,
+            "Pointer Position": 752,
+            "Original Text": "ED_NM02",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 153,
+            "Text Position": 4949,
+            "Pointer Position": 760,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 8,
+            "Offset": 157,
+            "Text Position": 4953,
+            "Pointer Position": 820,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 165,
+            "Text Position": 4961,
+            "Pointer Position": 828,
+            "Original Text": "ED_MI01",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 172,
+            "Text Position": 4968,
+            "Pointer Position": 836,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 176,
+            "Text Position": 4972,
+            "Pointer Position": 878,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 183,
+            "Text Position": 4979,
+            "Pointer Position": 886,
+            "Original Text": "ED_NM03",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 190,
+            "Text Position": 4986,
+            "Pointer Position": 894,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 194,
+            "Text Position": 4990,
+            "Pointer Position": 954,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 201,
+            "Text Position": 4997,
+            "Pointer Position": 962,
+            "Original Text": "ED_NM04",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 208,
+            "Text Position": 5004,
+            "Pointer Position": 970,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 8,
+            "Offset": 212,
+            "Text Position": 5008,
+            "Pointer Position": 1030,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 220,
+            "Text Position": 5016,
+            "Pointer Position": 1038,
+            "Original Text": "ED_MI02",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 227,
+            "Text Position": 5023,
+            "Pointer Position": 1046,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 231,
+            "Text Position": 5027,
+            "Pointer Position": 1088,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 238,
+            "Text Position": 5034,
+            "Pointer Position": 1096,
+            "Original Text": "ED_NM05",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 245,
+            "Text Position": 5041,
+            "Pointer Position": 1104,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 249,
+            "Text Position": 5045,
+            "Pointer Position": 1164,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 256,
+            "Text Position": 5052,
+            "Pointer Position": 1172,
+            "Original Text": "ED_NM06",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 263,
+            "Text Position": 5059,
+            "Pointer Position": 1180,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 8,
+            "Offset": 267,
+            "Text Position": 5063,
+            "Pointer Position": 1240,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 275,
+            "Text Position": 5071,
+            "Pointer Position": 1270,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 282,
+            "Text Position": 5078,
+            "Pointer Position": 1278,
+            "Original Text": "ED_NM07",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 289,
+            "Text Position": 5085,
+            "Pointer Position": 1286,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 293,
+            "Text Position": 5089,
+            "Pointer Position": 1346,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 300,
+            "Text Position": 5096,
+            "Pointer Position": 1354,
+            "Original Text": "ED_CM03",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 307,
+            "Text Position": 5103,
+            "Pointer Position": 1362,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 311,
+            "Text Position": 5107,
+            "Pointer Position": 1408,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 318,
+            "Text Position": 5114,
+            "Pointer Position": 1416,
+            "Original Text": "ED_NM08",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 325,
+            "Text Position": 5121,
+            "Pointer Position": 1424,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 7,
+            "Offset": 329,
+            "Text Position": 5125,
+            "Pointer Position": 1466,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 7,
+            "Offset": 336,
+            "Text Position": 5132,
+            "Pointer Position": 1478,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 343,
+            "Text Position": 5139,
+            "Pointer Position": 1486,
+            "Original Text": "haruhi_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 352,
+            "Text Position": 5148,
+            "Pointer Position": 1494,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 7,
+            "Offset": 356,
+            "Text Position": 5152,
+            "Pointer Position": 1530,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 363,
+            "Text Position": 5159,
+            "Pointer Position": 1590,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 370,
+            "Text Position": 5166,
+            "Pointer Position": 1598,
+            "Original Text": "ED_NM09",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 377,
+            "Text Position": 5173,
+            "Pointer Position": 1606,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 381,
+            "Text Position": 5177,
+            "Pointer Position": 1648,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 388,
+            "Text Position": 5184,
+            "Pointer Position": 1656,
+            "Original Text": "tamaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 397,
+            "Text Position": 5193,
+            "Pointer Position": 1664,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 402,
+            "Text Position": 5198,
+            "Pointer Position": 1724,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 409,
+            "Text Position": 5205,
+            "Pointer Position": 1732,
+            "Original Text": "ED_NM10",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 416,
+            "Text Position": 5212,
+            "Pointer Position": 1740,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 420,
+            "Text Position": 5216,
+            "Pointer Position": 1782,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 427,
+            "Text Position": 5223,
+            "Pointer Position": 1790,
+            "Original Text": "kyouya_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 436,
+            "Text Position": 5232,
+            "Pointer Position": 1798,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 441,
+            "Text Position": 5237,
+            "Pointer Position": 1858,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 448,
+            "Text Position": 5244,
+            "Pointer Position": 1866,
+            "Original Text": "ED_NM11",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 455,
+            "Text Position": 5251,
+            "Pointer Position": 1874,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 459,
+            "Text Position": 5255,
+            "Pointer Position": 1916,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 466,
+            "Text Position": 5262,
+            "Pointer Position": 1924,
+            "Original Text": "hikaru_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 475,
+            "Text Position": 5271,
+            "Pointer Position": 1932,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 480,
+            "Text Position": 5276,
+            "Pointer Position": 1992,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 487,
+            "Text Position": 5283,
+            "Pointer Position": 2000,
+            "Original Text": "ED_NM12",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 494,
+            "Text Position": 5290,
+            "Pointer Position": 2008,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 498,
+            "Text Position": 5294,
+            "Pointer Position": 2050,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 8,
+            "Offset": 505,
+            "Text Position": 5301,
+            "Pointer Position": 2058,
+            "Original Text": "kaoru_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 513,
+            "Text Position": 5309,
+            "Pointer Position": 2066,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 518,
+            "Text Position": 5314,
+            "Pointer Position": 2126,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 525,
+            "Text Position": 5321,
+            "Pointer Position": 2134,
+            "Original Text": "ED_NM13",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 532,
+            "Text Position": 5328,
+            "Pointer Position": 2142,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 536,
+            "Text Position": 5332,
+            "Pointer Position": 2184,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 11,
+            "Offset": 543,
+            "Text Position": 5339,
+            "Pointer Position": 2192,
+            "Original Text": "mitukuni_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 554,
+            "Text Position": 5350,
+            "Pointer Position": 2200,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 559,
+            "Text Position": 5355,
+            "Pointer Position": 2260,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 566,
+            "Text Position": 5362,
+            "Pointer Position": 2268,
+            "Original Text": "ED_NM14",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 573,
+            "Text Position": 5369,
+            "Pointer Position": 2276,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 577,
+            "Text Position": 5373,
+            "Pointer Position": 2318,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 10,
+            "Offset": 584,
+            "Text Position": 5380,
+            "Pointer Position": 2326,
+            "Original Text": "takashi_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 594,
+            "Text Position": 5390,
+            "Pointer Position": 2334,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 599,
+            "Text Position": 5395,
+            "Pointer Position": 2394,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 606,
+            "Text Position": 5402,
+            "Pointer Position": 2402,
+            "Original Text": "ED_NM15",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 613,
+            "Text Position": 5409,
+            "Pointer Position": 2410,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 617,
+            "Text Position": 5413,
+            "Pointer Position": 2452,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 624,
+            "Text Position": 5420,
+            "Pointer Position": 2460,
+            "Original Text": "sayuri_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 633,
+            "Text Position": 5429,
+            "Pointer Position": 2468,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 638,
+            "Text Position": 5434,
+            "Pointer Position": 2528,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 645,
+            "Text Position": 5441,
+            "Pointer Position": 2536,
+            "Original Text": "ED_CM04",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 652,
+            "Text Position": 5448,
+            "Pointer Position": 2544,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 656,
+            "Text Position": 5452,
+            "Pointer Position": 2590,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 663,
+            "Text Position": 5459,
+            "Pointer Position": 2598,
+            "Original Text": "ED_NM16",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 670,
+            "Text Position": 5466,
+            "Pointer Position": 2606,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 674,
+            "Text Position": 5470,
+            "Pointer Position": 2648,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 681,
+            "Text Position": 5477,
+            "Pointer Position": 2656,
+            "Original Text": "leo_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 687,
+            "Text Position": 5483,
+            "Pointer Position": 2664,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 692,
+            "Text Position": 5488,
+            "Pointer Position": 2724,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 699,
+            "Text Position": 5495,
+            "Pointer Position": 2732,
+            "Original Text": "ED_NM17",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 706,
+            "Text Position": 5502,
+            "Pointer Position": 2740,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 710,
+            "Text Position": 5506,
+            "Pointer Position": 2782,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 6,
+            "Offset": 717,
+            "Text Position": 5513,
+            "Pointer Position": 2790,
+            "Original Text": "ron_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 723,
+            "Text Position": 5519,
+            "Pointer Position": 2798,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 728,
+            "Text Position": 5524,
+            "Pointer Position": 2858,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 735,
+            "Text Position": 5531,
+            "Pointer Position": 2866,
+            "Original Text": "ED_NM18",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 742,
+            "Text Position": 5538,
+            "Pointer Position": 2874,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 746,
+            "Text Position": 5542,
+            "Pointer Position": 2916,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 12,
+            "Offset": 753,
+            "Text Position": 5549,
+            "Pointer Position": 2924,
+            "Original Text": "yoshituna_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 765,
+            "Text Position": 5561,
+            "Pointer Position": 2932,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 770,
+            "Text Position": 5566,
+            "Pointer Position": 2992,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 777,
+            "Text Position": 5573,
+            "Pointer Position": 3000,
+            "Original Text": "ED_NM19",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 784,
+            "Text Position": 5580,
+            "Pointer Position": 3008,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 788,
+            "Text Position": 5584,
+            "Pointer Position": 3050,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 795,
+            "Text Position": 5591,
+            "Pointer Position": 3058,
+            "Original Text": "kimiko_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 804,
+            "Text Position": 5600,
+            "Pointer Position": 3066,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 809,
+            "Text Position": 5605,
+            "Pointer Position": 3126,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 816,
+            "Text Position": 5612,
+            "Pointer Position": 3134,
+            "Original Text": "momoka_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 825,
+            "Text Position": 5621,
+            "Pointer Position": 3142,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 830,
+            "Text Position": 5626,
+            "Pointer Position": 3188,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 837,
+            "Text Position": 5633,
+            "Pointer Position": 3196,
+            "Original Text": "ED_NM20",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 844,
+            "Text Position": 5640,
+            "Pointer Position": 3204,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 848,
+            "Text Position": 5644,
+            "Pointer Position": 3250,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 855,
+            "Text Position": 5651,
+            "Pointer Position": 3258,
+            "Original Text": "tubaki_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 864,
+            "Text Position": 5660,
+            "Pointer Position": 3266,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 869,
+            "Text Position": 5665,
+            "Pointer Position": 3326,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 876,
+            "Text Position": 5672,
+            "Pointer Position": 3334,
+            "Original Text": "ED_NM21",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 883,
+            "Text Position": 5679,
+            "Pointer Position": 3342,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 887,
+            "Text Position": 5683,
+            "Pointer Position": 3384,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 8,
+            "Offset": 894,
+            "Text Position": 5690,
+            "Pointer Position": 3392,
+            "Original Text": "renge_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 902,
+            "Text Position": 5698,
+            "Pointer Position": 3400,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 907,
+            "Text Position": 5703,
+            "Pointer Position": 3460,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 914,
+            "Text Position": 5710,
+            "Pointer Position": 3468,
+            "Original Text": "ED_NM22",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 921,
+            "Text Position": 5717,
+            "Pointer Position": 3476,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 925,
+            "Text Position": 5721,
+            "Pointer Position": 3518,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 11,
+            "Offset": 932,
+            "Text Position": 5728,
+            "Pointer Position": 3526,
+            "Original Text": "nekozawa_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 943,
+            "Text Position": 5739,
+            "Pointer Position": 3534,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 948,
+            "Text Position": 5744,
+            "Pointer Position": 3594,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 955,
+            "Text Position": 5751,
+            "Pointer Position": 3602,
+            "Original Text": "ED_NM23",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 962,
+            "Text Position": 5758,
+            "Pointer Position": 3610,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 966,
+            "Text Position": 5762,
+            "Pointer Position": 3652,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 9,
+            "Offset": 973,
+            "Text Position": 5769,
+            "Pointer Position": 3660,
+            "Original Text": "ryouji_a1",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 5,
+            "Offset": 982,
+            "Text Position": 5778,
+            "Pointer Position": 3668,
+            "Original Text": "warai",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 7,
+            "Offset": 987,
+            "Text Position": 5783,
+            "Pointer Position": 3728,
+            "Original Text": "ED_CHAR",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 994,
+            "Text Position": 5790,
+            "Pointer Position": 3762,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1001,
+            "Text Position": 5797,
+            "Pointer Position": 3770,
+            "Original Text": "ED_CM05",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1008,
+            "Text Position": 5804,
+            "Pointer Position": 3778,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 6144,
+            "Size": 8,
+            "Offset": 1012,
+            "Text Position": 5808,
+            "Pointer Position": 3824,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 12288,
+            "Size": 8,
+            "Offset": 1020,
+            "Text Position": 5816,
+            "Pointer Position": 3836,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1028,
+            "Text Position": 5824,
+            "Pointer Position": 3844,
+            "Original Text": "ED_MI03",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1035,
+            "Text Position": 5831,
+            "Pointer Position": 3852,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12800,
+            "Size": 8,
+            "Offset": 1039,
+            "Text Position": 5835,
+            "Pointer Position": 3888,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 1047,
+            "Text Position": 5843,
+            "Pointer Position": 3930,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1054,
+            "Text Position": 5850,
+            "Pointer Position": 3938,
+            "Original Text": "ED_NM24",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1061,
+            "Text Position": 5857,
+            "Pointer Position": 3946,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 1065,
+            "Text Position": 5861,
+            "Pointer Position": 4002,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1072,
+            "Text Position": 5868,
+            "Pointer Position": 4010,
+            "Original Text": "ED_NM25",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1079,
+            "Text Position": 5875,
+            "Pointer Position": 4018,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 8,
+            "Offset": 1083,
+            "Text Position": 5879,
+            "Pointer Position": 4078,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1091,
+            "Text Position": 5887,
+            "Pointer Position": 4086,
+            "Original Text": "ED_MI04",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1098,
+            "Text Position": 5894,
+            "Pointer Position": 4094,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 1102,
+            "Text Position": 5898,
+            "Pointer Position": 4136,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1109,
+            "Text Position": 5905,
+            "Pointer Position": 4144,
+            "Original Text": "ED_NM26",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1116,
+            "Text Position": 5912,
+            "Pointer Position": 4152,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 1120,
+            "Text Position": 5916,
+            "Pointer Position": 4212,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1127,
+            "Text Position": 5923,
+            "Pointer Position": 4220,
+            "Original Text": "ED_NM27",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1134,
+            "Text Position": 5930,
+            "Pointer Position": 4228,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 8,
+            "Offset": 1138,
+            "Text Position": 5934,
+            "Pointer Position": 4288,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1146,
+            "Text Position": 5942,
+            "Pointer Position": 4296,
+            "Original Text": "ED_MI05",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1153,
+            "Text Position": 5949,
+            "Pointer Position": 4304,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 1157,
+            "Text Position": 5953,
+            "Pointer Position": 4346,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1164,
+            "Text Position": 5960,
+            "Pointer Position": 4354,
+            "Original Text": "ED_NM28",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1171,
+            "Text Position": 5967,
+            "Pointer Position": 4362,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 1175,
+            "Text Position": 5971,
+            "Pointer Position": 4422,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1182,
+            "Text Position": 5978,
+            "Pointer Position": 4430,
+            "Original Text": "ED_NM29",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1189,
+            "Text Position": 5985,
+            "Pointer Position": 4438,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 8,
+            "Offset": 1193,
+            "Text Position": 5989,
+            "Pointer Position": 4498,
+            "Original Text": "ED_EVENT",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 7,
+            "Offset": 1201,
+            "Text Position": 5997,
+            "Pointer Position": 4528,
+            "Original Text": "ED_NAME",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 1208,
+            "Text Position": 6004,
+            "Pointer Position": 4562,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1215,
+            "Text Position": 6011,
+            "Pointer Position": 4570,
+            "Original Text": "ED_CM06",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1222,
+            "Text Position": 6018,
+            "Pointer Position": 4578,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 12544,
+            "Size": 7,
+            "Offset": 1226,
+            "Text Position": 6022,
+            "Pointer Position": 4638,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 7,
+            "Offset": 1233,
+            "Text Position": 6029,
+            "Pointer Position": 4646,
+            "Original Text": "ED_CM07",
+            "New Text": ""
+        },
+        {
+            "Type": 0,
+            "Size": 4,
+            "Offset": 1240,
+            "Text Position": 6036,
+            "Pointer Position": 4654,
+            "Original Text": "suma",
+            "New Text": ""
+        },
+        {
+            "Type": 13312,
+            "Size": 7,
+            "Offset": 1244,
+            "Text Position": 6040,
+            "Pointer Position": 4714,
+            "Original Text": "ED_BASE",
+            "New Text": ""
+        },
+        {
+            "Type": 8195,
+            "Size": 5,
+            "Offset": 1251,
+            "Text Position": 6047,
+            "Pointer Position": 4786,
+            "Original Text": "sure1",
+            "New Text": ""
+        }
+    ]
+}

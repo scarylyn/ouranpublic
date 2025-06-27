@@ -1,0 +1,34 @@
+{
+    "Code Address": 120,
+    "Text Address": 218,
+    "Original Text Block Size": 11,
+    "pointers": [
+        {
+            "Type": 22272,
+            "Size": 4,
+            "Offset": 0,
+            "Text Position": 218,
+            "Pointer Position": 140,
+            "Original Text": "bg52",
+            "New Text": ""
+        },
+        {
+            "Type": "Dialog",
+            "Size": 2,
+            "Offset": 4,
+            "Text Position": 222,
+            "Pointer Position": 162,
+            "Original Text": "Å@",
+            "New Text": ""
+        },
+        {
+            "Type": 65535,
+            "Size": 5,
+            "Offset": 6,
+            "Text Position": 224,
+            "Pointer Position": 200,
+            "Original Text": "sure1",
+            "New Text": ""
+        }
+    ]
+}
