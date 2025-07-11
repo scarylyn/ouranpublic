@@ -1882,7 +1882,7 @@
             "Text Position": 111933,
             "Pointer Position": 21724,
             "Original Text": "第１話",
-            "New Text": ""
+            "New Text": "Chapter 1"
         },
         {
             "Type": 31232,
@@ -1900,7 +1900,7 @@
             "Text Position": 111949,
             "Pointer Position": 21760,
             "Original Text": "いつまでも周りを見てばかりもいられない。",
-            "New Text": ""
+            "New Text": "I can’t just keep looking around forever, though."
         },
         {
             "Type": "Dialog",
@@ -1909,7 +1909,7 @@
             "Text Position": 111989,
             "Pointer Position": 21772,
             "Original Text": "……どうしようかな？",
-            "New Text": ""
+            "New Text": "...what should I do?"
         },
         {
             "Type": "Choice",
@@ -1918,7 +1918,7 @@
             "Text Position": 112009,
             "Pointer Position": 21784,
             "Original Text": "接客しようかな",
-            "New Text": ""
+            "New Text": "I'll serve some customers."
         },
         {
             "Type": "Choice",
@@ -1927,7 +1927,7 @@
             "Text Position": 112023,
             "Pointer Position": 21802,
             "Original Text": "雑用でいいかな",
-            "New Text": ""
+            "New Text": "I'll do some chores."
         },
         {
             "Type": 256,
@@ -2026,7 +2026,7 @@
             "Text Position": 112085,
             "Pointer Position": 22148,
             "Original Text": "やっぱり接客かな。いちおう自分もホストなん",
-            "New Text": ""
+            "New Text": "I think I should serve some customers. I’m a host, too,"
         },
         {
             "Type": "Dialog",
@@ -2035,7 +2035,7 @@
             "Text Position": 112127,
             "Pointer Position": 22160,
             "Original Text": "だし、ちゃんとお客さんの相手をしないとね。",
-            "New Text": ""
+            "New Text": "which means that I should be properly attending to guests."
         },
         {
             "Type": "Dialog",
@@ -2044,7 +2044,7 @@
             "Text Position": 112169,
             "Pointer Position": 22176,
             "Original Text": "そう思ってあたりに視線を向けると――。",
-            "New Text": ""
+            "New Text": "With that thought in mind, I look around and--"
         },
         {
             "Type": 6144,
@@ -2098,7 +2098,7 @@
             "Text Position": 112256,
             "Pointer Position": 22314,
             "Original Text": "鏡夜",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -2107,7 +2107,7 @@
             "Text Position": 112260,
             "Pointer Position": 22326,
             "Original Text": "「ハルヒ」",
-            "New Text": ""
+            "New Text": "Haruhi."
         },
         {
             "Type": "Dialog",
@@ -2116,7 +2116,7 @@
             "Text Position": 112270,
             "Pointer Position": 22342,
             "Original Text": "鏡夜先輩の声がかかった。",
-            "New Text": ""
+            "New Text": "I hear Kyouya-senpai’s voice."
         },
         {
             "Type": "Speaker",
@@ -2125,7 +2125,7 @@
             "Text Position": 112294,
             "Pointer Position": 22374,
             "Original Text": "ハルヒ",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -2134,7 +2134,7 @@
             "Text Position": 112300,
             "Pointer Position": 22386,
             "Original Text": "「何ですか、鏡夜先輩？」",
-            "New Text": ""
+            "New Text": "What is it, Kyouya-senpai?"
         },
         {
             "Type": 13312,
@@ -2206,7 +2206,7 @@
             "Text Position": 112388,
             "Pointer Position": 22594,
             "Original Text": "鏡夜",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -2215,7 +2215,7 @@
             "Text Position": 112392,
             "Pointer Position": 22606,
             "Original Text": "「接客の前に、ホストとして大切な事を教えて",
-            "New Text": ""
+            "New Text": "There are still some important things you need to learn"
         },
         {
             "Type": "Dialog",
@@ -2224,7 +2224,7 @@
             "Text Position": 112434,
             "Pointer Position": 22618,
             "Original Text": "やろう」",
-            "New Text": ""
+            "New Text": "about being a host before you serve any customers."
         },
         {
             "Type": "Dialog",
@@ -2233,7 +2233,7 @@
             "Text Position": 112442,
             "Pointer Position": 22634,
             "Original Text": "そう言って、鏡夜先輩は意味ありげに笑った。",
-            "New Text": ""
+            "New Text": "As he says this, Kyouya-senpai smiles meaningfully."
         },
         {
             "Type": 29696,
@@ -2296,7 +2296,7 @@
             "Text Position": 112522,
             "Pointer Position": 22828,
             "Original Text": "……雑用でいいかな。",
-            "New Text": ""
+            "New Text": "...Maybe just odd jobs."
         },
         {
             "Type": "Dialog",
@@ -2305,7 +2305,7 @@
             "Text Position": 112542,
             "Pointer Position": 22844,
             "Original Text": "インスタントコーヒーの買い置きがなくなって",
-            "New Text": ""
+            "New Text": "I'm out of my stockpile of instant coffee."
         },
         {
             "Type": "Dialog",
@@ -2314,7 +2314,7 @@
             "Text Position": 112584,
             "Pointer Position": 22856,
             "Original Text": "たし、買い出しに行ってこよう。",
-            "New Text": ""
+            "New Text": "I guess I'll go shopping."
         },
         {
             "Type": "Dialog",
@@ -2323,7 +2323,7 @@
             "Text Position": 112614,
             "Pointer Position": 22872,
             "Original Text": "そういえばホスト部ではインスタントコーヒー",
-            "New Text": ""
+            "New Text": "Speaking of which, in the Host Club, instant coffee..."
         },
         {
             "Type": "Dialog",
@@ -2332,7 +2332,7 @@
             "Text Position": 112656,
             "Pointer Position": 22884,
             "Original Text": "を庶民コーヒーって呼んでいるんだよね。",
-            "New Text": ""
+            "New Text": "...is called 'commoner coffee,' isn't it?"
         },
         {
             "Type": "Dialog",
@@ -2341,7 +2341,7 @@
             "Text Position": 112694,
             "Pointer Position": 22900,
             "Original Text": "まあ自分は普通にインスタントって言ってるけ",
-            "New Text": ""
+            "New Text": "Well, I just call it instant coffee normally,"
         },
         {
             "Type": "Dialog",
@@ -2350,7 +2350,7 @@
             "Text Position": 112736,
             "Pointer Position": 22912,
             "Original Text": "ど。",
-            "New Text": ""
+            "New Text": "though."
         },
         {
             "Type": "Dialog",
@@ -2359,7 +2359,7 @@
             "Text Position": 112740,
             "Pointer Position": 22928,
             "Original Text": "なんてどうでもいいことを考えながら、歩き出",
-            "New Text": ""
+            "New Text": "Thinking about such trivial things,"
         },
         {
             "Type": "Dialog",
@@ -2368,7 +2368,7 @@
             "Text Position": 112782,
             "Pointer Position": 22940,
             "Original Text": "そうとすると――。",
-            "New Text": ""
+            "New Text": "I start walking..."
         },
         {
             "Type": 6144,
@@ -2422,7 +2422,7 @@
             "Text Position": 112849,
             "Pointer Position": 23078,
             "Original Text": "鏡夜",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -2431,7 +2431,7 @@
             "Text Position": 112853,
             "Pointer Position": 23090,
             "Original Text": "「どこへ行く？」",
-            "New Text": ""
+            "New Text": "Where are you going?"
         },
         {
             "Type": "Dialog",
@@ -2440,7 +2440,7 @@
             "Text Position": 112869,
             "Pointer Position": 23106,
             "Original Text": "鏡夜先輩の声がかかった。",
-            "New Text": ""
+            "New Text": "I hear Kyouya-senpai's voice."
         },
         {
             "Type": "Speaker",
@@ -2449,7 +2449,7 @@
             "Text Position": 112893,
             "Pointer Position": 23138,
             "Original Text": "ハルヒ",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -2458,7 +2458,7 @@
             "Text Position": 112899,
             "Pointer Position": 23150,
             "Original Text": "「インスタントコーヒーの買い出しに行こうか",
-            "New Text": ""
+            "New Text": "I thought I would go shopping for the"
         },
         {
             "Type": "Dialog",
@@ -2467,7 +2467,7 @@
             "Text Position": 112941,
             "Pointer Position": 23162,
             "Original Text": "と……」",
-            "New Text": ""
+            "New Text": "Instant coffee..."
         },
         {
             "Type": 13312,
@@ -2530,7 +2530,7 @@
             "Text Position": 113011,
             "Pointer Position": 23330,
             "Original Text": "鏡夜",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -2539,7 +2539,7 @@
             "Text Position": 113015,
             "Pointer Position": 23342,
             "Original Text": "「おまえは、指名がとれるように接客するべき",
-            "New Text": ""
+            "New Text": "You should make an effort to serve the customers, right?"
         },
         {
             "Type": "Dialog",
@@ -2548,7 +2548,7 @@
             "Text Position": 113057,
             "Pointer Position": 23354,
             "Original Text": "じゃないのか？　借金８００万円の藤岡ハルヒ",
-            "New Text": ""
+            "New Text": "After all, you’re 800 thousand yen in debt,"
         },
         {
             "Type": "Dialog",
@@ -2557,7 +2557,7 @@
             "Text Position": 113099,
             "Pointer Position": 23366,
             "Original Text": "くん」",
-            "New Text": ""
+            "New Text": "Fujioka Haruhi-kun"
         },
         {
             "Type": "Speaker",
@@ -2566,7 +2566,7 @@
             "Text Position": 113105,
             "Pointer Position": 23398,
             "Original Text": "ハルヒ",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -2575,7 +2575,7 @@
             "Text Position": 113111,
             "Pointer Position": 23410,
             "Original Text": "「あ、あはは……」",
-            "New Text": ""
+            "New Text": "Ah, ahaha..."
         },
         {
             "Type": "Dialog",
