@@ -5,7 +5,7 @@ I'm Kari, otherwise known as Scarylyn, and I just wanted to thank you for taking
 
 I also wanted to take a moment to explain to you what you'll see here in these files.
 
-In one folder you'll find all the files I was able to extract from my personal copy of Ouran. In the other folder you'll find the .json files that I've extracted from the .bin files, but keep in mind that there are unextracted bin files in the "movie" and "scene" folders.
+In one folder you'll find all the files I was able to extract from my personal copy of Ouran. In the other folder you'll find the .json files that I've extracted from the .bin files.
 
 (Side note: In order to read Japanese in the the json files, I've been using EditPadPro 8 and converting the font to Shift-JIS.)
 
