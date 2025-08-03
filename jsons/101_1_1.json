@@ -2593,7 +2593,7 @@
             "Text Position": 113171,
             "Pointer Position": 23458,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -2602,7 +2602,7 @@
             "Text Position": 113177,
             "Pointer Position": 23470,
             "Original Text": "ÅuÇ¶Ç¡Ç∆ÅAÇªÇÍÇ∂Ç·Ç†Å\Å\Åv",
-            "New Text": ""
+            "New Text": "Um, well-"
         },
         {
             "Type": 12544,
@@ -2638,7 +2638,7 @@
             "Text Position": 113230,
             "Pointer Position": 23560,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -2647,7 +2647,7 @@
             "Text Position": 113234,
             "Pointer Position": 23572,
             "Original Text": "ÅuÉnÉãÉqÅv",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -2737,7 +2737,7 @@
             "Text Position": 113360,
             "Pointer Position": 23808,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -2746,7 +2746,7 @@
             "Text Position": 113364,
             "Pointer Position": 23820,
             "Original Text": "Åuê⁄ãqÇÃëOÇ…ÅAÉzÉXÉgÇ∆ÇµÇƒëÂêÿÇ»éñÇã≥Ç¶Çƒ",
-            "New Text": ""
+            "New Text": "Before you start serving customers, let me tell you"
         },
         {
             "Type": "Dialog",
@@ -2755,7 +2755,7 @@
             "Text Position": 113406,
             "Pointer Position": 23832,
             "Original Text": "Ç‚ÇÎÇ§Åv",
-            "New Text": ""
+            "New Text": "the most important part of being a host."
         },
         {
             "Type": "Dialog",
@@ -2764,7 +2764,7 @@
             "Text Position": 113414,
             "Pointer Position": 23848,
             "Original Text": "ÇªÇ§åæÇ¡ÇƒÅAãæñÈêÊîyÇÕà”ñ°Ç†ÇËÇ∞Ç…èŒÇ¡ÇΩÅB",
-            "New Text": ""
+            "New Text": "Kyouya-senpai said this, and let out a laugh."
         },
         {
             "Type": 29696,
@@ -2863,7 +2863,7 @@
             "Text Position": 113534,
             "Pointer Position": 24172,
             "Original Text": "ÅcÅcÉzÉXÉgÇ∆ÇµÇƒëÂêÿÇ»Ç±Ç∆ÅHÅ@ÇªÇÍÇ¡ÇƒÅ\Å\ÅA",
-            "New Text": ""
+            "New Text": "WhatÅfs the most important part of being a host? Well-"
         },
         {
             "Type": "Dialog",
@@ -2908,7 +2908,7 @@
             "Text Position": 113638,
             "Pointer Position": 24290,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -2917,7 +2917,7 @@
             "Text Position": 113642,
             "Pointer Position": 24302,
             "Original Text": "ÅuÇ‹Ç∏ÅAÇ®ãqólÇ…Ç≤éwñºÇéÛÇØÇ»ÇØÇÍÇŒâΩÇ‡én",
-            "New Text": ""
+            "New Text": "First of all, thereÅfs no use in a host who does not"
         },
         {
             "Type": "Dialog",
@@ -2926,7 +2926,7 @@
             "Text Position": 113684,
             "Pointer Position": 24314,
             "Original Text": "Ç‹ÇÁÇ»Ç¢Åv",
-            "New Text": ""
+            "New Text": "receive requests from guests."
         },
         {
             "Type": "Speaker",
@@ -2935,7 +2935,7 @@
             "Text Position": 113694,
             "Pointer Position": 24346,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -2944,7 +2944,7 @@
             "Text Position": 113700,
             "Pointer Position": 24358,
             "Original Text": "ÅuÇÕÇ¢Åv",
-            "New Text": ""
+            "New Text": "Right."
         },
         {
             "Type": "Speaker",
@@ -2953,7 +2953,7 @@
             "Text Position": 113708,
             "Pointer Position": 24390,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -2962,7 +2962,7 @@
             "Text Position": 113712,
             "Pointer Position": 24402,
             "Original Text": "ÅuéwñºÇéÛÇØÇÈÇ…ÇÕêlãCÇìæÇÈÇ±Ç∆ÅAÇ¬Ç‹ÇËÅA",
-            "New Text": ""
+            "New Text": "In order to become popular, and gain favor with our guests, well,"
         },
         {
             "Type": "Dialog",
@@ -2971,7 +2971,7 @@
             "Text Position": 113754,
             "Pointer Position": 24414,
             "Original Text": "Ç®ãqólÇÃêSÇÇ¬Ç©ÇﬁÇ±Ç∆ÇæÅv",
-            "New Text": ""
+            "New Text": "youÅfll need to capture your guestsÅf hearts."
         },
         {
             "Type": "Dialog",
@@ -2980,7 +2980,7 @@
             "Text Position": 113780,
             "Pointer Position": 24430,
             "Original Text": "ÅcÅcÇªÇ±Ç™Ç∑Ç≤Ç≠ìÔÇµÇ¢ÇÒÇ≈Ç∑ÇØÇ«ÅB",
-            "New Text": ""
+            "New Text": "...But, that can be pretty difficult..."
         },
         {
             "Type": 13312,
@@ -3043,7 +3043,7 @@
             "Text Position": 113875,
             "Pointer Position": 24598,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -3052,7 +3052,7 @@
             "Text Position": 113879,
             "Pointer Position": 24610,
             "Original Text": "ÅuÇªÇ§ÇæÇ»ÅAämÇ©Ç…ìÔÇµÇ¢Åv",
-            "New Text": ""
+            "New Text": "Yeah, it can certainly be difficult."
         },
         {
             "Type": "Dialog",
@@ -3061,7 +3061,7 @@
             "Text Position": 113905,
             "Pointer Position": 24626,
             "Original Text": "Ç±ÅcÅcÅAêSÇì«Ç‹ÇÍÇƒÇÈÅB",
-            "New Text": ""
+            "New Text": "To... read hearts."
         },
         {
             "Type": 12544,
@@ -3097,7 +3097,7 @@
             "Text Position": 113956,
             "Pointer Position": 24716,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -3106,7 +3106,7 @@
             "Text Position": 113960,
             "Pointer Position": 24728,
             "Original Text": "ÅuÇ®Ç®ÇÊÇªóùâÇµÇƒÇ¢ÇÈÇæÇÎÇ§Ç™ÅcÅcÅBÇ®ãqól",
-            "New Text": ""
+            "New Text": "You probably have a rough understanding..."
         },
         {
             "Type": "Dialog",
@@ -3115,7 +3115,7 @@
             "Text Position": 114002,
             "Pointer Position": 24740,
             "Original Text": "Ç÷ÇÃê⁄ãqÇ…Ç¬Ç¢Çƒê‡ñæÇµÇƒÇ®Ç±Ç§Ç©ÅHÅv",
-            "New Text": ""
+            "New Text": "of how to serve the customers, right?"
         },
         {
             "Type": "Dialog",
@@ -3124,7 +3124,7 @@
             "Text Position": 114038,
             "Pointer Position": 24756,
             "Original Text": "ê⁄ãqÇ…Ç¬Ç¢ÇƒÇÃê‡ñæÅcÅcÅBÇ«Ç§ÇµÇÊÇ§ÅAï∑Ç¢Çƒ",
-            "New Text": ""
+            "New Text": "He's talking about customer service... Oh no, what do I do? Please, just listen!"
         },
         {
             "Type": "Dialog",
@@ -3133,7 +3133,7 @@
             "Text Position": 114080,
             "Pointer Position": 24768,
             "Original Text": "Ç®Ç±Ç§Ç©Ç»ÅH",
-            "New Text": ""
+            "New Text": "Should I have some?"
         },
         {
             "Type": "Choice",
@@ -3142,7 +3142,7 @@
             "Text Position": 114092,
             "Pointer Position": 24780,
             "Original Text": "ê‡ñæÇï∑Ç≠",
-            "New Text": ""
+            "New Text": "Listen to explanation"
         },
         {
             "Type": "Choice",
@@ -3151,7 +3151,7 @@
             "Text Position": 114102,
             "Pointer Position": 24798,
             "Original Text": "ëÂè‰ïvÇ≈Ç∑",
-            "New Text": ""
+            "New Text": "It's okay"
         },
         {
             "Type": 512,
@@ -3250,7 +3250,7 @@
             "Text Position": 114161,
             "Pointer Position": 25220,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -3340,7 +3340,7 @@
             "Text Position": 114323,
             "Pointer Position": 25432,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -3367,7 +3367,7 @@
             "Text Position": 114391,
             "Pointer Position": 25488,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -3394,7 +3394,7 @@
             "Text Position": 114477,
             "Pointer Position": 25544,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -3475,7 +3475,7 @@
             "Text Position": 114751,
             "Pointer Position": 25688,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -3601,7 +3601,7 @@
             "Text Position": 114991,
             "Pointer Position": 25966,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -3790,7 +3790,7 @@
             "Text Position": 115243,
             "Pointer Position": 26532,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -3817,7 +3817,7 @@
             "Text Position": 115325,
             "Pointer Position": 26588,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -4006,7 +4006,7 @@
             "Text Position": 115578,
             "Pointer Position": 27076,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -4024,7 +4024,7 @@
             "Text Position": 115602,
             "Pointer Position": 27120,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -4069,7 +4069,7 @@
             "Text Position": 115728,
             "Pointer Position": 27204,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -4753,7 +4753,7 @@
             "Text Position": 116611,
             "Pointer Position": 29060,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -4825,7 +4825,7 @@
             "Text Position": 116700,
             "Pointer Position": 29240,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -4897,7 +4897,7 @@
             "Text Position": 116805,
             "Pointer Position": 29454,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -4969,7 +4969,7 @@
             "Text Position": 116895,
             "Pointer Position": 29634,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -5023,7 +5023,7 @@
             "Text Position": 116931,
             "Pointer Position": 29820,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -5095,7 +5095,7 @@
             "Text Position": 117012,
             "Pointer Position": 30000,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -5221,7 +5221,7 @@
             "Text Position": 117208,
             "Pointer Position": 30414,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -5284,7 +5284,7 @@
             "Text Position": 117347,
             "Pointer Position": 30544,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -5356,7 +5356,7 @@
             "Text Position": 117435,
             "Pointer Position": 30724,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -5392,7 +5392,7 @@
             "Text Position": 117529,
             "Pointer Position": 30792,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -5482,7 +5482,7 @@
             "Text Position": 117685,
             "Pointer Position": 31028,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -5500,7 +5500,7 @@
             "Text Position": 117711,
             "Pointer Position": 31072,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -5851,7 +5851,7 @@
             "Text Position": 118611,
             "Pointer Position": 31948,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6031,7 +6031,7 @@
             "Text Position": 118983,
             "Pointer Position": 32388,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6130,7 +6130,7 @@
             "Text Position": 119170,
             "Pointer Position": 32614,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6238,7 +6238,7 @@
             "Text Position": 119417,
             "Pointer Position": 32828,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6319,7 +6319,7 @@
             "Text Position": 119568,
             "Pointer Position": 33002,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6409,7 +6409,7 @@
             "Text Position": 119711,
             "Pointer Position": 33240,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6625,7 +6625,7 @@
             "Text Position": 119991,
             "Pointer Position": 33822,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6733,7 +6733,7 @@
             "Text Position": 120141,
             "Pointer Position": 34074,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6859,7 +6859,7 @@
             "Text Position": 120416,
             "Pointer Position": 34386,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -6877,7 +6877,7 @@
             "Text Position": 120438,
             "Pointer Position": 34430,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -6949,7 +6949,7 @@
             "Text Position": 120532,
             "Pointer Position": 34610,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -7012,7 +7012,7 @@
             "Text Position": 120654,
             "Pointer Position": 34740,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -7039,7 +7039,7 @@
             "Text Position": 120711,
             "Pointer Position": 34814,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -7120,7 +7120,7 @@
             "Text Position": 120870,
             "Pointer Position": 35044,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -7246,7 +7246,7 @@
             "Text Position": 121003,
             "Pointer Position": 35350,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -7255,7 +7255,7 @@
             "Text Position": 121007,
             "Pointer Position": 35362,
             "Original Text": "ÅuÉnÉãÉqÅv",
-            "New Text": ""
+            "New Text": "Haruhi."
         },
         {
             "Type": "Dialog",
@@ -7273,7 +7273,7 @@
             "Text Position": 121053,
             "Pointer Position": 35410,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -7318,7 +7318,7 @@
             "Text Position": 121096,
             "Pointer Position": 35512,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -7462,7 +7462,7 @@
             "Text Position": 121348,
             "Pointer Position": 35884,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -7480,7 +7480,7 @@
             "Text Position": 121376,
             "Pointer Position": 35928,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -7525,7 +7525,7 @@
             "Text Position": 121435,
             "Pointer Position": 36030,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -7642,7 +7642,7 @@
             "Text Position": 121699,
             "Pointer Position": 36278,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -7660,7 +7660,7 @@
             "Text Position": 121741,
             "Pointer Position": 36322,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -9127,7 +9127,7 @@
             "Text Position": 124138,
             "Pointer Position": 41048,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -9217,7 +9217,7 @@
             "Text Position": 124243,
             "Pointer Position": 41282,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -9334,7 +9334,7 @@
             "Text Position": 124432,
             "Pointer Position": 41570,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -9514,7 +9514,7 @@
             "Text Position": 124703,
             "Pointer Position": 42012,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -9631,7 +9631,7 @@
             "Text Position": 124878,
             "Pointer Position": 42284,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -9838,7 +9838,7 @@
             "Text Position": 125220,
             "Pointer Position": 42780,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10036,7 +10036,7 @@
             "Text Position": 125697,
             "Pointer Position": 43342,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10108,7 +10108,7 @@
             "Text Position": 125781,
             "Pointer Position": 43558,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": 29696,
@@ -10153,7 +10153,7 @@
             "Text Position": 125851,
             "Pointer Position": 43702,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10216,7 +10216,7 @@
             "Text Position": 125918,
             "Pointer Position": 43852,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -10234,7 +10234,7 @@
             "Text Position": 125936,
             "Pointer Position": 43896,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10324,7 +10324,7 @@
             "Text Position": 126062,
             "Pointer Position": 44128,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -10405,7 +10405,7 @@
             "Text Position": 126167,
             "Pointer Position": 44324,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -10432,7 +10432,7 @@
             "Text Position": 126249,
             "Pointer Position": 44380,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10522,7 +10522,7 @@
             "Text Position": 126409,
             "Pointer Position": 44616,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -10540,7 +10540,7 @@
             "Text Position": 126435,
             "Pointer Position": 44660,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10657,7 +10657,7 @@
             "Text Position": 126809,
             "Pointer Position": 44954,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10756,7 +10756,7 @@
             "Text Position": 126949,
             "Pointer Position": 45290,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10837,7 +10837,7 @@
             "Text Position": 127040,
             "Pointer Position": 45484,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -10945,7 +10945,7 @@
             "Text Position": 127198,
             "Pointer Position": 45760,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -11026,7 +11026,7 @@
             "Text Position": 127342,
             "Pointer Position": 45934,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -11260,7 +11260,7 @@
             "Text Position": 127854,
             "Pointer Position": 46560,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -11359,7 +11359,7 @@
             "Text Position": 127970,
             "Pointer Position": 46896,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -11440,7 +11440,7 @@
             "Text Position": 128062,
             "Pointer Position": 47090,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -11539,7 +11539,7 @@
             "Text Position": 128221,
             "Pointer Position": 47326,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -11665,7 +11665,7 @@
             "Text Position": 128416,
             "Pointer Position": 47626,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -11908,7 +11908,7 @@
             "Text Position": 128938,
             "Pointer Position": 48268,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12016,7 +12016,7 @@
             "Text Position": 129099,
             "Pointer Position": 48616,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12106,7 +12106,7 @@
             "Text Position": 129242,
             "Pointer Position": 48850,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12214,7 +12214,7 @@
             "Text Position": 129460,
             "Pointer Position": 49098,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12385,7 +12385,7 @@
             "Text Position": 129713,
             "Pointer Position": 49554,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12484,7 +12484,7 @@
             "Text Position": 130027,
             "Pointer Position": 49820,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12592,7 +12592,7 @@
             "Text Position": 130159,
             "Pointer Position": 50168,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12673,7 +12673,7 @@
             "Text Position": 130264,
             "Pointer Position": 50362,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12772,7 +12772,7 @@
             "Text Position": 130407,
             "Pointer Position": 50598,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -12817,7 +12817,7 @@
             "Text Position": 130503,
             "Pointer Position": 50698,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -13042,7 +13042,7 @@
             "Text Position": 130887,
             "Pointer Position": 51232,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -13150,7 +13150,7 @@
             "Text Position": 131100,
             "Pointer Position": 51474,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -13321,7 +13321,7 @@
             "Text Position": 131390,
             "Pointer Position": 51978,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -13330,7 +13330,7 @@
             "Text Position": 131394,
             "Pointer Position": 51990,
             "Original Text": "ÅuÉnÉãÉqÅv",
-            "New Text": ""
+            "New Text": "Haruhi."
         },
         {
             "Type": "Speaker",
@@ -13339,7 +13339,7 @@
             "Text Position": 131404,
             "Pointer Position": 52022,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -13357,7 +13357,7 @@
             "Text Position": 131434,
             "Pointer Position": 52066,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -13447,7 +13447,7 @@
             "Text Position": 131590,
             "Pointer Position": 52274,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -13582,7 +13582,7 @@
             "Text Position": 131732,
             "Pointer Position": 52784,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -13690,7 +13690,7 @@
             "Text Position": 131876,
             "Pointer Position": 53038,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -13717,7 +13717,7 @@
             "Text Position": 131936,
             "Pointer Position": 53094,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -13933,7 +13933,7 @@
             "Text Position": 132231,
             "Pointer Position": 53606,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -13996,7 +13996,7 @@
             "Text Position": 132302,
             "Pointer Position": 53752,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -14023,7 +14023,7 @@
             "Text Position": 132358,
             "Pointer Position": 53808,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -14077,7 +14077,7 @@
             "Text Position": 132449,
             "Pointer Position": 53984,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -14104,7 +14104,7 @@
             "Text Position": 132529,
             "Pointer Position": 54040,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -14131,7 +14131,7 @@
             "Text Position": 132597,
             "Pointer Position": 54096,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -14185,7 +14185,7 @@
             "Text Position": 132690,
             "Pointer Position": 54210,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -14212,7 +14212,7 @@
             "Text Position": 132752,
             "Pointer Position": 54266,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -14293,7 +14293,7 @@
             "Text Position": 132871,
             "Pointer Position": 54442,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -14329,7 +14329,7 @@
             "Text Position": 132969,
             "Pointer Position": 54510,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -14482,7 +14482,7 @@
             "Text Position": 133268,
             "Pointer Position": 54858,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -14725,7 +14725,7 @@
             "Text Position": 133694,
             "Pointer Position": 55508,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -14779,7 +14779,7 @@
             "Text Position": 133769,
             "Pointer Position": 55622,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -15049,7 +15049,7 @@
             "Text Position": 134077,
             "Pointer Position": 56266,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -15193,7 +15193,7 @@
             "Text Position": 134233,
             "Pointer Position": 56698,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -15283,7 +15283,7 @@
             "Text Position": 134359,
             "Pointer Position": 56886,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -15382,7 +15382,7 @@
             "Text Position": 134535,
             "Pointer Position": 57176,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -15427,7 +15427,7 @@
             "Text Position": 134586,
             "Pointer Position": 57278,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -15499,7 +15499,7 @@
             "Text Position": 134671,
             "Pointer Position": 57496,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -15571,7 +15571,7 @@
             "Text Position": 134758,
             "Pointer Position": 57676,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -15652,7 +15652,7 @@
             "Text Position": 134904,
             "Pointer Position": 57970,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -15724,7 +15724,7 @@
             "Text Position": 135032,
             "Pointer Position": 58132,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -16588,7 +16588,7 @@
             "Text Position": 136307,
             "Pointer Position": 60502,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -16741,7 +16741,7 @@
             "Text Position": 136563,
             "Pointer Position": 60870,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -17209,7 +17209,7 @@
             "Text Position": 137264,
             "Pointer Position": 62080,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -17335,7 +17335,7 @@
             "Text Position": 137490,
             "Pointer Position": 62352,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -17848,7 +17848,7 @@
             "Text Position": 138326,
             "Pointer Position": 63556,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -17947,7 +17947,7 @@
             "Text Position": 138478,
             "Pointer Position": 63772,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -18136,7 +18136,7 @@
             "Text Position": 138743,
             "Pointer Position": 64302,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": 13568,
@@ -18235,7 +18235,7 @@
             "Text Position": 138827,
             "Pointer Position": 64634,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -18298,7 +18298,7 @@
             "Text Position": 138920,
             "Pointer Position": 64788,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -18379,7 +18379,7 @@
             "Text Position": 139061,
             "Pointer Position": 64958,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -18433,7 +18433,7 @@
             "Text Position": 139149,
             "Pointer Position": 65072,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -18658,7 +18658,7 @@
             "Text Position": 139587,
             "Pointer Position": 65630,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": 30208,
@@ -18667,7 +18667,7 @@
             "Text Position": 139591,
             "Pointer Position": 65648,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": 8961,
@@ -18685,7 +18685,7 @@
             "Text Position": 139596,
             "Pointer Position": 65690,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": 13568,
@@ -18811,7 +18811,7 @@
             "Text Position": 139701,
             "Pointer Position": 66084,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -18838,7 +18838,7 @@
             "Text Position": 139763,
             "Pointer Position": 66140,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -18910,7 +18910,7 @@
             "Text Position": 139862,
             "Pointer Position": 66298,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -18973,7 +18973,7 @@
             "Text Position": 139961,
             "Pointer Position": 66444,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -19036,7 +19036,7 @@
             "Text Position": 140067,
             "Pointer Position": 66574,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -19441,7 +19441,7 @@
             "Text Position": 140750,
             "Pointer Position": 67752,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -19540,7 +19540,7 @@
             "Text Position": 141070,
             "Pointer Position": 67948,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -20053,7 +20053,7 @@
             "Text Position": 141724,
             "Pointer Position": 69318,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -20206,7 +20206,7 @@
             "Text Position": 141958,
             "Pointer Position": 69688,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -20269,7 +20269,7 @@
             "Text Position": 142136,
             "Pointer Position": 69848,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -20611,7 +20611,7 @@
             "Text Position": 142701,
             "Pointer Position": 70812,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -20674,7 +20674,7 @@
             "Text Position": 142811,
             "Pointer Position": 70958,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -20746,7 +20746,7 @@
             "Text Position": 142937,
             "Pointer Position": 71116,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -20809,7 +20809,7 @@
             "Text Position": 143025,
             "Pointer Position": 71262,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -20980,7 +20980,7 @@
             "Text Position": 143326,
             "Pointer Position": 71742,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -21106,7 +21106,7 @@
             "Text Position": 143555,
             "Pointer Position": 72070,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -21205,7 +21205,7 @@
             "Text Position": 143719,
             "Pointer Position": 72306,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -21277,7 +21277,7 @@
             "Text Position": 143851,
             "Pointer Position": 72468,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -21466,7 +21466,7 @@
             "Text Position": 144157,
             "Pointer Position": 72912,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -21565,7 +21565,7 @@
             "Text Position": 144359,
             "Pointer Position": 73132,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -21655,7 +21655,7 @@
             "Text Position": 144525,
             "Pointer Position": 73358,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -21862,7 +21862,7 @@
             "Text Position": 144815,
             "Pointer Position": 73882,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -21925,7 +21925,7 @@
             "Text Position": 144887,
             "Pointer Position": 74028,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -22033,7 +22033,7 @@
             "Text Position": 145057,
             "Pointer Position": 74280,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -22276,7 +22276,7 @@
             "Text Position": 145389,
             "Pointer Position": 74908,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -22762,7 +22762,7 @@
             "Text Position": 146247,
             "Pointer Position": 76152,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -22906,7 +22906,7 @@
             "Text Position": 146537,
             "Pointer Position": 76476,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -22978,7 +22978,7 @@
             "Text Position": 146667,
             "Pointer Position": 76634,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -23095,7 +23095,7 @@
             "Text Position": 146886,
             "Pointer Position": 76898,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -23563,7 +23563,7 @@
             "Text Position": 147845,
             "Pointer Position": 78452,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -23635,7 +23635,7 @@
             "Text Position": 147981,
             "Pointer Position": 78610,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -23725,7 +23725,7 @@
             "Text Position": 148111,
             "Pointer Position": 78834,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -23824,7 +23824,7 @@
             "Text Position": 148267,
             "Pointer Position": 79080,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -24004,7 +24004,7 @@
             "Text Position": 148622,
             "Pointer Position": 79470,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -24220,7 +24220,7 @@
             "Text Position": 148923,
             "Pointer Position": 80038,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -24319,7 +24319,7 @@
             "Text Position": 149099,
             "Pointer Position": 80304,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -24409,7 +24409,7 @@
             "Text Position": 149202,
             "Pointer Position": 80528,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -24481,7 +24481,7 @@
             "Text Position": 149321,
             "Pointer Position": 80686,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -24616,7 +24616,7 @@
             "Text Position": 149516,
             "Pointer Position": 80996,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -24841,7 +24841,7 @@
             "Text Position": 149790,
             "Pointer Position": 81558,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -24994,7 +24994,7 @@
             "Text Position": 149962,
             "Pointer Position": 81962,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -25867,7 +25867,7 @@
             "Text Position": 151294,
             "Pointer Position": 84272,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -25993,7 +25993,7 @@
             "Text Position": 151489,
             "Pointer Position": 84652,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -26272,7 +26272,7 @@
             "Text Position": 151878,
             "Pointer Position": 85574,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -26353,7 +26353,7 @@
             "Text Position": 151992,
             "Pointer Position": 85776,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -26416,7 +26416,7 @@
             "Text Position": 152119,
             "Pointer Position": 85922,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -26641,7 +26641,7 @@
             "Text Position": 152412,
             "Pointer Position": 86694,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -26731,7 +26731,7 @@
             "Text Position": 152504,
             "Pointer Position": 86898,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -27532,7 +27532,7 @@
             "Text Position": 153537,
             "Pointer Position": 89454,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -27766,7 +27766,7 @@
             "Text Position": 153956,
             "Pointer Position": 90014,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -27892,7 +27892,7 @@
             "Text Position": 154114,
             "Pointer Position": 90412,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -27991,7 +27991,7 @@
             "Text Position": 154290,
             "Pointer Position": 90648,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -28198,7 +28198,7 @@
             "Text Position": 154558,
             "Pointer Position": 91162,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -28423,7 +28423,7 @@
             "Text Position": 155007,
             "Pointer Position": 91660,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -28684,7 +28684,7 @@
             "Text Position": 155568,
             "Pointer Position": 92328,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -28981,7 +28981,7 @@
             "Text Position": 155902,
             "Pointer Position": 93098,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -29080,7 +29080,7 @@
             "Text Position": 156067,
             "Pointer Position": 93352,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -29233,7 +29233,7 @@
             "Text Position": 156236,
             "Pointer Position": 93778,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -29764,7 +29764,7 @@
             "Text Position": 156953,
             "Pointer Position": 95290,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -29863,7 +29863,7 @@
             "Text Position": 157090,
             "Pointer Position": 95548,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -30214,7 +30214,7 @@
             "Text Position": 158025,
             "Pointer Position": 96414,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -30331,7 +30331,7 @@
             "Text Position": 158211,
             "Pointer Position": 96742,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -30655,7 +30655,7 @@
             "Text Position": 158750,
             "Pointer Position": 97492,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -30754,7 +30754,7 @@
             "Text Position": 158889,
             "Pointer Position": 97728,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -30772,7 +30772,7 @@
             "Text Position": 158919,
             "Pointer Position": 97772,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -30844,7 +30844,7 @@
             "Text Position": 159028,
             "Pointer Position": 97952,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -30925,7 +30925,7 @@
             "Text Position": 159151,
             "Pointer Position": 98148,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -31213,7 +31213,7 @@
             "Text Position": 159560,
             "Pointer Position": 98906,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": 29696,
@@ -31231,7 +31231,7 @@
             "Text Position": 159571,
             "Pointer Position": 98958,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -31348,7 +31348,7 @@
             "Text Position": 159716,
             "Pointer Position": 99362,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -31591,7 +31591,7 @@
             "Text Position": 159983,
             "Pointer Position": 100046,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -31690,7 +31690,7 @@
             "Text Position": 160101,
             "Pointer Position": 100262,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -31807,7 +31807,7 @@
             "Text Position": 160217,
             "Pointer Position": 100590,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -32032,7 +32032,7 @@
             "Text Position": 160515,
             "Pointer Position": 101152,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -32284,7 +32284,7 @@
             "Text Position": 160825,
             "Pointer Position": 101814,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -32410,7 +32410,7 @@
             "Text Position": 160967,
             "Pointer Position": 102114,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -32527,7 +32527,7 @@
             "Text Position": 161097,
             "Pointer Position": 102442,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -33328,7 +33328,7 @@
             "Text Position": 162057,
             "Pointer Position": 104492,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -33427,7 +33427,7 @@
             "Text Position": 162175,
             "Pointer Position": 104708,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -33589,7 +33589,7 @@
             "Text Position": 162366,
             "Pointer Position": 105222,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -33688,7 +33688,7 @@
             "Text Position": 162512,
             "Pointer Position": 105458,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -33760,7 +33760,7 @@
             "Text Position": 162633,
             "Pointer Position": 105616,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -33940,7 +33940,7 @@
             "Text Position": 162938,
             "Pointer Position": 106048,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -33949,7 +33949,7 @@
             "Text Position": 162942,
             "Pointer Position": 106060,
             "Original Text": "ÅuÉnÉãÉqÅv",
-            "New Text": ""
+            "New Text": "Haruhi."
         },
         {
             "Type": "Dialog",
@@ -33976,7 +33976,7 @@
             "Text Position": 163016,
             "Pointer Position": 106120,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -34048,7 +34048,7 @@
             "Text Position": 163090,
             "Pointer Position": 106300,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -34075,7 +34075,7 @@
             "Text Position": 163144,
             "Pointer Position": 106356,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -34120,7 +34120,7 @@
             "Text Position": 163190,
             "Pointer Position": 106458,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -34147,7 +34147,7 @@
             "Text Position": 163274,
             "Pointer Position": 106514,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -34219,7 +34219,7 @@
             "Text Position": 163351,
             "Pointer Position": 106694,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -34246,7 +34246,7 @@
             "Text Position": 163417,
             "Pointer Position": 106750,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -34309,7 +34309,7 @@
             "Text Position": 163507,
             "Pointer Position": 106904,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -34390,7 +34390,7 @@
             "Text Position": 163622,
             "Pointer Position": 107100,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -34453,7 +34453,7 @@
             "Text Position": 163782,
             "Pointer Position": 107256,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -34480,7 +34480,7 @@
             "Text Position": 163862,
             "Pointer Position": 107312,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
@@ -34561,7 +34561,7 @@
             "Text Position": 163987,
             "Pointer Position": 107504,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -34615,7 +34615,7 @@
             "Text Position": 164096,
             "Pointer Position": 107618,
             "Original Text": "ãæñÈ",
-            "New Text": ""
+            "New Text": "Kyouya"
         },
         {
             "Type": "Dialog",
@@ -34678,7 +34678,7 @@
             "Text Position": 164268,
             "Pointer Position": 107730,
             "Original Text": "ÉnÉãÉq",
-            "New Text": ""
+            "New Text": "Haruhi"
         },
         {
             "Type": "Dialog",
