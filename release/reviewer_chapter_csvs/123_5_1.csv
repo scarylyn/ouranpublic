@@ -1,0 +1,627 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+123_5_1.json,4,Chapter name,,第５話,Episode 5,,,
+123_5_1.json,6,Dialog,,桜蘭高校の生徒２人が警察に補導された。,"Two Ouran High School students were
+taken in by the police.",,,
+123_5_1.json,8,Dialog,,２人のデートは駆け落ち騒動に発展して、,"Their date turned into a elopement
+scandal and for",,,
+123_5_1.json,10,Dialog,,なぜかホスト部が活動停止するはめに……。,"some reason the Host Club was put on
+hold...",,,
+123_5_1.json,12,Dialog,,補導された生徒は部員ではないけれど、,"The students who were expelled
+aren't club members, but",,,
+123_5_1.json,14,Dialog,,ホスト部のせいで学院の風紀が乱れ、,"there were complaints that the Host
+Club caused a disturbance",,,
+123_5_1.json,16,Dialog,,不祥事が起きたと抗議の声がでたせいだった。,"in school discipline and led to an
+incident.",,,
+123_5_1.json,18,Dialog,,ホスト部の活動停止は解けることになったけど、,"The Host Club's suspension has been
+lifted, but we might",,,
+123_5_1.json,20,Dialog,,理事長が交代するかもしれない事態に――。,"face a situation where the board of
+directors changes...",,,
+123_5_1.json,21,Dialog,,南校舎の最上階。北側廊下のつきあたり。,"South building, top floor. End of
+north hallway.",,,
+123_5_1.json,23,Dialog,,扉をあけると、そこは豪華絢爛（ごうかけんら,"Opening the door, it should have
+been",,,
+123_5_1.json,24,Dialog,,ん）たる、ホスト部絵巻が繰り広げられている,a magnificent and splendid display,,,
+123_5_1.json,25,Dialog,,はずなのに……。,of the Host Club's activities...,,,
+123_5_1.json,26,Dialog,,『いらっしゃいませ』のあいさつも、今日は聞,I didn't even hear,,,
+123_5_1.json,27,Dialog,,こえなかった。,"""welcome"" today.",,,
+123_5_1.json,28,Dialog,,#Color[7]#Scale[1.8]ホスト部、一時活動停止中,#Color[7]#Scale[1.8]Host Club temporarily inactive #Color[7]#Scale[1.8],,,
+123_5_1.json,43,Dialog,Hikaru & Kaoru,「な〜んだハルヒかあ」,"Oh, it's you, Haruhi.",,,
+123_5_1.json,48,Dialog,Hikaru,「お客さんかと思って」,I thought you were a customer.,,,
+123_5_1.json,53,Dialog,Kaoru,「出迎えて損した」,Losing out by welcoming them.,,,
+123_5_1.json,54,Dialog,Kaoru,……失礼な。,...Rude.,,,
+123_5_1.json,63,Dialog,Honey,「ハルちゃ〜ん……」,Haru-chan...,,,
+123_5_1.json,64,Dialog,Honey,泣きそうなハニー先輩が駆け寄ってきた。さす,"Senpai was running over with tears
+in",,,
+123_5_1.json,65,Dialog,Honey,がにショックを受けてるんだなあ。,his eyes. He must really be shocked.,,,
+123_5_1.json,67,Dialog,Haruhi,「ハニー先輩、そんなに気を落とさないでくだ,"Don't worry so much,",,,
+123_5_1.json,68,Dialog,Haruhi,さい」,Honey-senpai.,,,
+123_5_1.json,77,Dialog,Honey,「あのね、お休みだからね、ケーキもない,"Hey, it's closed, so",,,
+123_5_1.json,78,Dialog,Honey,の……」,there's no cake...,,,
+123_5_1.json,79,Dialog,Honey,……ケーキのことでしたか。,...You mean about the cake?,,,
+123_5_1.json,92,Dialog,Kyoya,「申し訳ありません、ハニー先輩」,"I'm sorry, Honey-senpai.",,,
+123_5_1.json,97,Dialog,Honey,「……うう〜」,「...Uu~」,,,
+123_5_1.json,100,Dialog,Honey,ハニー先輩には我慢してもらうとして、気にな,"I'll let Honey-senpai deal with it
+for now, but what concerns",,,
+123_5_1.json,101,Dialog,Honey,るのは、一時活動停止が解けることと――。,"me is when the temporary suspension
+gets lifted--.",,,
+123_5_1.json,102,Dialog,Honey,バサ……。,Swish...,,,
+123_5_1.json,108,Dialog,,自分の考えをさえぎるように、環先輩が手に持っ,"To cut off my thoughts, Senpai
+dropped the",,,
+123_5_1.json,109,Dialog,,ていた新聞を床に落とした。,"newspaper he was holding onto the
+floor.",,,
+123_5_1.json,111,Dialog,Haruhi,「……環先輩？」,...Tama-chan?,,,
+123_5_1.json,113,Dialog,Haruhi,どうしたんだろうと思いながら拾ってみる,I wondered what it was and picked,,,
+123_5_1.json,114,Dialog,Haruhi,と……。それは、新聞部が発行している校,it up... It was the school newspaper,,,
+123_5_1.json,115,Dialog,Haruhi,内新聞だった。,published by the newspaper club.,,,
+123_5_1.json,116,Dialog,Haruhi,『桜スポ』って呼ばれている、いいかげんなス,"A gossip paper called ""Sakura
+Sports""",,,
+123_5_1.json,117,Dialog,Haruhi,キャンダルばかり書くゴシップ紙。,that prints half-baked scandals.,,,
+123_5_1.json,118,Dialog,,何が載っているのか紙面を見ると、そこに,"Looking at the paper,",,,
+123_5_1.json,119,Dialog,,は――。,I see that it says--.,,,
+123_5_1.json,120,Dialog,,#Scale[1.4]『ホスト部活動停止！！』,#Scale[1.4]Host Club Suspended!!,,,
+123_5_1.json,121,Dialog,,#Scale[1.4]『理事長、交代か！？』,#Scale[1.4]'President Stepping Down!?',,,
+123_5_1.json,122,Dialog,,という、見出しが大きく書かれていた。,"That headline was written in large
+letters.",,,
+123_5_1.json,130,Dialog,Haruhi,「こんな記事、気にしないでいいですよ。環先,Don't worry about this,,,
+123_5_1.json,131,Dialog,Haruhi,輩」,"article, Tama-chan.",,,
+123_5_1.json,132,Dialog,Haruhi,実際にホスト部の活動停止は解けるわけだし、,"The Host Club's suspension isn't
+even",,,
+123_5_1.json,133,Dialog,Haruhi,ウソばっかりだ。,real anyway. You're full of lies.,,,
+123_5_1.json,142,Dialog,Tamaki,「ハルヒ〜」,「Haruhi~」,,,
+123_5_1.json,144,Dialog,Haruhi,「どさくさにまぎれて抱きつこうとしないでく,Don't try to hug me while,,,
+123_5_1.json,145,Dialog,Haruhi,ださい」,I'm distracted.,,,
+123_5_1.json,152,Dialog,,環先輩を押し返していると、悲しそうな顔でハ,"As I push Senpai away, Honey-senpai",,,
+123_5_1.json,153,Dialog,,ニー先輩がつぶやく。,mutters with a sad face.,,,
+123_5_1.json,159,Dialog,Honey,「でもね……、ぜーんぶウソってワケでもない,But you know... it's,,,
+123_5_1.json,160,Dialog,Honey,の」,not all lies.,,,
+123_5_1.json,162,Dialog,Haruhi,「そんな……。じゃあやっぱり、理事長は本当,That can't be... So the board of,,,
+123_5_1.json,163,Dialog,Haruhi,に交代を？」,directors really is changing?,,,
+123_5_1.json,171,Dialog,Kyoya,「完全に決まったわけじゃない。ただそういう,"It's not set in stone, but that",,,
+123_5_1.json,172,Dialog,Kyoya,話がでているのは事実だ」,idea has been brought up.,,,
+123_5_1.json,174,Dialog,Haruhi,「……もしかして、環先輩がホスト部の部長で、,"""...I'm the manager of Host Club,",,,
+123_5_1.json,175,Dialog,Haruhi,理事長の息子だからですか？」,"Is it because he's the president's
+son?",,,
+123_5_1.json,183,Dialog,Kyoya,「察しがいいな。ま、須王グループにダメージ,"You're perceptive. Well, this will
+be good news",,,
+123_5_1.json,184,Dialog,Kyoya,を与えたいと考えている連中には朗報だな」,"for those who want to damage the
+Suou Group.",,,
+123_5_1.json,185,Dialog,Kyoya,言いながら、鏡夜先輩がメガネを押し上げる。,"As he spoke, Kyoya-senpai pushed up
+his glasses.",,,
+123_5_1.json,187,Dialog,Kyoya,そんなことを本気で考えて、騒ぎにする人たち,"I can't believe people actually take
+that",,,
+123_5_1.json,188,Dialog,Kyoya,がいるなんて……。,"seriously and make a fuss about
+it...",,,
+123_5_1.json,196,Dialog,Kyoya,「説明する必要もなさそうだが、ホスト部の問,"It doesn't seem like I need to
+explain, but the conversation seems
+to have",,,
+123_5_1.json,197,Dialog,Kyoya,題から、理事長交代に話が広がったようだな」,"shifted from the Host Club's issues
+to the president's replacement.",,,
+123_5_1.json,199,Dialog,Haruhi,「じゃあ活動停止が解けるっていうのは？」,"So what does it mean to be allowed
+to resume activities?",,,
+123_5_1.json,204,Dialog,Kyoya,「理事長の交代と引き換えだ。理事長が代われ,"I'll trade it for a change in the
+board of directors.",,,
+123_5_1.json,205,Dialog,Kyoya,ば、私物化にはならないからな」,"If the director changes, it won't be
+privatized.",,,
+123_5_1.json,206,Dialog,Kyoya,そんなことって……。,There's no way...,,,
+123_5_1.json,209,Dialog,Kyoya,……環先輩、大丈夫かな。,...Is Tamaki-senpai okay?,,,
+123_5_1.json,215,Dialog,,そう思いながら視線を向けると、悲しそうな目,"As I thought that, my eyes met",,,
+123_5_1.json,216,Dialog,,をした環先輩と目が合った。,with Tama-kun's sad gaze.,,,
+123_5_1.json,224,Dialog,Tamaki,「すまない、ハルヒ。……すべては俺が招いた,"I'm sorry, Haruhi. ...It's",,,
+123_5_1.json,225,Dialog,Tamaki,問題だ」,all my fault.,,,
+123_5_1.json,227,Dialog,Haruhi,「そんなことないですよ」,It's not like that.,,,
+123_5_1.json,233,Dialog,Tamaki,「俺のせいで、計画中だった庶民イベントが、,It's my fault... The commoner event,,,
+123_5_1.json,234,Dialog,Tamaki,開催できなくなった……」,we were planning couldn't be held...,,,
+123_5_1.json,236,Dialog,Haruhi,「……またそんなこと考えてたんですか」,...Were you thinking that again?,,,
+123_5_1.json,249,Dialog,Hikaru & Kaoru,「あーあ、楽しみにしてたのにねー。庶民イベ,"Aww, what a drag. It's",,,
+123_5_1.json,250,Dialog,Hikaru & Kaoru,ント」,just a commoner event.,,,
+123_5_1.json,265,Dialog,Honey,「残念だねえ、崇……」,"What a pity, Takashi...",,,
+123_5_1.json,267,Dialog,Mori,「ああ」,"""Yeah.""",,,
+123_5_1.json,276,Dialog,Tamaki,「すみません、ハニー先輩、モリ先輩」,"Sorry, Honey-senpai, Mori-senpai.",,,
+123_5_1.json,281,Dialog,Tamaki,「みんなにも……、迷惑をかけるな」,"Don't cause trouble for everyone
+else...",,,
+123_5_1.json,282,Dialog,Tamaki,申し訳なさそうに、頭をさげる環先輩。,Tama-chan bows apologetically.,,,
+123_5_1.json,285,Dialog,Tamaki,企画のことは、別にどうでもいいけど……。,"I don't really care about the
+plan...",,,
+123_5_1.json,287,Dialog,Haruhi,「やっぱりこんな理不尽なこと、自分は納得で,I can't accept something,,,
+123_5_1.json,288,Dialog,Haruhi,きません」,so unreasonable.,,,
+123_5_1.json,295,Dialog,Kyoya,「おまえが納得できるかは別問題だ。今回は、,"It's another matter whether you'll
+be satisfied.",,,
+123_5_1.json,296,Dialog,Kyoya,俺たちにできることは何もない」,"This time, there's nothing we can
+do.",,,
+123_5_1.json,301,Dialog,Kyoya,「状況から考えれば、活動停止のまま大人しく,It's smarter to stay,,,
+123_5_1.json,302,Dialog,Kyoya,しているほうが利口（りこう）だな」,put and be quiet.,,,
+123_5_1.json,304,Dialog,Haruhi,「どうにかできないんですか？　鏡夜先輩」,"Can't you do something,
+Kyoya-senpai?",,,
+123_5_1.json,312,Dialog,Kyoya,「俺を買ってくれているのはうれしいが、俺も,"I'm glad you're buying me, but",,,
+123_5_1.json,313,Dialog,Kyoya,一介の高校生なんでね」,I'm just a high school student.,,,
+123_5_1.json,314,Dialog,Kyoya,そうかなあ。こんなときこそ、鏡夜先輩の出番,"I see... I think this is
+Kyoya-senpai's",,,
+123_5_1.json,315,Dialog,Kyoya,だと思うんだけど――。,chance to shine.,,,
+123_5_1.json,320,Dialog,Kyoya,「不満そうだな」,You seem unhappy.,,,
+123_5_1.json,322,Dialog,Haruhi,「いえ、そういう訳じゃ……」,"No, that's not it...",,,
+123_5_1.json,323,Dialog,Haruhi,おかしい……、いつもの鏡夜先輩じゃない気が,Something's off... I don't think,,,
+123_5_1.json,324,Dialog,Haruhi,する。,this is the usual Kyoya-senpai.,,,
+123_5_1.json,327,Dialog,Haruhi,「でも、いつもみたいにいろいろ考えればいい,But you can just think about,,,
+123_5_1.json,328,Dialog,Haruhi,じゃないですか」,"everything like usual, right?",,,
+123_5_1.json,335,Dialog,Tamaki,「ハルヒ、そこまでホスト部のことを考えてく,"Haruhi, you actually care this",,,
+123_5_1.json,336,Dialog,Tamaki,れるというのか！」,much about the Host Club!,,,
+123_5_1.json,338,Dialog,Tamaki,環先輩が、涙を浮かべながら手を握ってくる。,"Tama-chan comes over with tears in
+his eyes and grabs my hand.",,,
+123_5_1.json,339,Dialog,Tamaki,そこまで感動することは言ってないと思うけ,I don't think I said,,,
+123_5_1.json,340,Dialog,Tamaki,ど……。,it was that moving...,,,
+123_5_1.json,348,Dialog,Tamaki,「まあ、ホスト部が活動停止のままだと、俺に,"Well, if the Host Club stays shut
+down,",,,
+123_5_1.json,349,Dialog,Tamaki,会える時間も減るからな」,I'll have less time to see you.,,,
+123_5_1.json,362,Dialog,Hikaru & Kaoru,「僕らは同じクラスだからいいけどねー」,"We're in the same class, so it's
+fine~",,,
+123_5_1.json,372,Dialog,Tamaki,「な――！」,「Wah--!」,,,
+123_5_1.json,374,Dialog,Tamaki,……はあ、またこの人たちは毎度毎度。,"...Sigh, every single time.",,,
+123_5_1.json,376,Dialog,Tamaki,本当、成長しないよね。,You really haven't grown up at all.,,,
+123_5_1.json,383,Dialog,Kaoru,「そんな顔するくらいなら」,Don't make that face.,,,
+123_5_1.json,390,Dialog,Hikaru,「今から留年すればいいじゃん」,Spend another year here then.,,,
+123_5_1.json,400,Dialog,Tamaki,「…………なるほど」,「...I see.」,,,
+123_5_1.json,402,Dialog,Haruhi,「本気で考えないでください」,Don't take it seriously.,,,
+123_5_1.json,404,Dialog,Haruhi,でも、言われてみれば……。,Now that you mention it...,,,
+123_5_1.json,405,Dialog,Haruhi,ホスト部が活動停止のままだと、先輩たちに会,"If the Host Club stays shut down, I",,,
+123_5_1.json,406,Dialog,Haruhi,う機会も少なくなるんだ。,won't get to see the senpais much.,,,
+123_5_1.json,407,Dialog,Haruhi,言われるまで、ぜんぜん気がつかなかった。,"I didn't notice until you said
+something.",,,
+123_5_1.json,414,Dialog,Tamaki,「ハルヒが寂しがるのもムリはない」,"It's not surprising Haruhi feels
+lonely.",,,
+123_5_1.json,423,Dialog,Tamaki,「こんな麗しい先輩と一緒にいられる部活は、,There's nowhere else I can be,,,
+123_5_1.json,424,Dialog,Tamaki,どこにもないからな」,with such a beautiful senpai.,,,
+123_5_1.json,426,Dialog,Tamaki,まったく……。この人は、こんなときにもマイ,Honestly... Even at times like,,,
+123_5_1.json,427,Dialog,Tamaki,ペースなんだから。,"this, he's still so laid-back.",,,
+123_5_1.json,429,Dialog,Tamaki,あのときだって……。,Even back then...,,,
+123_5_1.json,431,Dialog,,……自分に酔うって、ああいうことを言うんだ,...That's what he means by,,,
+123_5_1.json,432,Dialog,,ろうな。,getting drunk on himself.,,,
+123_5_1.json,439,Dialog,Tamaki,「特に、環先輩と離れるはイヤですという、ハ,I can hear Haruhi's voice saying she,,,
+123_5_1.json,440,Dialog,Tamaki,ルヒの声が聞こえるぞ！」,"doesn't want to be separated from
+me!",,,
+123_5_1.json,454,Dialog,Hikaru,「どこどこー」,Where is it~?,,,
+123_5_1.json,457,Dialog,Kaoru,「聞こえなーい」,「Can't hear you!」,,,
+123_5_1.json,467,Dialog,Tamaki,「そんなことないよねっ、ハルヒ」,"It's not like that, Haruhi.",,,
+123_5_1.json,469,Dialog,Haruhi,「幻聴じゃないんですか」,"Isn't it just an auditory
+hallucination?",,,
+123_5_1.json,478,Dialog,Tamaki,「な――！？」,「Wha--!?」,,,
+123_5_1.json,483,Dialog,Tamaki,#Scale[1.4]ガーン！,#Scale[1.4]Gah!,,,
+123_5_1.json,487,Dialog,,あ、環先輩が部屋の隅に……。,"Oh, Tama-chan's in the corner...!",,,
+123_5_1.json,495,Dialog,Kyoya,「ハルヒが部の心配をするようになったことは,I'm glad Haruhi's started worrying,,,
+123_5_1.json,496,Dialog,Kyoya,喜ばしいが……」,about the club... but...,,,
+123_5_1.json,497,Dialog,Kyoya,鏡夜先輩のメガネがキラリと光る。,Kyoya-senpai's glasses sparkle.,,,
+123_5_1.json,502,Dialog,Kyoya,「今動くと、廃部になりかねない」,"Moving now could lead to our club
+being disbanded.",,,
+123_5_1.json,504,Dialog,Haruhi,「……そんな」,...No way.,,,
+123_5_1.json,506,Dialog,Haruhi,こんなことで廃部になるなんて……。,"We're going to get disbanded over
+something like this...?",,,
+123_5_1.json,518,Dialog,Honey,「廃部なんてイヤだよう〜。崇〜」,"I don't wanna disband, Takashi~!",,,
+123_5_1.json,520,Dialog,Honey,ハニー先輩が、モリ先輩に泣きつく。,Honey-senpai whines to Mori-senpai.,,,
+123_5_1.json,525,Dialog,Mori,「……ああ、困る」,"...Man, this is troublesome.",,,
+123_5_1.json,534,Dialog,Kyoya,「特にハルヒ、おまえには何の力もないことを,"Especially you, Haruhi. Be aware",,,
+123_5_1.json,535,Dialog,Kyoya,自覚しておけ」,that you have no power.,,,
+123_5_1.json,537,Dialog,Haruhi,「それは……、どういうことですか？」,What does that mean?,,,
+123_5_1.json,546,Dialog,Kyoya,「特待生は生活態度も大事だろう。うかつに動,"Scholarship students should mind
+their behavior.",,,
+123_5_1.json,547,Dialog,Kyoya,くと、退学に追い込まれる可能性もある」,"Acting recklessly could get you
+expelled.",,,
+123_5_1.json,548,Dialog,Kyoya,#Scale[1.4]た、退学！？,#Scale[1.4]T-Take leave!?,,,
+123_5_1.json,563,Dialog,Honey,「ハルちゃん……」,Haru-chan...,,,
+123_5_1.json,568,Dialog,Mori,「…………大丈夫か」,「......Are you okay?」,,,
+123_5_1.json,582,Dialog,Hikaru,「こりゃあ、大人しく」,「Behave yourself.」,,,
+123_5_1.json,587,Dialog,Kaoru,「するしかないね」,We have no choice.,,,
+123_5_1.json,594,Dialog,,光と馨は、肩をすくめる。,Hikaru and Kaoru shrug.,,,
+123_5_1.json,597,Dialog,,……本当にお手上げ状態かもしれない。,"...I might really be in over my
+head.",,,
+123_5_1.json,605,Dialog,Tamaki,「現状は、理解してもらえたと思う」,"I think you understand the current
+situation.",,,
+123_5_1.json,606,Dialog,Tamaki,いつの間にか立ち直っていた環先輩が、静かに,"Before I knew it, Senpai had moved",,,
+123_5_1.json,607,Dialog,Tamaki,言う。,"on, and he quietly said.",,,
+123_5_1.json,612,Dialog,Tamaki,「すべてが解決するまで、ホスト部は再開でき,"The Host Club won't reopen until
+everything's",,,
+123_5_1.json,613,Dialog,Tamaki,ない。……以上だ」,resolved... That's all.,,,
+123_5_1.json,615,Dialog,Haruhi,「……環先輩らしくありません」,"You're not acting like yourself,
+Tamaki-senpai.",,,
+123_5_1.json,623,Dialog,Tamaki,「ハルヒ。残念だけどこうするしかないんだ。,"Haruhi. Sorry, but there's no other
+way.",,,
+123_5_1.json,624,Dialog,Tamaki,ふがいないお父さんを許しておくれ」,Forgive your unworthy father.」,,,
+123_5_1.json,625,Dialog,Tamaki,環先輩の言葉に、みんな何も言わない。,"Everyone stays silent at
+Tamaki-senpai's words.",,,
+123_5_1.json,628,Dialog,Tamaki,しんと静まり返った部室で、最初に口を開いた,Hikaru and Kaoru were the first to,,,
+123_5_1.json,629,Dialog,Tamaki,のは光と馨だった。,speak up in the silent club room.,,,
+123_5_1.json,641,Dialog,Hikaru,「じゃあ、僕らは帰るね。お客も来ないんじゃ,"「Well, let's go home then. There's
+no point",,,
+123_5_1.json,642,Dialog,Hikaru,あ、しょうがないし」,staying if no customers are coming.」,,,
+123_5_1.json,647,Dialog,Kaoru,「そうだね。……あ、ねえ光」,"Yeah, that's right. Oh, Hikaru.",,,
+123_5_1.json,653,Dialog,Hikaru,「ん、何？」,Hm? What's up?,,,
+123_5_1.json,658,Dialog,Kaoru,「これからハルヒの家に遊びに行かない？」,Want to go play at Haruhi's house?,,,
+123_5_1.json,660,Dialog,Haruhi,「絶対にダメ。……こんなときに」,No way. ...Not at a time like this.,,,
+123_5_1.json,665,Dialog,Hikaru,「ちぇっ、つまんねーの」,"Tch, boring.",,,
+123_5_1.json,670,Dialog,Kaoru,「帰ろ、帰ろ」,Let's go home.,,,
+123_5_1.json,673,Dialog,Kaoru,光と馨は、そう言いながら部室を出て行った。,"Hikaru and Kaoru said so and left
+the clubroom.",,,
+123_5_1.json,674,Dialog,Kaoru,くう〜……。,Uu...,,,
+123_5_1.json,675,Dialog,Kaoru,ハニー先輩のおなかから、かわいい音が鳴る。,"Cute noises come from Honey-senpai's
+tummy.",,,
+123_5_1.json,687,Dialog,Mori,「……光邦」,Honey...,,,
+123_5_1.json,689,Dialog,Honey,「あのね崇、僕、お腹がすいてきちゃった」,"Takashi, I'm getting hungry.",,,
+123_5_1.json,691,Dialog,Mori,「……そうか」,...I see.,,,
+123_5_1.json,695,Dialog,Mori,モリ先輩はハニー先輩を抱き上げると、２人で,Mori-senpai picked up Honey-senpai,,,
+123_5_1.json,696,Dialog,Mori,部室を出て行った。,and left the clubroom with him.,,,
+123_5_1.json,697,Dialog,Mori,いつものことだけど、あれだけのやりとりで意,"As usual, our minds connect even",,,
+123_5_1.json,698,Dialog,,思が通じているんだね……。,with just that little exchange...,,,
+123_5_1.json,705,Dialog,Tamaki,「俺も帰る」,Me too.,,,
+123_5_1.json,713,Dialog,Haruhi,「環せんぱ――」,Tamaki-senpai--,,,
+123_5_1.json,721,Dialog,Tamaki,「ハルヒも一緒に帰ろう。送るよ」,"Haruhi, let's go home together. I'll
+take you.",,,
+123_5_1.json,723,Dialog,Haruhi,「自分はいいです」,I'm good.,,,
+123_5_1.json,731,Dialog,,何かできることがあるはずなのに……。どうし,"There's gotta be something I can
+do...",,,
+123_5_1.json,732,Dialog,,てみんな帰っていくのかわからない。,But why are everyone going home?,,,
+123_5_1.json,740,Dialog,Tamaki,「こんな情けないお父さんとは、一緒に帰りた,Don't you want to go home with,,,
+123_5_1.json,741,Dialog,Tamaki,くないか……」,such an embarrassing father...?,,,
+123_5_1.json,743,Dialog,Tamaki,環先輩はがっくりと肩を落とすと、そのまま部,Tamaki-senpai slumped his shoulders,,,
+123_5_1.json,744,Dialog,Tamaki,室を出て行ってしまった……。,and left the clubroom...,,,
+123_5_1.json,746,Dialog,Tamaki,みんなが部室から出て行くと、ちょっと寂しい,I feel a little lonely when everyone,,,
+123_5_1.json,747,Dialog,,気がする。,leaves the clubroom.,,,
+123_5_1.json,748,Dialog,,家族がバラバラになっていくみたいだ。,"It feels like my family is falling
+apart.",,,
+123_5_1.json,749,Dialog,,……この考え方って、環先輩みたいだな……。,"...This way of thinking is just like
+Senpai...",,,
+123_5_1.json,750,Dialog,,実は、影響されてるのかもしれない。,"Actually, I might be influenced by
+them.",,,
+123_5_1.json,757,Dialog,Kyoya,「どうした？　そんな顔をして」,What's wrong? You look so serious.,,,
+123_5_1.json,759,Dialog,Haruhi,「自分はここにいます」,I'm right here.,,,
+123_5_1.json,765,Dialog,Kyoya,「……ほう、そこまでホスト部に愛着を持って,"... So you actually care about the
+Host",,,
+123_5_1.json,766,Dialog,Kyoya,いたとは、意外だな」,"Club that much? I didn't expect
+that.",,,
+123_5_1.json,768,Dialog,Haruhi,「何かできるかもしれませんから」,I might be able to do something.,,,
+123_5_1.json,773,Dialog,Kyoya,「おまえに何ができる」,What can you do?,,,
+123_5_1.json,775,Dialog,Haruhi,「……それは――」,That's...,,,
+123_5_1.json,777,Dialog,Haruhi,鏡夜先輩の言う通りで、自分には何もできない,I know I can't do anything about,,,
+123_5_1.json,778,Dialog,Haruhi,のはわかっているけど――。,"it, as you said, Kyoya-senpai--.",,,
+123_5_1.json,779,Dialog,Haruhi,このままなんて……。,I can't just leave it like this...,,,
+123_5_1.json,781,Dialog,Haruhi,納得はできないけど、今の自分には何の考えも,"I can't agree with it, but I don't",,,
+123_5_1.json,782,Dialog,,浮かんでこない。,have any ideas right now.,,,
+123_5_1.json,784,Dialog,Haruhi,「…………帰ります」,「......I'm going home」,,,
+123_5_1.json,785,Dialog,Haruhi,そう答えて部室を出ようとすると……。,"As I tried to answer like that and
+leave the clubroom...",,,
+123_5_1.json,787,Dialog,Kyoya,「ハルヒ」,Haruhi.,,,
+123_5_1.json,788,Dialog,Kyoya,鏡夜先輩の声が、優しく背中に届いた。,"Kyoya-senpai's voice reached my back
+gently.",,,
+123_5_1.json,795,Dialog,Haruhi,「何ですか？」,What is it?,,,
+123_5_1.json,800,Dialog,Kyoya,「……いや、気をつけてな」,"...No, be careful.",,,
+123_5_1.json,804,Dialog,Kyoya,――結局、部室から追い出されてしまった気が,--I feel like I got kicked,,,
+123_5_1.json,805,Dialog,Kyoya,する。,out of the club room.,,,
+123_5_1.json,807,Dialog,,本当にこのまま、何もせずに見ているだけしか,Is this really all I,,,
+123_5_1.json,808,Dialog,,できないのかな。,can do... just watch?,,,
+123_5_1.json,809,Dialog,,そう考えると、少し胸の奥が苦しくなる……。,"Thinking about it makes my chest
+feel tight...",,,
+123_5_1.json,811,Dialog,,天国のお母さん、ホスト部が最大のピンチを迎,"Heavenly mother, the Host Club may",,,
+123_5_1.json,812,Dialog,,えているかもしれません。,be facing its greatest crisis.,,,
+123_5_1.json,813,Dialog,,お母さんみたいに優秀な弁護士だったら、いろ,"If you were a great lawyer like your
+mom, I'd be all over it",,,
+123_5_1.json,814,Dialog,,いろ対策を考えられたかもしれないのに……。,"They might have thought of a way to
+deal with it...",,,
+123_5_1.json,815,Dialog,,ふう……。ため息ばかりが出てくるなあ。,Phew... I can only sigh.,,,
+123_5_1.json,817,Dialog,,……このまま帰ろうかな。,...I guess I'll head home.,,,
+123_5_1.json,819,Dialog,,少しだけ図書室に寄ってからにしよう。１人で,"Let's stop by the library for a bit
+first. I might end",,,
+123_5_1.json,820,Dialog,,いると、つまらないことばかり考えそうだしね。,"up thinking about boring stuff if
+I'm alone, you know.",,,
+123_5_1.json,826,Dialog,,#Color[7]#Scale[1.8]第四図書室,#Color[7]#Scale[1.8]Fourth Library,,,
+123_5_1.json,827,Dialog,,相変わらず図書室には――。,The library is still empty...,,,
+123_5_1.json,828,Dialog,,勉強をするでもなく、本を読むでもない人たち,There are only people who,,,
+123_5_1.json,829,Dialog,,ばかりがいる。,don't study or read books.,,,
+123_5_1.json,830,Dialog,,とりあえず、棚から参考書を抜き出してパラパ,"First, take out some reference books",,,
+123_5_1.json,831,Dialog,,ラ開いて目を通す。,"from the shelf and skim through
+them.",,,
+123_5_1.json,832,Dialog,,……そういえば、ここで勉強できないからって,"...Now that you mention it, I was
+looking",,,
+123_5_1.json,833,Dialog,,静かなところを探し回っていて、ホスト部に迷,for a quiet place to study when I,,,
+123_5_1.json,834,Dialog,,い込んだんだよね。,"ended up wandering into the Host
+Club.",,,
+123_5_1.json,835,Dialog,,今思えば、あれが不幸の始まりだった……。と,"Thinking back, that was where",,,
+123_5_1.json,836,Dialog,,は言っても、今じゃすっかりなじんじゃったん,my troubles began...,,,
+123_5_1.json,837,Dialog,,だけど。,But now I'm used to it.,,,
+123_5_1.json,838,Dialog,,毎日ホスト部に出てたから、こうやって活動停,"Since I was at the Host Club every
+day, not having anything",,,
+123_5_1.json,839,Dialog,,止になっていると、時間の使い方に困る……。,"to do is making me worry about how
+to use my time...",,,
+123_5_1.json,840,Dialog,,いや、勉強できるからいいのかな。,"No, maybe it's fine since I can
+study.",,,
+123_5_1.json,841,Dialog,,ずっと、こうしたいって思ってたんだし……。,"I've always wanted it to be like
+this...",,,
+123_5_1.json,843,Dialog,,……ダメだ。,...No way.,,,
+123_5_1.json,844,Dialog,,考えないようにしようとすると、余計に集中で,"The more I try not to think about
+it, the",,,
+123_5_1.json,845,Dialog,,きなくて何も頭に入ってこない。,"more I can't concentrate on
+anything.",,,
+123_5_1.json,875,Dialog,Kurakano,「ハルヒ君、大丈夫ですか？」,"Are you okay, Haruhi?",,,
+123_5_1.json,882,Dialog,,顔を上げると、いつの間にか倉賀野さんがそば,"Looking up, I noticed
+Kurakano-sensei",,,
+123_5_1.json,883,Dialog,,に立っていた。,"had been standing beside me all
+along.",,,
+123_5_1.json,888,Dialog,Kurakano,「聞きましたわ……。ホスト部はしばらく活動,I see... The Host Club will,,,
+123_5_1.json,889,Dialog,Kurakano,停止ですってね」,be on hiatus for a while.,,,
+123_5_1.json,891,Dialog,Haruhi,「……はい。桜スポにもあんなに大きく……」,"...Yes. Even on the sakura sports
+team...",,,
+123_5_1.json,896,Dialog,Kurakano,「桜スポの記事なんて気にしなくていいですよ」,"Don't worry about the Shuzenji
+newspaper article.",,,
+123_5_1.json,901,Dialog,Kurakano,「環様や理事長がホスト部を私物化しているな,"It's awful to write that Tamaki and
+the board of directors",,,
+123_5_1.json,902,Dialog,Kurakano,んて書き方、ひどいですわ」,"are treating the Host Club like
+their personal property.",,,
+123_5_1.json,904,Dialog,Haruhi,「ありがとう、倉賀野さん」,"「Thanks, Kurakano-san」",,,
+123_5_1.json,909,Dialog,Kurakano,「ホスト部が女性の夢を叶えるところだという,"The Host Club fulfills women's
+dreams,",,,
+123_5_1.json,910,Dialog,Kurakano,のは、わたくしたちが一番よく知っています」,and we know that better than anyone.,,,
+123_5_1.json,911,Dialog,Kurakano,――そっか。見てくれている人は、ちゃんと見,--I see. The people watching,,,
+123_5_1.json,912,Dialog,Kurakano,てくれてるんだな。,are really paying attention.,,,
+123_5_1.json,913,Dialog,Kurakano,『ホスト部は女の子のしあわせのために存在す,"I'm sure that Senior's feelings
+about",,,
+123_5_1.json,914,Dialog,Kurakano,る！』っていう環先輩の気持ちは、ちゃんと伝,"""The Host Club exists to make",,,
+123_5_1.json,915,Dialog,Kurakano,わっているんだ。,"girls happy!"" are getting across.",,,
+123_5_1.json,921,Dialog,Kurakano,「……せっかく、れんげさんとホスト部……、,"...We worked so hard on the
+doujinshi",,,
+123_5_1.json,922,Dialog,Kurakano,同人誌の制作も……」,with Renge-san and the Host Club...,,,
+123_5_1.json,923,Dialog,Kurakano,#Color[7]#Scale[1.8]オタク伝染中……,#Color[7]#Scale[1.8]Otaku infection active...,,,
+123_5_1.json,925,Dialog,Haruhi,「同人誌？」,Fanzine?,,,
+123_5_1.json,931,Dialog,Kurakano,「あ！　いえっ、な、何でもないです」,Ah! N-nothing!,,,
+123_5_1.json,933,Dialog,Haruhi,「……はあ」,... Haa,,,
+123_5_1.json,938,Dialog,Kurakano,「あまり気にしないでくださいね。あんなウワ,"Don't worry about it too much.
+Rumors",,,
+123_5_1.json,939,Dialog,Kurakano,サなんて、すぐに消えますよ」,like that fade away quickly.,,,
+123_5_1.json,941,Dialog,Haruhi,「そうですね……」,That's right...,,,
+123_5_1.json,946,Dialog,Kurakano,「ハルヒ君……」,Haruhi-kun...,,,
+123_5_1.json,947,Dialog,Kurakano,自分の元気のない答えに、倉賀野さんの表情ま,My gloomy answer even darkened,,,
+123_5_1.json,948,Dialog,Kurakano,で暗くなってしまった。,Kurakano-sensei's expression.,,,
+123_5_1.json,949,Dialog,Kurakano,……せっかくはげましてくれているのに。これ,...You're trying to cheer me,,,
+123_5_1.json,950,Dialog,Kurakano,じゃあホスト失格――、じゃなくて友だち失格,"up, but this makes me fail as",,,
+123_5_1.json,951,Dialog,Kurakano,だ。,"a friend--I mean, as a host.",,,
+123_5_1.json,954,Dialog,Haruhi,「……大丈夫、すぐに再開します」,"...It's okay, we'll start again
+right away.",,,
+123_5_1.json,958,Dialog,Haruhi,そうなればとの思いを込めて言うと、倉賀野さ,"With that thought in mind,
+Kurakano-san's",,,
+123_5_1.json,959,Dialog,Haruhi,んの表情にも笑みが戻った。,"expression returned to its usual
+smile.",,,
+123_5_1.json,961,Dialog,Haruhi,「ホスト部の営業が始まったら、遊びに来てく,Come play when our business,,,
+123_5_1.json,962,Dialog,Haruhi,ださいね」,"starts, okay?",,,
+123_5_1.json,966,Dialog,Haruhi,倉賀野さんは、微笑んでうなずく。,Kurakano smiles and nods.,,,
+123_5_1.json,974,Dialog,Kurakano,「それじゃあ、わたくしはこれで。また明日ね、,Then I'll take my leave.,,,
+123_5_1.json,975,Dialog,Kurakano,ハルヒ君」,"See you tomorrow, Haruhi.",,,
+123_5_1.json,977,Dialog,Haruhi,「はい、また明日」,See you tomorrow.,,,
+123_5_1.json,980,Dialog,Haruhi,笑顔の戻った倉賀野さんを見送ったあと、参考,After seeing Kurakano-san off with a,,,
+123_5_1.json,981,Dialog,Haruhi,書を開いてはみたけれど……。,"smile, I tried opening my
+textbook...",,,
+123_5_1.json,982,Dialog,Haruhi,やっぱり頭に入らなかった。,Guess it didn't sink in.,,,
+123_5_1.json,983,Dialog,Haruhi,先輩たちの顔が浮かんでは――、消える。,"The faces of my seniors appear and
+disappear.",,,
+123_5_1.json,985,Dialog,,これじゃあ勉強にならないし、帰ろう。,"This isn't productive, let's go
+home.",,,
+123_5_1.json,987,Dialog,,ぜんぜん勉強をしないまま、図書室から出てき,You left the library without,,,
+123_5_1.json,988,Dialog,,ちゃったなあ……。,studying at all...,,,
+123_5_1.json,989,Dialog,,でも、こんなふうにホスト部のことを心配する,"But I never thought there'd be a
+time when",,,
+123_5_1.json,990,Dialog,,ときがくるなんて……、考えたこともなかった。,"I'd worry about the Host Club like
+this...",,,
+123_5_1.json,997,Dialog,Sakurazuka,「ホスト部、活動停止なんですってね……」,"The Host Club's activities have been
+suspended...",,,
+123_5_1.json,1004,Dialog,,顔を上げると、心配そうな顔をした桜塚さんが,"Looking up, I saw Sakurazaka-san
+standing",,,
+123_5_1.json,1005,Dialog,,立っていた。,there with a worried expression.,,,
+123_5_1.json,1007,Dialog,Haruhi,「……うん」,「...Yeah.」,,,
+123_5_1.json,1012,Dialog,Sakurazuka,「ハルヒ君、大丈夫？　落ち込んだりしていな,"Haruhi, are you okay? You're not",,,
+123_5_1.json,1013,Dialog,Sakurazuka,い？」,"depressed or anything, right?",,,
+123_5_1.json,1015,Dialog,Haruhi,「落ち込んではいないけど、寂しいね。こうし,"I'm not depressed, but I feel
+lonely. We won't",,,
+123_5_1.json,1016,Dialog,Haruhi,て桜塚さんとお話する機会も少なくなるし」,"have many chances to talk like this
+anymore.",,,
+123_5_1.json,1022,Dialog,Sakurazuka,「……ハルヒ君……」,...Haruhi...,,,
+123_5_1.json,1023,Dialog,Sakurazuka,……あれ？,...Huh?,,,
+123_5_1.json,1025,Dialog,Haruhi,「どうしたの？　顔が赤いよ」,What's wrong? Your face is red.,,,
+123_5_1.json,1031,Dialog,Sakurazuka,「……いえ、何でも……。あの、わたしもホス,"...No, it's nothing... I'm looking
+forward",,,
+123_5_1.json,1032,Dialog,Sakurazuka,ト部の再開を待ってるから」,to the Host Club reopening too.,,,
+123_5_1.json,1034,Dialog,Haruhi,「……はい」,...Yes.,,,
+123_5_1.json,1039,Dialog,Sakurazuka,「お役に立てることがあったら、何でもいって,"Let me know if there's anything I
+can",,,
+123_5_1.json,1040,Dialog,Sakurazuka,ね。みんなでそうしようって話し合ってたの」,do for you. We all agreed to help.,,,
+123_5_1.json,1042,Dialog,Haruhi,「ありがとう。何かあったときはお願いするね」,"Thanks. I'll ask you for help if
+anything comes up.",,,
+123_5_1.json,1047,Dialog,Sakurazuka,「きっとよ、ハルヒ君。それじゃあ、また明日」,"Sure will, Haruhi. See you tomorrow.",,,
+123_5_1.json,1049,Dialog,Haruhi,「はい、また明日」,See you tomorrow.,,,
+123_5_1.json,1051,Dialog,Haruhi,桜塚さんは、微笑みを残して図書室を出て行っ,Sakurazaka left,,,
+123_5_1.json,1052,Dialog,Haruhi,た。,with a smile.,,,
+123_5_1.json,1054,Dialog,Haruhi,桜塚さんを見送ったあと、参考書を開いてはみ,"After seeing Sakuraizuka-san off, I",,,
+123_5_1.json,1055,Dialog,Haruhi,たけれど……。,tried opening my reference books...,,,
+123_5_1.json,1056,Dialog,,やっぱり頭に入らなかった。,Guess it didn't sink in.,,,
+123_5_1.json,1057,Dialog,,先輩たちの顔が浮かんでは――、消える。,"The faces of my seniors appear and
+disappear.",,,
+123_5_1.json,1060,Dialog,,これじゃあ勉強にならないし、帰ろう。,"This isn't productive, let's go
+home.",,,
+123_5_1.json,1062,Dialog,,ぜんぜん勉強をしないまま、図書室から出てき,You left the library without,,,
+123_5_1.json,1063,Dialog,,ちゃったなあ……。,studying at all...,,,
+123_5_1.json,1064,Dialog,,でも、こんなふうにホスト部のことを心配する,"But I never thought there'd be a
+time when",,,
+123_5_1.json,1065,Dialog,,ときがくるなんて……、考えたこともなかった。,"I'd worry about the Host Club like
+this...",,,
+123_5_1.json,1072,Dialog,Kamikamo,「ホスト部、お休みですって？」,The Host Club's closed?,,,
+123_5_1.json,1079,Dialog,,顔を上げると、悲しそうな顔をした上賀茂さん,"Looking up, I saw Kamikamo-san",,,
+123_5_1.json,1080,Dialog,,が立っていた。,standing there with a sad face.,,,
+123_5_1.json,1082,Dialog,Haruhi,「すみません、ご迷惑をかけます……」,I'm sorry to trouble you...,,,
+123_5_1.json,1087,Dialog,Kamikamo,「ご迷惑なんて、そんな……」,It's not like it's any trouble...,,,
+123_5_1.json,1089,Dialog,Kamikamo,「ねえハルヒくん。環様……、落ち込んでいらっ,"Hey Haruhi. Do you think
+Tamaki-senpai...",,,
+123_5_1.json,1090,Dialog,Kamikamo,しゃらないかしら」,is feeling down?,,,
+123_5_1.json,1092,Dialog,Haruhi,「……ものすごく責任を感じているみたいです」,"...He seems to feel very
+responsible.",,,
+123_5_1.json,1097,Dialog,Kamikamo,「ああ……、なぐさめてさしあげたいですわ」,Oh... I want to comfort you.,,,
+123_5_1.json,1099,Dialog,Haruhi,「行ってあげてください。環先輩、喜びますよ」,"Please go for me. Tama-chan will be
+happy.",,,
+123_5_1.json,1104,Dialog,Kamikamo,「……ダメですわ、ハルヒくん。ホスト部とい,"I can't let you do that, Haruhi.
+It's because",,,
+123_5_1.json,1105,Dialog,Kamikamo,う場所があるからこそ、環様と２人っきりの世,of the Host Club that I can create,,,
+123_5_1.json,1106,Dialog,Kamikamo,界を作りあげられるのですから……」,a world just for me and Tama-chan...,,,
+123_5_1.json,1107,Dialog,Kamikamo,そういうものですか……。,Is that how it is...?,,,
+123_5_1.json,1108,Dialog,Kamikamo,でも、上賀茂さんにとってホスト部は、環先輩,"But for Kamikamo-san, the Host Club",,,
+123_5_1.json,1109,Dialog,Kamikamo,との大事な絆だったんだなあ。,was an important bond with Senpai.,,,
+123_5_1.json,1114,Dialog,Kamikamo,「……ねえ、ハルヒくん。こんなときにこそ、,"...Hey, Haruhi. Isn't this the time",,,
+123_5_1.json,1115,Dialog,Kamikamo,みなさんの力を合わせるときではなくって？」,to unite everyone's strength?,,,
+123_5_1.json,1117,Dialog,Haruhi,「はい、自分もそう思います」,"Yeah, I think so too.",,,
+123_5_1.json,1122,Dialog,Kamikamo,「わたくしもお手伝いしますわ」,I'll help too.,,,
+123_5_1.json,1123,Dialog,Kamikamo,宣言するように、上賀茂さんは力強く言う。,"Kamikamo says firmly as if declaring
+something.",,,
+123_5_1.json,1125,Dialog,Haruhi,「ありがとうございます。でも、そのお気持ち,Thank you. But your feelings,,,
+123_5_1.json,1126,Dialog,Haruhi,だけで――」,alone are enough--,,,
+123_5_1.json,1131,Dialog,Kamikamo,「……そう、ですか。では、わたくし……。再開,"...Is that so? Then, I...",,,
+123_5_1.json,1132,Dialog,Kamikamo,できるようにと祈っていますわ」,will pray for your return.,,,
+123_5_1.json,1134,Dialog,Kamikamo,何か言いたそうだったけど、上賀茂さんは寂し,Kamikamo-san looked like he wanted,,,
+123_5_1.json,1135,Dialog,Kamikamo,そうに会釈をすると、静かに図書室を出て行っ,"to say something, but he just waved",,,
+123_5_1.json,1136,Dialog,Kamikamo,た。,sadly and quietly left the library.,,,
+123_5_1.json,1138,Dialog,,協力してくれる気持ちはうれしいけど。,"I'm happy you want to help, but...",,,
+123_5_1.json,1140,Dialog,,ヘタに動かないほうが利口だって、鏡夜先輩も,Kyoya-senpai also said it's smart,,,
+123_5_1.json,1141,Dialog,,言ってたし……。,not to move too much...,,,
+123_5_1.json,1142,Dialog,,納得はできないけど、今は本当にそうすること,"I don't agree, but maybe this really",,,
+123_5_1.json,1143,Dialog,,が一番なのかもしれない、とも思う。,is for the best right now.,,,
+123_5_1.json,1144,Dialog,,同時に、先輩たちの顔が浮かんでは消える。,"At the same time, the faces of my
+seniors appear and disappear.",,,
+123_5_1.json,1146,Dialog,,これじゃあ勉強にならないし、帰ろう。,"This isn't productive, let's go
+home.",,,
+123_5_1.json,1148,Dialog,,ぜんぜん勉強をしないまま、図書室から出てき,You left the library without,,,
+123_5_1.json,1149,Dialog,,ちゃったなあ……。,studying at all...,,,
+123_5_1.json,1150,Dialog,,でも、こんなふうにホスト部のことを心配する,"But I never thought there'd be a
+time when",,,
+123_5_1.json,1151,Dialog,,ときがくるなんて……、考えたこともなかった。,"I'd worry about the Host Club like
+this...",,,
+123_5_1.json,1157,Dialog,Sayuri,「ハルちゃん、ホスト部って活動停止のままな,"Haru-chan, is the Host",,,
+123_5_1.json,1158,Dialog,Sayuri,の？」,Club still on hold?,,,
+123_5_1.json,1165,Dialog,,顔を上げると、いつの間にか小百合の姿があっ,"Looking up, I found Sayuri",,,
+123_5_1.json,1166,Dialog,,た。,there without realizing it.,,,
+123_5_1.json,1168,Dialog,Haruhi,「……うん、そうなんだ」,"... Yeah, I see.",,,
+123_5_1.json,1176,Dialog,Sayuri,「ふうん。……ハルちゃん、ぜんぜん納得して,"Hmm... Haru-chan, you look",,,
+123_5_1.json,1177,Dialog,Sayuri,ないって顔してるわね」,totally unconvinced.,,,
+123_5_1.json,1179,Dialog,Haruhi,「わかるの？」,Get it?,,,
+123_5_1.json,1184,Dialog,Sayuri,「鏡を見てみたら？　納得いかないって顔に書,Check the mirror? Your face,,,
+123_5_1.json,1185,Dialog,Sayuri,いてあるわよ」,says you're not convinced.,,,
+123_5_1.json,1187,Dialog,Haruhi,「ふふ……。ありがと、小百合」,"Hmm... Thanks, Sayuri.",,,
+123_5_1.json,1195,Dialog,Sayuri,「悪いウワサも流れているけど、私はわかって,"I know what I'm doing,",,,
+123_5_1.json,1196,Dialog,Sayuri,るからね」,even if others don't.,,,
+123_5_1.json,1198,Dialog,Haruhi,「うん」,Yeah.,,,
+123_5_1.json,1203,Dialog,Sayuri,「ホスト部はいい部活よ、私が保障する」,"I guarantee you, the Host Club is a
+great club.",,,
+123_5_1.json,1205,Dialog,Sayuri,「真嶋くんとのことだって、ホスト部のみんな,I don't think I could've done,,,
+123_5_1.json,1206,Dialog,Sayuri,がいなければうまくいかなかったと思うしね」,it without the Host Club guys.,,,
+123_5_1.json,1211,Dialog,Sayuri,「いい？　負けないでよ」,"Don't lose, okay?",,,
+123_5_1.json,1213,Dialog,Haruhi,「うん、大丈夫」,"Yeah, I'm fine",,,
+123_5_1.json,1215,Dialog,Haruhi,小百合の言葉にうなずきながら、そんなことも,"While nodding at Sayuri's words,",,,
+123_5_1.json,1216,Dialog,Haruhi,あったなあって思い出す。,I remember that too.,,,
+123_5_1.json,1217,Dialog,Haruhi,最近のことなのに、なんだかすごくなつかしい,"Even though it was recent, I",,,
+123_5_1.json,1218,Dialog,Haruhi,気がする……。,feel incredibly nostalgic...,,,
+123_5_1.json,1219,Dialog,Haruhi,それに……。,And...,,,
+123_5_1.json,1220,Dialog,,庶民ラーメンの研究とか、庶民の駄菓子フェア,Studying common ramen or hosting,,,
+123_5_1.json,1221,Dialog,,だとか。,a cheap candy fair!,,,
+123_5_1.json,1222,Dialog,,いろいろあったなあ……。,It's been quite a ride...,,,
+123_5_1.json,1223,Dialog,,おかしなこともたくさんしてきたけど、女の子,"I've done plenty of strange things,
+but",,,
+123_5_1.json,1224,Dialog,,が楽しくいられるようにしてきたことは――。,"I've always tried to make girls
+happy--.",,,
+123_5_1.json,1225,Dialog,,まちがってないんだ、きっと。,I'm sure I'm not wrong.,,,
+123_5_1.json,1234,Dialog,Sayuri,「すぐに再開できるって」,Let's start over right away.,,,
+123_5_1.json,1236,Dialog,Haruhi,「うん、……そうなるといいね」,"Yeah, ...I hope so.",,,
+123_5_1.json,1242,Dialog,Sayuri,「そうなるとじゃなくて、そうするの！　ハル,"That's not 'if that happens,' it's
+'we'll do it!' What am I supposed",,,
+123_5_1.json,1243,Dialog,Sayuri,ちゃんがしっかりしなくてどうするのよ」,"to do if you don't pull yourself
+together, Haru-chan?",,,
+123_5_1.json,1251,Dialog,Sayuri,「応援している人はたくさんいるんだから、ね」,"There are lots of people cheering
+for you~",,,
+123_5_1.json,1252,Dialog,Sayuri,その言葉に笑顔でうなずくと、小百合も安心し,Sayuri smiled and nodded,,,
+123_5_1.json,1253,Dialog,Sayuri,たように笑った。,with relief.,,,
+123_5_1.json,1259,Dialog,Sayuri,「そ、それじゃあ私、帰るね」,「S-So I'll be going now.」,,,
+123_5_1.json,1261,Dialog,Sayuri,そう言うと、小百合はあっという間に図書室か,Sayuri left the library in an,,,
+123_5_1.json,1262,Dialog,Sayuri,ら出て行った。,instant after saying that.,,,
+123_5_1.json,1263,Dialog,Sayuri,……どうしたんだろ？,...What was that?,,,
+123_5_1.json,1265,Dialog,Sayuri,……しまった。,...Dang it.,,,
+123_5_1.json,1266,Dialog,,残された自分に、冷たいが視線が注がれている,I notice that cold eyes,,,
+123_5_1.json,1267,Dialog,,ことに気づく。,are fixed on me.,,,
+123_5_1.json,1269,Dialog,,き、今日はもう帰ろう……。,L-Let's go home today...,,,
+123_5_1.json,1276,Dialog,Haruhi,「あれ……、もう夕方になってる」,Oh... It's already evening.,,,
+123_5_1.json,1277,Dialog,Haruhi,西日に照らされて、初めて日が暮れかけている,I realized it was getting late,,,
+123_5_1.json,1278,Dialog,Haruhi,ことに気づいた。,as the sun set in the west.,,,
+123_5_1.json,1279,Dialog,Haruhi,図書室でまともに勉強ができたわけでもないの,"I can't believe so much time has
+passed when I",,,
+123_5_1.json,1280,Dialog,Haruhi,に、こんなに時間が経っているだなんて……。,"haven't even studied properly in the
+library...",,,
+123_5_1.json,1281,Dialog,Haruhi,それだけ、ずっと考えていたんだなあ。,"That's all you've been thinking
+about, huh?",,,
+123_5_1.json,1283,Dialog,,ホスト部での時間がムダみたいに思ってたけど、,I thought my time in the Host Club,,,
+123_5_1.json,1284,Dialog,,もしかして充実していたのかな？,"was wasted, but maybe it wasn't?",,,
+123_5_1.json,1285,Dialog,,……うーん。,...Hmm.,,,
+123_5_1.json,1286,Dialog,,まさか自分が、こんなことを考えるなんて……。,"I never thought I'd think like
+this...",,,
+123_5_1.json,1287,Dialog,,ホスト部に入部した――、じゃなくてさせられ,"Thinking about when I joined--or
+rather",,,
+123_5_1.json,1288,Dialog,,たときのことを考えると……。,was forced into--the Host Club...,,,
+123_5_1.json,1289,Dialog,,悪い冗談みたい。,It's like a bad joke.,,,
+123_5_1.json,1291,Dialog,,このまま本当に廃部になったりすることはない,"I don't think we'll actually get
+disbanded...",,,
+123_5_1.json,1292,Dialog,,と思うけど、これからどうなるんだろう……。,"but I wonder what will happen from
+now on.",,,
+123_5_1.json,1293,Dialog,,何か起こりそうなのに起こらない。,"Something's about to happen but it
+doesn't.",,,
+123_5_1.json,1294,Dialog,,こういう状況、なんていうんだっけ……？,"What's this situation called
+again...?",,,
+123_5_1.json,1295,Dialog,,……えーと。,...Um.,,,
+123_5_1.json,1296,Dialog,,……あっ！,...Oh!,,,
+123_5_1.json,1298,Dialog,Haruhi,「嵐の前の静けさ」,Calm before the storm,,,
+123_5_1.json,1301,Dialog,Haruhi,……言わなきゃ良かった。,...I wish I hadn't said that.,,,
+123_5_1.json,1302,Dialog,Haruhi,自分の言葉で、苦手なカミナリを思い出してし,Shivering as I recall my weakness,,,
+123_5_1.json,1303,Dialog,Haruhi,まい、身震いする。,for thunder in my own words.,,,
+123_5_1.json,1305,Dialog,,……帰ろう。,...Let's go home.,,,
+123_5_1.json,1311,Dialog,,どう考えてみても……。,No matter how I think about it...,,,
+123_5_1.json,1312,Dialog,,ホスト部が活動停止になることや、理事長が交,"I don't think it's right for the
+Host Club to be shut",,,
+123_5_1.json,1313,Dialog,,代なんて話になることはおかしいと思う。,"down or for the board of directors
+to change.",,,
+123_5_1.json,1314,Dialog,,家で勉強をしていても、考えるのはホスト部の,"Even when I studied at home, I could",,,
+123_5_1.json,1315,Dialog,,ことばかりだった。,only think about the Host Club.,,,
+123_5_1.json,1316,Dialog,,結局、図書室にいたときと同じで――。,"In the end, it's just like when I
+was in the library--.",,,
+123_5_1.json,1317,Dialog,,『何かできることは？』,Can I do anything?,,,
+123_5_1.json,1318,Dialog,,という思いが、頭のなかをぐるぐる回っている。,"Those thoughts are spinning around
+in my head.",,,
+123_5_1.json,1319,Dialog,,……はあ。ため息をついて目を閉じる。,... Sigh. Close my eyes.,,,
+123_5_1.json,1327,Dialog,Kyoya,「特待生は生活態度も大事だろう。うかつに動,"Scholarship students should mind
+their behavior.",,,
+123_5_1.json,1328,Dialog,Kyoya,くと、退学に追い込まれる可能性もある」,"Acting recklessly could get you
+expelled.",,,
+123_5_1.json,1341,Dialog,Hikaru,「こりゃあ、大人しく」,「You better behave.」,,,
+123_5_1.json,1346,Dialog,Kaoru,「するしかないね」,Guess we have to do it.,,,
+123_5_1.json,1360,Dialog,Honey,「廃部なんてイヤだよう〜。崇〜」,"「I don't wanna disband, Takashi~!」",,,
+123_5_1.json,1365,Dialog,Mori,「……ああ、困る」,"...Man, this is annoying.",,,
+123_5_1.json,1374,Dialog,Tamaki,「すべてが解決するまで、ホスト部は再開でき,"The Host Club won't reopen until
+everything's",,,
+123_5_1.json,1375,Dialog,Tamaki,ない。……以上だ」,resolved... That's all.,,,
+123_5_1.json,1379,Dialog,Tamaki,……みんな、いつもと違う気がする。でも、何,...Everyone seems different today.,,,
+123_5_1.json,1380,Dialog,Tamaki,が違うのかはわからない。,But I can't put my finger on why.,,,
+123_5_1.json,1381,Dialog,,それに、みんなが何を考えているかもわからな,And I don't know what everyone,,,
+123_5_1.json,1382,Dialog,,い。,else is thinking.,,,
+123_5_1.json,1383,Dialog,,自分で動いてみようとも思うけど……。,"I want to try moving on my own...
+but...",,,
+123_5_1.json,1385,Dialog,Kyoya,「今動くと、廃部になりかねない」,"Moving now could lead to our club
+being disbanded.",,,
+123_5_1.json,1386,Dialog,Kyoya,鏡夜先輩の言葉が、その考えを否定する。,"Kyoya-senpai's words reject that
+idea.",,,
+123_5_1.json,1387,Dialog,Kyoya,……自分のせいで、ホスト部がなくなってしま,"...Because of me, the Host",,,
+123_5_1.json,1388,Dialog,Kyoya,うかもしれない。,Club might disappear.,,,
+123_5_1.json,1389,Dialog,Kyoya,そう考えると、もう少しだけ待ってみたほうが,"Thinking about it that way, maybe I",,,
+123_5_1.json,1390,Dialog,Kyoya,いいのかなと思う。,should wait just a little longer.,,,
+123_5_1.json,1392,Dialog,,……待ってるだけというのが、こんなに苦しい,...I didn't know waiting,,,
+123_5_1.json,1393,Dialog,,思いをするものなんて知らなかった。,could be so painful.,,,
+123_5_1.json,1395,Dialog,,やめよう。同じことを考えてばかりいてもしか,"Let's stop. It's pointless to just
+think",,,
+123_5_1.json,1396,Dialog,,たないし。,about the same thing over and over.,,,
+123_5_1.json,1399,Dialog,,パソコンを確認したら、今日はもう寝よう。,Check your computer and go to bed.,,,
+123_5_1.json,1400,Dialog,,これから……、どうなっちゃうのかな……。,"What's going to happen from now
+on...?",,,
+123_5_1.json,1401,Chapter name,,第５話　絆は何よりも強く,Ep. 5: Stronger Than Anything,,,

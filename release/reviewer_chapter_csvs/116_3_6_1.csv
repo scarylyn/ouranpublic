@@ -1,0 +1,1125 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+116_3_6_1.json,14,Dialog,,部室は、重苦しい雰囲気に包まれていた。,"The clubroom was enveloped in a
+heavy atmosphere.",,,
+116_3_6_1.json,16,Dialog,Renge,「まさか、まさかの結果発表ですわ……」,It's the unexpected results...,,,
+116_3_6_1.json,21,Dialog,Renge,「絢爛ホスト部の勝利、つまり……、環さんは,The splendid Host Club's victory...,,,
+116_3_6_1.json,22,Dialog,Renge,レオさんのものに……！」,means you belong to Leo-sama...!,,,
+116_3_6_1.json,27,Dialog,Sayuri,「桜蘭ホスト部が……」,Our Ouran Host Club...,,,
+116_3_6_1.json,41,Dialog,Leo,「環、ボクたちの勝ちだよ」,"Tamaki, we won!",,,
+116_3_6_1.json,46,Dialog,Tamaki,「無念だ……」,It's a shame...,,,
+116_3_6_1.json,47,Dialog,Tamaki,ホスト部が負けてしまった。ということはつま,The Host Club lost...,,,
+116_3_6_1.json,48,Dialog,Tamaki,り……。,Which means...,,,
+116_3_6_1.json,53,Dialog,Leo,「ボクはうれしいよ。これから一緒に、絢爛ホ,"I'm happy. Let's work together to
+make the",,,
+116_3_6_1.json,54,Dialog,Leo,スト部を盛り上げていこうね」,"Extravagant Host Club even more
+popular.",,,
+116_3_6_1.json,59,Dialog,Tamaki,「待て！　ハルヒも、なんとか言ってくれ！」,"Wait! Haruhi, say something!",,,
+116_3_6_1.json,61,Dialog,Haruhi,「……ごめんなさい」,...I am sorry.,,,
+116_3_6_1.json,71,Dialog,,#Color[7]#Scale[1.8]勝負当日,#Color[7]#Scale[1.8]The Day of the Match,,,
+116_3_6_1.json,72,Dialog,,少し緊張しつつホスト部に来てみると、なぜか,"I came to the Host Club a little
+nervous, but",,,
+116_3_6_1.json,73,Dialog,,お客さんもみんなそろっていた。,"for some reason all the customers
+were there.",,,
+116_3_6_1.json,81,Dialog,Sakurazuka,「ハルヒ君、がんばって！」,"「Haruhi, do your best!」",,,
+116_3_6_1.json,90,Dialog,Kurakano,「応援してますわ！」,Cheering you on!,,,
+116_3_6_1.json,92,Dialog,Haruhi,「あ……、ありがとうございます」,Ah... thank you.,,,
+116_3_6_1.json,93,Dialog,Haruhi,今日は学校、休みのはずなのに……。,"But today's Saturday... shouldn't
+school be off?",,,
+116_3_6_1.json,102,Dialog,Kyoya,「せっかくのイベントに、お客様を招待しない,We can't have an event and,,,
+116_3_6_1.json,103,Dialog,Kyoya,わけにはいかないだろう」,not invite our guests.,,,
+116_3_6_1.json,105,Dialog,Haruhi,「招待って……」,What's an invitation...,,,
+116_3_6_1.json,106,Dialog,Haruhi,というか、イベントって……。勝負なのに、すっ,"Actually, an event...? It's supposed
+to be a competition,",,,
+116_3_6_1.json,107,Dialog,Haruhi,かりお祭りみたいになってるし。,but it feels more like a festival.,,,
+116_3_6_1.json,115,Dialog,Kyoya,「今日は存分に楽しんでもらおうじゃないか」,Let's have fun today!,,,
+116_3_6_1.json,117,Dialog,Haruhi,「自分たちが負けるなんて、まったく考えてま,We never thought we'd,,,
+116_3_6_1.json,118,Dialog,Haruhi,せんね？」,"lose, did we?",,,
+116_3_6_1.json,123,Dialog,Kyoya,「考える必要がないからな」,There's no need to think.,,,
+116_3_6_1.json,124,Dialog,Kyoya,そう言って、鏡夜先輩はにやっと笑う。,Otori-senpai smirks and says that.,,,
+116_3_6_1.json,132,Dialog,Kyoya,「――さあ、来たぞ」,"「--Come on, here we go」",,,
+116_3_6_1.json,141,Dialog,Leo,「……え？」,...Huh?,,,
+116_3_6_1.json,142,Dialog,Leo,少しとまどった様子で、レオさんたちが入って,Leo-san and co. enter looking,,,
+116_3_6_1.json,143,Dialog,Leo,くる。,slightly confused.,,,
+116_3_6_1.json,152,Dialog,Ou,「何ごとですか、これは……」,What's going on here...,,,
+116_3_6_1.json,153,Dialog,Ou,どうやら、知らなかったのは自分だけじゃなかっ,Looks like I wasn't the only,,,
+116_3_6_1.json,154,Dialog,Ou,たみたい。,one who didn't know.,,,
+116_3_6_1.json,162,Dialog,Kyoya,「イベントをお客様に楽しんでいただくことは,I assume you're enjoying the,,,
+116_3_6_1.json,163,Dialog,Kyoya,当然かと思いますが……、何か問題でも？」,event... Is there a problem?,,,
+116_3_6_1.json,168,Dialog,Ou,「い、いえ。そういう考え方も、あるでしょ,"Well, I guess there's some",,,
+116_3_6_1.json,169,Dialog,Ou,う……」,merit to that idea...,,,
+116_3_6_1.json,171,Dialog,Haruhi,「あのー、お取り込み中すみませんが……」,"Um, sorry to bother you, but...",,,
+116_3_6_1.json,178,Dialog,Kyoya,「どうした？」,What is it?,,,
+116_3_6_1.json,181,Dialog,Haruhi,「どんな勝負をするんですか？」,What kind of match are we playing?,,,
+116_3_6_1.json,189,Dialog,Leo,「あれ……。みんなには伝えてないの？」,"Hmm... You haven't told everyone
+else?",,,
+116_3_6_1.json,195,Dialog,Kyoya,「いろいろと準備がありまして、勝負の内容に,"I have various preparations to make,",,,
+116_3_6_1.json,196,Dialog,Kyoya,ついては当日、レオ君から説明していただけれ,so I'd like Reo-kun to explain the,,,
+116_3_6_1.json,197,Dialog,Kyoya,ばと」,details on the day of the match.,,,
+116_3_6_1.json,198,Dialog,Kyoya,……わざとだ。絶対にわざとだ。,"...That was on purpose. Definitely
+on purpose!",,,
+116_3_6_1.json,203,Dialog,Leo,「そうですか……。では、発表しますね」,"I see... Then, let me announce it.",,,
+116_3_6_1.json,210,Dialog,Leo,「勝負は３回戦。『ネコ探し』、『金魚すく,"The contest has three rounds: 'Cat
+Hunt,'",,,
+116_3_6_1.json,211,Dialog,Leo,い』、『大食い対決』です」,"'Goldfish Scoop,' and 'Eating
+Contest.'",,,
+116_3_6_1.json,213,Dialog,Leo,……いったいどういう基準で選んだんだろう。,"What kind of standards are you using
+anyway?",,,
+116_3_6_1.json,227,Dialog,Hikaru,「金魚すくいってナニ？」,What's goldfish scooping?,,,
+116_3_6_1.json,230,Dialog,Kaoru,「金魚をすくう？　それって釣りじゃないよ,Go fishing for goldfish? That's,,,
+116_3_6_1.json,231,Dialog,Kaoru,ね？」,"not really fishing, is it?",,,
+116_3_6_1.json,232,Dialog,Kaoru,そっか……。みんな金魚すくいなんて、知らな,Oh... So everyone doesn't know,,,
+116_3_6_1.json,233,Dialog,Kaoru,いんだ。,about goldfish scooping.,,,
+116_3_6_1.json,243,Dialog,Tamaki,「説明しよう！　金魚すくいとは、苦しむ金魚,"Let me explain! Goldfish scooping is
+a",,,
+116_3_6_1.json,244,Dialog,Tamaki,たちを投網で救い出すという、博愛精神に満ち,"sport filled with compassion, where
+you",,,
+116_3_6_1.json,245,Dialog,Tamaki,あふれた競技なのだ！！」,"rescue suffering goldfish with a
+net!!",,,
+116_3_6_1.json,247,Dialog,Haruhi,「ウソを教えないでください環先輩」,"Don't teach me lies, Tama-chan.",,,
+116_3_6_1.json,253,Dialog,Tamaki,「……え？　確かに昨日、鏡夜から……」,"...Huh? You're right, Kyoya did...",,,
+116_3_6_1.json,261,Dialog,Kyoya,「そんな説明をした覚えはないが？」,"I don't recall explaining it that
+way.",,,
+116_3_6_1.json,268,Dialog,Tamaki,環先輩はどうでもいいとして……。,"I don't care about you,
+Tamaki-senpai...",,,
+116_3_6_1.json,283,Dialog,Haruhi,「金魚すくいは、泳いでいる金魚を『ポイ』っ,"Goldfish scooping is a game where
+you scoop",,,
+116_3_6_1.json,284,Dialog,Haruhi,ていう道具ですくう遊びだよ。競技としても有,"up swimming goldfish with a 'poi'
+tool.",,,
+116_3_6_1.json,285,Dialog,Haruhi,名なんだけどね」,It's also famous as a competition!,,,
+116_3_6_1.json,294,Dialog,Hikaru,「なんだ、簡単そうじゃん」,It's easy.,,,
+116_3_6_1.json,296,Dialog,Haruhi,「簡単そうに聞こえるけど、道具は針金の枠に,"It sounds easy, but the tool is just",,,
+116_3_6_1.json,297,Dialog,Haruhi,紙が貼ってあるだけだから、ものすごく難しい,a wire frame with paper pasted on,,,
+116_3_6_1.json,298,Dialog,Haruhi,よ」,"it, so it's actually really hard.",,,
+116_3_6_1.json,307,Dialog,Kaoru,「……紙？　そんなの、水につけたらすぐに破,...Paper? It'll tear right away,,,
+116_3_6_1.json,308,Dialog,Kaoru,れるでしょ？」,if you put it in water.,,,
+116_3_6_1.json,310,Dialog,Haruhi,「だから難しいんだって」,That's why it's hard.,,,
+116_3_6_1.json,311,Dialog,Haruhi,光と馨は、よくわからないっていう顔をしてる。,Hikaru and Kaoru look confused.,,,
+116_3_6_1.json,312,Dialog,Haruhi,こういうのは、実際にやってみないとわからな,You don't know until,,,
+116_3_6_1.json,313,Dialog,Haruhi,いよね……。,you try...,,,
+116_3_6_1.json,322,Dialog,Leo,「えーっと、わからない競技はこれくらいかな？,"Hmm, this should cover all the games
+I don't know?",,,
+116_3_6_1.json,323,Dialog,Leo,じゃあ――」,Then--」,,,
+116_3_6_1.json,331,Dialog,Kyoya,「問題ないでしょう」,It shouldn't be a problem.,,,
+116_3_6_1.json,336,Dialog,Kyoya,「――念のため確認ですが、１チーム１つの競,"Just to confirm, each team
+participates",,,
+116_3_6_1.json,337,Dialog,Kyoya,技に参加して、３戦のうち２本先取した方が勝,in one event and wins by winning,,,
+116_3_6_1.json,338,Dialog,Kyoya,利ということでよろしいですね？」,"two out of three matches, right?",,,
+116_3_6_1.json,343,Dialog,Leo,「ええ、そうです」,"Yeah, that's right",,,
+116_3_6_1.json,352,Dialog,Tamaki,「よし。ではこれより、桜蘭ホスト部対絢爛ホ,"All right! Let's begin the Ouran
+Host Club versus",,,
+116_3_6_1.json,353,Dialog,Tamaki,スト部の交流戦を始める！」,"Extravagant Host Club exchange
+match!",,,
+116_3_6_1.json,355,Dialog,Tamaki,きゃ〜〜〜！,Kyaa!!!,,,
+116_3_6_1.json,357,Dialog,Tamaki,とりあえず、がんばろう。,"For now, let's do our best.",,,
+116_3_6_1.json,384,Dialog,Renge,「さあ、今ここに始まりました、世紀の対戦！,"And so, here we begin, the battle of
+the century!",,,
+116_3_6_1.json,385,Dialog,Renge,我が桜蘭ホスト部ＶＳ絢爛ホスト部。実況は、,"Our Ouran Host Club VS the Splendor
+Host Club. Commentary",,,
+116_3_6_1.json,386,Dialog,Renge,宝積寺れんげが務めさせていただきますわ」,"will be provided by Renge
+Houshakuji.",,,
+116_3_6_1.json,387,Dialog,Renge,れんげちゃんが実況役なのはいいんだけど――。,"I don't mind Renge being the
+commentator--.",,,
+116_3_6_1.json,389,Dialog,Sayuri,「ア、アシスタントの……、姫宮小百合です」,A-Assistant... Sayuri Himemiya.,,,
+116_3_6_1.json,390,Dialog,Sayuri,どうして小百合まで……。あの困っている様子,"Why Sayuri too... Seeing her
+flustered like that,",,,
+116_3_6_1.json,391,Dialog,Sayuri,を見ると、いきなりお願いされたんだろうなあ。,"she must have been asked to do it
+suddenly.",,,
+116_3_6_1.json,396,Dialog,Renge,「待ちに待った因縁の対決ですが、今回の勝負,"Long-awaited grudge match, but what
+do you",,,
+116_3_6_1.json,397,Dialog,Renge,をどう思いますか、姫宮さん？」,"think of this contest, Miss
+Himemiya?",,,
+116_3_6_1.json,403,Dialog,Sayuri,「あの、宝積寺さん……。私には、『因縁』と,"Um, Houjyuji-san... I don't really",,,
+116_3_6_1.json,404,Dialog,Sayuri,かよくわからないんだけど……」,get what 'destiny' means...,,,
+116_3_6_1.json,410,Dialog,Renge,「姫宮さん！　そういうことは脳内で補完して,Ms. Himemiya! You have to fill,,,
+116_3_6_1.json,411,Dialog,Renge,いただかなくては困りますわ」,in the blanks in your head!,,,
+116_3_6_1.json,417,Dialog,Sayuri,「は……、はい？」,H-Hi?,,,
+116_3_6_1.json,425,Dialog,Renge,「……こほん。さて、第１試合は、夏の風物詩、,"Ahem. Well then, for the first
+match, it’s",,,
+116_3_6_1.json,426,Dialog,Renge,金魚すくいですわっ！」,"the summer classic--goldfish
+scooping!",,,
+116_3_6_1.json,431,Dialog,Renge,「中庭の池に数百匹の金魚が放されています。,"There are hundreds of goldfish in
+the pond in the courtyard.",,,
+116_3_6_1.json,432,Dialog,Renge,あの広さで金魚をすくうのは難しそうです……」,"It doesn't look easy to catch
+goldfish in that size...」",,,
+116_3_6_1.json,433,Dialog,Renge,この広さで金魚すくいと言い張ること自体が難,"It's hard to even claim that
+goldfish",,,
+116_3_6_1.json,434,Dialog,Renge,しいんじゃないかな……。,scooping would work in this space...,,,
+116_3_6_1.json,439,Dialog,Renge,「それでは、参加選手の紹介です！　桜蘭ホス,"And now, introducing our
+contestants! From",,,
+116_3_6_1.json,440,Dialog,Renge,ト部からは光くん、馨くんですわ！」,"Ouran's Host Club, Hikaru and Kaoru!",,,
+116_3_6_1.json,454,Dialog,,きゃ〜〜〜！,Kyaa!!!,,,
+116_3_6_1.json,455,Dialog,,光と馨が前に進み出ると、歓声がわきあがった。,"Hikaru and Kaoru stepped forward,
+eliciting cheers.",,,
+116_3_6_1.json,460,Dialog,Hikaru,「それじゃあ、水に入ることだし」,"「Then, I'm going in the water.」",,,
+116_3_6_1.json,465,Dialog,Kaoru,「着替えないとね」,「Time to change clothes.」,,,
+116_3_6_1.json,466,Dialog,Kaoru,そういうと２人は制服に手をかけて――。,"Saying that, the two of them put
+their hands on the uniforms--.",,,
+116_3_6_1.json,470,Dialog,Kaoru,バッ！,Bang!,,,
+116_3_6_1.json,471,Dialog,Kaoru,勢いよく制服を脱ぎ捨てた。,I quickly took off my uniform.,,,
+116_3_6_1.json,490,Dialog,Renge,「んーーーーーーっ！！　見逃せないサービス,Ah!! It's a service,,,
+116_3_6_1.json,491,Dialog,Renge,ショットですわっ！」,shot you can't miss!,,,
+116_3_6_1.json,494,Dialog,Sayuri,「なななな、何で脱ぐのよっ！」,"Wh-W-Why are you taking off your
+clothes!",,,
+116_3_6_1.json,504,Dialog,Renge,「……あら？」,Oh?,,,
+116_3_6_1.json,519,Dialog,Hikaru,「ぜんぶ脱ぐわけないでしょ」,I'm not stripping completely.,,,
+116_3_6_1.json,521,Dialog,Kaoru,「水着だよ、み・ず・ぎ」,"Swimsuit, m-i-z-u-g-wa.",,,
+116_3_6_1.json,537,Dialog,Hikaru & Kaoru,「ハルヒもびっくりした？」,Did Haruhi get surprised too?,,,
+116_3_6_1.json,539,Dialog,Haruhi,「別に」,Whatever.,,,
+116_3_6_1.json,547,Dialog,Hikaru & Kaoru,「なんだ、つまんないの」,Boring.,,,
+116_3_6_1.json,548,Dialog,Hikaru & Kaoru,つまんないって言われても、困るんだけど。,"I'm troubled when you say it's
+boring.",,,
+116_3_6_1.json,564,Dialog,Renge,「いいえ、水着は水着でおいしいですわ。ね、,"No, swimsuits are delicious in their",,,
+116_3_6_1.json,565,Dialog,Renge,姫宮さん」,"own way. Right, Miss Himemiya?",,,
+116_3_6_1.json,571,Dialog,Sayuri,「わっ、私にふらないでよっ！　そんなこと,"Hey, don't ignore me! Anyway, you
+should",,,
+116_3_6_1.json,572,Dialog,Sayuri,より、ほら、絢爛チームの選手の入場も実況,"be announcing the entrance of the
+players",,,
+116_3_6_1.json,573,Dialog,Sayuri,して……、って、ええっ！？」,"for the Enliven Team... Wait, what!?",,,
+116_3_6_1.json,589,Dialog,Hikaru,「……何、アレ？」,...What's that?,,,
+116_3_6_1.json,592,Dialog,Kaoru,「あれで、僕らと同い年なの？」,Is she really our age?,,,
+116_3_6_1.json,595,Dialog,Kaoru,現れたのは、かなり老けた感じの２人組。どう,"The two people who appeared looked
+quite old.",,,
+116_3_6_1.json,596,Dialog,Kaoru,見ても確実に５０才は過ぎてるかと……。,"They definitely had to be over
+fifty...",,,
+116_3_6_1.json,604,Dialog,Kyoya,「おそらく、金魚すくいのプロフェッショナル,Probably brought in professional,,,
+116_3_6_1.json,605,Dialog,Kyoya,を連れてきたんだろう」,goldfish scoopers.,,,
+116_3_6_1.json,607,Dialog,Haruhi,「それって、反則なんじゃないですか？　生徒,"That's not fair, right? Letting
+someone",,,
+116_3_6_1.json,608,Dialog,Haruhi,でもない人が参加するなんて」,"who's not even a student
+participate.",,,
+116_3_6_1.json,617,Dialog,Kyoya,「いや、問題ないよう手を回してあるだろう。,"No, I'm sure it's already taken care
+of.",,,
+116_3_6_1.json,618,Dialog,Kyoya,……もしかしたら今この時点においては、あの,"...Maybe at this point, those",,,
+116_3_6_1.json,619,Dialog,Kyoya,２人も生徒なのかもしれない」,two are still students too.,,,
+116_3_6_1.json,624,Dialog,Kyoya,「もっとも、明日にはもう生徒ではなくなって,"Of course, you won't be",,,
+116_3_6_1.json,625,Dialog,Kyoya,いるだろうがな」,a student tomorrow.,,,
+116_3_6_1.json,627,Dialog,Kyoya,そんなことまでするなんて……。,You'd go that far...?,,,
+116_3_6_1.json,641,Dialog,Renge,「それでは第１回戦、スタートですわっ！」,"And so, the first round starts now!",,,
+116_3_6_1.json,645,Dialog,Renge,#Color[7]#Scale[1.8]金魚すくい,#Color[7]#Scale[1.8]Goldfish scooping,,,
+116_3_6_1.json,646,Dialog,Renge,パン！,Punch!,,,
+116_3_6_1.json,647,Dialog,Renge,れんげちゃんの合図で、いよいよ第１回戦が始,"With Renge's signal, the first",,,
+116_3_6_1.json,648,Dialog,,まった。,round finally began.,,,
+116_3_6_1.json,660,Dialog,Hikaru,「行くよ、馨！」,"Let's go, Kaoru!",,,
+116_3_6_1.json,662,Dialog,Kaoru,「うん！」,Yep!,,,
+116_3_6_1.json,665,Dialog,Kaoru,バシャ！,Splash!,,,
+116_3_6_1.json,666,Dialog,Kaoru,いきなり水に飛び込んだ馨が金魚を追う。光の,"Kaoru dives in and chases the
+goldfish. He",,,
+116_3_6_1.json,667,Dialog,Kaoru,方へ追い込んで、それを光がすくう作戦らしい。,"drives it toward Hikaru, who catches
+it.",,,
+116_3_6_1.json,668,Dialog,Kaoru,金魚すくいというより、川遊びとかに近い気が,It feels more like playing in a,,,
+116_3_6_1.json,669,Dialog,,するなあ……。,river than catching goldfish...,,,
+116_3_6_1.json,670,Dialog,,光たちに比べて、相手チームは落ち着いた様子,"In contrast to Hikaru and co., the
+opposing",,,
+116_3_6_1.json,671,Dialog,,で順調に金魚をすくっていく。,"team calmly scoops up goldfish
+steadily.",,,
+116_3_6_1.json,679,Dialog,Mori,「金魚の動きを見切った見事な手つきだ」,"Beautiful timing to catch the
+goldfish.",,,
+116_3_6_1.json,688,Dialog,Tamaki,「光、馨！　金魚だ！　金魚の気持ちになって,Hikaru! Kaoru! It’s goldfish! Think,,,
+116_3_6_1.json,689,Dialog,Tamaki,考え、すくいだすんだ！！」,like a goldfish and scoop them up!!,,,
+116_3_6_1.json,690,Dialog,Tamaki,#Color[7]#Scale[1.8]金魚の気持ちって……？,#Color[7]#Scale[1.8]What's a goldfish thinking...?,,,
+116_3_6_1.json,705,Dialog,Hikaru,「そんなのわかるわけないじゃん！　馨、ちゃ,"Like I'd know that! Kaoru, push",,,
+116_3_6_1.json,706,Dialog,Hikaru,んとこっちに追い込んでよ！」,her over here properly!,,,
+116_3_6_1.json,711,Dialog,Kaoru,「やってるよ！　光が全然すくえてないだけで,"I am! It's just that Hikaru hasn't
+been holding",,,
+116_3_6_1.json,712,Dialog,Kaoru,しょ！　ほらっ、また破れてる！」,"it properly, right? Look, it broke
+again!",,,
+116_3_6_1.json,720,Dialog,Hikaru,「こんなのですくえるわけないだろ！」,"This isn't something you can just
+eat!",,,
+116_3_6_1.json,729,Dialog,Kaoru,「向こうのオジさんたちは、すくえてるで,Those guys over there,,,
+116_3_6_1.json,730,Dialog,Kaoru,しょ！」,are scared!,,,
+116_3_6_1.json,741,Dialog,Kyoya,「駄目だな、これは」,This is no good.,,,
+116_3_6_1.json,742,Dialog,Kyoya,そんなことやってる間に、相手チームのおじさ,"While we're doing that, the guys
+from the other",,,
+116_3_6_1.json,743,Dialog,Kyoya,んたちにどんどんすくわれちゃってるのに……。,"team are picking up all our
+girls...!",,,
+116_3_6_1.json,745,Dialog,Kyoya,ピーーーーーーーーッ！,Beep!,,,
+116_3_6_1.json,758,Dialog,Renge,「終了ですわーーーーっ！」,Game over!!!~,,,
+116_3_6_1.json,760,Dialog,Sayuri,「……圧倒的な大差をつけて、第１回戦は絢爛,"...With an overwhelming margin, the
+first",,,
+116_3_6_1.json,761,Dialog,Sayuri,ホスト部の勝利です」,"round goes to the Exquisite Host
+Club.",,,
+116_3_6_1.json,762,Dialog,Sayuri,いきなり負けちゃった……。,I lost right away...,,,
+116_3_6_1.json,781,Dialog,Hikaru,「馨がうまく追い込んでくれればさ！」,"Kaoru, if you can corner her!",,,
+116_3_6_1.json,787,Dialog,Kaoru,「光だって！」,「Hikaru too!」,,,
+116_3_6_1.json,788,Dialog,Kaoru,２人とも、まだケンカしてるし……。,You two are still fighting...,,,
+116_3_6_1.json,798,Dialog,Kyoya,「２人のことはまかせたぞ、ハルヒ」,"Leave it to us, Haruhi.",,,
+116_3_6_1.json,800,Dialog,Haruhi,「……はあ」,... Haa,,,
+116_3_6_1.json,802,Dialog,Haruhi,とりあえず、制服に着替えさせておこう。,"Let's have you change into the
+uniform for now.",,,
+116_3_6_1.json,820,Dialog,Renge,「さあお次は……。第２回戦！　『大食い対決』,"All right then... Round Two! 'Eating
+Contest'!",,,
+116_3_6_1.json,821,Dialog,Renge,ですわっ！」,That's it!」,,,
+116_3_6_1.json,823,Dialog,Sayuri,「この対決では、用意されたデザートを先に完,"The team that finishes the prepared
+desserts",,,
+116_3_6_1.json,824,Dialog,Sayuri,食したチームが勝利となります」,first will win this showdown.,,,
+116_3_6_1.json,829,Dialog,Renge,「それではこの種目を戦う選手の登場ですわ！,"And now, here come the contestants
+for this event!",,,
+116_3_6_1.json,830,Dialog,Renge,まずは絢爛ホスト部。張満腹さん、張空腹さん,"First up is the Extravagant Host
+Club!",,,
+116_3_6_1.json,831,Dialog,Renge,の入場です！」,"Enter Hungry Tummy and Empty
+Stomach!」",,,
+116_3_6_1.json,834,Dialog,Renge,満腹に空腹って……。まあ、たぶん予想通りな,"I'm full but still hungry... Well,",,,
+116_3_6_1.json,835,Dialog,Renge,んだろうけど。,I guess that's to be expected.,,,
+116_3_6_1.json,837,Dialog,,『大食い』を体で表したような人たちが、のし,"People who look like living
+""gluttony""",,,
+116_3_6_1.json,838,Dialog,,のしと歩いてくる。,symbols are walking over here.,,,
+116_3_6_1.json,846,Dialog,Tamaki,「……絢爛ホスト部では、あのようなタイプも,"...So even that type is available in
+the Extravagant",,,
+116_3_6_1.json,847,Dialog,Tamaki,揃えているのか……。桜蘭でも『ぽっちゃり系』,"Host Club...? Even Ouran has a
+'chubby' category...",,,
+116_3_6_1.json,848,Dialog,Tamaki,を視野に入れるべきか」,Should I consider it?」,,,
+116_3_6_1.json,849,Dialog,Tamaki,あれは『ぽっちゃり』じゃないです。というか、,"That's not ""chubby"". In fact, he's",,,
+116_3_6_1.json,850,Dialog,Tamaki,間違いなくホストですらないのに。,definitely not even a host.,,,
+116_3_6_1.json,858,Dialog,Haruhi,「鏡夜先輩、抗議したほうが……」,"Kyoya-senpai, you should protest...",,,
+116_3_6_1.json,863,Dialog,Kyoya,「こちらには、ハニー先輩がいる。あの程度な,"There's Honey-senpai here. Even if
+there",,,
+116_3_6_1.json,864,Dialog,Kyoya,ら、１０人いても問題にならないだろう」,"are ten of them, they won't be a
+problem.",,,
+116_3_6_1.json,865,Dialog,Kyoya,それは、確かに……。,That's true...,,,
+116_3_6_1.json,879,Dialog,Renge,「対する桜蘭ホスト部はハニー先輩、モリ先輩,That's where HONEY-senpai,,,
+116_3_6_1.json,880,Dialog,Renge,の２人ですわっ！」,and MORI-senpai come in!,,,
+116_3_6_1.json,893,Dialog,,きゃ〜〜〜！,Kyaa!!!,,,
+116_3_6_1.json,894,Dialog,,ハニー先輩とモリ先輩が前に進み出ると、歓声,When Honey-senpai and Mori-senpai,,,
+116_3_6_1.json,895,Dialog,,がわきあがった。,"stepped forward, cheers erupted.",,,
+116_3_6_1.json,910,Dialog,Renge,「では第２回戦、始めですわっ！！」,"And so, let's begin the second
+round!!",,,
+116_3_6_1.json,913,Dialog,Renge,#Color[7]#Scale[1.8]大食い対決,#Color[7]#Scale[1.8]Eating Contest!,,,
+116_3_6_1.json,914,Dialog,Renge,パン！,Punch!,,,
+116_3_6_1.json,915,Dialog,Renge,れんげちゃんの合図で、第２回戦が始まった。,"With Renge's signal, the second
+round began.",,,
+116_3_6_1.json,922,Dialog,Honey,「崇、どんどん持ってきて！」,"Takashi, bring more!",,,
+116_3_6_1.json,930,Dialog,Mori,「了解」,「Roger that.」,,,
+116_3_6_1.json,933,Dialog,Mori,デザートを運ぶスピードは、ほぼ互角。,"Our dessert delivery speeds are
+about even.",,,
+116_3_6_1.json,940,Dialog,,ハニー先輩は、運ばれてくるデザートをどんど,"Honey-senpai keeps eating the
+desserts",,,
+116_3_6_1.json,941,Dialog,,ん食べていく。,as they're brought over.,,,
+116_3_6_1.json,947,Dialog,Honey,「このパフェとってもおいしいよ」,This parfait is super delicious!,,,
+116_3_6_1.json,961,Dialog,,モリ先輩も、ハニー先輩のペースに合わせて、,"Mori-senpai keeps offering new
+desserts",,,
+116_3_6_1.json,962,Dialog,,新しいデザートを差し出し続ける。,to match Honey-senpai's pace.,,,
+116_3_6_1.json,963,Dialog,,あの２人、さすがに息がピッタリだ。,Those two are definitely in sync.,,,
+116_3_6_1.json,964,Dialog,,この調子なら勝てるかもしれない……。,"If we keep this up, we might win...",,,
+116_3_6_1.json,972,Dialog,Honey,「は〜、おいしかったあ。次はケーキ？　いっ,"Yaa, that was delicious! Next time",,,
+116_3_6_1.json,973,Dialog,Honey,ただっきま〜す♪」,it's cake? I'll have some~♪,,,
+116_3_6_1.json,974,Dialog,Honey,いくら食べても、ハニー先輩の食べるペースは,"No matter how much I eat, Senior",,,
+116_3_6_1.json,975,Dialog,Honey,変わらない。,Honey's eating pace won't change.,,,
+116_3_6_1.json,989,Dialog,Renge,「おおっと！　絢爛の張満腹さんの顔色が悪く,Oh my! Ayawan's face,,,
+116_3_6_1.json,990,Dialog,Renge,なってきましたわ」,looks terrible!,,,
+116_3_6_1.json,994,Dialog,stuffed to the gills,「も、ダメ……」,N-no...it's no good...,,,
+116_3_6_1.json,995,Dialog,stuffed to the gills,ドシーン……。,Thud...,,,
+116_3_6_1.json,1008,Dialog,Renge,「張満腹さんが倒れました〜〜！！」,Mr. Zhang collapsed!!!~,,,
+116_3_6_1.json,1011,Dialog,Sayuri,「大丈夫なのかな……、あの人」,I wonder if he's okay...,,,
+116_3_6_1.json,1016,Dialog,Renge,「第２回戦は桜蘭ホスト部の勝利です！！」,"The second round goes to Ouran Host
+Club!!",,,
+116_3_6_1.json,1020,Dialog,Haruhi,「やりましたね！」,We did it!,,,
+116_3_6_1.json,1027,Dialog,Kyoya,「当然の結果だな」,As expected.,,,
+116_3_6_1.json,1035,Dialog,Tamaki,「さすがはハニー先輩」,"Sure enough, Honey-senpai.",,,
+116_3_6_1.json,1037,Dialog,Tamaki,きゃ〜〜〜！,Kyaa!!!,,,
+116_3_6_1.json,1043,Dialog,,歓声がわきあがるなかで、不満そうな顔をして,Senior Honey has an unhappy,,,
+116_3_6_1.json,1044,Dialog,,いるハニー先輩。,face amidst all the cheers.,,,
+116_3_6_1.json,1050,Dialog,Honey,「あれ？　もうおしまい？」,Huh? Already finished?,,,
+116_3_6_1.json,1058,Dialog,Mori,「……勝負はついた」,The match is over.,,,
+116_3_6_1.json,1068,Dialog,Honey,「やだやだ。もっと食べるーっ！」,No way! Eat more!,,,
+116_3_6_1.json,1069,Dialog,Honey,あれだけ食べて、まだ食べられるんだ……。,"You can still eat after eating that
+much...?",,,
+116_3_6_1.json,1089,Dialog,Renge,「ついに最終戦となりました！　種目はネコ,It's finally the final round!,,,
+116_3_6_1.json,1090,Dialog,Renge,探しですわ」,The event is cat hunting!,,,
+116_3_6_1.json,1092,Dialog,Sayuri,「学院のどこかにいるネコを見つけて、捕まえ,Find and catch a cat somewhere,,,
+116_3_6_1.json,1093,Dialog,Sayuri,たほうが勝利です」,in the school to win.,,,
+116_3_6_1.json,1098,Dialog,Renge,「現在１勝１敗ですから、この勝負の結果です,"Now that it's one win and one loss,
+everything",,,
+116_3_6_1.json,1099,Dialog,Renge,べてが決まりますわっ！」,"will be decided by the outcome of
+this match!",,,
+116_3_6_1.json,1104,Dialog,Sayuri,「桜蘭ホスト部は、須王先輩、鳳先輩、そして,"The Ouran Host Club consists of
+Suou-senpai,",,,
+116_3_6_1.json,1105,Dialog,Sayuri,ハルちゃんチームです！」,"Hou-senpai, and the Haru-chan team!",,,
+116_3_6_1.json,1118,Dialog,,きゃ〜〜〜！,Kyaa!!!,,,
+116_3_6_1.json,1128,Dialog,Tamaki,「ハルヒ、必ず勝とうな」,"Haruhi, let's win for sure.",,,
+116_3_6_1.json,1130,Dialog,Haruhi,「はい」,Yes,,,
+116_3_6_1.json,1144,Dialog,Renge,「そして絢爛ホスト部の選手は……、とうとう,"And the splendid host club's
+contestants have finally",,,
+116_3_6_1.json,1145,Dialog,Renge,出てきました！　絢爛ホスト部部長、ジャン・,"arrived! It's none other than the
+splendid host",,,
+116_3_6_1.json,1146,Dialog,Renge,ピエール・レオさんと他２名ですわっ！」,"club president, Jean-Pierre Leon and
+two others!",,,
+116_3_6_1.json,1147,Dialog,Renge,れんげちゃん、他２名ってあんまりじゃ……。,"Renge-chan and two others isn't
+fair...",,,
+116_3_6_1.json,1160,Dialog,Renge,「ちなみにレオさんは環さんの親友とのこと。,"By the way, Leo-san is said to be
+Tama-chan's best friend.",,,
+116_3_6_1.json,1161,Dialog,Renge,敵味方に引き裂かれた親友っ！　ああっ、萌え,"A friend torn between allies and
+enemies!!",,,
+116_3_6_1.json,1162,Dialog,Renge,る響きですわ〜！！」,"Ahh, how my heart flutters!!",,,
+116_3_6_1.json,1165,Dialog,Renge,#Scale[1.4]きゃ〜〜〜！！,#Scale[1.4]Kyaa!!!,,,
+116_3_6_1.json,1166,Dialog,Renge,#Color[7]#Scale[1.8]本日一番の盛り上がり,#Color[7]#Scale[1.8]Today's biggest highlight!,,,
+116_3_6_1.json,1167,Dialog,,……なんだかすごい熱気を感じる。,...I feel a lot of heat in the air.,,,
+116_3_6_1.json,1168,Dialog,,それにしても、あのレオさんと一緒にいる,"Still, those two",,,
+116_3_6_1.json,1169,Dialog,,２人って――。,with Mr. Leo...,,,
+116_3_6_1.json,1176,Dialog,Kyoya,「あの２人は、絢爛学園探偵部の部長と副部長,"They're the president and
+vice-president of",,,
+116_3_6_1.json,1177,Dialog,Kyoya,だな」,"the Extravagant Academy Detective
+Club.",,,
+116_3_6_1.json,1178,Dialog,Kyoya,……やっぱり。またホスト部じゃない人を連れ,"...I knew it. You brought someone
+else",,,
+116_3_6_1.json,1179,Dialog,Kyoya,てきてるし……。,from outside the Host Club again...,,,
+116_3_6_1.json,1187,Dialog,Tamaki,「探偵ということは、失せもの探しはお手の,"So you're saying you're great at
+finding",,,
+116_3_6_1.json,1188,Dialog,Tamaki,物という訳か。ふっ、相手にとって不足はな,"lost things as a detective? Huh,",,,
+116_3_6_1.json,1189,Dialog,Tamaki,い！」,that's perfect for the client!,,,
+116_3_6_1.json,1191,Dialog,Haruhi,「不足どころか、強敵なのでは……」,"We're not lacking... We're
+formidable...",,,
+116_3_6_1.json,1193,Dialog,Haruhi,自分の不安をよそに、れんげちゃんの進行は続,"Despite my worries, Renge's",,,
+116_3_6_1.json,1194,Dialog,Haruhi,いて――。,hosting continues--.,,,
+116_3_6_1.json,1207,Dialog,Renge,「ターゲットは、白い靴下柄の黒ネコですわ。,"The target is a black cat with white
+sock patterns.",,,
+116_3_6_1.json,1208,Dialog,Renge,首輪には鈴がついてますから、音も頼りにして,Please rely on the sound,,,
+116_3_6_1.json,1209,Dialog,Renge,くださいませ」,of the bell as well~」,,,
+116_3_6_1.json,1214,Dialog,Sayuri,「……え？　追加ルール？　……ゲームを盛り,...Huh? Additional rules?,,,
+116_3_6_1.json,1215,Dialog,Sayuri,あげるために、似たようなネコを放しておきま,"...To liven up the game,",,,
+116_3_6_1.json,1216,Dialog,Sayuri,した」,I let out a similar cat.,,,
+116_3_6_1.json,1221,Dialog,Sayuri,「常陸院光、馨……。ってあなたたち！！」,"Hikaru, Kaoru... You two!!",,,
+116_3_6_1.json,1231,Dialog,Tamaki,「おいっ！？」,「Hey!?」,,,
+116_3_6_1.json,1244,Dialog,Hikaru & Kaoru,「だって、ラストは盛り上げろって鏡夜先輩が」,"Besides, Oji-sama said we have to
+amp up the ending!",,,
+116_3_6_1.json,1245,Dialog,Hikaru & Kaoru,盛り上がるかどうかは知らないけど、余計に不,"I don't know if it'll liven things
+up, but it feels",,,
+116_3_6_1.json,1246,Dialog,Hikaru & Kaoru,利になってきたような……。,"like we're at an even bigger
+disadvantage...",,,
+116_3_6_1.json,1256,Dialog,Leo,「っていうことみたいだから、みんな、バラバ,I guess we should split,,,
+116_3_6_1.json,1257,Dialog,Leo,ラで探したほうがよさそうだね」,up and look for her.,,,
+116_3_6_1.json,1258,Dialog,Leo,レオさんは抗議をするでもなく、さっそく対策,"Leo didn't even protest -- he
+immediately",,,
+116_3_6_1.json,1259,Dialog,Leo,を練り始めていた。,started coming up with a plan.,,,
+116_3_6_1.json,1262,Dialog,Haruhi,「自分たちも手分けして探しましょう」,Let's split up and look for her.,,,
+116_3_6_1.json,1269,Dialog,Kyoya,「いや、ネコを逃がさないためにもハルヒは、,"Actually, to stop the cat from
+escaping, it'd be",,,
+116_3_6_1.json,1270,Dialog,Kyoya,俺か環のどちらかと組んだほうがいい」,"better for Haruhi to team up with me
+or Tamaki.",,,
+116_3_6_1.json,1272,Dialog,Haruhi,「……そうですね。見つけても逃げられてしまっ,...True. It wouldn't be worth it,,,
+116_3_6_1.json,1273,Dialog,Haruhi,たら、意味ないですよね」,if we found her and she escaped.,,,
+116_3_6_1.json,1275,Dialog,Haruhi,それじゃあ自分は……。,Then I'll be...,,,
+116_3_6_1.json,1276,Choice,Haruhi,環先輩,Tamaki-senpai,,,
+116_3_6_1.json,1277,Choice,Haruhi,鏡夜先輩,Kyoya-senpai,,,
+116_3_6_1.json,1294,Dialog,Haruhi,「環先輩、一緒に行きましょう」,"Let's go together, Tama-chan.",,,
+116_3_6_1.json,1299,Dialog,Tamaki,「ああ、絶対にネコを見つけ出そうな」,"Yeah, she'd definitely find the cat.",,,
+116_3_6_1.json,1300,Dialog,Tamaki,環先輩が大きくうなずいたとき――。,When Tama-chan nodded vigorously--.,,,
+116_3_6_1.json,1314,Dialog,Renge,「それでは最終戦、スタートですわっ！」,"And so, the final battle... begins!",,,
+116_3_6_1.json,1317,Dialog,Renge,#Color[7]#Scale[1.8]ネコ探し,#Color[7]#Scale[1.8]Find the Cat,,,
+116_3_6_1.json,1318,Dialog,Renge,パン！,Punch!,,,
+116_3_6_1.json,1319,Dialog,Renge,スタートの合図と同時に、レオさんたちは部室,"As soon as the signal starts, Leo
+and",,,
+116_3_6_1.json,1320,Dialog,Renge,から駆け出していく。,the others dash out of the clubroom.,,,
+116_3_6_1.json,1327,Dialog,Kyoya,「ハルヒ、これを持って行け」,"Haruhi, take this.",,,
+116_3_6_1.json,1328,Dialog,Kyoya,自分たちも続いていこうとしたとき、鏡夜先輩,"Just as we were about to continue,",,,
+116_3_6_1.json,1329,Dialog,Kyoya,に呼び止められた。,Kyoya-senpai called us over.,,,
+116_3_6_1.json,1337,Dialog,Kyoya,「困ったときに使ってくれ」,Use me when you're in trouble.,,,
+116_3_6_1.json,1338,Dialog,Kyoya,そう言いながら、鏡夜先輩は自分に小さなカバ,"Saying that, Kyoya-senpai",,,
+116_3_6_1.json,1339,Dialog,Kyoya,ンを手渡す。,handed me a small bag.,,,
+116_3_6_1.json,1342,Dialog,Haruhi,「はい、わかりました。行きましょう、環先,"Got it! Let's go,",,,
+116_3_6_1.json,1343,Dialog,Haruhi,輩！」,Tamaki-senpai!,,,
+116_3_6_1.json,1344,Dialog,Haruhi,カバンの中身が気になったけど、今は１秒でも,"I wondered what was in my bag,",,,
+116_3_6_1.json,1345,Dialog,Haruhi,時間が惜しい。,but every second counts now.,,,
+116_3_6_1.json,1352,Dialog,Tamaki,「鏡夜、絶対に勝とうな！」,"Kyoya, let's win for sure!",,,
+116_3_6_1.json,1360,Dialog,Kyoya,「当然だ。気を抜くなよ」,"Of course. Don't let your guard
+down.",,,
+116_3_6_1.json,1361,Dialog,Kyoya,いよいよ最後の勝負――。,The final showdown...,,,
+116_3_6_1.json,1371,Dialog,,廊下に出ると、レオさんたちの姿はどこにも見,"When I stepped into the hallway, I",,,
+116_3_6_1.json,1372,Dialog,,えなかった。,didn't see Leo-san or anyone else.,,,
+116_3_6_1.json,1379,Dialog,Haruhi,「どこを探しますか？」,Where should I look?,,,
+116_3_6_1.json,1384,Dialog,Tamaki,「心あたりがある、行こう！」,「I have an idea! Let's go!」,,,
+116_3_6_1.json,1385,Dialog,Tamaki,環先輩は、自信たっぷりにそう言い切る。,"Takashi, says with confidence.",,,
+116_3_6_1.json,1386,Dialog,Tamaki,うーん……。,Hmm...,,,
+116_3_6_1.json,1387,Dialog,Tamaki,微妙に不安なんだけど、今は黙ってついて,"I'm kind of worried, but I'll",,,
+116_3_6_1.json,1388,Dialog,Tamaki,行ってみよう。,go along quietly for now.,,,
+116_3_6_1.json,1391,Dialog,,どこに連れて行かれるかと思ったら……。,I wondered where I'd be taken...,,,
+116_3_6_1.json,1398,Dialog,Haruhi,「どうして図書室なんですか？」,Why the library?,,,
+116_3_6_1.json,1403,Dialog,Tamaki,「ネコは、暗くてせまいところが好きだからな。,Cats like dark and narrow places.,,,
+116_3_6_1.json,1404,Dialog,Tamaki,本棚の隙間とか、ここならそういう場所が多い,There are lots of places like,,,
+116_3_6_1.json,1405,Dialog,Tamaki,だろう」,that between bookshelves here.,,,
+116_3_6_1.json,1406,Dialog,Tamaki,なるほど……。環先輩の言う通りかもしれない。,"I see... Maybe you're right,
+Tama-chan.",,,
+116_3_6_1.json,1407,Dialog,Tamaki,これからはもう少しだけ、信じてみていいかも,Maybe you can believe just,,,
+116_3_6_1.json,1408,Dialog,Tamaki,しれないなあ。,a little more from now on.,,,
+116_3_6_1.json,1409,Dialog,Tamaki,――なんて、考えてる場合じゃなかった。,"There was no time to think about
+that.",,,
+116_3_6_1.json,1412,Dialog,Haruhi,「それじゃあ、自分は向こうから――」,I'll go from over there--,,,
+116_3_6_1.json,1420,Dialog,Tamaki,「それだと時間がかかってしまう。こういうと,That would take too long. Isn't,,,
+116_3_6_1.json,1421,Dialog,Tamaki,きこそ、困ったときではないかにゃ？」,this when we're in trouble?,,,
+116_3_6_1.json,1422,Dialog,Tamaki,そう言って環先輩は、鏡夜先輩に手渡された,"Saying that, Senpai pointed at the",,,
+116_3_6_1.json,1423,Dialog,Tamaki,カバンを指差した。,bag Otori-senpai handed him.,,,
+116_3_6_1.json,1425,Dialog,Haruhi,「そ、そうですね……」,R-right...,,,
+116_3_6_1.json,1426,Dialog,Haruhi,なんだか開けるのがちょっと怖いような気も,I kind of feel scared,,,
+116_3_6_1.json,1427,Dialog,Haruhi,するけど……。,to open it...,,,
+116_3_6_1.json,1428,Dialog,Haruhi,そんなことを考えながらカバンの中を確かめて,"While thinking about such things, I
+checked",,,
+116_3_6_1.json,1429,Dialog,Haruhi,みると、たくさんのネコグッズが入っていた。,"my bag and found it full of cat
+goods.",,,
+116_3_6_1.json,1430,Dialog,Haruhi,確かに、困ったときに役に立ちそうな物ばかり,"Indeed, they're all useful",,,
+116_3_6_1.json,1431,Dialog,Haruhi,が揃ってる。,things to have in a pinch.,,,
+116_3_6_1.json,1436,Dialog,Tamaki,「たくさんあるな……。どれを使えばいいんだ,There are so many... I wonder,,,
+116_3_6_1.json,1437,Dialog,Tamaki,ろうか」,which one to use.,,,
+116_3_6_1.json,1439,Dialog,Haruhi,「そうですね。……とりあえず、マタタビなん,Sure. How about calling,,,
+116_3_6_1.json,1440,Dialog,Haruhi,ていいんじゃないですか？」,it Matatabi?,,,
+116_3_6_1.json,1441,Dialog,Haruhi,目についた【最高級マタタビの小枝】を取り出,"Take out the 【top-grade matatabi
+sprig】",,,
+116_3_6_1.json,1442,Dialog,Haruhi,して、袋をあけてみる。,I noticed and open the bag.,,,
+116_3_6_1.json,1444,Dialog,Haruhi,すると――。,And then--.,,,
+116_3_6_1.json,1445,Dialog,Haruhi,#Scale[1.4]にゃーにゃーにゃーにゃー！,#Scale[1.4]nyah nyah nyah nyah!,,,
+116_3_6_1.json,1447,Dialog,Haruhi,"#Pos[0,20]#Scale[1.4]　　　　「えーっ！！」","#Pos[0,20]#Scale[1.4] ""Hey!!""",,,
+116_3_6_1.json,1448,Dialog,Haruhi,その瞬間、棚の隙間や机の下から数え切れない,"At that moment, countless cats
+jumped out",,,
+116_3_6_1.json,1449,Dialog,Haruhi,ほどのネコが飛び出してきた！,"from between shelves and under
+desks!",,,
+116_3_6_1.json,1456,Dialog,Tamaki,"#Pos[0,20]#Scale[1.4]　　　「ハルヒッ！！」","#Pos[0,20]#Scale[1.4] Haruhi!!",,,
+116_3_6_1.json,1458,Dialog,Tamaki,ネコの波に飲み込まれる寸前、環先輩が自分の,"Just as I was about to be swallowed
+by the wave of",,,
+116_3_6_1.json,1459,Dialog,Tamaki,手から【最高級マタタビの小枝】を取って遠く,"cats, Senpai took a branch of the
+finest matatabi",,,
+116_3_6_1.json,1460,Dialog,Tamaki,に投げようとするけど――。,"from my hand and tried to throw it
+far away--.",,,
+116_3_6_1.json,1461,Dialog,Tamaki,#Scale[1.4]にゃーにゃーにゃーにゃー！,#Scale[1.4]nyah nyah nyah nyah!,,,
+116_3_6_1.json,1468,Dialog,Tamaki,"#Pos[0,20]#Scale[1.4]　 「ヒイイイィィィィ！！」","#Pos[0,20]#Scale[1.4] ""HIIIIIIII!!!""",,,
+116_3_6_1.json,1470,Dialog,Tamaki,環先輩は、ネコ好きな人でも遠慮したくなり,"It looks like Tama-chan's become so
+cat-infested",,,
+116_3_6_1.json,1471,Dialog,Tamaki,そうなくらいネコまみれになってしまった……。,"that even cat lovers would
+hesitate...",,,
+116_3_6_1.json,1474,Dialog,Haruhi,「えーと……？」,Um...?,,,
+116_3_6_1.json,1475,Dialog,Haruhi,マタタビが効いたらしく、ネコたちはすっかり,"The cats are completely calm now
+that the matatabi",,,
+116_3_6_1.json,1476,Dialog,Haruhi,大人しくなっていた。これなら目的のネコがい,"is working. If we find the cat we're
+looking",,,
+116_3_6_1.json,1477,Dialog,Haruhi,れば、すぐに捕まえられるはず。,"for, we should be able to catch it
+right away.",,,
+116_3_6_1.json,1478,Dialog,Haruhi,とりあえずなんとかなりそうかな、と思って,I thought I'd manage somehow,,,
+116_3_6_1.json,1479,Dialog,Haruhi,環先輩に目を向けると……。,and looked at Tama-chan...,,,
+116_3_6_1.json,1485,Dialog,,床一面のネコの中心で、環先輩は小さく震えて,"Tama-chan was trembling in the
+center",,,
+116_3_6_1.json,1486,Dialog,,いた。,of the floor covered with cats.,,,
+116_3_6_1.json,1489,Dialog,,#Color[7]#Scale[1.8]トラウマができました,#Color[7]#Scale[1.8]Trauma achieved!,,,
+116_3_6_1.json,1492,Dialog,,チリン、チリン……。,"Ding, dong...",,,
+116_3_6_1.json,1494,Dialog,Haruhi,「あ……」,Ah...,,,
+116_3_6_1.json,1496,Dialog,Haruhi,「今、鈴の音が聞こえませんでした？」,"Didn't you hear the sound of bells
+just now?",,,
+116_3_6_1.json,1504,Dialog,,……返事がない。よっぽど怖かったんだろう,"...No response. She must have been
+really",,,
+116_3_6_1.json,1505,Dialog,,けど、今は時間を無駄にできない。,"scared, but I can't waste time now.",,,
+116_3_6_1.json,1507,Dialog,Haruhi,「あの……、環先輩？　しっかりしてください。,"Um... Tamaki-senpai? Pull yourself
+together.",,,
+116_3_6_1.json,1508,Dialog,Haruhi,部長がそんなことでどうするんですか」,What are you going to do about it?,,,
+116_3_6_1.json,1515,Dialog,Tamaki,「ハルヒ……」,Haruhi...,,,
+116_3_6_1.json,1516,Dialog,Tamaki,【部長】という言葉に、環先輩の表情が変わる。,"The word ""president"" changes
+Tamaki-senpai's expression.",,,
+116_3_6_1.json,1524,Dialog,Tamaki,「廊下からだな。行ってみよう」,Check it out in the hallway.,,,
+116_3_6_1.json,1526,Dialog,Haruhi,「はい」,Yes,,,
+116_3_6_1.json,1527,Dialog,Haruhi,うなずいて、あっという間に立ち直った環先輩,"I nodded and ran out of the library
+with",,,
+116_3_6_1.json,1528,Dialog,Haruhi,と一緒に図書室から駆け出した。,"Tama-chan, who quickly recovered.",,,
+116_3_6_1.json,1531,Dialog,Haruhi,にゃー。,Nya--.,,,
+116_3_6_1.json,1533,Dialog,Haruhi,「あそこです」,There it is.,,,
+116_3_6_1.json,1534,Dialog,Haruhi,にゃー！,Nya!,,,
+116_3_6_1.json,1535,Dialog,Haruhi,こちらを見て、慌てて逃げ出すネコ。,Look at me and run away in a panic.,,,
+116_3_6_1.json,1543,Dialog,Tamaki,「っ！　待つのだ！　怪しいものじゃないぞ！」,Wait! It's not suspicious!,,,
+116_3_6_1.json,1545,Dialog,Haruhi,「大きな声をだしちゃ駄目です」,Don't shout.,,,
+116_3_6_1.json,1550,Dialog,Tamaki,「あ……」,Ah...,,,
+116_3_6_1.json,1551,Dialog,Tamaki,遅かった。先輩の声に驚いたネコは、階段を駆,You're late. The cat surprised by,,,
+116_3_6_1.json,1552,Dialog,Tamaki,け下りていく。,your voice ran down the stairs.,,,
+116_3_6_1.json,1554,Dialog,Haruhi,「追いかけましょう！」,Let's chase after them!,,,
+116_3_6_1.json,1557,Dialog,Haruhi,階段を下りて、辺りを見回してみたけど――。,"I went downstairs and looked
+around... but--.",,,
+116_3_6_1.json,1558,Dialog,Haruhi,黒猫の姿はどこにもなかった。,There was no sign of the black cat.,,,
+116_3_6_1.json,1566,Dialog,Tamaki,「まだ遠くには行ってないだろうし、このあた,Let's look around,,,
+116_3_6_1.json,1567,Dialog,Tamaki,りを探してみよう」,here first.,,,
+116_3_6_1.json,1569,Dialog,Haruhi,「でも、さっきみたいに追いかけても同じ事の,"But chasing after you like before
+would",,,
+116_3_6_1.json,1570,Dialog,Haruhi,繰り返しです。先回りしましょう」,"just be a repeat. Let's intercept
+them.",,,
+116_3_6_1.json,1578,Dialog,Tamaki,「ネコの行きそうなところか……。食堂はどう,Somewhere cats would go...,,,
+116_3_6_1.json,1579,Dialog,Tamaki,だろう」,How about the cafeteria?,,,
+116_3_6_1.json,1581,Dialog,Haruhi,「行ってみましょう」,Let's go check it out.,,,
+116_3_6_1.json,1584,Dialog,Haruhi,そんな簡単に見つかるとは思ってないけど……、,"I didn't think I'd find it that
+easily...",,,
+116_3_6_1.json,1585,Dialog,Haruhi,そんなことを考えながら探していると――、,but while looking with those,,,
+116_3_6_1.json,1586,Dialog,Haruhi,テーブルの下に隠れているネコといきなり目,thoughts in mind--my eyes suddenly,,,
+116_3_6_1.json,1587,Dialog,Haruhi,が合った。,met a cat hiding under the table.,,,
+116_3_6_1.json,1589,Dialog,Haruhi,「いましたよ、先輩」,"I did, senpai.",,,
+116_3_6_1.json,1596,Dialog,Tamaki,「……ハルヒは向こうから」,...Haruhi went over there.,,,
+116_3_6_1.json,1598,Dialog,Tamaki,フーーーーーッ！！,Hooooooooo!!!,,,
+116_3_6_1.json,1599,Dialog,Tamaki,すっかり警戒されてる……。,They're completely on guard...,,,
+116_3_6_1.json,1606,Dialog,Tamaki,「落ち着くんだ。俺たちは敵じゃない」,Calm down. We're not your enemies.,,,
+116_3_6_1.json,1607,Dialog,Tamaki,フーーーーーッ！！,Wooooo!!!,,,
+116_3_6_1.json,1615,Dialog,,……ネコに言葉は通じませんから。,...Cats don't understand words.,,,
+116_3_6_1.json,1620,Dialog,Tamaki,「どうする？　このまま一気に捕まえるか？」,"What should we do? Should we catch
+them all at once?",,,
+116_3_6_1.json,1621,Dialog,Tamaki,これがネコを捕まえる最後のチャンスかもしれ,"This might be our last chance to
+catch",,,
+116_3_6_1.json,1622,Dialog,Tamaki,ないし、慎重に決めないと……。,"the cat... I have to think
+carefully.",,,
+116_3_6_1.json,1623,Choice,Tamaki,捕まえてください,Catch me!,,,
+116_3_6_1.json,1624,Choice,Tamaki,待ってください,Wait a moment.,,,
+116_3_6_1.json,1635,Dialog,,ここで捕まえないと、あとがないかもしれない。,"We might not get another chance if
+we miss this.",,,
+116_3_6_1.json,1637,Dialog,Haruhi,「このまま捕まえてください」,Catch me like this.,,,
+116_3_6_1.json,1646,Dialog,Tamaki,「わかった」,Got it.,,,
+116_3_6_1.json,1648,Dialog,Tamaki,先輩がネコを追いつめるように、自分はネコの,I move to block the cat's escape...,,,
+116_3_6_1.json,1649,Dialog,Tamaki,逃げ道をふさぐように動く……。,like trapping it.,,,
+116_3_6_1.json,1651,Dialog,Tamaki,にゃー！,Nya!,,,
+116_3_6_1.json,1652,Dialog,Tamaki,ネコは威嚇するように鳴くと、自分たちの間を,The cat meowed threateningly and,,,
+116_3_6_1.json,1653,Dialog,,すり抜けるようにして逃げていった。,slipped away between them.,,,
+116_3_6_1.json,1660,Dialog,Tamaki,「……くっ！　もうちょっとだったのに！」,...Gah! I was so close!,,,
+116_3_6_1.json,1662,Dialog,Tamaki,ネコが走って食堂から出て行く。しかし、その,"A cat runs out of the cafeteria. But
+before",,,
+116_3_6_1.json,1663,Dialog,Tamaki,前に大きな網が現れ――。,"it can leave, a large net appears--.",,,
+116_3_6_1.json,1665,Dialog,Haruhi,「あっ！」,Oh!,,,
+116_3_6_1.json,1666,Dialog,Haruhi,そのまま網に、飛び込んでしまった。,I jumped right into the net.,,,
+116_3_6_1.json,1673,Dialog,Leo,「捕まえた！」,Caught you!,,,
+116_3_6_1.json,1682,Dialog,Tamaki,「はっ……、しまった」,Ha... Crap.,,,
+116_3_6_1.json,1683,Dialog,Tamaki,桜蘭ホスト部の、負け……。,The Ouran Host Club loses...,,,
+116_3_6_1.json,1691,Dialog,,無理に捕まえようとしても、また逃げられるは,"If I try to catch her, she'll",,,
+116_3_6_1.json,1692,Dialog,,ず……。,probably escape again...,,,
+116_3_6_1.json,1694,Dialog,Haruhi,「待ってください。ネコグッズを使って警戒心,Wait. Let's start by using cat,,,
+116_3_6_1.json,1695,Dialog,Haruhi,を解くところから始めましょう」,goods to ease her guard.,,,
+116_3_6_1.json,1704,Dialog,Tamaki,「わかった……」,I understand...,,,
+116_3_6_1.json,1706,Dialog,Tamaki,にゃー！,Nya!,,,
+116_3_6_1.json,1708,Dialog,Haruhi,「あっ！」,Oh!,,,
+116_3_6_1.json,1709,Dialog,Haruhi,カバンに注意を向けたほんの一瞬の隙に、ネコ,For just an instant when I looked,,,
+116_3_6_1.json,1710,Dialog,Haruhi,は駆け出した。,"at my bag, the cat took off.",,,
+116_3_6_1.json,1718,Dialog,Tamaki,「警戒させないように追いかけよう」,Let's chase after them unnoticed.,,,
+116_3_6_1.json,1720,Dialog,Haruhi,「はいっ」,「Yes!」,,,
+116_3_6_1.json,1728,Dialog,,廊下の先に、駆けていくネコが見えた。,"I saw a cat running down the
+hallway.",,,
+116_3_6_1.json,1735,Dialog,Leo,「いたよ！　あっち！」,「Ow! Over there!」,,,
+116_3_6_1.json,1736,Dialog,Leo,廊下の角からレオさんたちが現れた。自分たち,"Leo-san and co. appeared around the
+corner of the hallway.",,,
+116_3_6_1.json,1737,Dialog,Leo,よりネコに近い位置だ。,"They were closer to the cats than we
+were.",,,
+116_3_6_1.json,1745,Dialog,Tamaki,「――レオ！」,「――Leo!」,,,
+116_3_6_1.json,1753,Dialog,Leo,「ボクらが先に、捕まえさせてもらうよ」,Let us take care of it first.,,,
+116_3_6_1.json,1760,Dialog,Tamaki,「そうはいかん！　ハルヒ、追うぞ！」,"Can't do that! Haruhi, I'm coming
+after you!",,,
+116_3_6_1.json,1763,Dialog,Tamaki,フーーーーーッ！！,Hooooooooo!!!,,,
+116_3_6_1.json,1770,Dialog,Leo,「いい子だから待って！」,Be good and wait!,,,
+116_3_6_1.json,1778,Dialog,Tamaki,「レオ、追い回しても怖がらせるだけだぞ！」,"「Leo, chasing her will just scare
+her!」",,,
+116_3_6_1.json,1779,Dialog,Tamaki,レオさんと探偵部の２人が、声を上げて追い回,"Leo and the two from the Detective
+Club chase",,,
+116_3_6_1.json,1780,Dialog,Tamaki,すから、ネコは必死になって逃げて行く。,"after it, so the cat runs for dear
+life.",,,
+116_3_6_1.json,1782,Dialog,Haruhi,「どうしましょう、環先輩」,"What should we do, Tamaki-senpai?",,,
+116_3_6_1.json,1787,Dialog,Tamaki,「……逃げてくるなら向こうだ。先回りしよ,......They'll come from over,,,
+116_3_6_1.json,1788,Dialog,Tamaki,う！」,there. Let's intercept them!,,,
+116_3_6_1.json,1792,Dialog,Tamaki,あたりは静まり返っていて、ネコの姿はどこに,"There's not a soul around,",,,
+116_3_6_1.json,1793,Dialog,Tamaki,も見えない。,and no sign of a cat.,,,
+116_3_6_1.json,1795,Dialog,Haruhi,「こっちじゃなかったんでしょうか」,Was it not this way?,,,
+116_3_6_1.json,1796,Dialog,Haruhi,思いきって先回りしてきたけど、違う方に逃げ,"I took a chance and came early, but
+did",,,
+116_3_6_1.json,1797,Dialog,Haruhi,てしまったんだろうか。,she run off in another direction?,,,
+116_3_6_1.json,1798,Dialog,Haruhi,チリン、チリン……。,"Ding, dong...",,,
+116_3_6_1.json,1799,Dialog,Haruhi,鈴の音？　上の方から聞こえてくるような……。,"Bells? I hear them coming from
+above...",,,
+116_3_6_1.json,1801,Dialog,Haruhi,「あ！　あそこに！」,Over there!,,,
+116_3_6_1.json,1802,Dialog,Haruhi,ネコは、木の上にいた。,The cat was up in the tree.,,,
+116_3_6_1.json,1804,Dialog,Haruhi,にー。,Ne~?,,,
+116_3_6_1.json,1805,Dialog,Haruhi,細い枝の上から下を見下ろして、か細い声で鳴,Looking down from a thin branch,,,
+116_3_6_1.json,1806,Dialog,Haruhi,いている。,and chirping in a faint voice.,,,
+116_3_6_1.json,1808,Dialog,Haruhi,「もしかして、降りられなくなったんでしょう,Maybe you can't,,,
+116_3_6_1.json,1809,Dialog,Haruhi,か……」,get down...,,,
+116_3_6_1.json,1816,Dialog,Tamaki,「かわいそうに……。すぐ助けてやるからな」,"Poor thing... I'll come save you
+right away.",,,
+116_3_6_1.json,1818,Dialog,Tamaki,そう言って環先輩は、木を登っていく。でも、,"Saying that, Senpai started climbing",,,
+116_3_6_1.json,1819,Dialog,Tamaki,ネコのいる枝は細すぎて、そこまでたどり着け,the tree. But the branch with the,,,
+116_3_6_1.json,1820,Dialog,Tamaki,そうになかった。,cat was too thin for him to reach.,,,
+116_3_6_1.json,1827,Dialog,Tamaki,「……俺の体重だと、枝が折れてしまう」,I might break the branch...,,,
+116_3_6_1.json,1829,Dialog,Haruhi,「自分が行きます」,I'll go.,,,
+116_3_6_1.json,1835,Dialog,Tamaki,「駄目だ、危険すぎる」,"No way, it's too dangerous.",,,
+116_3_6_1.json,1837,Dialog,Haruhi,「でもこのままだと、ネコもかわいそうですし、,"But if it stays like this, even the
+cat",,,
+116_3_6_1.json,1838,Dialog,Haruhi,勝負にだって勝てません」,"will look sad, and we won't win
+either.",,,
+116_3_6_1.json,1843,Dialog,Tamaki,「もし、途中で枝が折れたらどうする？」,What if it breaks in the middle?,,,
+116_3_6_1.json,1845,Dialog,Haruhi,「そのときは……、そうですね。環先輩が受け,That time... I believe that,,,
+116_3_6_1.json,1846,Dialog,Haruhi,止めてくれるって信じてますから」,Senpai will catch me.,,,
+116_3_6_1.json,1854,Dialog,Tamaki,「……わかった。無理はするなよ、ハルヒ」,"...Got it. Don't push yourself too
+hard, Haruhi.",,,
+116_3_6_1.json,1856,Dialog,Haruhi,「わかってます」,I get it.,,,
+116_3_6_1.json,1858,Dialog,Haruhi,木から足をすべらせて落ちないように、ゆっく,Climb up slowly to avoid slipping,,,
+116_3_6_1.json,1859,Dialog,Haruhi,り登っていく。,and falling from the tree.,,,
+116_3_6_1.json,1860,Dialog,Haruhi,そんなに太い木じゃないおかげで、登ること自,"It's not that thick of a tree,",,,
+116_3_6_1.json,1861,Dialog,Haruhi,体はそんなに難しくはない。,so climbing it isn't too hard.,,,
+116_3_6_1.json,1862,Dialog,Haruhi,問題は枝が重みに耐えてくれるかどうか……。,"The problem is whether the branch
+can withstand the weight...",,,
+116_3_6_1.json,1863,Dialog,,だけど、なんとか行けそう。枝によじのぼり、,"But I should be able to make it.
+Climb up the",,,
+116_3_6_1.json,1864,Dialog,,そっとネコのいる枝先へ。,"branches and sneak over to where the
+cat is.",,,
+116_3_6_1.json,1866,Dialog,Haruhi,「ほら、おいで」,「C'mere.」,,,
+116_3_6_1.json,1867,Dialog,Haruhi,動けないでいるネコに手を伸ばす。あと少しで,"Reach out to the cat that can't
+move.",,,
+116_3_6_1.json,1868,Dialog,Haruhi,手が届く……、もうちょっと。,Just a little more... almost there.,,,
+116_3_6_1.json,1869,Dialog,Haruhi,にー。,Ne~?,,,
+116_3_6_1.json,1871,Dialog,Haruhi,「……捕まえた」,...Got it.,,,
+116_3_6_1.json,1873,Dialog,Haruhi,落とさないように、しっかり抱く。,Hold on tight so you don't fall.,,,
+116_3_6_1.json,1880,Dialog,Tamaki,「ハルヒ！」,Haruhi!,,,
+116_3_6_1.json,1883,Dialog,Haruhi,「大丈夫ですよ、今降り――」,"「It's okay, I'll get down now--」",,,
+116_3_6_1.json,1884,Dialog,Haruhi,ミシミシッ……。,Squeak...,,,
+116_3_6_1.json,1886,Dialog,Haruhi,「え……？」,「Huh...?」,,,
+116_3_6_1.json,1887,Dialog,Haruhi,バキッ！,Snap!,,,
+116_3_6_1.json,1889,Dialog,Haruhi,「わ……、わっ！？」,W-Wha...!?,,,
+116_3_6_1.json,1891,Dialog,Haruhi,落ちる――！,Fall!,,,
+116_3_6_1.json,1899,Dialog,Tamaki,「ハルヒーー！！」,「Haruhi!!」,,,
+116_3_6_1.json,1904,Dialog,Haruhi,「あ、れ……、先輩？」,Ah... senpai?,,,
+116_3_6_1.json,1905,Dialog,Haruhi,ギュッと閉じていた目を開けると、環先輩の笑,I opened my eyes to see Tama-chan's,,,
+116_3_6_1.json,1906,Dialog,Haruhi,顔が自分をのぞき込んでいた。,smile peering at me.,,,
+116_3_6_1.json,1909,Dialog,Tamaki,「間に合った……」,I made it...,,,
+116_3_6_1.json,1910,Dialog,Tamaki,自分は、環先輩にしっかりと抱きとめられてい,I was securely held,,,
+116_3_6_1.json,1911,Dialog,Tamaki,た。,by Tama-chan.,,,
+116_3_6_1.json,1913,Dialog,Haruhi,「ありがとうございます……」,Thank you...,,,
+116_3_6_1.json,1915,Dialog,Tamaki,「大丈夫か？　どこか、痛いところは？」,Are you okay? Does anything hurt?,,,
+116_3_6_1.json,1917,Dialog,Haruhi,「ありません、平気ですよ。この子もね」,I'm fine. This kid's fine too.,,,
+116_3_6_1.json,1919,Dialog,Haruhi,にゃー。,Nya~.,,,
+116_3_6_1.json,1920,Dialog,Haruhi,自分の腕のなかで、ネコが声を上げる。自分が,The cat meows in my arms. Realizing,,,
+116_3_6_1.json,1921,Dialog,Haruhi,助けられたとわかるのか、もう逃げようとはし,"it's been saved, it doesn't",,,
+116_3_6_1.json,1922,Dialog,Haruhi,なかった。,try to run away anymore.,,,
+116_3_6_1.json,1930,Dialog,Tamaki,「これで、一件落着だな」,That wraps it up.,,,
+116_3_6_1.json,1932,Dialog,Haruhi,「あ、そうか。これで勝負は……」,"Oh, I see. So this settles it...",,,
+116_3_6_1.json,1938,Dialog,Tamaki,「我が桜蘭ホスト部の、勝利だ！」,It's our Ouran Host Club's victory!,,,
+116_3_6_1.json,1939,Dialog,Tamaki,これで２勝１敗、桜蘭高校ホスト部の勝ちだ。,"That makes it two wins and one loss.
+The Ouran High School Host Club
+wins!",,,
+116_3_6_1.json,1951,Dialog,Haruhi,「鏡夜先輩、一緒に行きましょう」,"Let's go together, Kyoya-senpai.",,,
+116_3_6_1.json,1956,Dialog,Kyoya,「ああ」,"""Yeah.""",,,
+116_3_6_1.json,1957,Dialog,Kyoya,鏡夜先輩が大きくうなずいたとき――。,"When Kyoya-senpai nodded
+vigorously--.",,,
+116_3_6_1.json,1971,Dialog,Renge,「それでは最終戦、スタートですわっ！」,"And so, the final battle... begins!",,,
+116_3_6_1.json,1974,Dialog,Renge,#Color[7]#Scale[1.8]ネコ探し,#Color[7]#Scale[1.8]Find the Cat,,,
+116_3_6_1.json,1975,Dialog,Renge,パン！,Punch!,,,
+116_3_6_1.json,1976,Dialog,Renge,スタートの合図と同時に、レオさんたちは部室,"As soon as the signal is given, Leo
+and",,,
+116_3_6_1.json,1977,Dialog,Renge,から駆け出していく。,the others dash out of the clubroom.,,,
+116_3_6_1.json,1978,Dialog,,いよいよ最後の勝負。自分もしっかりやらない,It's finally down to this.,,,
+116_3_6_1.json,1979,Dialog,,と。,I can't slack off now.,,,
+116_3_6_1.json,1987,Dialog,Kyoya,「しかし、ネコ探しとは厄介だな」,But cat hunting is troublesome.,,,
+116_3_6_1.json,1989,Dialog,Haruhi,「そうですね。ネコってせまいところにどんど,That's true. Cats always squeeze,,,
+116_3_6_1.json,1990,Dialog,Haruhi,ん入って行っちゃいますし……」,into tiny spaces...,,,
+116_3_6_1.json,1995,Dialog,Kyoya,「いろいろ用意してみたが」,I prepared all sorts of things.,,,
+116_3_6_1.json,1996,Dialog,Kyoya,そう言いながら鏡夜先輩は、自分の手に小さな,"Saying that, Kyoya-senpai put a",,,
+116_3_6_1.json,1997,Dialog,Kyoya,カバンをのせる。なんだろうと思いながら開け,small bag on his hand. Wondering,,,
+116_3_6_1.json,1998,Dialog,Kyoya,てみると……。,"what it was, I opened it...",,,
+116_3_6_1.json,2000,Dialog,Haruhi,「これでおびき出す作戦ですか」,This is the baiting strategy?,,,
+116_3_6_1.json,2001,Dialog,Haruhi,なかには、ネコじゃらしやマタタビ、ネズミの,"There were lots of things inside,
+like cat",,,
+116_3_6_1.json,2002,Dialog,Haruhi,形をしたオモチャなどがたくさん入っていた。,"toys, catnip, and mouse-shaped toys.",,,
+116_3_6_1.json,2004,Dialog,Kyoya,「その通りだ」,That's right.,,,
+116_3_6_1.json,2005,Dialog,Kyoya,何も考えずに追いまわすだけだと捕まえられな,"Chasing after her without thinking
+won't work,",,,
+116_3_6_1.json,2006,Dialog,Kyoya,いだろうし、名案かもしれない。,and it might not be such a bad idea.,,,
+116_3_6_1.json,2007,Dialog,Kyoya,……もしかして、無闇にネコを怖がらせたりし,...Maybe it's so I don't,,,
+116_3_6_1.json,2008,Dialog,Kyoya,ないためなのかな。,scare cats for no reason.,,,
+116_3_6_1.json,2016,Dialog,Kyoya,「ひとまず、近くの教室からのぞいてみるか」,"Let's take a peek from a nearby
+classroom for now.",,,
+116_3_6_1.json,2018,Dialog,Haruhi,「あ、はい」,Yeah.,,,
+116_3_6_1.json,2020,Dialog,Haruhi,簡単に見つけられるとは思わないけど……。,"I don't think it'll be easy to
+find...",,,
+116_3_6_1.json,2021,Dialog,Haruhi,とりあえず鏡夜先輩の言葉に従って、すぐ近く,"For now, following Ootori-senpai's
+words, I",,,
+116_3_6_1.json,2022,Dialog,Haruhi,の教室のドアを開けてみると――。,"opened the door of the nearby
+classroom--.",,,
+116_3_6_1.json,2024,Dialog,Haruhi,#Scale[1.4]にゃーにゃーにゃーにゃー！,#Scale[1.4]nyah nyah nyah nyah!,,,
+116_3_6_1.json,2026,Dialog,Haruhi,"#Pos[0,20]#Scale[1.4]　　　　「えーっ！！」","#Pos[0,20]#Scale[1.4] ""Hey!!""",,,
+116_3_6_1.json,2033,Dialog,Kyoya,「……声が大きい」,...Too loud.,,,
+116_3_6_1.json,2035,Dialog,Kyoya,鏡夜先輩の警告はすでに手遅れで、教室の中に,"Kyoya-senpai's warning came too
+late; the cats",,,
+116_3_6_1.json,2036,Dialog,Kyoya,集まっているネコが一斉に振り向いた。,"in the classroom turned around
+simultaneously.",,,
+116_3_6_1.json,2037,Dialog,Kyoya,#Color[7]#Scale[1.8]ネコ、集会中？,"#Color[7]#Scale[1.8]Cat, in a meeting?",,,
+116_3_6_1.json,2038,Dialog,Kyoya,どうしてこんなにネコが……、と考えると同時,"As I wondered why there were so many
+cats...,",,,
+116_3_6_1.json,2039,Dialog,Kyoya,に、カバンに入っていた『物』が思い浮かんだ。,I remembered what was in my bag.,,,
+116_3_6_1.json,2041,Dialog,Haruhi,「これって……、もしかして」,Could it be...,,,
+116_3_6_1.json,2048,Dialog,Kyoya,「察しが良くなってきたな」,"You're getting quicker on the
+uptake.",,,
+116_3_6_1.json,2049,Dialog,Kyoya,……マタタビを仕掛けていたんですね。,...So you set up catnip.,,,
+116_3_6_1.json,2050,Dialog,Kyoya,まったくこの人は、用意周到というかなんと,This guy really thinks,,,
+116_3_6_1.json,2051,Dialog,Kyoya,言うか。,of everything.,,,
+116_3_6_1.json,2058,Dialog,,チリン、チリン……。,"Ding, dong...",,,
+116_3_6_1.json,2060,Dialog,Haruhi,「あれ……？」,Hmm...?,,,
+116_3_6_1.json,2064,Dialog,Haruhi,……鈴の音？,...Bells?,,,
+116_3_6_1.json,2072,Dialog,Kyoya,「運がいいな。ハルヒ、さっさと決めるぞ」,"Lucky you. Haruhi, make up your mind
+already.",,,
+116_3_6_1.json,2073,Dialog,Kyoya,本当に運が良かっただけかどうかは別にして、,Approach slowly,,,
+116_3_6_1.json,2074,Dialog,Kyoya,ネコを怖がらせたりしないように、ゆっくりと,so you don't,,,
+116_3_6_1.json,2075,Dialog,Kyoya,近づく。,scare the cat.,,,
+116_3_6_1.json,2079,Dialog,,フーーーーーッ！！,Hooooooooo!!!,,,
+116_3_6_1.json,2080,Dialog,,ネコがいきなり駆け出した。,The cat suddenly ran off.,,,
+116_3_6_1.json,2082,Dialog,Haruhi,「あ、逃げます！」,Run away!,,,
+116_3_6_1.json,2089,Dialog,Kyoya,「追いかけるぞ」,Chase her!,,,
+116_3_6_1.json,2092,Dialog,Kyoya,今度は逃げられないよう、はさみうちする形で,Trap the cat between us so,,,
+116_3_6_1.json,2093,Dialog,Kyoya,ネコを追いつめる。,it can't escape this time.,,,
+116_3_6_1.json,2094,Dialog,Kyoya,フーーーーーッ！！,Wooooo!!!,,,
+116_3_6_1.json,2095,Dialog,Kyoya,追いつめられ、ネコはこちらを威嚇してきた。,"The cat cornered me and started
+threatening me.",,,
+116_3_6_1.json,2103,Dialog,Kyoya,「かなり警戒しているな……」,They're pretty cautious...,,,
+116_3_6_1.json,2104,Dialog,Kyoya,本気で抵抗されたら、小さなネコとはいえ捕ま,"If you really resist, even a small",,,
+116_3_6_1.json,2105,Dialog,Kyoya,えるのは難しい。,cat would be hard to catch.,,,
+116_3_6_1.json,2106,Dialog,Kyoya,どうしよう……。,What should I do...?,,,
+116_3_6_1.json,2107,Choice,Kyoya,ネコグッズを使う,Use cat goods.,,,
+116_3_6_1.json,2108,Choice,Kyoya,自分は後ろから,Get behind her.,,,
+116_3_6_1.json,2121,Dialog,,こんなときこそ、あのアイテムの出番だ。,It's time to use that item.,,,
+116_3_6_1.json,2123,Dialog,Haruhi,「鏡夜先輩、これ！」,"Kyoya-senpai, this!",,,
+116_3_6_1.json,2124,Dialog,Haruhi,鏡夜先輩にネコじゃらしを渡す。,Give Kyoya-senpai catnip.,,,
+116_3_6_1.json,2126,Dialog,Haruhi,「これで気を引きつつ、危害を加えるつもりが,Let's catch their attention and,,,
+116_3_6_1.json,2127,Dialog,Haruhi,ないことをアピールしましょう！」,show them we mean no harm!,,,
+116_3_6_1.json,2133,Dialog,Kyoya,「わかった」,Got it.,,,
+116_3_6_1.json,2134,Dialog,Kyoya,鏡夜先輩がネコじゃらしをふる。,Kyoya-senpai waves a cat toy.,,,
+116_3_6_1.json,2143,Dialog,Kyoya,フーーーーーッ！！,Hooooooooo!!!,,,
+116_3_6_1.json,2148,Dialog,Kyoya,「このゲーム終了後の待遇は保障しよう。高級,"I'll guarantee your treatment after
+this game ends. You can eat",,,
+116_3_6_1.json,2149,Dialog,Kyoya,食品が食べ放題だ。悪い話ではあるまい？」,"as much gourmet food as you want.
+That's not a bad deal, is it?",,,
+116_3_6_1.json,2151,Dialog,Haruhi,「どういう説得ですか……」,"What kind of persuasion are you
+talking about...",,,
+116_3_6_1.json,2152,Dialog,Haruhi,鏡夜先輩らしいけど、ネコには絶対わかんない,"That's like Kyoya-senpai, but",,,
+116_3_6_1.json,2153,Dialog,Haruhi,よ……。,cats will never understand...,,,
+116_3_6_1.json,2156,Dialog,Haruhi,「怖がらなくてもいいんだよ。こんなゲームに,Don't be scared. I'm sorry for,,,
+116_3_6_1.json,2157,Dialog,Haruhi,巻き込んじゃってごめんね」,dragging you into this game.,,,
+116_3_6_1.json,2158,Dialog,Haruhi,にゃー！,Nya!,,,
+116_3_6_1.json,2160,Dialog,Haruhi,「一緒に来てくれればすぐ終わるからね？」,Come with me and it'll be over soon.,,,
+116_3_6_1.json,2162,Dialog,Haruhi,少しは警戒を解いてくれたのか、ネコの態度が,The cat's attitude has changed.,,,
+116_3_6_1.json,2163,Dialog,Haruhi,変わった。こっちを見て様子をうかがっている。,It's looking at me cautiously.,,,
+116_3_6_1.json,2165,Dialog,Haruhi,「怖くないから、こっちにおいで」,"Come here, there's nothing to fear.",,,
+116_3_6_1.json,2166,Dialog,Haruhi,にゃー。,Nya--.,,,
+116_3_6_1.json,2167,Dialog,Haruhi,ネコが１歩、こっちに向かって足を踏み出した。,The cat takes one step toward us.,,,
+116_3_6_1.json,2174,Dialog,Kyoya,「よし、いいぞ」,"「All right, let's do it.」",,,
+116_3_6_1.json,2175,Dialog,Kyoya,１歩、２歩――。,One step... two steps--.,,,
+116_3_6_1.json,2179,Dialog,Leo,「こっちだよ！　こっちにいるみたい！！」,"Over here! It looks like she's over
+here!!",,,
+116_3_6_1.json,2180,Dialog,Leo,そのとき、廊下からレオさんの声が響いた。,"Then, Reo's voice echoed from down
+the hallway.",,,
+116_3_6_1.json,2181,Dialog,Leo,突然聞こえたあわただしい声に、すぐそこまで,"The cat that had been approaching
+suddenly",,,
+116_3_6_1.json,2182,Dialog,Leo,近づいてきていたネコが、さっと飛び退く。,"leaps back at the sound of a hurried
+voice.",,,
+116_3_6_1.json,2184,Dialog,Haruhi,「あ、待って！」,Wait!,,,
+116_3_6_1.json,2185,Dialog,Haruhi,自分の手をすり抜けて、ネコは廊下に飛び出し,"The cat slipped through my fingers
+and ran",,,
+116_3_6_1.json,2186,Dialog,Haruhi,て行ってしまった。もうちょっとだったのに。,"off down the hallway. I almost had
+it.",,,
+116_3_6_1.json,2193,Dialog,Leo,「追いかけて！」,Chase after me!,,,
+116_3_6_1.json,2195,Dialog,Leo,逃げるネコを、レオさんたちが追いかけていく。,"Leo-san and co. chase after the
+running cat.",,,
+116_3_6_1.json,2202,Dialog,Kyoya,「俺たちも行くぞ」,Let's go too.,,,
+116_3_6_1.json,2204,Dialog,Kyoya,ネコとレオさんたちを追って、自分たちも廊下,We dashed down the hallway,,,
+116_3_6_1.json,2205,Dialog,Kyoya,に飛び出した。,after Neko and Reo-san.,,,
+116_3_6_1.json,2218,Dialog,Leo,「待って！」,Wait!,,,
+116_3_6_1.json,2220,Dialog,Haruhi,「レオさん。そんなに大声を出すと怖がります」,"Mr. Leo, you're scaring her with
+that loud voice.",,,
+116_3_6_1.json,2222,Dialog,Haruhi,ネコが気の毒になってきた。早く捕まえて、終,"The cat looks pitiful. I should
+catch",,,
+116_3_6_1.json,2223,Dialog,Haruhi,わらせてあげないと。,"it soon and put it out of its
+misery.",,,
+116_3_6_1.json,2230,Dialog,Kyoya,「先回りだ」,Get there first.,,,
+116_3_6_1.json,2238,Dialog,,鏡夜先輩が、方向を変えてスピードを上げた。,"Kyoya-senpai changed direction and
+sped up.",,,
+116_3_6_1.json,2240,Dialog,,鏡夜先輩がやって来たのは中庭だった。,"Kyoya-senpai arrived in the
+courtyard.",,,
+116_3_6_1.json,2242,Dialog,Haruhi,「本当にこっちに……？」,Really over here...?,,,
+116_3_6_1.json,2243,Dialog,Haruhi,チリン、チリン……。,"Ding, dong...",,,
+116_3_6_1.json,2244,Dialog,Haruhi,鈴の音だ……。,The sound of bells...,,,
+116_3_6_1.json,2251,Dialog,Kyoya,「どうやら、いるようだな」,It seems to be here.,,,
+116_3_6_1.json,2259,Dialog,Leo,「あっちだよ！」,Over there!,,,
+116_3_6_1.json,2267,Dialog,Haruhi,「レオさんたちも来ました！」,Leo and the others are here too!,,,
+116_3_6_1.json,2269,Dialog,Haruhi,レオさんたちが、すごい勢いでこっちに走って,Leo-san and co. are running,,,
+116_3_6_1.json,2270,Dialog,Haruhi,くる。,towards us at full speed.,,,
+116_3_6_1.json,2271,Dialog,Haruhi,その前をネコが必死に逃げてる。,"A cat's desperately running in front
+of us.",,,
+116_3_6_1.json,2273,Dialog,Haruhi,「あ、ダメだよ！　そっちは池――」,"Wait, no! That's the pond--",,,
+116_3_6_1.json,2274,Dialog,Haruhi,バシャーン！,Splash!,,,
+116_3_6_1.json,2276,Dialog,Haruhi,池に飛び込んだネコは、バシャバシャと水をか,"The cat that jumped into the pond is
+splashing around.",,,
+116_3_6_1.json,2277,Dialog,Haruhi,いている。泳ぎはあんまりうまくないみたいだ。,"It doesn't seem to be a very good
+swimmer.",,,
+116_3_6_1.json,2284,Dialog,Kyoya,「こっちへ来い！」,Come here!,,,
+116_3_6_1.json,2285,Dialog,Kyoya,にゃー！,Nya!,,,
+116_3_6_1.json,2287,Dialog,Kyoya,こんなとき、何か使える道具は！？　……えっ,Is there anything useful I can use?!,,,
+116_3_6_1.json,2288,Dialog,Kyoya,と、マタタビ配合タオルと、それから――。,"...Um, catnip-scented towels and--.",,,
+116_3_6_1.json,2290,Dialog,Haruhi,「鏡夜先輩！　これを使ってください！」,Kyoya-senpai! Use this!,,,
+116_3_6_1.json,2294,Dialog,Haruhi,先輩はそれを受け取ると、少し眉をしかめた。,He frowned slightly when he took it.,,,
+116_3_6_1.json,2302,Dialog,Kyoya,「しかたがない。――おいっ」,Can't be helped. --Hey!,,,
+116_3_6_1.json,2306,Dialog,Kyoya,マタタビ配合タオルを広げ、笑顔でネコを呼ぶ,"Kyoya-senpai spreads a
+matatabi-infused",,,
+116_3_6_1.json,2307,Dialog,Kyoya,鏡夜先輩。,"towel and calls the cat with a
+smile.",,,
+116_3_6_1.json,2308,Dialog,Kyoya,にゃー！,Nya!,,,
+116_3_6_1.json,2309,Dialog,,ネコは、マタタビの匂いに気づいたのか、一直,"The cat noticed the valerian scent
+and",,,
+116_3_6_1.json,2310,Dialog,,線に鏡夜先輩に向かっていき──。,went straight toward Kyoya-senpai...,,,
+116_3_6_1.json,2313,Dialog,,鏡夜先輩が広げるタオルに飛び込んだ。,"I jumped into the towel Kyoya-senpai
+spread out.",,,
+116_3_6_1.json,2315,Dialog,Kyoya,「やっと捕まえたぞ」,Gotcha!,,,
+116_3_6_1.json,2317,Dialog,Kyoya,にゃー。,Nya--,,,
+116_3_6_1.json,2318,Dialog,Kyoya,とろんとした目つきになったネコを、鏡夜先輩,Senior Kyoya gently wraps a towel,,,
+116_3_6_1.json,2319,Dialog,Kyoya,がタオルで優しく包み込む。,around the cat with dazed eyes.,,,
+116_3_6_1.json,2321,Dialog,Leo,「うわー……」,「Uwa--...」,,,
+116_3_6_1.json,2322,Dialog,Leo,追いついてきたレオさんが、鏡夜先輩の姿を見,Reon looks surprised,,,
+116_3_6_1.json,2323,Dialog,Leo,て目を丸くしている。,to see Kyoya-senpai.,,,
+116_3_6_1.json,2324,Dialog,Leo,驚きの顔は、じきにやわらかい笑みに変わった。,"Her surprised face soon softened
+into a gentle smile.",,,
+116_3_6_1.json,2326,Dialog,Leo,「あれが有名なネコ耳……。初めて見た……」,"That's the famous cat ears... This
+is my first time seeing them...",,,
+116_3_6_1.json,2330,Dialog,Kyoya,鏡夜先輩は、あいまいな微笑みを浮かべながら、,Kyoya-senpai gave me an ambiguous,,,
+116_3_6_1.json,2331,Dialog,Kyoya,自分を見た。,smile as he looked at me.,,,
+116_3_6_1.json,2333,Dialog,Kyoya,「ネコ耳をつける必要はあったのか？」,Did I really need to wear cat ears?,,,
+116_3_6_1.json,2335,Dialog,Haruhi,「……万全を尽くすということで」,...Doing our best.,,,
+116_3_6_1.json,2336,Dialog,Haruhi,ネコの警戒心が解けると思ったアイテムがそれ,I thought that item would,,,
+116_3_6_1.json,2337,Dialog,Haruhi,だったんですよね……。,ease the cat's wariness...,,,
+116_3_6_1.json,2340,Dialog,Kyoya,「そうか……、まあいい。これで俺たちの勝ち,"Is that so... Well, whatever.",,,
+116_3_6_1.json,2341,Dialog,Kyoya,だ」,This means we win.,,,
+116_3_6_1.json,2343,Dialog,Kyoya,鏡夜先輩から、タオルにくるまれたネコを渡さ,Kyoya-senpai handed me a,,,
+116_3_6_1.json,2344,Dialog,Kyoya,れた。,cat wrapped in a towel.,,,
+116_3_6_1.json,2345,Dialog,Kyoya,にゃー。,Nya--.,,,
+116_3_6_1.json,2347,Dialog,Haruhi,「お疲れさま。……ごめんね」,Thanks... Sorry.,,,
+116_3_6_1.json,2354,Dialog,Kyoya,「さて……、戻るか」,Well... let's go back.,,,
+116_3_6_1.json,2356,Dialog,Haruhi,「はい」,Yes,,,
+116_3_6_1.json,2357,Dialog,Haruhi,２勝１敗。ホスト部の勝利。,2 wins 1 loss. The Host Club wins!,,,
+116_3_6_1.json,2358,Dialog,Haruhi,いろいろあったけど、これでぜんぶ決着がつい,"Well, it's all",,,
+116_3_6_1.json,2359,Dialog,Haruhi,たんだ――。,over now...,,,
+116_3_6_1.json,2366,Dialog,Haruhi,「そっちからネコの気を引きつけてください。,"Draw the cat's attention from that
+side.",,,
+116_3_6_1.json,2367,Dialog,Haruhi,自分が後ろから行きますから」,I'll go from behind.」,,,
+116_3_6_1.json,2375,Dialog,Kyoya,「わかった。おい、こっちだ」,"Got it. Hey, over here.",,,
+116_3_6_1.json,2376,Dialog,Kyoya,フーーーーーッ！！,Hooooooooo!!!,,,
+116_3_6_1.json,2380,Dialog,Haruhi,鏡夜先輩に気を取られているうちに、背後から,Sneak up on them while they're,,,
+116_3_6_1.json,2381,Dialog,Haruhi,こっそり忍び寄っていく。,distracted by Kyoya-senpai.,,,
+116_3_6_1.json,2382,Dialog,Haruhi,あと３メートル……、２メートル……。この距,Three meters... two meters...!,,,
+116_3_6_1.json,2383,Dialog,Haruhi,離なら！,At this distance!!,,,
+116_3_6_1.json,2385,Dialog,Haruhi,「えいっ！」,「Hey!」,,,
+116_3_6_1.json,2386,Dialog,Haruhi,にゃー！,Nya!,,,
+116_3_6_1.json,2387,Dialog,Haruhi,伸ばした指先をすりぬけて、ネコは横に飛んだ。,"The cat slipped through my
+outstretched fingers and flew to the
+side.",,,
+116_3_6_1.json,2388,Dialog,Haruhi,勢い余って体勢を崩した自分たちを尻目に、素,"Ignoring us as we stumbled around,
+she",,,
+116_3_6_1.json,2389,Dialog,Haruhi,早く教室から駆け出して行ってしまう。,quickly ran out of the classroom.,,,
+116_3_6_1.json,2397,Dialog,Kyoya,「くっ！　逃げられたか」,「Kuh! Did she get away?」,,,
+116_3_6_1.json,2400,Dialog,Leo,「あ、君は――！」,"「Ah, you're――!」",,,
+116_3_6_1.json,2401,Dialog,Leo,廊下から、レオさんの声が聞こえた。,"I heard Leo's voice from the
+hallway.",,,
+116_3_6_1.json,2403,Dialog,Leo,ネコが飛び出したところに、タイミング良くやっ,It seems they arrived just in,,,
+116_3_6_1.json,2404,Dialog,Leo,て来たらしい。,time for the cat to jump out.,,,
+116_3_6_1.json,2405,Dialog,Leo,ネコはとっさに逃げようとしたけど、探偵部の,"The cat tried to run away, but was",,,
+116_3_6_1.json,2406,Dialog,Leo,人が持っていた大きな網で、ネコはあっけなく,easily caught in the large net held,,,
+116_3_6_1.json,2407,Dialog,,捕まってしまった。,by the Detective Club member.,,,
+116_3_6_1.json,2414,Dialog,Kyoya,「ちっ……」,Tch...,,,
+116_3_6_1.json,2422,Dialog,Leo,「捕まえた！　ボクたちの勝ちだね！」,We got 'em! We win!,,,
+116_3_6_1.json,2423,Dialog,Leo,これで自分たちの２敗。負けちゃった……。,"We lost... That's two defeats for
+us.",,,
+116_3_6_1.json,2432,Dialog,,ずいぶん苦労したけど……。,It was quite a hassle...,,,
+116_3_6_1.json,2433,Dialog,,こうして、長い勝負がようやく終わった。,"And so, this long battle has finally
+ended.",,,
+116_3_6_1.json,2434,Dialog,,結果は２勝１敗――。,"The result is two wins and one
+loss--.",,,
+116_3_6_1.json,2435,Dialog,,桜蘭ホスト部の勝利だ。,Victory for the Ouran Host Club!,,,
+116_3_6_1.json,2449,Dialog,Renge,「それでは結果発表です！」,"And now, here are the results!",,,
+116_3_6_1.json,2454,Dialog,Renge,「今回の桜蘭ホスト部対絢爛ホスト部の交流,"The upcoming Ouran Host Club versus
+Extravagant",,,
+116_3_6_1.json,2455,Dialog,Renge,戦は――」,Host Club exchange match is--,,,
+116_3_6_1.json,2463,Dialog,Renge,「対戦成績２勝１敗で、桜蘭ホスト部の勝利で,We won with a record of two,,,
+116_3_6_1.json,2464,Dialog,Renge,すわーっ！！」,victories and one loss!!,,,
+116_3_6_1.json,2467,Dialog,Renge,きゃ〜〜〜！！,Kyaa!!!,,,
+116_3_6_1.json,2468,Dialog,Renge,改めて勝利が告げられると、大きな歓声が,Cheers erupted once more at,,,
+116_3_6_1.json,2469,Dialog,Renge,あがった。,the announcement of victory.,,,
+116_3_6_1.json,2476,Dialog,Sakurazuka,「おめでとうございます！　みなさん」,Congratulations everyone!,,,
+116_3_6_1.json,2484,Dialog,Kamikamo,「本当に良かったですわ」,I'm so relieved.,,,
+116_3_6_1.json,2492,Dialog,Kurakano,「またホスト部に遊びにいけますね！」,"I can come play at the Host Club
+again!",,,
+116_3_6_1.json,2493,Dialog,Kurakano,みんなが祝福してくれる。,Everyone will bless me.,,,
+116_3_6_1.json,2494,Dialog,Kurakano,これでなにもかも元通りだ……。,Everything's back to normal now...,,,
+116_3_6_1.json,2495,Dialog,Kurakano,いろいろ大変だったけど、がんばって良かった,"It was tough, but I'm glad",,,
+116_3_6_1.json,2496,Dialog,Kurakano,なあ……。,I tried my best...,,,
+116_3_6_1.json,2501,Dialog,Haruhi,「みなさん、どうもありがとうございました」,Thank you all very much.,,,
+116_3_6_1.json,2502,Dialog,Haruhi,ギャラリーのお客さんたちを送り出す。,Send off the gallery guests.,,,
+116_3_6_1.json,2504,Dialog,Haruhi,部室にはホスト部のみんなとレオさん、豪徳寺,"Only the Host Club members and
+Reo-san and",,,
+116_3_6_1.json,2505,Dialog,Haruhi,さんだけが残った。,"Koudouji-san were left in the
+clubroom.",,,
+116_3_6_1.json,2506,Dialog,Haruhi,王さんは最後の試合の結果を聞いてすぐ、帰っ,"It seems that Ootori left right
+after hearing",,,
+116_3_6_1.json,2507,Dialog,Haruhi,てしまったらしい。,about the results of the last match.,,,
+116_3_6_1.json,2510,Dialog,,さっきとは打って変わった、静かな雰囲気だ。,"It's completely different from
+before. It's very quiet now.",,,
+116_3_6_1.json,2522,Dialog,Tamaki,「今日は楽しかったな。いい勝負だった」,"That was fun today. It was a good
+match.",,,
+116_3_6_1.json,2523,Dialog,Tamaki,すがすがしい笑顔の環先輩が、レオさんに向かっ,Senpai offers his hand to Leo,,,
+116_3_6_1.json,2524,Dialog,Tamaki,て手を差し出す。,with a refreshing smile.,,,
+116_3_6_1.json,2530,Dialog,Leo,なのに、レオさんはなかなか環先輩の手を取ろ,But Leo-san isn't holding,,,
+116_3_6_1.json,2531,Dialog,Leo,うとしない。,Tama-chan's hand at all.,,,
+116_3_6_1.json,2537,Dialog,Tamaki,「どうした？」,What is it?,,,
+116_3_6_1.json,2542,Dialog,Leo,「残念だよ。環を連れて帰れなくて……」,"I'm sorry. I couldn't take Tamaki
+with me...",,,
+116_3_6_1.json,2543,Dialog,Leo,レオさんが寂しそうに笑う。本当に残念そうだ。,"Leo smiles sadly. He really seems
+disappointed.",,,
+116_3_6_1.json,2545,Dialog,Haruhi,「あの……、どうしてそんなに環先輩を連れて,Why did you want to take,,,
+116_3_6_1.json,2546,Dialog,Haruhi,行きたかったんですか？」,Senpai with you so much?,,,
+116_3_6_1.json,2554,Dialog,Kyoya,「そうだな。こう言ってはなんだが、面倒が増,"True. To put it bluntly, I think
+this",,,
+116_3_6_1.json,2555,Dialog,Kyoya,えるだけだと思うが」,will just cause more trouble.,,,
+116_3_6_1.json,2564,Dialog,Tamaki,「面倒っ！？　俺は面倒なのか！？」,Troublesome!? Am I troublesome!?,,,
+116_3_6_1.json,2569,Dialog,Kyoya,「いつも面倒事を背負い込んでくるだろう。今,"You always end up carrying
+everyone's problems",,,
+116_3_6_1.json,2570,Dialog,Kyoya,回の件だってそうだ」,"on your back. This time is no
+different.",,,
+116_3_6_1.json,2582,Dialog,Tamaki,「……なっ！　楽しかったではないか？　なあ、,...What?! Wasn't it,,,
+116_3_6_1.json,2583,Dialog,Tamaki,レオ？」,"fun? Right, Leo?",,,
+116_3_6_1.json,2588,Dialog,Leo,「うん、楽しかったよ」,"Yeah, it was fun.",,,
+116_3_6_1.json,2589,Dialog,Leo,レオさんはそこだけはしっかり笑って言った。,Leo said that with a firm laugh.,,,
+116_3_6_1.json,2590,Dialog,Leo,本当に楽しかったんだろうな。,I wonder if it was really fun.,,,
+116_3_6_1.json,2595,Dialog,Leo,「でも……。ジョゼットが、環に会いたがって,But... Josset wants,,,
+116_3_6_1.json,2596,Dialog,Leo,いるんだよ」,to see Tama-chan.,,,
+116_3_6_1.json,2597,Dialog,Leo,ポツリと、レオさんが言った。,Leo said quietly.,,,
+116_3_6_1.json,2603,Dialog,Tamaki,「ジョゼット？　でも、彼女はフランスだろ,Josette? But isn't,,,
+116_3_6_1.json,2604,Dialog,Tamaki,う？」,she French?,,,
+116_3_6_1.json,2609,Dialog,Leo,「あれ、言わなかったかな？　ジョゼットが絢,"Hey, didn't I mention it? Josee came",,,
+116_3_6_1.json,2610,Dialog,Leo,爛に留学してきてるって」,to study abroad in splendor.,,,
+116_3_6_1.json,2615,Dialog,Leo,ジョゼットさん──、環先輩がフランスに住ん,"Ms. Jose... It seems that one of
+Tama-chan's friends",,,
+116_3_6_1.json,2616,Dialog,,でいた頃の友だちが、日本にいるらしい。,"from when he lived in France is in
+Japan.",,,
+116_3_6_1.json,2622,Dialog,Tamaki,「なんだ。それなら一緒に連れてくれば良かっ,What? Then I should have,,,
+116_3_6_1.json,2623,Dialog,Tamaki,たのに」,brought you along.,,,
+116_3_6_1.json,2625,Dialog,Leo,「……ねえ環」,"...Hey, Tamaki.",,,
+116_3_6_1.json,2627,Dialog,Tamaki,「……ん？」,「......Hm?」,,,
+116_3_6_1.json,2632,Dialog,Leo,「……環は、ジョゼットのこと、どう思って,...What do you think,,,
+116_3_6_1.json,2633,Dialog,Leo,る？」,of Josette?,,,
+116_3_6_1.json,2634,Dialog,Leo,反応を探るように、レオさんが聞いた。環先輩,Leo asked to gauge our reaction.,,,
+116_3_6_1.json,2635,Dialog,Leo,は首をかしげる。,Tama-chan tilted his head.,,,
+116_3_6_1.json,2640,Dialog,Tamaki,「ずっと会っていないが、ジョゼットはいい友,"Even though we haven't seen each
+other in ages,",,,
+116_3_6_1.json,2641,Dialog,Tamaki,だちだと思っているぞ？」,"I still think of you as a good
+friend, okay?",,,
+116_3_6_1.json,2646,Dialog,Leo,「そっか……」,Right...,,,
+116_3_6_1.json,2647,Dialog,Leo,レオさんの顔に、複雑な表情が浮かんだ。残念,A complex expression appeared on,,,
+116_3_6_1.json,2648,Dialog,Leo,がっているような、それでいてホッとしている,Reo's face. It was as if he were,,,
+116_3_6_1.json,2649,Dialog,Leo,ような……。,disappointed yet relieved...,,,
+116_3_6_1.json,2654,Dialog,Tamaki,「どうして……、そんなこと聞くんだ？」,Why are you asking such a thing...?,,,
+116_3_6_1.json,2660,Dialog,Leo,「そ、それは――」,"T,That's--",,,
+116_3_6_1.json,2661,Dialog,Leo,レオさんは、顔を赤くして言葉をにごした。,"Leo's face turned red as he
+stammered.",,,
+116_3_6_1.json,2666,Dialog,Tamaki,「……ん？」,「......Hm?」,,,
+116_3_6_1.json,2679,Dialog,,みんなが突然レオさんを囲むように立って、自,"Everyone suddenly stood up and
+surrounded Leo,",,,
+116_3_6_1.json,2680,Dialog,,然と環先輩に壁を作った。,"forming an unintentional wall around
+Senpai.",,,
+116_3_6_1.json,2684,Dialog,Kyoya,「……つまり、ジョゼットさんは環に好意を抱,So you have feelings,,,
+116_3_6_1.json,2685,Dialog,Kyoya,いている訳ですね」,for Tama-chan.,,,
+116_3_6_1.json,2686,Dialog,Kyoya,鏡夜先輩が、環先輩に聞こえないようにささや,Kyoya-senpai whispered to me so that,,,
+116_3_6_1.json,2687,Dialog,Kyoya,いた。,Tamaki-senpai couldn't hear.,,,
+116_3_6_1.json,2690,Dialog,Kyoya,みんなの話によると、ジョゼットさんという人,"According to everyone, this Ms.",,,
+116_3_6_1.json,2691,Dialog,,は環先輩のことが好きらしい。,Josette seems to like Tama-chan.,,,
+116_3_6_1.json,2692,Dialog,,そして、レオさんはそのジョゼットさんのこと,And that's why you,,,
+116_3_6_1.json,2693,Dialog,,を好きだということだった。,like Josette.,,,
+116_3_6_1.json,2700,Dialog,Leo,「実は、彼女に相談されて……。子どものころ,I actually consulted her... I've,,,
+116_3_6_1.json,2701,Dialog,Leo,からずっと、憧れてたって」,admired her since childhood.,,,
+116_3_6_1.json,2702,Dialog,Leo,だからジョゼットさんは、環先輩と同じ学校に,"So Josset-san was really
+disappointed that she couldn't",,,
+116_3_6_1.json,2703,Dialog,Leo,編入できなかったことをとても残念がっていた。,"transfer to the same school as
+Tama-chan.",,,
+116_3_6_1.json,2714,Dialog,,レオさんはそんな彼女のために、環先輩を絢爛,"It seems Rei-san was trying to
+enroll",,,
+116_3_6_1.json,2715,Dialog,,に編入させようとしていたらしい。,"Tama-chan spectacularly for her
+sake.",,,
+116_3_6_1.json,2720,Dialog,Hikaru,「殿に憧れるなんて……」,I can't believe I admire him...,,,
+116_3_6_1.json,2723,Dialog,Kaoru,「変わった人だね」,You're quite unique.,,,
+116_3_6_1.json,2731,Dialog,Haruhi,「でも、レオさんもその女の人のことが好きな,But you like that woman,,,
+116_3_6_1.json,2732,Dialog,Haruhi,んでしょう？」,"too, don't you?",,,
+116_3_6_1.json,2735,Dialog,Haruhi,ジョゼットさんと環先輩がうまくいってしまっ,Is it okay if Josset-san and,,,
+116_3_6_1.json,2736,Dialog,Haruhi,てもいいのかな。,Tama-chan get along too well?,,,
+116_3_6_1.json,2741,Dialog,Leo,「……ボクはいいんだ。彼女に、幸せになって,I'm fine. I just wanted,,,
+116_3_6_1.json,2742,Dialog,Leo,欲しかっただけだから」,her to be happy.,,,
+116_3_6_1.json,2743,Dialog,Leo,レオさん……。,Leo-san...,,,
+116_3_6_1.json,2745,Dialog,Haruhi,「でも、そういう理由なら、最初から言ってく,"But if that's your reason, you could",,,
+116_3_6_1.json,2746,Dialog,Haruhi,れれば良かったのに」,have said so from the start.,,,
+116_3_6_1.json,2747,Dialog,Haruhi,どうしてこんな大ごとにするかなあ。本当にお,"Why make such a big deal about it? I
+wonder",,,
+116_3_6_1.json,2748,Dialog,Haruhi,金持ちっていうのは……。,what it's like to be truly rich...,,,
+116_3_6_1.json,2757,Dialog,Leo,「……言われてみれば、確かにそうだね」,"Yeah, now that you mention it.",,,
+116_3_6_1.json,2762,Dialog,Leo,「でも、今回のことは、王が提案してくれたか,"But this time, it's because",,,
+116_3_6_1.json,2763,Dialog,Leo,ら……」,the King suggested it...,,,
+116_3_6_1.json,2775,Dialog,Tamaki,「おい、さっきからなんの話だ？」,What's been going on?,,,
+116_3_6_1.json,2783,Dialog,,すっかりのけ者にされた環先輩が、レオさんを,"Tamaki-senpai, feeling left out,
+barged",,,
+116_3_6_1.json,2784,Dialog,,囲む輪のなかへ割り込んできた。,into the circle around Leo-san.,,,
+116_3_6_1.json,2797,Dialog,Hikaru & Kaoru,「殿は知らなくてもいいよ」,"You don't need to know, my lord.",,,
+116_3_6_1.json,2818,Dialog,Honey,「ナイショなの」,It's a secret.,,,
+116_3_6_1.json,2820,Dialog,Mori,「秘密だ……」,It's a secret...,,,
+116_3_6_1.json,2827,Dialog,,みんなの顔にも笑顔が戻った。ホスト部も、すっ,"Everyone's smiles are back. The Host
+Club",,,
+116_3_6_1.json,2828,Dialog,,かり元通りに戻ったみたい。,"seems to be completely back to
+normal too.",,,
+116_3_6_1.json,2830,Dialog,,この部屋はちょっと騒々しいくらいが、なんと,This room feels kind of calming,,,
+116_3_6_1.json,2831,Dialog,,なく落ち着くかな。,when it's a little noisy.,,,
+116_3_6_1.json,2839,Dialog,Leo,ふとレオさんの方を見ると、レオさんがまぶし,"Glancing at Leo-san, I saw him
+staring",,,
+116_3_6_1.json,2840,Dialog,Leo,そうな目で自分たちを見つめていた。,at us with dazzled eyes.,,,
+116_3_6_1.json,2845,Dialog,Leo,「桜蘭ホスト部はいいね。ボクも見習わない,I like Ouran Host Club. I've,,,
+116_3_6_1.json,2846,Dialog,Leo,と……」,got to learn from them...,,,
+116_3_6_1.json,2847,Dialog,Leo,そう言って小さくため息をついて――。,Sighing softly...,,,
+116_3_6_1.json,2852,Dialog,Leo,「絢爛ホスト部は、うまくまとまっていない,The Extravagant Host Club isn't,,,
+116_3_6_1.json,2853,Dialog,Leo,から」,coming together well.,,,
+116_3_6_1.json,2855,Dialog,Leo,レオさんは、少し落ち込んだような表情で、絢,"Reo started talking about the
+Extravagant Host",,,
+116_3_6_1.json,2856,Dialog,Leo,爛ホスト部のことを話し始めた。,"Club with a slightly dejected
+expression.",,,
+116_3_6_1.json,2861,Dialog,Leo,「……王はうちの会社とのつながり目当てで近,"I know that you're approaching us
+because",,,
+116_3_6_1.json,2862,Dialog,Leo,づいてきてることは、ボクもわかってるんだ」,of your connection to our company.,,,
+116_3_6_1.json,2870,Dialog,Kyoya,「あなたのご両親は、ヨーロッパ大手の自動車,Your parents ran a major European,,,
+116_3_6_1.json,2871,Dialog,Kyoya,会社の経営でしたね」,"automobile company, didn't they?",,,
+116_3_6_1.json,2876,Dialog,Kyoya,「そして王君は、香港で悪名高い金融会社の社,"And besides, Your Highness is the
+son of a Hong Kong-based financial
+company",,,
+116_3_6_1.json,2877,Dialog,Kyoya,長子息だ。つながりを欲しがるのは理解できる」,"with a bad reputation. I can
+understand why you'd want
+connections.",,,
+116_3_6_1.json,2882,Dialog,Leo,「さすが鏡夜くん。よく調べてるね」,"As expected of you, Kyoya-kun.
+You've done your research well.",,,
+116_3_6_1.json,2887,Dialog,Leo,「でも、それだけじゃないよ。両親がつけた警,"But that's not all. It seems she
+doesn't like Kurakano",,,
+116_3_6_1.json,2888,Dialog,Leo,護の由綱のことも気に入らないみたいなんだ」,"either, the bodyguard her parents
+assigned.",,,
+116_3_6_1.json,2896,Dialog,Gotokuji,「別に構わん……」,I don't mind...,,,
+116_3_6_1.json,2901,Dialog,Gotokuji,「俺にとってお前は、ただの警護の対象でしか,You're just my bodyguard,,,
+116_3_6_1.json,2902,Dialog,Gotokuji,ない」,target.,,,
+116_3_6_1.json,2908,Dialog,Leo,レオさん……。確かに大変そうだな。,Mr. Leo... You do seem troubled.,,,
+116_3_6_1.json,2909,Dialog,Leo,環先輩を誘ったのは、好きな女の子のためだけ,Maybe I didn't invite Senpai just,,,
+116_3_6_1.json,2910,Dialog,Leo,じゃなかったのかもしれない。,for the sake of the girl I like.,,,
+116_3_6_1.json,2918,Dialog,Tamaki,「レオ……」,Leo...,,,
+116_3_6_1.json,2919,Dialog,Tamaki,環先輩が心配そうに声をかけた。,Senpai looks worried and calls out.,,,
+116_3_6_1.json,2920,Dialog,Tamaki,その声を跳ね返すように、明るくレオさんが顔,"Reflecting that voice, Leo",,,
+116_3_6_1.json,2921,Dialog,Tamaki,を上げた。,raised his face brightly.,,,
+116_3_6_1.json,2926,Dialog,Leo,「……ボクたちが桜蘭のようになるのはずっと,"...It might take a while for us to
+become",,,
+116_3_6_1.json,2927,Dialog,Leo,先かもしれないけど、努力してみるね」,"like Ouran, but we'll try our best.",,,
+116_3_6_1.json,2932,Dialog,Leo,「もしそうなることができたら……、また勝負,If that were possible... would,,,
+116_3_6_1.json,2933,Dialog,Leo,してくれるかな？」,you bet with me again?,,,
+116_3_6_1.json,2934,Dialog,Leo,レオさんは、まっすぐ環先輩を見つめた。,Reo looked straight at Tama-chan.,,,
+116_3_6_1.json,2938,Dialog,Leo,環先輩も同じように、レオさんをまっすぐ見つ,Takashi-kun stared back at,,,
+116_3_6_1.json,2939,Dialog,,め返し――。,Leo just as intently--.,,,
+116_3_6_1.json,2944,Dialog,Tamaki,「ああ……、もちろんだ」,Yeah... of course.,,,
+116_3_6_1.json,2948,Dialog,Tamaki,満面の笑みで答えた。レオさんも気持ちのいい,I answered with a big smile.,,,
+116_3_6_1.json,2949,Dialog,Tamaki,笑顔を見せる。,Leo returned my smile warmly.,,,
+116_3_6_1.json,2951,Dialog,,そして、２人がようやく握手を交わした。,"And finally, the two of them shook
+hands.",,,
+116_3_6_1.json,2952,Dialog,,レオさんだったら、きっといつか、王さんや豪,"If it's you, Leo, I'm sure you'll be
+able to make good",,,
+116_3_6_1.json,2953,Dialog,,徳寺さんともいい関係を作れるんじゃないかな。,"relationships with Mr. Ou and
+Gouda-san someday.",,,
+116_3_6_1.json,2954,Dialog,,それに、ジョゼットさんという人とも……。,"And also with someone named
+Josette...",,,
+116_3_6_1.json,2955,Dialog,,ともかく、こうしてホスト部の、そして環先輩,"In any case, the Host Club and",,,
+116_3_6_1.json,2956,Dialog,,の危機は去った。,Tama-chan's crisis is over.,,,
+116_3_6_1.json,2965,Dialog,Haruhi,「今日はさすがにクタクタだなあ……」,I'm totally wiped out today...,,,
+116_3_6_1.json,2966,Dialog,Haruhi,本当にいろいろ疲れた……。,I'm really tired...,,,
+116_3_6_1.json,2967,Dialog,Haruhi,……でも、少し楽しかったかな。,...But it was kind of fun.,,,
+116_3_6_1.json,2968,Dialog,Haruhi,そうだ、寝る前にパソコンをチェックしない,"Oh right, I should check",,,
+116_3_6_1.json,2969,Dialog,Haruhi,と……。,my computer before bed...,,,
+116_3_6_1.json,2971,Dialog,Haruhi,明日はお休みだし、早めに家事をこなして勉強,I'll do my chores early and study,,,
+116_3_6_1.json,2972,Dialog,,しよう。,since I have tomorrow off.,,,

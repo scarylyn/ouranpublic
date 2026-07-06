@@ -1,0 +1,649 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+114_3_4.json,4,Dialog,,キーンコーンカーンコーン。,Bing-bong-ring-bong.,,,
+114_3_4.json,5,Dialog,,今日の授業もお終い。,Class dismissed for today.,,,
+114_3_4.json,6,Dialog,,本当ならこのまま部室に行くところなんだけ,I should head to the club,,,
+114_3_4.json,7,Dialog,,ど……。,room right now...,,,
+114_3_4.json,20,Dialog,,環先輩と鏡夜先輩のところに行かないと。,"I have to go see Senpai and
+Kyoya-senpai.",,,
+114_3_4.json,22,Dialog,,あれ？　あんなところに、環先輩と鏡夜先輩が,"Huh? There's Tama-chan and
+Kyoya-senpai over",,,
+114_3_4.json,23,Dialog,,いるけど……。どこに行くんだろ？,there... Wonder where they're going.,,,
+114_3_4.json,27,Dialog,,こんなところに来てどうするのかな？,What are you doing here?,,,
+114_3_4.json,28,Dialog,,黙ってついてきたから、なんとなく声をかけに,It's awkward to talk to you since,,,
+114_3_4.json,29,Dialog,,くいんだけど……。,you just followed me in silence...,,,
+114_3_4.json,30,Dialog,,環先輩と鏡夜先輩……、どっちかに話しかけよ,Should I talk to Tama-chan,,,
+114_3_4.json,31,Dialog,,うかな。,or Kyoya-senpai?,,,
+114_3_4.json,32,Choice,,環先輩に,To Tama-chan~!,,,
+114_3_4.json,33,Choice,,鏡夜先輩に,Talk to Kyoya-senpai,,,
+114_3_4.json,46,Dialog,,環先輩に話しかけようとすると――。,When I try to talk to Senpai... --,,,
+114_3_4.json,53,Dialog,Tamaki,「ハルヒか……」,"Haruhi, huh...",,,
+114_3_4.json,54,Dialog,Tamaki,声をかける直前に、環先輩がふり向いてつぶや,"Just before I spoke to him, Senpai",,,
+114_3_4.json,55,Dialog,Tamaki,いた。,turned around and muttered.,,,
+114_3_4.json,57,Dialog,Haruhi,「あれ、気づいてたんですか？」,"Oh, you noticed?",,,
+114_3_4.json,65,Dialog,Kyoya,「……気がつかないとでも思っていたのか」,...Did you think I wouldn't notice?,,,
+114_3_4.json,67,Dialog,Haruhi,「あははは……」,Hahaha...,,,
+114_3_4.json,72,Dialog,Tamaki,「……すべて、俺の責任なんだ」,It's all my fault.,,,
+114_3_4.json,74,Dialog,Haruhi,「……環先輩？」,...Tama-chan?,,,
+114_3_4.json,80,Dialog,Kyoya,「昨夜から考え込んで一睡もしなかった挙げ句、,"I've been brooding since last night
+and haven't slept",,,
+114_3_4.json,81,Dialog,Kyoya,自己嫌悪に陥ったらしい」,"at all, apparently leading to
+self-loathing.",,,
+114_3_4.json,83,Dialog,Haruhi,「そんなに悩まなくても……」,You don't have to worry so much...,,,
+114_3_4.json,88,Dialog,Tamaki,「鏡夜にも、迷惑ばかり……」,"I'm just causing trouble for you
+too, Kyoya...",,,
+114_3_4.json,93,Dialog,Kyoya,「……ハルヒ、あとは頼む」,"...Haruhi, I'm counting on you.",,,
+114_3_4.json,96,Dialog,Kyoya,鏡夜先輩は、もう手におえないとばかりに身を,Kyoya-senpai gave up and folded,,,
+114_3_4.json,97,Dialog,Kyoya,引くと、腕を組んで目を閉じてしまった。,"his arms, closing his eyes.",,,
+114_3_4.json,99,Dialog,Kyoya,しょうがないなあ。このままにしておくわけに,Can't be helped. We can't,,,
+114_3_4.json,100,Dialog,,もいかないし。,just leave it like this.,,,
+114_3_4.json,108,Dialog,Haruhi,「環先輩が――、いえ、部長がしっかりしない,"If Tama-chan isn't firm-- no, if the
+president",,,
+114_3_4.json,109,Dialog,Haruhi,と、部員はついていけないですよ」,"isn't firm, the members won't
+follow.",,,
+114_3_4.json,114,Dialog,Tamaki,「ハルヒの言う通りだ。俺がしっかりしていな,"It's like Haruhi said. I've been
+letting everyone",,,
+114_3_4.json,115,Dialog,Tamaki,いせいで、みんなにも迷惑を……」,"down because I wasn't being
+responsible...",,,
+114_3_4.json,117,Dialog,Haruhi,「そういうことじゃなくって――」,That's not what I meant--,,,
+114_3_4.json,119,Dialog,Haruhi,「……１人で背負い込まないでください。何の,"Don't bottle things up by yourself.
+What",,,
+114_3_4.json,120,Dialog,Haruhi,ためにみんながいると思ってるんですか？」,do you think we're all here for?,,,
+114_3_4.json,123,Dialog,Haruhi,「先輩は１人じゃないんです。みんなを信頼し,You're not alone. If you trust,,,
+114_3_4.json,124,Dialog,Haruhi,てるなら、ちゃんと頼ってください」,"everyone here, rely on them.",,,
+114_3_4.json,132,Dialog,Haruhi,「そうじゃないと、みんなが一緒にいる意味が,That's not the point. What's the,,,
+114_3_4.json,133,Dialog,Haruhi,ないじゃないですか」,meaning of us all being together?,,,
+114_3_4.json,142,Dialog,Tamaki,「――それはつまり、何でも相談しあえるのが、,"That's what family is all about,
+right?",,,
+114_3_4.json,143,Dialog,Tamaki,家族ってことだよな」,Being able to talk about anything.,,,
+114_3_4.json,145,Dialog,Haruhi,「いや、家族ではないですけど……」,"No, we're not family... but...",,,
+114_3_4.json,146,Dialog,Haruhi,……ま、いいか。いつもの環先輩に戻ってくれ,"...Well, whatever. It seems like",,,
+114_3_4.json,147,Dialog,Haruhi,たみたいだし。,Tama-chan's back to normal.,,,
+114_3_4.json,155,Dialog,,鏡夜先輩に話しかけようとすると――。,"When you try to talk to
+Kyoya-senpai--.",,,
+114_3_4.json,162,Dialog,Kyoya,「そんなところに立っていないで、こっちに来,Stop standing there and,,,
+114_3_4.json,163,Dialog,Kyoya,たらどうだ？　ハルヒ」,"come over here, Haruhi.",,,
+114_3_4.json,164,Dialog,Kyoya,声をかける直前に、鏡夜先輩がふり向いて言っ,"Just before I spoke to her,
+Kyoya-senpai",,,
+114_3_4.json,165,Dialog,Kyoya,た。,turned around and said.,,,
+114_3_4.json,167,Dialog,Haruhi,「いつから気がついてたんですか？」,When did you notice?,,,
+114_3_4.json,175,Dialog,Kyoya,「最初からだが」,Let's start from the beginning.,,,
+114_3_4.json,176,Dialog,Kyoya,……それなら言ってくれればいいのに。本当に,"...If so, why didn't you say
+anything? You're",,,
+114_3_4.json,177,Dialog,Kyoya,鏡夜先輩は人が――。,"really inconsiderate, Kyoya-senpai--",,,
+114_3_4.json,182,Dialog,Kyoya,「どうしたハルヒ。言いたいことがあるなら言,"What's wrong, Haruhi? If you have
+something to say,",,,
+114_3_4.json,183,Dialog,Kyoya,葉に出してみたらどうだ？　気づいているのに,"why don't you just spit it out? It's
+not nice",,,
+114_3_4.json,184,Dialog,Kyoya,言わないなんて人が悪い、とかな」,"to keep things bottled up when you
+know them.",,,
+114_3_4.json,185,Dialog,Kyoya,…………よ、読まれてる。,...It's being read.,,,
+114_3_4.json,190,Dialog,Kyoya,「まあいい。それより、環をなんとかしてくれ」,"Never mind. Besides, do something
+about Tamaki.",,,
+114_3_4.json,192,Dialog,Haruhi,「なんとかって？」,What do you mean 'somehow'?,,,
+114_3_4.json,201,Dialog,Kyoya,「昨夜から考え込んで一睡もしなかった挙げ句、,"I've been brooding all night and
+haven't",,,
+114_3_4.json,202,Dialog,Kyoya,自己嫌悪に陥ったらしい」,"slept at all, leading to
+self-loathing.",,,
+114_3_4.json,210,Dialog,,環先輩へ視線を向けると、いつも以上に落ち込,"Looking at Senpai, he seemed",,,
+114_3_4.json,211,Dialog,,んでるように見えた。,more depressed than usual.,,,
+114_3_4.json,214,Dialog,Haruhi,「鏡夜先輩も大変ですねえ」,Kyoya-senpai must be busy too.,,,
+114_3_4.json,221,Dialog,Kyoya,「いや、今から大変なのはお前だからな。任せ,"Actually, things are going to get",,,
+114_3_4.json,222,Dialog,Kyoya,たぞ」,tough for you. Count on me.,,,
+114_3_4.json,224,Dialog,Haruhi,「……え！？」,「...Eh!??」,,,
+114_3_4.json,226,Dialog,Haruhi,抗議する暇もなく鏡夜先輩は身を引くと、腕を,"Before I could protest, Kyoya-senpai
+stepped",,,
+114_3_4.json,227,Dialog,Haruhi,組んで目を閉じてしまった。,"back and crossed his arms, closing
+his eyes.",,,
+114_3_4.json,229,Dialog,Haruhi,しょうがないなあ。このままにしておくわけに,Can't be helped. We can't,,,
+114_3_4.json,230,Dialog,Haruhi,もいかないし。,just leave it like this.,,,
+114_3_4.json,237,Dialog,Haruhi,「環先輩が――、いえ、部長がしっかりしない,"If Tama-chan isn't firm--no, if the
+president",,,
+114_3_4.json,238,Dialog,Haruhi,と、部員はついていけないですよ」,"isn't firm, the members won't
+follow.",,,
+114_3_4.json,243,Dialog,Tamaki,「ハルヒの言う通りだ。俺がしっかりしていな,"It's like Haruhi said. I've been
+letting everyone",,,
+114_3_4.json,244,Dialog,Tamaki,いせいで、みんなにも迷惑を……」,down because of my carelessness...,,,
+114_3_4.json,247,Dialog,Haruhi,「そういうことじゃなくって――」,That's not what I meant--,,,
+114_3_4.json,249,Dialog,Haruhi,「……１人で背負い込まないでください。何の,"Don't bottle things up by yourself.
+What",,,
+114_3_4.json,250,Dialog,Haruhi,ためにみんながいると思ってるんですか？」,do you think we're all here for?,,,
+114_3_4.json,252,Dialog,Haruhi,「先輩は１人じゃないんです。みんなを信頼し,You're not alone. If you trust,,,
+114_3_4.json,253,Dialog,Haruhi,てるなら、ちゃんと頼ってください」,"everyone here, rely on them.",,,
+114_3_4.json,261,Dialog,Haruhi,「そうじゃないと、みんなが一緒にいる意味が,That wouldn't make any sense,,,
+114_3_4.json,262,Dialog,Haruhi,ないじゃないですか」,if we're not all together.,,,
+114_3_4.json,271,Dialog,Tamaki,「――それはつまり、何でも相談しあえるのが、,"That's what family is all about,
+right?",,,
+114_3_4.json,272,Dialog,Tamaki,家族ってことだよな」,Being able to talk about anything.,,,
+114_3_4.json,274,Dialog,Haruhi,「いや、家族ではないですけど……」,"No, we're not family... but...",,,
+114_3_4.json,275,Dialog,Haruhi,……ま、いいか。いつもの環先輩に戻ってくれ,"...Well, never mind. It seems like",,,
+114_3_4.json,276,Dialog,Haruhi,たみたいだし。,Tama-chan's back to normal.,,,
+114_3_4.json,285,Dialog,Kyoya,「立ち直ったか……。まったく手間のかかる」,"I see you've recovered... What a
+hassle.",,,
+114_3_4.json,287,Dialog,Haruhi,「……今度はお願いしますね」,...Please do this time.,,,
+114_3_4.json,292,Dialog,Kyoya,「気が向いたらな」,「If you feel like it」,,,
+114_3_4.json,293,Dialog,Kyoya,……また押しつけられそうな気がする。,"...I have a feeling I'll be forced
+to do it again.",,,
+114_3_4.json,300,Dialog,Haruhi,「これからどうしますか？」,What will we do from here?,,,
+114_3_4.json,307,Dialog,Kyoya,「昨日と変わらないだろうが……。部活はいつ,"It'll probably be the same as
+yesterday... Club",,,
+114_3_4.json,308,Dialog,Kyoya,も通りだ。ハニー先輩や光たちも、しばらくす,"activities will go on as usual.
+Honey-senpai",,,
+114_3_4.json,309,Dialog,Kyoya,れば来るだろう」,"and Hikaru and Kaoru will show up
+eventually.",,,
+114_3_4.json,311,Dialog,Haruhi,「そうだといいんですけどね」,That's what I hope.,,,
+114_3_4.json,316,Dialog,Kyoya,「まず間違いないな」,That's for sure.,,,
+114_3_4.json,318,Dialog,Haruhi,「どうしてわかるんですか？」,Why do you know that?,,,
+114_3_4.json,326,Dialog,Kyoya,「迷惑な電話が、夜遅く連続でかかってきたお,It's because of those annoying,,,
+114_3_4.json,327,Dialog,Kyoya,かげでな……」,late-night calls...,,,
+114_3_4.json,328,Dialog,Kyoya,迷惑と言いながら、鏡夜先輩は笑ってる。,"Kyoya-senpai's smiling even though
+he says it's annoying.",,,
+114_3_4.json,336,Dialog,Tamaki,「ハルヒ、鏡夜。そろそろ行かないと。我らが,"Haruhi, Kyoya. We should get going
+now.",,,
+114_3_4.json,337,Dialog,Tamaki,姫君たちが、お待ちかねだ」,Our princesses are waiting for us.,,,
+114_3_4.json,339,Dialog,Haruhi,「そうですね、行きましょうか」,"Sounds good, let's go.",,,
+114_3_4.json,344,Dialog,Kyoya,「待て、ハルヒ」,"Wait, Haruhi.",,,
+114_3_4.json,348,Dialog,Kyoya,部室に向かって歩き出そうとすると、鏡夜先輩,"As I started to head toward the
+clubroom,",,,
+114_3_4.json,349,Dialog,Kyoya,に呼び止められた。,Kyoya-senpai stopped me.,,,
+114_3_4.json,357,Dialog,Kyoya,「俺たちは少し準備があるから、おまえは少し,"We've got some prep to do,",,,
+114_3_4.json,358,Dialog,Kyoya,図書室に寄ってからくるといい。そうだったな、,so you should stop by the library,,,
+114_3_4.json,359,Dialog,Kyoya,環」,"first. Right, Tamaki?",,,
+114_3_4.json,365,Dialog,Tamaki,「え？　ああ……、うん。そうだった！！」,Huh? Oh... yeah. That's right!!,,,
+114_3_4.json,367,Dialog,Haruhi,「……それならそうします」,...Then I will.,,,
+114_3_4.json,370,Dialog,Haruhi,環先輩の反応が気になるけど、鏡夜先輩の言う,"I'm curious about Tama-chan's
+reaction,",,,
+114_3_4.json,371,Dialog,Haruhi,通りにしておこう。,but I'll do as Kyoya-senpai says.,,,
+114_3_4.json,376,Dialog,,……ちょっと光と馨の２人と話そうかな？,"...Should I talk to Hikaru and Kaoru
+for a bit?",,,
+114_3_4.json,377,Dialog,,そう思って２人の席を見ると、既にどこかに行っ,"Looking at their seats, I thought",,,
+114_3_4.json,378,Dialog,,てしまったみたいだった。,they had already left.,,,
+114_3_4.json,379,Dialog,,……うーん。まだ時間もあるし、ちょっと捜し,"...Hmm. I still have some time,",,,
+114_3_4.json,380,Dialog,,てみようかな。,so maybe I'll look around a bit.,,,
+114_3_4.json,383,Dialog,Hikaru,「行きたくない！」,I don't want to go!,,,
+114_3_4.json,385,Dialog,Kaoru,「イヤなのはわかるけどさ」,"I get that it's annoying, but...",,,
+114_3_4.json,386,Dialog,Kaoru,廊下を歩いていると、光と馨の声が聞こえてき,"As I walked down the hallway, I",,,
+114_3_4.json,387,Dialog,Kaoru,た。,heard Hikaru and Kaoru's voices.,,,
+114_3_4.json,388,Dialog,Kaoru,何でこんなところでケンカなんか……。,Why are we fighting here...?,,,
+114_3_4.json,395,Dialog,Hikaru,「ひとりで行けばいいじゃん。僕は絶対に行か,「I'll go alone then. I'm not,,,
+114_3_4.json,396,Dialog,Hikaru,ない」,going no matter what.」,,,
+114_3_4.json,404,Dialog,Kaoru,「今日は無理矢理にでも連れて行くから」,"「I'll drag you along whether you
+like it or not!」",,,
+114_3_4.json,409,Dialog,Hikaru,「――できんの？」,「--Can't do it?」,,,
+114_3_4.json,410,Dialog,Hikaru,つかみ合いでもしそうな感じで、２人はにらみ,"They're glaring at each other like
+they're",,,
+114_3_4.json,411,Dialog,Hikaru,合っている。これ以上ひどくなる前に、声をか,about to fight. I have to say,,,
+114_3_4.json,412,Dialog,Hikaru,けて止めないと……。,something before things get worse...,,,
+114_3_4.json,413,Choice,Hikaru,……光,...Hikaru,,,
+114_3_4.json,414,Choice,Hikaru,……馨,...Kaoru,,,
+114_3_4.json,428,Dialog,Haruhi,「……光」,「...Hikaru」,,,
+114_3_4.json,435,Dialog,,声をかけると、２人は目をそらしてしまった。,"When I spoke to them, they looked
+away.",,,
+114_3_4.json,437,Dialog,Haruhi,「こんなところでケンカしなくても」,We don't have to fight here.,,,
+114_3_4.json,442,Dialog,Hikaru,「それは馨が――」,That's Kaoru--,,,
+114_3_4.json,447,Dialog,Kaoru,「違うでしょ、光が――」,It's not Hikaru--,,,
+114_3_4.json,449,Dialog,Haruhi,「もうやめなって」,Stop it already.,,,
+114_3_4.json,460,Dialog,Kaoru,２人がケンカすることなんてないのに……。,"There's no way those two would
+fight...",,,
+114_3_4.json,462,Dialog,Haruhi,「……光って、ホスト部のことが本当に好きな,"...Hikaru, you really like",,,
+114_3_4.json,463,Dialog,Haruhi,んだね」,"the Host Club, huh?",,,
+114_3_4.json,473,Dialog,Hikaru,「は？　いきなりナニ言ってんの？」,"「Huh? What are you talking about all
+of a sudden?」",,,
+114_3_4.json,475,Dialog,Haruhi,「環先輩じゃないけど、ホスト部って家族みた,"It's not that I'm Tamaki-senpai, but
+since",,,
+114_3_4.json,476,Dialog,Haruhi,いだから……、そこに誰かが入ってくることが,the Host Club feels like a family...,,,
+114_3_4.json,477,Dialog,Haruhi,イヤなんだよね」,"I don't want someone else joining
+us.",,,
+114_3_4.json,482,Dialog,Hikaru,「家族って、殿じゃないんだから……」,I'm not your lord...,,,
+114_3_4.json,484,Dialog,Haruhi,「でも、お父さんが友だちの相手ばっかりをし,But I'm mad because my dad's,,,
+114_3_4.json,485,Dialog,Haruhi,て自分のことを見てくれないから、怒ってるみ,too busy with his friends,,,
+114_3_4.json,486,Dialog,Haruhi,たいだよ」,to pay attention to me.,,,
+114_3_4.json,493,Dialog,Haruhi,「だから、『行きたくない』っていうだけじゃ,"So you have to tell me properly, not",,,
+114_3_4.json,494,Dialog,Haruhi,なくって、ちゃんと伝えないと」,just that you don't want to go.,,,
+114_3_4.json,504,Dialog,Hikaru,「……家族とかお父さんとか、ワケわかんない,"...I don't get it either, but if
+Haruhi's",,,
+114_3_4.json,505,Dialog,Hikaru,けど、ハルヒが心配してるなら行ってもいい」,"worried about me, I'll go.",,,
+114_3_4.json,506,Dialog,Hikaru,少し照れたように、光はつぶやいた。,Hikaru muttered bashfully.,,,
+114_3_4.json,515,Dialog,Haruhi,「……馨」,...Kaoru.,,,
+114_3_4.json,522,Dialog,,声をかけると、２人は目をそらしてしまった。,"When I spoke to them, they looked
+away.",,,
+114_3_4.json,524,Dialog,Haruhi,「こんなところでケンカしなくても」,We don't have to fight here.,,,
+114_3_4.json,529,Dialog,Kaoru,「それは光が――」,That's Hikaru--,,,
+114_3_4.json,534,Dialog,Hikaru,「なに言ってんの、馨が――」,What are you saying? Kaoru's--,,,
+114_3_4.json,536,Dialog,Haruhi,「もうやめなって」,Stop it already.,,,
+114_3_4.json,547,Dialog,Kaoru,２人がケンカすることなんてないのに……。,"There's no way those two would
+fight...",,,
+114_3_4.json,552,Dialog,Hikaru,「僕らのことなんだから、放っておいてよ」,Leave us alone since we're talking.,,,
+114_3_4.json,554,Dialog,Haruhi,「２人だけのことじゃないでしょ。ホスト部み,It's not just about us two.,,,
+114_3_4.json,555,Dialog,Haruhi,んなのことだよ」,It's about all of Host Club.,,,
+114_3_4.json,561,Dialog,Kaoru,「……ハルヒ」,「...Haruhi」,,,
+114_3_4.json,563,Dialog,Haruhi,「環先輩じゃないけど、ホスト部って家族みた,"It's not that I'm Tamaki-senpai, but
+since",,,
+114_3_4.json,564,Dialog,Haruhi,いだから……、そこに誰かが入ってくることが,the Host Club feels like a family...,,,
+114_3_4.json,565,Dialog,Haruhi,イヤなんだよね」,"I don't want someone else joining
+us.",,,
+114_3_4.json,575,Dialog,Hikaru,「家族って、殿じゃないんだから……」,I'm not your lord...,,,
+114_3_4.json,577,Dialog,Haruhi,「でも、お父さんが友だちの相手ばっかりをし,But I'm mad because my dad's,,,
+114_3_4.json,578,Dialog,Haruhi,て自分のことを見てくれないから、怒ってるみ,too busy with his friends,,,
+114_3_4.json,579,Dialog,Haruhi,たいだよ」,to pay attention to me.,,,
+114_3_4.json,586,Dialog,Haruhi,「だから、『行きたくない』っていうだけじゃ,"So you have to tell him properly,
+not",,,
+114_3_4.json,587,Dialog,Haruhi,なくって、ちゃんと伝えないと」,just that you don't want to go.,,,
+114_3_4.json,597,Dialog,Hikaru,「家族とかお父さんとか、ワケわかんないけど、,"If it's about family or my dad or
+whatever",,,
+114_3_4.json,598,Dialog,Hikaru,ハルヒが心配してるなら行ってもいい……」,"and Haruhi is worried, I guess I'll
+go...",,,
+114_3_4.json,600,Dialog,Hikaru,少し照れたように、光はつぶやいた。,Hikaru muttered bashfully.,,,
+114_3_4.json,608,Dialog,Kaoru,「僕らも……、少しは成長しないといけないっ,We need to grow up,,,
+114_3_4.json,609,Dialog,Kaoru,てことかな」,"a bit too, huh?",,,
+114_3_4.json,611,Dialog,Haruhi,「成長って？」,What's growth?,,,
+114_3_4.json,616,Dialog,Kaoru,「何でもないよ」,It's nothing.,,,
+114_3_4.json,617,Dialog,Kaoru,そう言って、馨は笑った。,Kaoru laughed.,,,
+114_3_4.json,625,Dialog,Haruhi,「それじゃあ行こっか。遅くなると――」,Then let's go. We'll be late if we--,,,
+114_3_4.json,626,Dialog,Haruhi,うるさいから、と言いかけたとき……。,"Just as I was about to say ""Shut
+up,""...",,,
+114_3_4.json,637,Dialog,,#Color[7]#Scale[1.8]ニヤリ,#Color[7]#Scale[1.8]Grin,,,
+114_3_4.json,640,Dialog,Haruhi,「まさか、２人とも……」,Neither of you would...,,,
+114_3_4.json,648,Dialog,Hikaru,「演技に決まってるじゃん」,"It's acting, duh.",,,
+114_3_4.json,656,Dialog,Kaoru,「僕と光が言い争うなんて、信じられないよ,I can't believe Hikaru,,,
+114_3_4.json,657,Dialog,Kaoru,ねー」,and I are arguing.,,,
+114_3_4.json,662,Dialog,Hikaru,「ハルヒが簡単に引っかかるからさ」,Because Haruhi falls for it easily.,,,
+114_3_4.json,667,Dialog,Kaoru,「僕らもやりがいがあるよね」,We have our motivation too.,,,
+114_3_4.json,669,Dialog,Haruhi,「……もう２人のことなんて、心配しない」,I won't worry about you two anymore.,,,
+114_3_4.json,677,Dialog,Hikaru,「そんなこと言わないで〜」,Don't say stuff like that~,,,
+114_3_4.json,685,Dialog,Kaoru,「そうそう、半分くらいは本気だったんだから,"Yeah, I was half serious!",,,
+114_3_4.json,688,Dialog,Haruhi,「……え？」,...Huh?,,,
+114_3_4.json,702,Dialog,Hikaru,「とゆー訳で、僕らちょっと寄るところがある,So we've got somewhere,,,
+114_3_4.json,703,Dialog,Hikaru,から、先に行ってて」,to go. You wait ahead.,,,
+114_3_4.json,705,Dialog,Kaoru,「大丈夫だよ、ちゃんと行くから」,"「I'll be fine, I'll go properly.」",,,
+114_3_4.json,707,Dialog,Haruhi,「ちょっと待って――」,Wait a second--,,,
+114_3_4.json,711,Dialog,Haruhi,自分の言うことを聞かずに、仲良さそうに走っ,"Watch the backs of the two running
+off",,,
+114_3_4.json,712,Dialog,Haruhi,ていく２人の後ろ姿を見送る。,amicably without listening to me.,,,
+114_3_4.json,713,Dialog,Haruhi,『半分くらい本気』ってどういうことなのか聞,"I wanted to ask what you meant by
+""half",,,
+114_3_4.json,714,Dialog,,きたかったけど……。また今度でいいかな。,"serious""... But maybe another time.",,,
+114_3_4.json,715,Dialog,,まだ時間も早いし、図書室に寄ってから行こう。,"Let's stop by the library first
+since we still have time.",,,
+114_3_4.json,720,Dialog,,その前に、ハニー先輩とモリ先輩のところに,Let's go see HONEY-senpai,,,
+114_3_4.json,721,Dialog,,行こう。,and MORI-senpai first.,,,
+114_3_4.json,723,Dialog,,食堂に来てみると、思った通り２人の姿があっ,I came to the cafeteria and,,,
+114_3_4.json,724,Dialog,,た。,found them as I thought.,,,
+114_3_4.json,730,Dialog,,ハニー先輩はカウンターで、注文するケーキを,"Honey-senpai seems to be thinking
+about",,,
+114_3_4.json,731,Dialog,,どれにしようか考えてるみたい。,which cake to order at the counter.,,,
+114_3_4.json,738,Dialog,,モリ先輩は、迷うハニー先輩を見守ってる……、,"Mori-senpai is watching over
+Honey-senpai,",,,
+114_3_4.json,739,Dialog,,のかな？　何か考えごとをしているみたいにも,"who seems lost in thought...? Or
+maybe",,,
+114_3_4.json,740,Dialog,,見えるけど。,he's just thinking about something.,,,
+114_3_4.json,742,Dialog,,うーん……。ハニー先輩とモリ先輩、どっちに,Hm... Should I talk to Honey-senpai,,,
+114_3_4.json,743,Dialog,,声をかけようかな。,or Mori-senpai?,,,
+114_3_4.json,744,Choice,,ハニー先輩,Honey-senpai,,,
+114_3_4.json,745,Choice,,モリ先輩,Mori-senpai,,,
+114_3_4.json,758,Dialog,,ハニー先輩に声をかけてみよう。,Talk to Honey-senpai.,,,
+114_3_4.json,765,Dialog,Haruhi,「ハニー先輩」,Senior Honey,,,
+114_3_4.json,770,Dialog,Honey,「あ、ハルちゃん」,"Ah, Haru-chan.",,,
+114_3_4.json,772,Dialog,Haruhi,「ホスト部、行かないんですか？」,Going to skip Host Club?,,,
+114_3_4.json,780,Dialog,Honey,「行くよ。でもね、その前に崇の剣道部に付き,"Let's go. But first, I have to
+accompany",,,
+114_3_4.json,781,Dialog,Honey,添いなの」,Takashi to the kendo club.,,,
+114_3_4.json,783,Dialog,Haruhi,「その前に腹ごしらえですか……」,Let's eat first...,,,
+114_3_4.json,788,Dialog,Honey,「うん、そうなの〜」,"Yeah, that's right~",,,
+114_3_4.json,789,Dialog,Honey,腹ごしらえでケーキっていうのはどうかと思う,I don't think having cake counts,,,
+114_3_4.json,790,Dialog,Honey,けど、モリ先輩の付き添いをしているハニー先,"as a meal, but Honey-senpai is",,,
+114_3_4.json,791,Dialog,Honey,輩は――。,accompanying Mori-senpai --.,,,
+114_3_4.json,793,Dialog,Haruhi,「偉いですね」,You're amazing.,,,
+114_3_4.json,802,Dialog,Honey,「僕……、えらいの？」,Me... great?,,,
+114_3_4.json,804,Dialog,Haruhi,「自分は、そう思います」,That's what I think.,,,
+114_3_4.json,810,Dialog,Honey,「えへへへ、そっかあ」,"Hehehe, I see.",,,
+114_3_4.json,811,Dialog,Honey,にこにこ笑うハニー先輩を見ていると、不安な,"Watching Honey-senpai smile so
+happily",,,
+114_3_4.json,812,Dialog,Honey,気持ちが消えていく。,makes my worries go away.,,,
+114_3_4.json,820,Dialog,Mori,「心配させたな」,Don't worry me.,,,
+114_3_4.json,821,Dialog,Mori,モリ先輩も、大きな手で優しく頭をなでてくれ,Mori-senpai also gently stroked,,,
+114_3_4.json,822,Dialog,Mori,た。,my head with his big hand.,,,
+114_3_4.json,823,Dialog,Mori,これで、ひとまず安心かな。,I can relax for now.,,,
+114_3_4.json,831,Dialog,,モリ先輩に声をかけてみよう。,Talk to Mori-senpai.,,,
+114_3_4.json,838,Dialog,Haruhi,「モリ先輩」,Mori-senpai,,,
+114_3_4.json,839,Dialog,Haruhi,モリ先輩は、こちらを見て静かにうなずく。,Mori-senpai quietly nods at me.,,,
+114_3_4.json,841,Dialog,Haruhi,「今日は……、どうするんですか？」,What are we doing today?,,,
+114_3_4.json,842,Dialog,Haruhi,ハニー先輩がケーキを選んでいるところを見る,"Looking at Honey-senpai choosing
+cake...",,,
+114_3_4.json,843,Dialog,Haruhi,と……。今日もダメなのかなって思う。,I wonder if today's no good too.,,,
+114_3_4.json,848,Dialog,Mori,「……大丈夫だ」,...You'll be fine.,,,
+114_3_4.json,856,Dialog,Honey,「そうだよ。崇の剣道部が終わったら、行くか,Sure thing. I'll go after Takashi,,,
+114_3_4.json,857,Dialog,Honey,らね」,finishes his kendo practice!,,,
+114_3_4.json,859,Dialog,Haruhi,「あ、そうだったんですか」,"Oh, I see.",,,
+114_3_4.json,870,Dialog,Mori,「心配させたな」,Don't worry me.,,,
+114_3_4.json,871,Dialog,Mori,モリ先輩は、大きな手で優しく頭をなでてくれ,Senior Mori petted my head,,,
+114_3_4.json,872,Dialog,Mori,た。,gently with his big hand.,,,
+114_3_4.json,873,Dialog,Mori,これで、ひとまず安心かな。,I can relax for now.,,,
+114_3_4.json,879,Dialog,,ハニー先輩とモリ先輩はこれから剣道部だ,Honey-senpai and Mori-senpai,,,
+114_3_4.json,880,Dialog,,し……。,have kendo practice...,,,
+114_3_4.json,882,Dialog,Haruhi,「自分は、先に行ってますね」,I'll go ahead.,,,
+114_3_4.json,889,Dialog,Honey,「待って、ハルちゃん」,"Wait, Haru-chan!",,,
+114_3_4.json,891,Dialog,Haruhi,「はい？」,Yes?,,,
+114_3_4.json,896,Dialog,Honey,「この時間だと、まだ誰もいないと思うよ」,I don't think anyone's here yet.,,,
+114_3_4.json,904,Dialog,Mori,「……少し、図書室へ寄るといい」,Stop by the library for a bit.,,,
+114_3_4.json,905,Dialog,Mori,確かに、ホスト部が始まるには、まだ時間があ,"True, we still have time before Host
+Club starts,",,,
+114_3_4.json,906,Dialog,Mori,るし、図書室に寄るのもいいかもしれない。,"so maybe we could drop by the
+library.",,,
+114_3_4.json,908,Dialog,Haruhi,「それじゃあ、少しだけ寄ってきますね」,Then I'll drop by for a bit.,,,
+114_3_4.json,913,Dialog,Honey,「うん、がんばってね」,"Okay, good luck.",,,
+114_3_4.json,918,Dialog,Mori,「しっかりな」,Stay sharp.,,,
+114_3_4.json,920,Dialog,Haruhi,「……はい？」,「...Yes?」,,,
+114_3_4.json,923,Dialog,Haruhi,応援されるようなことでもないんだけど……。,"I don't really need anyone cheering
+me on...",,,
+114_3_4.json,924,Dialog,Haruhi,そう思いながら、食堂をあとにした。,"Thinking that, I left the dining
+hall.",,,
+114_3_4.json,933,Dialog,Haruhi,「あっ」,Oh!,,,
+114_3_4.json,934,Dialog,Haruhi,ひと息ついて時計に目を向けると、いつの間に,"I take a breath and look at my
+watch, only to realize",,,
+114_3_4.json,935,Dialog,Haruhi,か部活の始まる時間が過ぎていた。,"that club activities have already
+started.",,,
+114_3_4.json,936,Dialog,Haruhi,少しのつもりだったのに……。,"I only meant to do it for a little
+while...",,,
+114_3_4.json,937,Dialog,Haruhi,慌てて参考書を片付けて、部室へ走る――。,"Panic as I put away my textbooks and
+run to the clubroom--.",,,
+114_3_4.json,939,Dialog,Haruhi,ガチャ。,Click.,,,
+114_3_4.json,941,Dialog,Haruhi,「すみません、遅刻――」,Sorry for being late--,,,
+114_3_4.json,943,Dialog,Haruhi,部活はもう始まっている時間なのに……、誰も,"Club activities should have already
+started...",,,
+114_3_4.json,944,Dialog,Haruhi,いない。お客さんは、絢爛ホスト部に招待され,"but no one's here. Even though they
+might",,,
+114_3_4.json,945,Dialog,Haruhi,ているかもしれないけど……。,"be invited to the Extravagant Host
+Club...",,,
+114_3_4.json,962,Dialog,Ou,「……遅かったですね」,...You're late.,,,
+114_3_4.json,963,Dialog,Ou,誰も座っていないと思ったソファから、現れた,"I thought no one was sitting on the
+sofa,",,,
+114_3_4.json,964,Dialog,Ou,人影は……。レオさん、王さん、豪徳寺さんた,"but there appeared... Leo-san,
+Ou-san,",,,
+114_3_4.json,965,Dialog,Ou,ち。,"Goudouji-san, and the others.",,,
+114_3_4.json,973,Dialog,Ou,「鍵もかけずに無用心ですね」,"You're being careless without
+locking the door.",,,
+114_3_4.json,975,Dialog,Haruhi,「……誰もいませんでしたか？」,...Was nobody there?,,,
+114_3_4.json,980,Dialog,Ou,「ええ、部活の時間に合わせてお伺いしました,"Yeah, I came at club time,",,,
+114_3_4.json,981,Dialog,Ou,がどなたも」,but no one's here.,,,
+114_3_4.json,989,Dialog,Gotokuji,「……本題に入れ、時間の無駄だ」,"Let's get to the point. This is
+wasting time.",,,
+114_3_4.json,994,Dialog,Ou,「短気な人ですね……、あなたは」,"You're quite impatient... aren't
+you?",,,
+114_3_4.json,996,Dialog,Haruhi,「あの……」,Um...,,,
+114_3_4.json,1003,Dialog,Ou,「今日は、提案をお持ちしました」,I have a proposal for today.,,,
+114_3_4.json,1004,Dialog,Ou,鍵の話を聞いてみようとする自分の声を消すよ,"To silence my voice trying to talk
+about",,,
+114_3_4.json,1005,Dialog,Ou,うに、王さんが話し出す。,"the key, Ootori-senpai starts
+speaking.",,,
+114_3_4.json,1010,Dialog,Ou,「私たちも毎日ここへ通うほど暇ではありませ,"Since we're not that bored either,",,,
+114_3_4.json,1011,Dialog,Ou,んので、須王君を賭けた勝負で決めてしまいま,how about we settle this,,,
+114_3_4.json,1012,Dialog,Ou,せんか？」,with a bet on Suou-kun?,,,
+114_3_4.json,1019,Dialog,Ou,「こちらが勝利すれば須王君をいただきます。,"This one will take Suzumi-kun if we
+win.",,,
+114_3_4.json,1020,Dialog,Ou,もし負けるようなことがあれば、引き下がりま,"If we lose, let's",,,
+114_3_4.json,1021,Dialog,Ou,しょう」,back down.」,,,
+114_3_4.json,1024,Dialog,Haruhi,「自分にお話されても困ります。そういうこと,I don't want to hear,,,
+114_3_4.json,1025,Dialog,Haruhi,は――」,it from you. That's--,,,
+114_3_4.json,1030,Dialog,Ou,「ええ、勝てる自信がないことはわかりますよ。,"Yeah, I understand that you don't
+have confidence in winning.",,,
+114_3_4.json,1031,Dialog,Ou,ですが、このままでお困りになるのは、あなた,"But I think you're the ones who will
+be",,,
+114_3_4.json,1032,Dialog,Ou,たちだと思いますけどね」,"troubled if we leave things as they
+are.",,,
+114_3_4.json,1034,Dialog,Haruhi,「そういうことじゃなくって――」,That's not what I meant--,,,
+114_3_4.json,1039,Dialog,Ou,「もっとも……。今となっては、勝負をするに,"Of course... Now that it's over, it
+was just",,,
+114_3_4.json,1040,Dialog,Ou,値しないようなくだらない部ですけどね」,"a pointless club not worth competing
+for.",,,
+114_3_4.json,1048,Dialog,Leo,「王、失礼じゃないか！」,"Your Majesty, that's rude!",,,
+114_3_4.json,1053,Dialog,Ou,「そうですか？　私は事実を言ったまでですよ。,That so? I'm just stating the facts.,,,
+114_3_4.json,1054,Dialog,Ou,――見て御覧なさいレオ。お客様どころか部員,"--Take a look, Leo. There's not even",,,
+114_3_4.json,1055,Dialog,Ou,の姿もないこの場所を」,any customers or club members here.」,,,
+114_3_4.json,1060,Dialog,Leo,「それは……」,That is...,,,
+114_3_4.json,1065,Dialog,Ou,「あなたも人の上に立つなら、信頼や絆がいか,"You should learn how meaningless
+trust",,,
+114_3_4.json,1066,Dialog,Ou,にくだらないものであるかを、この機会に学ぶ,"and bonds are at this opportunity,",,,
+114_3_4.json,1067,Dialog,Ou,べきです」,if you wish to stand above others.,,,
+114_3_4.json,1082,Dialog,Ou,「藤岡くん――、選択肢は２つですよ」,Fujio-kun--you have two choices.,,,
+114_3_4.json,1087,Dialog,Ou,「須王君を説得して絢爛へ送り出すか、それと,"It's between persuading Sukawa-kun
+to join the Extravagant",,,
+114_3_4.json,1088,Dialog,Ou,も負けることを覚悟の上で勝負をするかです」,"Garden or challenging him with a
+willingness to lose.",,,
+114_3_4.json,1089,Dialog,Ou,こんなとき、環先輩や鏡夜先輩がいてくれればっ,I wish Hikaru and Kaoru,,,
+114_3_4.json,1090,Dialog,Ou,て思うけど――。,were here right now--.,,,
+114_3_4.json,1091,Choice,Ou,受けて立ちます,I accept your challenge.,,,
+114_3_4.json,1110,Dialog,Haruhi,「受けて立ちます」,Let's do it.,,,
+114_3_4.json,1111,Dialog,Haruhi,自分が答えていい問題じゃないとは思ったけど、,"I knew I shouldn't answer,",,,
+114_3_4.json,1112,Dialog,Haruhi,我慢できなかった。,but I couldn't hold back.,,,
+114_3_4.json,1113,Dialog,Haruhi,ホスト部のみんなはお互いを信頼し合っている,"We trust each other and have a
+bond...",,,
+114_3_4.json,1114,Dialog,Haruhi,し絆だって……、ある。それに、目に見える結,"it's there. Besides, results",,,
+114_3_4.json,1115,Dialog,Haruhi,果だけがすべてじゃない。,aren't everything you can see.,,,
+114_3_4.json,1123,Dialog,Ou,「よろしいのですか？　権限を持たない藤岡く,Are you sure? Tougoku-kun doesn't,,,
+114_3_4.json,1124,Dialog,Ou,んが決めてしまっても」,have the authority to decide.,,,
+114_3_4.json,1126,Dialog,Haruhi,「それは、あなたが！」,That's because you!,,,
+114_3_4.json,1131,Dialog,Ou,「私が１度でも藤岡くんに選択するようにと言,Did I ever say to choose,,,
+114_3_4.json,1132,Dialog,Ou,いましたか？」,Fujioka-kun?,,,
+114_3_4.json,1166,Dialog,Haruhi,自分が答えていい問題じゃない……。もう少し,"I shouldn't answer this question...
+If",,,
+114_3_4.json,1167,Dialog,Haruhi,我慢して待っていれば、誰か――。,"I wait a little longer, someone
+else--",,,
+114_3_4.json,1175,Dialog,Ou,「何もおっしゃらないということは、あなたも,I suppose your silence,,,
+114_3_4.json,1176,Dialog,Ou,認めているわけですね」,means you admit it.,,,
+114_3_4.json,1178,Dialog,Haruhi,「何を……、ですか」,What... are you talking about?,,,
+114_3_4.json,1183,Dialog,Ou,「この場所に価値のないことをです。あなたか,"If you can convince Suou-kun to join
+us,",,,
+114_3_4.json,1184,Dialog,Ou,ら須王君を説得していただけるのでしたら、絢,"then as an exceptional student of
+the",,,
+114_3_4.json,1185,Dialog,Ou,爛の特待生として――」,Extracurricular Activities Club...,,,
+114_3_4.json,1187,Dialog,Haruhi,「お断りします！」,No way!,,,
+114_3_4.json,1195,Dialog,Ou,「ほう、それでは……」,"Hmm, then...",,,
+114_3_4.json,1197,Dialog,Haruhi,「勝負は、受けて立ちます」,I accept your challenge.,,,
+114_3_4.json,1202,Dialog,Ou,「よろしいのですか？　権限を持たない藤岡く,"Is that okay? Even though Fujio-kun
+doesn't",,,
+114_3_4.json,1203,Dialog,Ou,んが決めてしまっても」,have the authority to decide.,,,
+114_3_4.json,1205,Dialog,Haruhi,「それは、あなたが！」,That's because you!,,,
+114_3_4.json,1210,Dialog,Ou,「私が１度でも藤岡くんに選択するようにと言,Did I ever say to choose,,,
+114_3_4.json,1211,Dialog,Ou,いましたか？」,Fujioka-kun?,,,
+114_3_4.json,1219,Dialog,Haruhi,自分が言葉につまったとき、不意に部室の扉が,"When I was at a loss for words, the
+door",,,
+114_3_4.json,1220,Dialog,,開いて――。,to the clubroom suddenly opened --,,,
+114_3_4.json,1230,Dialog,Kyoya,「ひとーつ、光を放つその容姿」,One--radiant appearance,,,
+114_3_4.json,1241,Dialog,Hikaru,「ふたーつ、不滅の富を持ち」,Two--eternal wealth,,,
+114_3_4.json,1252,Dialog,Kaoru,「不正を許さぬ誠の心」,"A heart that will not tolerate
+injustice",,,
+114_3_4.json,1263,Dialog,Mori,「みっつ、醜きこの世の闇を」,"Three... dispel the darkness of this
+ugly world!",,,
+114_3_4.json,1274,Dialog,Honey,「見据えて戦う正義の使者」,"Justice fighter who faces his foes
+head-on",,,
+114_3_4.json,1285,Dialog,Tamaki,「我ら、桜蘭ホスト部――」,We are the Ouran Host Club--,,,
+114_3_4.json,1290,Dialog,Everyone,「ただいま見参！！」,I'm here to serve!!,,,
+114_3_4.json,1291,Dialog,Everyone,#Color[7]#Scale[1.8]ヒーローもの？,#Color[7]#Scale[1.8]Hero story?,,,
+114_3_4.json,1292,Dialog,Everyone,……どうしてこんな登場を。,Why such an entrance?,,,
+114_3_4.json,1294,Dialog,Tamaki,「この勝負、正式に受けて立とう！」,I formally accept this challenge!,,,
+114_3_4.json,1303,Dialog,Ou,王さんには予想外の展開だったのか、現れたホ,"The King was taken aback by the
+unexpected turn of events and",,,
+114_3_4.json,1304,Dialog,Ou,スト部のみんなを前にして言葉を失っている。,"lost his words in front of the Host
+Club members who appeared.",,,
+114_3_4.json,1317,Dialog,Leo,「……いい勝負になりそうだね」,"It's going to be an interesting
+match.",,,
+114_3_4.json,1322,Dialog,Tamaki,「悪いが、手加減はしないぞ」,No holding back!,,,
+114_3_4.json,1327,Dialog,Leo,「うん」,Yeah.,,,
+114_3_4.json,1336,Dialog,Kyoya,「それでは、勝負の方法は？」,So how will we compete?,,,
+114_3_4.json,1341,Dialog,Leo,「それは、ボクに決めさせてもらっていいか,Can I let me,,,
+114_3_4.json,1342,Dialog,Leo,な？」,decide that?,,,
+114_3_4.json,1347,Dialog,Kyoya,「ええ、どうぞ」,"Sure, please do.",,,
+114_3_4.json,1352,Dialog,Leo,「内容は今日中に決めて、改めて連絡しますね。,"We'll decide on the details today
+and get back to you.",,,
+114_3_4.json,1353,Dialog,Leo,あ、人数が多いから、チーム制にしましょう」,"Okay, let's divide into teams since
+there are so many of us.",,,
+114_3_4.json,1358,Dialog,Kyoya,「では、３チーム構成でいかがでしょう？」,How about we form three teams?,,,
+114_3_4.json,1363,Dialog,Leo,「はい、大丈夫です。それから……」,"Yeah, I'm fine. By the way...",,,
+114_3_4.json,1368,Dialog,Kyoya,「場所は桜蘭で。使用許可もとっておきます」,"I'll get permission to use the Ouran
+facilities.",,,
+114_3_4.json,1373,Dialog,Leo,「よろしくお願いします」,Thank you for helping.,,,
+114_3_4.json,1382,Dialog,Ou,「ま、待ってくださいレオ。このような展開は,"Wait, Leo. This development",,,
+114_3_4.json,1383,Dialog,Ou,想定外で――」,was unexpected--,,,
+114_3_4.json,1391,Dialog,Leo,「黙って。ここは、絢爛ホスト部の部長として、,"Shut up. As president of the
+Extravagant",,,
+114_3_4.json,1392,Dialog,Leo,通させてもらうよ」,"Host Club, I'll let myself through.",,,
+114_3_4.json,1397,Dialog,Ou,「しかし……」,But...,,,
+114_3_4.json,1405,Dialog,Gotokuji,「黙れと聞こえなかったか、王龍」,"Didn't you hear me tell you to shut
+up, Dragon King?",,,
+114_3_4.json,1410,Dialog,Ou,「……ちっ」,...damn it,,,
+114_3_4.json,1411,Dialog,Ou,舌打ちをして、王さんは口を閉じる。,"Tutting, Ooouuu-sama shuts his
+mouth.",,,
+114_3_4.json,1420,Dialog,Leo,「それじゃあ、詳しくはまた改めて」,Let's talk about it later then.,,,
+114_3_4.json,1428,Dialog,Tamaki,「楽しみにしてるよ、レオ」,"I'm looking forward to it, Leo.",,,
+114_3_4.json,1433,Dialog,Leo,「うん、ありがとう……。それと、ごめんね」,"Okay, thanks... And sorry.",,,
+114_3_4.json,1438,Dialog,Tamaki,「気にするな、友だちじゃないか」,"Don't worry about it, we're friends.",,,
+114_3_4.json,1443,Dialog,Leo,「そうだね……。それじゃあ、また」,Right... See you later.,,,
+114_3_4.json,1446,Dialog,Leo,環先輩の言葉にうなずいて、レオさんは部室を,"Nodding to Tama-chan's words, Reo",,,
+114_3_4.json,1447,Dialog,Leo,出て行った。その後ろに、王さんと豪徳寺さん,left the clubroom. Following behind,,,
+114_3_4.json,1448,Dialog,Leo,が続く。,were Ou-san and Goudouji-san.,,,
+114_3_4.json,1452,Dialog,,勝負の内容も決まらないうちに、環先輩を賭け,"We ended up betting on Tama-chan
+before",,,
+114_3_4.json,1453,Dialog,,て勝負することになってしまった。,"even deciding what we were competing
+in.",,,
+114_3_4.json,1470,Dialog,Kaoru,「でも、鏡夜先輩の言った通りだったね」,"But you were right as usual,
+Kyoya-senpai.",,,
+114_3_4.json,1472,Dialog,Hikaru,「ホントホント、あっちから手を出してくるな,"Really really, to reach",,,
+114_3_4.json,1473,Dialog,Hikaru,んてさ」,out from over there...,,,
+114_3_4.json,1474,Dialog,Hikaru,レオさんたちが部室を出て行くと、馨と光が感,"As Reo-san and the others leave the
+clubroom,",,,
+114_3_4.json,1475,Dialog,Hikaru,心したようにつぶやいた。,"Kaoru and Hikaru mutter in
+admiration.",,,
+114_3_4.json,1477,Dialog,Haruhi,「……え？」,...Huh?,,,
+114_3_4.json,1491,Dialog,Honey,「鏡ちゃんはすごいねえ」,Kyoya-chan's amazing!,,,
+114_3_4.json,1493,Dialog,Mori,「……ああ」,...Yeah.,,,
+114_3_4.json,1499,Dialog,Haruhi,「……はあ、そういうことですか」,... I see.,,,
+114_3_4.json,1500,Dialog,Haruhi,知らないのは自分だけだったなんて……。,I'm the only one who doesn't know...,,,
+114_3_4.json,1507,Dialog,Tamaki,「すまないハルヒ。鏡夜から余計なことを言う,"I'm sorry, Haruhi. Kyoya told",,,
+114_3_4.json,1508,Dialog,Tamaki,なと……」,me not to say too much...,,,
+114_3_4.json,1516,Dialog,Kyoya,「相手の動きが確実でない以上は、しかたない,"If I can't be sure of the other
+person's movements,",,,
+114_3_4.json,1517,Dialog,Kyoya,だろう。――それに、ハルヒにはハルヒにしか,"there's nothing to do about it.
+--Besides,",,,
+114_3_4.json,1518,Dialog,Kyoya,できないことを頼んでいたからな」,"I asked Haruhi to do something only
+she could.",,,
+114_3_4.json,1520,Dialog,Haruhi,「鏡夜先輩……」,Kyoya-senpai...,,,
+114_3_4.json,1521,Dialog,Haruhi,自分のことも信頼してくれてたってことでいい,Is it because you,,,
+114_3_4.json,1522,Dialog,Haruhi,のかな……。,trusted me too...?,,,
+114_3_4.json,1527,Dialog,Kyoya,「それより、チームを決めておくか。もっとも、,"Anyway, let's decide on the teams.
+Though",,,
+114_3_4.json,1528,Dialog,Kyoya,すでに決まっているようなものだがな」,it's pretty much already decided.,,,
+114_3_4.json,1533,Dialog,Tamaki,「うむ、ではさっそくチームを発表しておこ,"Very well, then let's announce",,,
+114_3_4.json,1534,Dialog,Tamaki,う！」,the teams right away!,,,
+114_3_4.json,1535,Dialog,Tamaki,また余計なところで力を入れるんだから……。,"You're putting too much effort in
+the wrong places again...",,,
+114_3_4.json,1545,Dialog,Tamaki,「俺と鏡夜の『くまちゃんチーム』！　光と馨,"Our 'Bear-chan Team' with me and
+Kyoya!",,,
+114_3_4.json,1546,Dialog,Tamaki,の『ふたごチーム』！　ハニー先輩とモリ先輩,"Hikaru and Kaoru's 'Twins Team'!
+Honey-senpai",,,
+114_3_4.json,1547,Dialog,Tamaki,の『うさちゃんチーム』！」,and Mori-senpai's 'Usa-chan Team'!,,,
+114_3_4.json,1548,Dialog,Tamaki,#Color[7]#Scale[1.8]幼稚園っぽい……,#Color[7]#Scale[1.8]It looks like a kindergarten...,,,
+114_3_4.json,1556,Dialog,Tamaki,「さあハルヒ……。どこに入るかは決まってい,"Come on, Haruhi... Even though I
+think you've already",,,
+114_3_4.json,1557,Dialog,Tamaki,ると思うけど、悩んでいいんだよ」,"decided where to go, it's okay to
+have doubts.",,,
+114_3_4.json,1558,Dialog,Tamaki,自分のチームを選ぶと信じて疑わない目をして,"She's looking at me with complete
+faith that",,,
+114_3_4.json,1559,Dialog,Tamaki,る……。まあ、それはどうでもいいんだけど。,"I'll choose her team... Well,
+whatever.",,,
+114_3_4.json,1561,Dialog,Tamaki,どこのチームに入ろうかな？,Which team should I join?,,,
+114_3_4.json,1562,Choice,Tamaki,くまちゃんチーム,Bear-chan team!,,,
+114_3_4.json,1563,Choice,,ふたごチーム,Twins team!,,,
+114_3_4.json,1564,Choice,,うさちゃんチーム,Usa-chan team!,,,
+114_3_4.json,1581,Dialog,Haruhi,「環先輩と鏡夜先輩のところで」,At Senpai and Kyoya-senpai's place.,,,
+114_3_4.json,1588,Dialog,Tamaki,「そうか！　くまちゃんチームなんだな！！」,"That's right! You're on Team
+Kumachan!!",,,
+114_3_4.json,1590,Dialog,Haruhi,「そうですよ」,Yes.,,,
+114_3_4.json,1596,Dialog,Tamaki,「これで負けることはない！　お父さんは娘が,I won't lose with this! Having my,,,
+114_3_4.json,1597,Dialog,Tamaki,一緒にいるだけで、通常の３倍は頑張れるん,princess by my side makes me three,,,
+114_3_4.json,1598,Dialog,Tamaki,だっ！！」,times more motivated than usual!!,,,
+114_3_4.json,1599,Dialog,Tamaki,……意味がわかりません、環先輩。,"...I don't get it, Tamaki-senpai.",,,
+114_3_4.json,1608,Dialog,Kyoya,「それなら、俺は楽をさせてもらえそうだな。,Then I might get to relax.,,,
+114_3_4.json,1609,Dialog,Kyoya,ハルヒ、環を頼むぞ」,"Haruhi, I'm counting on you.",,,
+114_3_4.json,1611,Dialog,Haruhi,「……頼まれたくないです」,I don't want to be asked.,,,
+114_3_4.json,1612,Dialog,Haruhi,どんな勝負になるかは分からないけど、環先輩,"I don't know how this will turn out,
+but if Tama-chan and Kyoya-senpai",,,
+114_3_4.json,1613,Dialog,Haruhi,と鏡夜先輩が一緒なら大丈夫……、だと思う。,"are together, everything should be
+fine... I think.",,,
+114_3_4.json,1623,Dialog,Haruhi,「光、馨、よろしくね」,"「Hikaru, Kaoru, take care.」",,,
+114_3_4.json,1631,Dialog,Hikaru,「やっぱハルヒは僕らと一緒だよな」,"You're still with us, Haruhi.",,,
+114_3_4.json,1640,Dialog,Kaoru,「そうだよね、僕たち同じクラスだし」,"That's right, we're in the same
+class.",,,
+114_3_4.json,1648,Dialog,Hikaru,「じゃあさ、帰りにハルヒん家に行って相談し,"「Then how about going to Haruhi's
+place",,,
+114_3_4.json,1649,Dialog,Hikaru,ない？」,after school and talking it over?」,,,
+114_3_4.json,1657,Dialog,Kaoru,「いいね、ついでにお寿司の出前もとろっか」,"Sounds good, and while you're at it,
+order some sushi too.",,,
+114_3_4.json,1659,Dialog,Haruhi,「……あのねえ」,Hey...,,,
+114_3_4.json,1660,Dialog,Haruhi,どんな勝負になるかは分からないけど、光たち,"I don't know how it'll go, but I'm
+sure we'll be",,,
+114_3_4.json,1661,Dialog,Haruhi,が一緒なら大丈夫だよね。,"fine with Hikaru and the others on
+our side.",,,
+114_3_4.json,1672,Dialog,Haruhi,「えっと……。う、うさちゃんチームで」,「Um... I'll go with Usachan's team!」,,,
+114_3_4.json,1673,Dialog,Haruhi,チーム名はどうかと思うけど、ハニー先輩とモ,"I think it's fine as our team name.
+It's reassuring",,,
+114_3_4.json,1674,Dialog,Haruhi,リ先輩が一緒だと心強い。,"to have Honey-senpai and Mori-senpai
+with us!",,,
+114_3_4.json,1682,Dialog,Honey,「わーい♪　ハルちゃんと一緒だ」,Yay♪ I'm with Haruhi!,,,
+114_3_4.json,1691,Dialog,Mori,「……よろしく頼む」,Please take care of me.,,,
+114_3_4.json,1693,Dialog,Haruhi,「はい、頑張りましょう」,「Let's do our best.」,,,
+114_3_4.json,1695,Dialog,Haruhi,どんな勝負になるかは分からないけど、先輩た,"I don't know how it'll go, but I'm
+sure",,,
+114_3_4.json,1696,Dialog,Haruhi,ちが一緒なら大丈夫だよね。,"we'll be fine with you guys by my
+side.",,,
+114_3_4.json,1707,Dialog,Kyoya,「……週末の勝負に備えて、明日は臨時休業と,"I'll close early tomorrow to prepare
+for our",,,
+114_3_4.json,1708,Dialog,Kyoya,する。必要ないかもしれないが、お客様への連,"weekend showdown. I'll inform the
+customers",,,
+114_3_4.json,1709,Dialog,Kyoya,絡は俺からしておこう」,"myself, even if it might not be
+necessary.",,,
+114_3_4.json,1717,Dialog,Tamaki,「どんな勝負になるかはまだわからないが、よ,I don't know how this will turn,,,
+114_3_4.json,1718,Dialog,Tamaki,ろしく頼む」,"out, but please do your best.",,,
+114_3_4.json,1725,Dialog,Tamaki,「……あれ？　こういうときは、みんなでこ,...Huh? Isn't this when everyone,,,
+114_3_4.json,1726,Dialog,Tamaki,う――、『おー』とかじゃないのか？」,goes 'ooh' together?,,,
+114_3_4.json,1739,Dialog,Hikaru,「冷静になって考えるとさ」,Calm down and think about it.,,,
+114_3_4.json,1741,Dialog,Kaoru,「勝負の『賞品』って殿なんだよねえ……」,"The prize for this contest is
+you...?",,,
+114_3_4.json,1751,Dialog,Tamaki,「お、おい……」,Hey...!,,,
+114_3_4.json,1764,Dialog,Hikaru,「あんまり頑張らなくてもいいような気がして,I don't think I need,,,
+114_3_4.json,1765,Dialog,Hikaru,きた」,to try too hard.,,,
+114_3_4.json,1767,Dialog,Kaoru,「殿がいなくなったら、鏡夜先輩が部長になれ,"If the prince leaves, Otori-senpai",,,
+114_3_4.json,1768,Dialog,Kaoru,ばいいんだし」,will just become president.,,,
+114_3_4.json,1777,Dialog,,#Scale[1.4]ガーーーーーーーーーーン！,#Scale[1.4]*GONNNNNNNNG!*,,,
+114_3_4.json,1789,Dialog,Kyoya,「そのくらいにしておけ、あとが面倒だ」,"Leave it at that. It'll be trouble
+later.",,,
+114_3_4.json,1802,Dialog,Hikaru & Kaoru,「でもでもお〜」,But but o~,,,
+114_3_4.json,1811,Dialog,Kyoya,「今回の件は、もう環だけの問題ではない」,"This isn't just Tamaki's problem
+anymore.",,,
+114_3_4.json,1819,Dialog,Hikaru,「鏡夜先輩……」,Kyoya-senpai...,,,
+114_3_4.json,1825,Dialog,Kyoya,「うちの部を敵に回す、という意味を彼らには,"We need to make them fully
+understand",,,
+114_3_4.json,1826,Dialog,Kyoya,しっかり認識してもらう必要がある」,"that they're making our club an
+enemy.",,,
+114_3_4.json,1827,Dialog,Kyoya,わ、笑ってるけど。鏡夜先輩、本気で怒ってる,W-While I'm smiling... Kyoya-senpai,,,
+114_3_4.json,1828,Dialog,Kyoya,みたい……。,seems really angry...,,,
+114_3_4.json,1835,Dialog,Kyoya,「そういう訳だ。しっかり頼む」,That's how it is. Count on me.,,,
+114_3_4.json,1837,Dialog,Kyoya,鏡夜先輩の言葉で、落ち込んでいる環先輩を残,"With Kyoya-senpai's words, I left
+behind Tamaki-senpai,",,,
+114_3_4.json,1838,Dialog,Kyoya,して部活は終わった。,"who was feeling down, and the club
+meeting ended.",,,
+114_3_4.json,1844,Dialog,,みんながなんとかまとまってきたと思ったら、,"I thought everyone had finally
+settled down... but",,,
+114_3_4.json,1845,Dialog,,今度はレオさんたちと勝負かあ……。,"now it's a competition with Leo-san
+and co. huh...?",,,
+114_3_4.json,1846,Dialog,,運動じゃないといいんだけどな。走るのとか得,"I hope we don't have to do any
+exercise. I'm",,,
+114_3_4.json,1847,Dialog,,意じゃないし。,"not good at running or anything like
+that.",,,
+114_3_4.json,1848,Dialog,,あ、忘れないうちに、パソコンのチェックをし,"Oh, while I'm at it, I should",,,
+114_3_4.json,1849,Dialog,,ておこう。,check the computer.,,,
+114_3_4.json,1852,Dialog,,……借金額に変化なし。お客さんが来てないん,"...The debt amount hasn't changed.
+It's",,,
+114_3_4.json,1853,Dialog,,だから当たり前なんだけど。,"obvious since no customers have
+come.",,,
+114_3_4.json,1854,Dialog,,見てても減るわけないんだし、もう寝よう。,"There's no point in watching; let's
+go to bed.",,,

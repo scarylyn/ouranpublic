@@ -1,0 +1,641 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+mitukuni.json,1,Chapter name,,ハニー先輩の悩み,Honey-Senpai's Worries,,,
+mitukuni.json,3,Dialog,,放課後、いつものようにホスト部で接客をする。,"I'll serve customers at the Host
+Club as usual after school.",,,
+mitukuni.json,4,Dialog,,いつもと変わらない、そう思っていたのだけれど……。,"I thought it would be just like
+always...",,,
+mitukuni.json,11,Dialog,Tamaki,「姫の眩い微笑み……。その微笑の前では夜の帳（とばり）も恥らって顔を出さぬというものです……」,"My princess's dazzling smile... Even
+the night curtain blushes and hides
+its face before such a smile...",,,
+mitukuni.json,19,Dialog,Kyoya,「ああ、ハルヒ。庶民コーヒーの予備が切れたので補充を頼む」,"Yeah, Haruhi. I need you to restock
+the plain coffee; we're out.",,,
+mitukuni.json,32,Dialog,Hikaru,「馨ったら昨日、課題のノートを忘れてさ」,"Kaoru forgot his homework notebook
+yesterday.",,,
+mitukuni.json,37,Dialog,Kaoru,「あー！　それは言わない約束だろう、光！」,"Hey! We promised not to say that,
+Hikaru!",,,
+mitukuni.json,39,Dialog,Hikaru,「ごめん、ごめん。慌てた顔の馨が可愛かったからつい……」,"Sorry, sorry. I couldn't help myself
+because Kaoru looked so cute when he
+was flustered.",,,
+mitukuni.json,41,Dialog,Kaoru,「光……！」,「Hikaru...!」,,,
+mitukuni.json,54,Dialog,Haruhi,「？　ハニー先輩、先ほどからフォークをかじっていますけどもしかしておかわりが欲しいんですか？」,"Honey-senpai, you've been chewing on
+your fork. Do you want more?",,,
+mitukuni.json,56,Dialog,Honey,「ん、ハルちゃん。んーとね、えっとね。おかわり……うん、欲しいかな」,"Hmm, Haru-chan. Well, um... do you
+want seconds?",,,
+mitukuni.json,64,Dialog,Mori,「ん……」,Hmm...,,,
+mitukuni.json,65,Dialog,Mori,こ、この２人は流石というかなんというか……。,"T,These two are truly remarkable...",,,
+mitukuni.json,66,Dialog,Mori,いつの間におかわりを用意していたとか、聞いてもしかたないんだろうなぁ……。,"I guess it's no use asking when you
+prepared seconds...",,,
+mitukuni.json,73,Dialog,Mori,「光邦。気になることがあるのなら口に出すべきだ」,"Haruhi. If something's on your mind,
+you should say it.",,,
+mitukuni.json,75,Dialog,Haruhi,「ハニー先輩、何か気になることでもあるんですか？」,"Senior Honey, is there something on
+your mind?",,,
+mitukuni.json,84,Dialog,Tamaki,「ぬうっ、ハニー先輩の悩みは我らが悩み！そうだろう、諸君」,"Aww, Honey-senpai's worries are our
+worries! Right, everyone?",,,
+mitukuni.json,91,Dialog,Hikaru,「あー、また殿の病気がはじまったよ」,"Oh, His Lordship's illness has
+started again.",,,
+mitukuni.json,98,Dialog,Kaoru,「悩み相談とか大好きだもんね〜殿は」,I love giving advice~ My princess.,,,
+mitukuni.json,108,Dialog,Honey,「ハルちゃん、タマちゃん、心配してくれてありがとう。だけどね、これは僕自身の問題だからみんなに迷惑かけたくないんだ」,"Haru-chan, Tama-chan,
+thanks, but this is
+my problem.",,,
+mitukuni.json,116,Dialog,Mori,「光邦……」,Honey...,,,
+mitukuni.json,121,Dialog,Honey,「崇も心配しなくて大丈夫だよ。僕１人で解決できちゃう問題だもん。えへへ〜」,"Don't worry, Takashi. I can handle
+this all by myself. Hehehe~",,,
+mitukuni.json,135,Dialog,Hikaru,（１人で解決できちゃう問題だったらあからさまに溜息なんてつかないよね）,"(I wouldn't sigh so obviously if I
+could solve it on my own.)",,,
+mitukuni.json,137,Dialog,Kaoru,（そうそう。殿みたいに端っこでいじけられるのと大差ない反応だよね）,"(Just like being ignored by some
+prince. It's pretty much the same
+reaction.)",,,
+mitukuni.json,139,Dialog,Haruhi,（ちょっ。２人ともこそこそ話にしては声が大きすぎです。ハニー先輩に内容が筒抜けですよ！）,"(Heh. You two are talking way too
+loud for a secret conversation!
+Honey-senpai will hear everything!)",,,
+mitukuni.json,147,Dialog,Hikaru & Kaoru,（だって聞かせてるんだもーん）,(Because I'm telling you~),,,
+mitukuni.json,149,Dialog,Haruhi,（こ、こいつらは……）,(These guys are...),,,
+mitukuni.json,158,Dialog,Kyoya,「ハニー先輩の売りはケーキをむさぼり食い、かつ３年とは思えないロリショタ顔。それに加えた邪気のない笑顔だ」,"Honey-senpai's charms are
+cake, a youthful face,
+and an innocent smile.",,,
+mitukuni.json,163,Dialog,Kyoya,「沈んだ顔でケーキを食べている姿は、お客様に不安感を抱かせることにはなりませんか？」,"Doesn't eating cake with a downcast
+face make customers feel uneasy?",,,
+mitukuni.json,165,Dialog,Haruhi,（鏡夜先輩の笑みってはたから見れば邪気がなさそーだけど、絶対零度の微笑みっていうのかな）,"(Kyoya-senpai's smile looks innocent
+from the outside, but it's more like
+a zero-degree smile.)",,,
+mitukuni.json,167,Dialog,Haruhi,（背筋がぞくぞくする類の笑みだよね。説得に近いおどしだよ、これ）,"(It's a creepy smile that's almost
+like a threat disguised as
+persuasion.)",,,
+mitukuni.json,175,Dialog,Honey,「鏡ちゃん……」,Kyoya...,,,
+mitukuni.json,183,Dialog,Mori,「みんな心配している。内に溜め込んでいても何の解決にもならない」,"Everyone's worried about you.
+Keeping things bottled up won't
+solve anything.",,,
+mitukuni.json,185,Dialog,Honey,「崇……」,Takashi...,,,
+mitukuni.json,194,Dialog,Tamaki,「そうです！　我らは仲間ではありませんか！ここはひとつこの須王環率いる桜蘭レンジャーに任せてみてはいかがでしょう？」,"That's right! Aren't we comrades?
+How about leaving this to the Ouran
+Rangers, led by me, Suou Tamaki?",,,
+mitukuni.json,202,Dialog,Hikaru,「桜蘭レンジャー？」,Souran Ranger?,,,
+mitukuni.json,209,Dialog,Kaoru,「殿のことだから子供向け番組の戦隊ものでも見たんでしょ」,"You probably watched some kids' show
+with superheroes.",,,
+mitukuni.json,214,Dialog,Hikaru & Kaoru,「殿は影響受けやすいからねー」,You're easily influenced.,,,
+mitukuni.json,218,Dialog,Haruhi,「桜蘭レンジャーとかはどうでもいいですけど、悩みがあるなら相談に乗りますよ？」,"Whatever about those Ouran Rangers,
+if you've got problems, I'll listen.",,,
+mitukuni.json,226,Dialog,Tamaki,「わあああん！！　鏡夜〜ハルヒが冷たいよー！」,"Aaaah!! Kyoya~ Haruhi's being mean
+to me!",,,
+mitukuni.json,234,Dialog,Kyoya,「今に始まったことではないだろう。で、営業にも差支えがあるのでハニー先輩の悩みとやらを聞かせて頂けますか？」,"This isn't the first time,
+and sales are affected.
+What's Honey's problem?",,,
+mitukuni.json,242,Dialog,Honey,「うん……あのね――」,Uh... well--,,,
+mitukuni.json,247,Dialog,Haruhi,「駅前のケーキ屋……ですか？」,"Cake shop in front of the
+station...?",,,
+mitukuni.json,259,Dialog,Hikaru & Kaoru,「あー、最近駅前に出来たケーキ屋でしょ？」,"Ah, it's that new cake shop near the
+station, right?",,,
+mitukuni.json,261,Dialog,Hikaru & Kaoru,「フランス帰りの有名パティシエが運営してるっていう」,"A famous pastry chef who just
+returned from France runs it.",,,
+mitukuni.json,263,Dialog,Haruhi,「へー、そんなのができてたんだ。知らなかったよ」,"Hey, so you could do that. I didn't
+know.",,,
+mitukuni.json,271,Dialog,Hikaru,「ハルヒは周りにムトンチャクだからね〜」,"You're such a sheep in wolf's
+clothing~",,,
+mitukuni.json,273,Dialog,Kaoru,「そうそう」,That's right.,,,
+mitukuni.json,282,Dialog,Tamaki,「して、ハニー先輩はそのケーキ屋さんにどのようなお悩みがあるのでしょう？」,"So, Senior Honey, what's your
+problem with that cake shop?",,,
+mitukuni.json,291,Dialog,Honey,「そこのお店のケーキね。すっごく美味しいんだって」,"That cake at that shop over there.
+It's supposed to be really
+delicious.",,,
+mitukuni.json,293,Dialog,Honey,「その中で見た目も可愛くて食べちゃうのがもったいないくらいのケーキがあるって聞いて、お店に行ってきたんだ」,"I heard there was a cake so cute
+you'd feel bad eating it, so I went
+to check it out.",,,
+mitukuni.json,298,Dialog,Honey,「そうしたら……そのケーキがね。僕の大嫌いな人参さんでね」,"That's when... that cake was made of
+carrots, which I hate.",,,
+mitukuni.json,300,Dialog,Honey,「甘さを控えたキャロットケーキなんだって。食べたかったけど、僕……人参さんだけは駄目なんだよ〜」,"I heard it's carrot cake without too
+much sweetness. I wanted to try
+it... but I can't eat carrots~",,,
+mitukuni.json,302,Dialog,Haruhi,「ええ！　ハニー先輩って人参が嫌いだったんですか！」,"Really!? You don't like carrots,
+Honey-senpai!?",,,
+mitukuni.json,304,Dialog,Haruhi,うさぎのぬいぐるみを大事に抱えている印象が強い所為か、はたまたハニー先輩がうさぎっぽいからか……。,"Maybe it's the bunny doll,
+or maybe Honey-senpai
+is bunny-like himself...",,,
+mitukuni.json,305,Dialog,Haruhi,野菜は苦手そうだなぁとは思っていたけれど、先入観で人参だけは大丈夫じゃないかって思ってた。,"I thought you didn't like
+vegetables, but I figured carrots
+were an exception.",,,
+mitukuni.json,306,Dialog,Haruhi,自覚したくないけれど、ここの雰囲気に慣れてきてたってことなのかなぁ……。,"I don't want to admit it, but maybe
+I've gotten used to the atmosphere
+here...?",,,
+mitukuni.json,313,Dialog,Kyoya,「見てのとおり甘いものが大好きなハニー先輩は野菜があまり好きではない。その中でも特に嫌いなのが……人参だ」,"Sweet-loving Honey-senpai
+dislikes vegetables,
+especially carrots.",,,
+mitukuni.json,321,Dialog,Honey,「うーでも他の野菜さんは食べられるもん」,"Yeah, but other veggies can eat it.",,,
+mitukuni.json,329,Dialog,Tamaki,「ハニー先輩はウサギっぽいから無条件で人参は大丈夫だと思っていたが、ぬう。須王環一生の不覚！」,"I thought Honey-senpai
+was bunny enough to eat
+carrots. Tamaki's mistake!",,,
+mitukuni.json,332,Dialog,Haruhi,（うわぁ、環先輩と同じ考えってなんだか嫌だなぁ……）,"(Man, I don't like it when I think
+the same as Tama-chan...)",,,
+mitukuni.json,339,Dialog,Mori,「しかし、それでも食べたいのだろう？」,"But you still want to eat it, don't
+you?",,,
+mitukuni.json,347,Dialog,Honey,「うん……だけど人参さんだけはどうしても食べられないからさ、僕あきらめることにしたんだ」,"Yeah... but I just can't eat
+carrots, so I gave up.",,,
+mitukuni.json,352,Dialog,Honey,「みんな、ほんとうにごめんね。ほら、ケーキならこーんなにいっぱいあるもん。僕、幸せだよ」,"I'm really sorry everyone. Look,
+there are so many cakes here. I feel
+happy.",,,
+mitukuni.json,353,Dialog,Honey,なんだろう……。さほど重要な話でもないのに、ハニー先輩の笑顔にいじらしさを感じるっていうか。,"I wonder... Even though it's not a
+big deal, I feel touched by
+Honey-senpai's smile.",,,
+mitukuni.json,354,Dialog,Honey,ああ、ハニー先輩にとってケーキは死活問題だから無理をして笑った顔がはかなげに見えるのかな。,"Ah, maybe that's because
+Honey-senpai forced a smile when he
+was worried about the cake.",,,
+mitukuni.json,359,Dialog,Honey,「僕は大丈夫だもん。タマちゃんもカオちゃんもヒカちゃんも、ハルちゃんも鏡ちゃんもお客様待たせちゃ駄目でしょ？　ね？」,"I'm fine. Tama-chan, Kao,
+Hika, Haru, and Kyouya
+can't keep guests waiting.",,,
+mitukuni.json,361,Dialog,Honey,「うーん、このケーキすっごく美味しい。崇、おかわり！」,"Hmm, this cake is super delicious!
+Takashi, seconds!",,,
+mitukuni.json,369,Dialog,Hikaru,（絶対無理してるよね）,(You're totally forcing yourself.),,,
+mitukuni.json,376,Dialog,Kaoru,（してるしてる。おかわりとか言いつつ、フォーク差し出してるよ）,"(Am I not? Am I not? While saying
+things like ""seconds,"" I'm holding
+out my fork.)",,,
+mitukuni.json,378,Dialog,Hikaru & Kaoru,（あれはかなり気にしてるよね〜）,"(He's really worried about that,
+huh~)",,,
+mitukuni.json,382,Dialog,Haruhi,「……それじゃあ自分は買出しに行ってきます。ハニー先輩、無理しないで下さいね」,"I'm going shopping. Honey-senpai,
+don't overdo it.",,,
+mitukuni.json,389,Dialog,Honey,「ありがとう。ハルちゃんもお買い物、気をつけて行ってきてね」,"Thanks. Be careful on your shopping
+trip too, Haru-chan.",,,
+mitukuni.json,397,Dialog,Tamaki,（このまま話を流して良いのか、鏡夜！）,"(Should I just let this slide,
+Kyoya?)",,,
+mitukuni.json,405,Dialog,Kyoya,（ハニー先輩がああ言っているんだ。ここは一旦接客に戻った方が良いだろう）,"(Honey-senpai said that. I should
+probably go back to attending
+customers.)",,,
+mitukuni.json,407,Dialog,Tamaki,（ぬう。そうゆうものなのか……）,(Oh. So that's how it works...),,,
+mitukuni.json,421,Dialog,Hikaru & Kaoru,「じゃあ僕たちはお姫の相手でもしてきまーす」,Then we'll go entertain my princess~,,,
+mitukuni.json,430,Dialog,Mori,「光邦、おかわりだ」,"Honey, seconds!",,,
+mitukuni.json,438,Dialog,Honey,「崇ありがとう」,"Takashi, thanks!",,,
+mitukuni.json,447,Dialog,Kyoya,「……俺は備品のチェックでもするとしよう。環、お前はこちらの姫から指名が入っている。速やかにお席にお通ししてくれ」,"...I'll go check on the equipment.
+Tamaki, my princess has requested
+you. Please show her to a seat.",,,
+mitukuni.json,455,Dialog,Tamaki,「ああ、任せておけ！」,Leave it to me!,,,
+mitukuni.json,471,Dialog,Kamikamo,「ハニーくん、なんだかお元気がないみたいだけれど……」,"Honey-kun, you seem a bit down...",,,
+mitukuni.json,479,Dialog,Honey,「う、ううん！　ちょっとだけ考えごとしてたんだ。ごめんね」,"U-Um! I was just thinking to myself.
+Sorry.",,,
+mitukuni.json,484,Dialog,Kamikamo,「そうでしたの。どのようなことをお考え遊ばしていたのかお伺いしてもよろしいかしら？」,"Is it all right if I ask what you
+were thinking about?",,,
+mitukuni.json,486,Dialog,Honey,「えーっとね、今日のケーキはイチゴがのったショートケーキだけど明日はチョコケーキにしようかなぁって」,"Um, today's cake is strawberry
+shortcake, but maybe I'll have
+chocolate cake tomorrow.",,,
+mitukuni.json,488,Dialog,Honey,「うさちゃんは何味のケーキが好きかなぁ？」,"What flavor of cake do you like,
+Usachan?",,,
+mitukuni.json,497,Dialog,Tamaki,（いじらしい！　涙を耐え忍ぶ姿にどうにかしてあげたいという気持ちが芽生えないか、諸君！）,"(Poor thing! Can't you feel a desire
+to help her hold back her tears
+somehow, everyone!)",,,
+mitukuni.json,499,Dialog,Haruhi,（環先輩、顔が近いです。確かに気になりますが、涙は耐え忍んでないと思います）,"(Tamaki-senpai, your face is close.
+While it's tempting, I don't think
+I'll cry.)",,,
+mitukuni.json,501,Dialog,Tamaki,（ハルヒ〜お父さんはお前をそのような子に育てた覚えはありませんよ！）,"(Haruhi--I don't remember raising
+you to be like that!)",,,
+mitukuni.json,503,Dialog,Haruhi,（育てられた覚えは一切ありません）,"(I don't remember being raised by
+you.)",,,
+mitukuni.json,512,Dialog,Tamaki,（うわあああん！　お母さん、ハルヒが反抗期だよ〜）,"(Oh no! Mom, Haruhi's in her
+rebellious phase~)",,,
+mitukuni.json,520,Dialog,Kyoya,（ああ、わかった。わかった。とにかくあの状態のハニー先輩を気にしながらでは接客に多大な影響を及ぼすことになる）,"(I see. If I worry about
+Honey-senpai like this, it'll affect
+my service.)",,,
+mitukuni.json,522,Dialog,Kyoya,（こうなったら……）,(Now that it's come to this...),,,
+mitukuni.json,536,Dialog,Hikaru & Kaoru,（題して、ハニー先輩の人参克服大作戦☆決行）,"(Let's begin Honey-senpai's carrot
+conquering operation!)",,,
+mitukuni.json,538,Dialog,Hikaru & Kaoru,（面白おかしく騒ごうって寸法さ）,(Let's make it fun and noisy.),,,
+mitukuni.json,540,Dialog,Haruhi,（せめて最後は隠すとかしなよ）,(At least don't hide at the end.),,,
+mitukuni.json,548,Dialog,Hikaru & Kaoru,（だーって面白そうジャン）,(It sounds fun~!),,,
+mitukuni.json,557,Dialog,Tamaki,（うむ。それは至極良いアイデアだ。ならばここから先はキングの俺に任せなさい！）,"(Hmm. That's an excellent idea! From
+here on out, leave it to King me!)",,,
+mitukuni.json,562,Dialog,Tamaki,「お集まり頂いた姫には誠に申し訳ないのですが、今日はこれにてホスト部の営業を閉めさせて頂きたい」,"I'm truly sorry to my princess, but
+I'd like to close the Host Club for
+today.",,,
+mitukuni.json,564,Dialog,Tamaki,「姫君の熱い吐息、熱い眼差しを一身に受ける有り難くうるわしい時を中断するのは断腸の思いではありますが」,"It pains me to interrupt
+this blessed moment, but",,,
+mitukuni.json,566,Dialog,Tamaki,「どうか今宵の夢に一時の許しを得、夢枕に立つその刻限までしばしの時を頂きたいのです」,"I beg for your indulgence to appear
+in your dreams tonight, and I ask
+for the time until that moment.",,,
+mitukuni.json,569,Dialog,Haruhi,（相も変わらず意味不明ですね、あの人）,"(As usual, he's incomprehensible.)",,,
+mitukuni.json,581,Dialog,Hikaru & Kaoru,（それが殿だって。まあ、いいんじゃない。これで作戦決行できそうだし）,"(That's our prince. Well, it'll do.
+We should be able to go ahead with
+the plan now.)",,,
+mitukuni.json,590,Dialog,Kyoya,「お詫びの品として、次回ご来店の際には天然ルーキーこと藤岡ハルヒの生写真を贈呈致します」,"As an apology gift, we will present
+a live photo of the rookie known as
+Haruhi Fujio next time you visit.",,,
+mitukuni.json,592,Dialog,Haruhi,「ちょっ。鏡夜先輩いつのまに！！」,"Hey! When did you get here,
+Kyoya-senpai!!",,,
+mitukuni.json,597,Dialog,Kyoya,「良かったな。これで無事に作戦は決行できそうだ」,"Good. It looks like we can go ahead
+with the operation safely.",,,
+mitukuni.json,599,Dialog,Haruhi,「……鏡夜先輩。自分のプライバシーはないんですか」,"...Kyoya-senpai. Don't you have any
+privacy?",,,
+mitukuni.json,604,Dialog,Kyoya,「借金を完済したらそれも検討にいれておこう」,"Once I pay off my debts, we'll
+consider it.",,,
+mitukuni.json,607,Dialog,Haruhi,（鬼だっ！！）,(A monster!!),,,
+mitukuni.json,614,Dialog,Mori,「光邦、ハルヒが身を挺（てい）にしたんだ。お前もそれに応えるべきだろう」,"Honey, Haruhi put herself on the
+line. You should respond in kind.",,,
+mitukuni.json,622,Dialog,Honey,「ハルちゃん……ごめんね、僕のせいで」,"Haru-chan... I'm sorry it's my
+fault.",,,
+mitukuni.json,624,Dialog,Haruhi,「いえ、自分はハニー先輩には笑っていて欲しいですから」,"I want you to smile at me,
+Honey-senpai.",,,
+mitukuni.json,633,Dialog,Hikaru,「ケーキを食べてても辛気臭いハニー先輩ってのもねぇ」,"Eating cake but still being so dour,
+Honey-senpai...",,,
+mitukuni.json,640,Dialog,Kaoru,「見てて気になるじゃん」,Can't help but notice.,,,
+mitukuni.json,649,Dialog,Honey,「ヒカちゃん、カオちゃん……」,"Hikachan, Kaouchan...",,,
+mitukuni.json,657,Dialog,Tamaki,「部員１人の悩みは部全体の悩み！　みんなでハニー先輩の人参嫌いを克服しようではないか！」,"The club's problem is
+everyone's problem. Help
+Honey beat carrots!",,,
+mitukuni.json,659,Dialog,Tamaki,環先輩の熱いノリってかなりウザイけど、腐ってもホスト部のキング。,"Senpai is annoying, but
+he's still the king of
+the Host Club.",,,
+mitukuni.json,660,Dialog,Tamaki,この人からドタバタ劇が始まるといっても間違いじゃないけど、一応ムードメーカーなんだろうな、多分。,"I guess he's supposed to be the life
+of the party, but I doubt that'll
+stop him from causing chaos.",,,
+mitukuni.json,667,Dialog,Kyoya,「では、これよりハニー先輩の人参克服作戦を開始する。良い案があったら挙手をするように」,"Then let's begin Honey-senpai's
+carrot-conquering operation. Raise
+your hand if you have a good idea.",,,
+mitukuni.json,680,Dialog,Hikaru & Kaoru,「はーい」,Okaaay.,,,
+mitukuni.json,689,Dialog,Tamaki,「はい！！」,「Yes!!」,,,
+mitukuni.json,697,Dialog,Kyoya,「ちなみに指名はハルヒに任せる」,I'll leave it to Haruhi.,,,
+mitukuni.json,700,Dialog,Haruhi,「自分ですか！？　まあ、いいですけど」,"It's me!? Well, that's fine.",,,
+mitukuni.json,702,Dialog,Haruhi,「じゃあ……」,「Well then...」,,,
+mitukuni.json,703,Choice,Haruhi,双子の提案を聞く,Listen to the twins' proposal.,,,
+mitukuni.json,704,Choice,Haruhi,環の提案を聞く,Hear Tama-chan's plan,,,
+mitukuni.json,714,Dialog,Haruhi,「光と馨はどんな意見があるの？」,What do you two think?,,,
+mitukuni.json,726,Dialog,Hikaru & Kaoru,「良くぞ聞いてくれましたー」,I'm glad you asked!,,,
+mitukuni.json,728,Dialog,Kaoru,「……と、その前に場所を移して」,"Before that... let's change
+locations.",,,
+mitukuni.json,729,Dialog,Kaoru,双子の手招きで、ハニー先輩を除く部員全員が移動する。,"The twins wave everyone but
+Honey-senpai over.",,,
+mitukuni.json,737,Dialog,Hikaru,「ようするにさ、人参が嫌いなんでしょ？」,"So basically, you don't like
+carrots?",,,
+mitukuni.json,739,Dialog,Kaoru,「だったら人参を大量に食べさせればいいってことじゃん」,Just feed her lots of carrots then.,,,
+mitukuni.json,741,Dialog,Hikaru & Kaoru,「殿みたいに言えば、嫌よ嫌よも好きのうちってね〜」,"If you say it like a prince, even
+'no' can sound like 'yes.'",,,
+mitukuni.json,743,Dialog,Hikaru & Kaoru,「食べまくってれば耐性がつくんじゃない？」,"Eat a lot and you'll build up a
+tolerance, right?",,,
+mitukuni.json,745,Dialog,Haruhi,「……との意見ですがどう思います？」,What do you think about that?,,,
+mitukuni.json,754,Dialog,Kyoya,「苦手なものを克服するにはそれ自体を食べさせるという至極安易な方法ではあるな」,"It's an incredibly simple method to
+overcome your weaknesses by forcing
+yourself to eat them.",,,
+mitukuni.json,756,Dialog,Kyoya,「しかし、だ。あのハニー先輩に無理矢理人参を食わせようというツワモノがこの中にいるか？　という問題にもなる」,"But then again, is there someone in
+here who's gutsy enough to force
+Honey-senpai to eat carrots?",,,
+mitukuni.json,758,Dialog,Kyoya,「唯一なんとか出来そうな人物としてモリ先輩があげられるが……」,"Mori-senpai is the only person who
+might be able to do it...",,,
+mitukuni.json,766,Dialog,Mori,「光邦が本気で嫌がることは出来ない」,"I can't make Honey seriously dislike
+me.",,,
+mitukuni.json,774,Dialog,Kyoya,「とまあ、一時期ハニー先輩にお菓子断ちを決行してマリアナ海溝よりも深く落ち込んだモリ先輩だ」,"I once went on a sweets
+strike because of Honey
+and hit rock bottom.",,,
+mitukuni.json,776,Dialog,Kyoya,「お菓子断ちよりもハードルの高いこの問題を任せるのは荷が重いだろう」,"Leaving this problem to you would be
+more difficult than asking you to
+give up sweets.",,,
+mitukuni.json,778,Dialog,Kyoya,ハニー先輩は機嫌が悪いと素で顔つきと、口調が悪くなる。,"When Honey-senpai's in a bad mood,
+his face and tone really do get
+mean.",,,
+mitukuni.json,779,Dialog,Kyoya,普段とのギャップが激しすぎて対処のしようがないんだよね。,"There's just no telling what he'll
+do next.",,,
+mitukuni.json,786,Dialog,Tamaki,「ぬう。確かに嫌いなものを無理矢理食べさせられれば、メガトン級に機嫌の悪いハニー先輩が覚醒するのも必須」,"Nuu. Indeed, forcing Honey-senpai to
+eat something he hates will awaken
+the mega-ton angry version of him.",,,
+mitukuni.json,798,Dialog,Hikaru,「じゃあやめよっか」,「Then let's quit.」,,,
+mitukuni.json,800,Dialog,Kaoru,「そうだね、中止、中止〜」,"Right, cancel~ cancel~",,,
+mitukuni.json,805,Dialog,Tamaki,「元はと言えばお前達の提案だろう！　それを途中で……」,"It was your idea in the first place!
+You're the ones who...",,,
+mitukuni.json,813,Dialog,Hikaru & Kaoru,「だーって、機嫌の悪いハニー先輩なんかみても僕らに得ないし」,"I mean, there's nothing in it for us
+to see an angry Honey-senpai.",,,
+mitukuni.json,815,Dialog,Hikaru & Kaoru,「ねー、なんか飽きちゃった。別に好き嫌いがあってもいいんじゃない」,"Hey, I'm getting bored. It's fine to
+have likes and dislikes, right?",,,
+mitukuni.json,820,Dialog,Haruhi,「見事なまでに自分勝手ですね」,You're incredibly selfish.,,,
+mitukuni.json,832,Dialog,Hikaru,「えー、だってよく考えてみれば好き嫌いあってなんぼのものじゃん」,"Well, think about it. Likes and
+dislikes are what make things
+interesting.",,,
+mitukuni.json,834,Dialog,Kaoru,「そうそう。好きなものだけ食べてればいいんだからさ。嫌いなものなんてデリートデリート」,"Just so. You only eat what you like.
+Delete delete the stuff you don't.",,,
+mitukuni.json,836,Dialog,Haruhi,「はあ……。光と馨に聞いた自分が馬鹿だったかも」,"Sigh... Maybe I was the idiot for
+asking Hikaru and Kaoru.",,,
+mitukuni.json,844,Dialog,Hikaru & Kaoru,「聞いておいてそうゆうのはよくないよ、ハルヒ」,"Listening to that isn't good for
+you, Haruhi.",,,
+mitukuni.json,846,Dialog,Hikaru & Kaoru,「そうそう。僕ら一生懸命考えたもんね〜」,"That's right. We worked hard
+thinking about it~",,,
+mitukuni.json,848,Dialog,Haruhi,「あーそれはどうも失礼しました」,"Ah, I apologize for that.",,,
+mitukuni.json,852,Dialog,Haruhi,「後は……」,And then...,,,
+mitukuni.json,859,Dialog,Tamaki,「ハルヒ！　ハルヒ！」,Haruhi! Haruhi!,,,
+mitukuni.json,861,Dialog,Haruhi,「えーでは、環先輩の案をお願いします」,"All right, Tamaki-senpai, let's hear
+your plan!",,,
+mitukuni.json,864,Dialog,Haruhi,「環先輩はどんな意見があるんですか？」,"What do you think, Tama-chan?",,,
+mitukuni.json,871,Dialog,Tamaki,「ふっふっふ。よくぞ聞いてくれた！　俺の案は素晴らしいぞ！　内密な作戦なので固まって話さなければな！」,"Heh heh heh. Glad you asked! My plan
+is amazing! It's a secret strategy,
+so listen carefully!",,,
+mitukuni.json,872,Dialog,Tamaki,大理石に大きな丸い引っ掻き傷が作ってある場所を指差して、ハニー先輩を除いたメンバー集合！　と号令をかける環先輩。,"Pointing to the scratched
+marble, Senpai calls
+everyone but Honey over.",,,
+mitukuni.json,873,Dialog,Tamaki,……そこからだと作戦内容筒抜けだと思うんですけど。,"...I think they'll figure out our
+plan from there.",,,
+mitukuni.json,878,Dialog,Tamaki,「では、これより作戦内容を発表しようと思う！ハニー先輩は人参がお嫌いなのだろう？」,"Then let me announce our plan!
+Honey-senpai doesn't like carrots,
+right?",,,
+mitukuni.json,880,Dialog,Tamaki,「ならば人参を細かくしたものをジュースに混ぜ、それを飲んで徐々に克服していただこうと思う」,"I'll blend minced carrots
+into juice so you can
+gradually get used to it.",,,
+mitukuni.json,882,Dialog,Tamaki,「神は時として俺のような完璧な人間を生み出してしまうものなのだよ！」,"The gods sometimes create perfect
+humans like me!",,,
+mitukuni.json,884,Dialog,Haruhi,「へえ……環先輩にしてはまともな案ですね」,"Wow... This is a pretty decent idea
+for Tamaki-senpai.",,,
+mitukuni.json,890,Dialog,Tamaki,「まとも！？　俺はいつだってまともだとも！」,Normal?! I'm always normal!,,,
+mitukuni.json,902,Dialog,Hikaru & Kaoru,「いやーまともじゃないっしょ。馬鹿だからこその殿なんだし」,"Of course not. He's just an idiot
+prince.",,,
+mitukuni.json,909,Dialog,Tamaki,「なぬーっ！！」,Whaaat!!!,,,
+mitukuni.json,917,Dialog,Kyoya,「落ち着け、環。お前にしては珍しく実行するに値する案だ。モリ先輩」,"Calm down, Tamaki. For you, this is
+a rare worthwhile plan. Mori-senpai.",,,
+mitukuni.json,926,Dialog,Mori,「ああ」,"""Yeah.""",,,
+mitukuni.json,927,Dialog,Mori,ハニー先輩のこととなると素早いなぁ。一瞬で細切れにした人参をオレンジジュースの中に入れちゃったよ。,"You're quick with Honey.
+You minced carrot into
+orange juice instantly.",,,
+mitukuni.json,928,Dialog,Mori,深くは追求しないでおこう……。,I'll let it go for now...,,,
+mitukuni.json,933,Dialog,Mori,「……光邦」,Honey...,,,
+mitukuni.json,935,Dialog,Mori,「ここに人参の入ったジュースがある。だが、人参の占める割合はごくわずかで、ほぼオレンジジュースといっても過言ではない」,"There's carrot juice here,
+but barely any carrot.
+It's basically orange juice.",,,
+mitukuni.json,937,Dialog,Mori,「これならば飲めるだろう」,"Then you'll drink it, right?",,,
+mitukuni.json,945,Dialog,Honey,「崇、ありがとう。僕、頑張って飲んでみるね」,"Takashi, thanks. I'll try my best to
+drink it.",,,
+mitukuni.json,952,Dialog,Honey,「うっ……」,Ugh...,,,
+mitukuni.json,959,Dialog,Honey,「やっぱり人参さんは嫌いだよ〜」,I still don't like carrots~,,,
+mitukuni.json,967,Dialog,Kyoya,「ひと口が限界か」,That's all you can handle?,,,
+mitukuni.json,980,Dialog,Hikaru,「ひと口だけでも立派じゃない」,Not even one bite is impressive.,,,
+mitukuni.json,982,Dialog,Kaoru,「そうそう。僕らだったらひと口だって飲まないし」,"That's right. We wouldn't even take
+a sip.",,,
+mitukuni.json,991,Dialog,Tamaki,「ぬうっ。ならばハニー先輩の大好きなケーキにちょこっと混ぜるのはどうだ？」,"Aha! How about mixing it into
+Honey-senpai's favorite cake?",,,
+mitukuni.json,993,Dialog,Haruhi,「ジュースの中に一欠けら入れただけでも駄目だったんですよ。ケーキに混ぜていれても同じじゃないですか？」,"It was no good even with just a tiny
+bit in the juice, right? It'd be the
+same if I mixed it into the cake.",,,
+mitukuni.json,1001,Dialog,Kyoya,「確かに同じようにひと口が限界だろうな」,"Indeed, one bite should be enough.",,,
+mitukuni.json,1009,Dialog,Tamaki,「ぬうううう」,「Noooooo」,,,
+mitukuni.json,1022,Dialog,Hikaru,「殿の作戦は見事失敗したね」,Your plan was a complete failure.,,,
+mitukuni.json,1024,Dialog,Kaoru,「いつもよりまともだったぶん良かったんじゃない？」,"Wasn't it good because you were more
+normal than usual?",,,
+mitukuni.json,1033,Dialog,Tamaki,「うがーっ！　ならばお前達ならばどうするのだ？」,Ugh! Then what would you do?,,,
+mitukuni.json,1036,Dialog,Haruhi,「なんだか似たり寄ったりな気もするけど……」,It feels kind of similar too...,,,
+mitukuni.json,1039,Dialog,Haruhi,「環先輩はどんな意見があるんですか？」,"What do you think, Tama-chan?",,,
+mitukuni.json,1044,Dialog,Tamaki,「ふっふっふ。よくぞ聞いてくれた！　俺の案は素晴らしいぞ！　内密な作戦なので固まって話さなければな！」,"Heh heh heh. Glad you asked! My plan
+is fantastic! It's a secret
+strategy, so listen carefully!",,,
+mitukuni.json,1045,Dialog,Tamaki,大理石に大きな丸い引っ掻き傷が作ってある場所を指差して、ハニー先輩を除いたメンバー集合！　と号令をかける環先輩。,"Pointing to the scratched
+marble, Senpai calls
+everyone but Honey over.",,,
+mitukuni.json,1046,Dialog,Tamaki,……そこからだと作戦内容筒抜けだと思うんですけど。,"...I think they'll figure out our
+plan from there.",,,
+mitukuni.json,1051,Dialog,Tamaki,「では、これより作戦内容を発表しようと思う！ハニー先輩は人参がお嫌いなのだろう？」,"Then let me announce our plan!
+Honey-senpai doesn't like carrots,
+right?",,,
+mitukuni.json,1053,Dialog,Tamaki,「ならば人参を細かくしたものをジュースに混ぜ、それを飲んで徐々に克服していただこうと思う」,"I'll blend minced carrots
+into juice so you can
+gradually get used to it.",,,
+mitukuni.json,1055,Dialog,Tamaki,「神は時として俺のような完璧な人間を生み出してしまうものなのだよ！」,"God sometimes creates perfect humans
+like me!",,,
+mitukuni.json,1057,Dialog,Haruhi,「へえ……環先輩にしてはまともな案ですね」,"Hmm... This is a pretty sensible
+idea for Tamaki-senpai.",,,
+mitukuni.json,1063,Dialog,Tamaki,「まとも！？　俺はいつだってまともだとも！」,I'm normal!? I'm always normal!,,,
+mitukuni.json,1075,Dialog,Hikaru & Kaoru,「いやーまともじゃないっしょ。馬鹿だからこその殿なんだし」,"Of course not. He's just an idiot
+prince.",,,
+mitukuni.json,1082,Dialog,Tamaki,「なぬーっ！！」,Whaaat!!!,,,
+mitukuni.json,1090,Dialog,Kyoya,「落ち着け、環。お前にしては珍しく実行するに値する案だ。モリ先輩」,"Calm down, Tamaki. For you, this is
+a rare worthwhile plan. Mori-senpai.",,,
+mitukuni.json,1099,Dialog,Mori,「ああ」,"""Yeah.""",,,
+mitukuni.json,1100,Dialog,Mori,ハニー先輩のこととなると素早いなぁ。一瞬で細切れにした人参をオレンジジュースの中に入れちゃったよ。,"You're quick with Honey.
+You minced carrot into
+orange juice instantly.",,,
+mitukuni.json,1101,Dialog,Mori,深くは追求しないでおこう……。,I'll let it go for now...,,,
+mitukuni.json,1106,Dialog,Mori,「……光邦」,Honey...,,,
+mitukuni.json,1108,Dialog,Mori,「ここに人参の入ったジュースがある。だが、人参の占める割合はごくわずかで、ほぼオレンジジュースといっても過言ではない」,"There's carrot juice here,
+but barely any carrot.
+It's basically orange juice.",,,
+mitukuni.json,1110,Dialog,Mori,「これならば飲めるだろう」,"Then you'll drink it, right?",,,
+mitukuni.json,1118,Dialog,Honey,「崇、ありがとう。僕、頑張って飲んでみるね」,"Takashi, thanks. I'll try my best to
+drink it.",,,
+mitukuni.json,1125,Dialog,Honey,「うっ……」,Ugh...,,,
+mitukuni.json,1132,Dialog,Honey,「やっぱり人参さんは嫌いだよ〜」,I still don't like carrots~,,,
+mitukuni.json,1140,Dialog,Kyoya,「ひと口が限界か」,That's all you can handle?,,,
+mitukuni.json,1153,Dialog,Hikaru,「ひと口だけでも立派じゃない」,Not even one bite is impressive.,,,
+mitukuni.json,1155,Dialog,Kaoru,「そうそう。僕らだったらひと口だって飲まないし」,"That's right. We wouldn't even take
+a sip.",,,
+mitukuni.json,1164,Dialog,Tamaki,「ぬうっ。ならばハニー先輩の大好きなケーキにちょこっと混ぜるのはどうだ？」,"Aha! How about mixing it into
+Honey-senpai's favorite cake?",,,
+mitukuni.json,1166,Dialog,Haruhi,「ジュースの中に一欠けら入れただけでも駄目だったんですよ。ケーキに混ぜていれても同じじゃないですか？」,"It was no good even with just a tiny
+bit in the juice. What's the
+difference if I put it in the cake?",,,
+mitukuni.json,1174,Dialog,Kyoya,「確かに同じようにひと口が限界だろうな」,"Indeed, one bite should be enough.",,,
+mitukuni.json,1182,Dialog,Tamaki,「ぬうううう」,「Noooooo」,,,
+mitukuni.json,1195,Dialog,Hikaru,「殿の作戦は見事失敗したね」,Your plan was a complete failure.,,,
+mitukuni.json,1197,Dialog,Kaoru,「いつもよりまともだったぶん良かったんじゃない？」,"Wasn't it good because you were more
+normal than usual?",,,
+mitukuni.json,1206,Dialog,Tamaki,「うがーっ！　お前達の案だってあっけなく玉砕したではないか！」,"Ugh! Didn't our plan also fall apart
+easily?",,,
+mitukuni.json,1214,Dialog,Hikaru,「うん。でも殿みたいに熱く語ってないし〜」,"Yeah, but I'm not speaking
+passionately like you.",,,
+mitukuni.json,1216,Dialog,Kaoru,「そうそう。僕たちは殿みたいに熱く語ってないもんね」,"That's right. We don't speak
+passionately like lords.",,,
+mitukuni.json,1224,Dialog,Hikaru & Kaoru,「それにさあ、失敗してるんだから偉そうなこと言えないじゃん」,"I can't act all high and mighty when
+I'm failing.",,,
+mitukuni.json,1229,Dialog,Tamaki,「おかーさん、おかーさん！　光と馨がお父さんをいじめるよー！」,"Mommy, Mommy! Hikaru and Kaoru are
+bullying Dad!",,,
+mitukuni.json,1239,Dialog,Kyoya,「何度も言っているがこの年で子持ち設定なのか、俺は」,"I'm not some guy with a kid at my
+age, no matter how many times you
+say it.",,,
+mitukuni.json,1242,Dialog,Haruhi,「余計に混乱を招くので環先輩は静かにしていて下さい」,"Your presence only confuses things
+more, so please stay quiet,
+Tamaki-senpai.",,,
+mitukuni.json,1250,Dialog,Tamaki,「うわあああん！　今度は娘までお父さんを〜……」,"Ahhhhh! Now my daughter too...
+daddy...",,,
+mitukuni.json,1254,Dialog,Haruhi,「光と馨はどんな意見があるの？」,What do you two think?,,,
+mitukuni.json,1266,Dialog,Hikaru & Kaoru,「良くぞ聞いてくれましたー」,I'm glad you asked!,,,
+mitukuni.json,1268,Dialog,Kaoru,「……と、その前に場所を移して」,"Before that... let's change
+locations.",,,
+mitukuni.json,1269,Dialog,Kaoru,双子の手招きで、ハニー先輩を除く部員全員が移動する。,"The twins wave everyone but
+Honey-senpai over.",,,
+mitukuni.json,1277,Dialog,Hikaru,「ようするにさ、人参が嫌いなんでしょ？」,"So basically, you don't like
+carrots?",,,
+mitukuni.json,1279,Dialog,Kaoru,「だったら人参を大量に食べさせればいいってことじゃん」,Just feed her lots of carrots then.,,,
+mitukuni.json,1281,Dialog,Hikaru & Kaoru,「殿みたいに言えば、嫌よ嫌よも好きのうちってね〜」,"If you say it like a prince, even
+'no' can sound like 'yes.'",,,
+mitukuni.json,1283,Dialog,Hikaru & Kaoru,「食べまくってれば耐性がつくんじゃない？」,"Eat a lot and you'll build up a
+tolerance, right?",,,
+mitukuni.json,1285,Dialog,Haruhi,「……との意見ですがどう思います？」,What do you think about that?,,,
+mitukuni.json,1294,Dialog,Kyoya,「苦手なものを克服するにはそれ自体を食べさせるという至極安易な方法ではあるな」,"It's an extremely easy way to
+overcome your weakness by forcing
+yourself to eat it.",,,
+mitukuni.json,1296,Dialog,Kyoya,「しかし、だ。あのハニー先輩に無理矢理人参を食わせようというツワモノがこの中にいるか？　という問題にもなる」,"Who here is brave enough
+to force carrot down
+Honey-senpai's throat?",,,
+mitukuni.json,1298,Dialog,Kyoya,「唯一なんとか出来そうな人物としてモリ先輩があげられるが……」,"Mori-senpai is the only person who
+might be able to do it...",,,
+mitukuni.json,1306,Dialog,Mori,「光邦が本気で嫌がることは出来ない」,I can't make Honey serious.,,,
+mitukuni.json,1314,Dialog,Kyoya,「とまあ、一時期ハニー先輩にお菓子断ちを決行してマリアナ海溝よりも深く落ち込んだモリ先輩だ」,"I once went on a sweets
+strike because of Honey
+and hit rock bottom.",,,
+mitukuni.json,1316,Dialog,Kyoya,「お菓子断ちよりもハードルの高いこの問題を任せるのは荷が重いだろう」,"Leaving this problem to you would be
+more difficult than giving up
+sweets.",,,
+mitukuni.json,1318,Dialog,Kyoya,ハニー先輩は機嫌が悪いと素で顔つきと、口調が悪くなる。,"When Honey-senpai's in a bad mood,
+his face and tone really do get
+mean.",,,
+mitukuni.json,1319,Dialog,Kyoya,普段とのギャップが激しすぎて対処のしようがないんだよね。,"There's just no telling what he'll
+do next.",,,
+mitukuni.json,1326,Dialog,Tamaki,「ぬう。確かに嫌いなものを無理矢理食べさせられれば、メガトン級に機嫌の悪いハニー先輩が覚醒するのも必須」,"Force her to eat carrots
+and Honey-senpai will enter
+mega-tantrum mode.",,,
+mitukuni.json,1338,Dialog,Hikaru,「じゃあやめよっか」,「Then let's stop.」,,,
+mitukuni.json,1340,Dialog,Kaoru,「そうだね、中止、中止〜」,"Right, cancel~ cancel~",,,
+mitukuni.json,1342,Dialog,Tamaki,「元はと言えばお前達の提案だろう！　それを途中で……」,"It was your idea in the first place!
+You're the ones who...",,,
+mitukuni.json,1350,Dialog,Hikaru & Kaoru,「だーって、機嫌の悪いハニー先輩なんかみても僕らに得ないし」,"I mean, there's nothing in it for us
+to see an angry Honey-senpai.",,,
+mitukuni.json,1352,Dialog,Hikaru & Kaoru,「ねー、なんか飽きちゃった。別に好き嫌いがあってもいいんじゃない」,"Hey, I'm getting bored. It's fine to
+have likes and dislikes.",,,
+mitukuni.json,1357,Dialog,Haruhi,「見事なまでに自分勝手ですね」,You're incredibly selfish.,,,
+mitukuni.json,1369,Dialog,Hikaru,「えー、だってよく考えてみれば好き嫌いあってなんぼのものじゃん」,"Well, think about it. Likes and
+dislikes are what make things
+interesting.",,,
+mitukuni.json,1371,Dialog,Kaoru,「そうそう。好きなものだけ食べてればいいんだからさ。嫌いなものなんてデリートデリート」,"Just that. You only eat what you
+like. Delete delete the stuff you
+don't.",,,
+mitukuni.json,1373,Dialog,Haruhi,「はあ……。光と馨に聞いた自分が馬鹿だったかも」,"Sigh... Maybe I was the idiot for
+asking Hikaru and Kaoru.",,,
+mitukuni.json,1381,Dialog,Hikaru & Kaoru,「聞いておいてそうゆうのはよくないよ、ハルヒ」,"Listening to that isn't good for
+you, Haruhi.",,,
+mitukuni.json,1383,Dialog,Hikaru & Kaoru,「そうそう。僕ら一生懸命考えたもんね〜」,"That's right. We worked hard
+thinking about it~",,,
+mitukuni.json,1385,Dialog,Haruhi,「あーそれはどうも失礼しました」,"Ah, I apologize for that.",,,
+mitukuni.json,1389,Dialog,Haruhi,「えーと他に案がある人はいませんよね」,Anyone else got any ideas?,,,
+mitukuni.json,1396,Dialog,Tamaki,「俺の考えたスペシャルな案も失敗してしまったからな。ハルヒには何か案はないのかにゃ？」,"My special idea failed too. Do you
+have any ideas, Haruhi?",,,
+mitukuni.json,1398,Dialog,Haruhi,「大変不本意ですが、環先輩と同じような考えでしたので」,"I regret to say that I thought the
+same as Tama-chan.",,,
+mitukuni.json,1404,Dialog,Tamaki,「不本意！！　ハルヒ〜お父さんはそんなことを言われたら悲しいよ〜」,"I don't want to!! My princess, that
+hurts my feelings~",,,
+mitukuni.json,1406,Dialog,Haruhi,「近い、近い。顔が近いです」,"Close, close. Our faces are so
+close.",,,
+mitukuni.json,1419,Dialog,Hikaru,「殿〜。セクハラはそこまでにしときなよ」,"Sir~. Don't take the harassment too
+far.",,,
+mitukuni.json,1421,Dialog,Kaoru,「ハルヒ、そこにいたら危ないからこっちにおいで」,"Come over here, Haruhi. It's
+dangerous where you are.",,,
+mitukuni.json,1430,Dialog,Tamaki,「光！　馨！」,Hikaru! Kaoru!,,,
+mitukuni.json,1438,Dialog,Hikaru & Kaoru,「男のシットは見苦しいよ、殿〜」,"Boys' pee is unsightly, Your
+Highness~",,,
+mitukuni.json,1443,Dialog,Tamaki,「うがあ！　そこになおれい！　俺が成敗してくれるー！」,"「Ow! Get back here, you brat! I'll
+teach you a lesson!」",,,
+mitukuni.json,1445,Dialog,Haruhi,（ああ、なんかもうどうでもいいや……）,"(Oh well, I don't care anymore...)",,,
+mitukuni.json,1456,Dialog,Honey,「ねえねえ、ハルちゃんなら苦手なものってがまんできる？」,"Hey, hey, can you handle things
+you're bad at?",,,
+mitukuni.json,1458,Dialog,Haruhi,「自分ですか？」,Is it me?,,,
+mitukuni.json,1459,Dialog,Haruhi,食べ物で苦手なものはないけれど、それ以外でどうしても駄目なものはある。,"I don't have any food allergies, but
+there are things I absolutely can't
+stand.",,,
+mitukuni.json,1460,Dialog,Haruhi,あの天をつんざく様な音が苦手なんだけど……。,"I'm not good with sounds that pierce
+the sky like that...",,,
+mitukuni.json,1469,Dialog,Haruhi,「えーと、なんとかがまんできますよ」,"Um, I can manage somehow.",,,
+mitukuni.json,1474,Dialog,Honey,「ホントに？」,「Really?」,,,
+mitukuni.json,1476,Dialog,Haruhi,「ええ、まあ」,"Yeah, I guess.",,,
+mitukuni.json,1482,Dialog,Haruhi,「もちろんがまんできますよ」,"I can handle it, of course.",,,
+mitukuni.json,1487,Dialog,Honey,「そっか〜」,"Oh, I see...",,,
+mitukuni.json,1489,Dialog,Haruhi,「ひたすら違うことを考えていればなんとか乗り切れますよ？」,"Keep thinking about something else
+and you'll get through it.",,,
+mitukuni.json,1494,Dialog,Honey,「ん〜僕にはちょっと無理かな。苦手なものを前にして違うことなんて想像できないもん」,"Hmm~ I don't think I can. I can't
+imagine doing anything else when
+faced with something I'm bad at.",,,
+mitukuni.json,1499,Dialog,Honey,「でも……そうしないと克服できないよね！」,"But... we can't overcome it without
+trying!",,,
+mitukuni.json,1501,Dialog,Haruhi,「まあ、自分の場合はそうですね」,"Well, that's true for me.",,,
+mitukuni.json,1506,Dialog,Honey,「僕……特訓しにいってくるよ！　違うものだって思えるように頑張るね！」,"I'm going to go train! I'll do my
+best to think of it as something
+different!",,,
+mitukuni.json,1508,Dialog,Haruhi,「え、あの……ハニー先輩！！」,「W-What... Honey-senpai!!」,,,
+mitukuni.json,1510,Dialog,Haruhi,それ、多分根本の解決にならないと思うんですけど！,"I don't think that will solve
+anything!",,,
+mitukuni.json,1517,Dialog,Mori,「１度ああなった光邦は、追いかけても戻ってこない」,"Once Mitsukuni's like that, he won't
+come back no matter how much you
+chase after him.",,,
+mitukuni.json,1520,Dialog,Haruhi,「ハニー先輩……」,Honey-senpai...,,,
+mitukuni.json,1521,Dialog,Haruhi,でも、これで克服できるんだったらそれはそれでハニー先輩のためになる……かな？,"But if this helps Honey-senpai...
+then it might be for his own
+good...?",,,
+mitukuni.json,1522,Dialog,Haruhi,めでたしめでたし？,The end?,,,
+mitukuni.json,1524,Dialog,Haruhi,……あの時、違った返事をしていれば、別の結末もあったのかな？,"...If I had answered differently
+back then, would things have turned
+out differently?",,,
+mitukuni.json,1525,Dialog,Haruhi,もし、あの時に戻れたら、今度は別の答え方を……,"If I could go back to that moment,
+I'd answer differently this time...",,,
+mitukuni.json,1530,Dialog,Haruhi,「うーん、ちょっとがまんできませんね」,"Hmm, I can't hold back.",,,
+mitukuni.json,1532,Dialog,Honey,「そうだよね、がまんするのってつらいもんね」,"Yeah, holding back is tough.",,,
+mitukuni.json,1538,Dialog,Haruhi,「自分はがまんできません」,I can't hold back.,,,
+mitukuni.json,1540,Dialog,Honey,「だよね！　ハルちゃんもそう思うよね〜。えへへ、なんだか嬉しいな」,"Yeah! You agree too, right
+Haru-chan? *hehe*, I feel so happy!",,,
+mitukuni.json,1546,Dialog,Honey,「んーとね、次の質問！　ハルちゃんは苦手なものって克服できると思う？」,"Hmm, let's see! Haru-chan, do you
+think you can overcome your
+weaknesses?",,,
+mitukuni.json,1548,Dialog,Haruhi,「自分は食べ物じゃないですけど、それでも良いですか？」,"Am I not food, but it's okay?",,,
+mitukuni.json,1550,Dialog,Honey,「うん！」,Yep!,,,
+mitukuni.json,1552,Dialog,Haruhi,「自分は……」,I...,,,
+mitukuni.json,1554,Dialog,Haruhi,「きっと一人では、一歩も前へ進めなかった。克服できなかったと思います」,"I don't think I could have taken
+even one step forward or overcome it
+alone.",,,
+mitukuni.json,1556,Dialog,Haruhi,「それでも自分のことを一緒に……真剣に考えてくれる人がいたから、少しだけ前へ進むことができました」,"I was able to move forward a little
+because there were people who took
+me seriously and cared about me.",,,
+mitukuni.json,1561,Dialog,Honey,「それは……みんなが今、僕にしてくれているみたいに？」,"That's... like what everyone's doing
+for me now?",,,
+mitukuni.json,1570,Dialog,Haruhi,「そうですね。少し真剣さが足りないかもしれませんが……」,"That's true. It might be lacking in
+seriousness... but...",,,
+mitukuni.json,1578,Dialog,Haruhi,「そうですね。みんな、ハニー先輩の笑顔が大好きですから」,"That's right. Everyone loves
+Honey-senpai's smile.",,,
+mitukuni.json,1586,Dialog,Haruhi,「あっ、いえ……今回は少し、考えが足りてないといいますか……」,"Oh, well... This time, I guess I
+didn't think it through enough...",,,
+mitukuni.json,1591,Dialog,Honey,「……そうだよね。でも、気持ちだけは十分に伝わってきたよ」,"Yeah, I guess. But your feelings
+came across just fine.",,,
+mitukuni.json,1594,Dialog,Haruhi,「今回は全然ダメです。みんな、考えが足りてなくて……」,"This time we're completely off.
+Everyone's just not thinking
+enough...",,,
+mitukuni.json,1599,Dialog,Honey,「それはまあ……いつものことだしね。でも、気持ちだけは十分に伝わってきたよ」,"Well, that's nothing out of the
+ordinary... But I definitely felt
+your sincerity.",,,
+mitukuni.json,1603,Dialog,Haruhi,「結局、どうにもなりませんでしたね」,"In the end, it didn't work out.",,,
+mitukuni.json,1610,Dialog,Tamaki,「むう。致し方ないのかもしれないが、これはこれで悔しいぞ！」,"Muu. I guess there's nothing to be
+done about it, but this still makes
+me so upset!",,,
+mitukuni.json,1618,Dialog,Honey,「みんな、一生懸命考えてくれてありがとう。僕ね、頑張ってひと口だけでもキャロットケーキ食べてみようと思うんだ」,"Thanks everyone for thinking so
+hard. I want to try and eat just one
+bite of carrot cake.",,,
+mitukuni.json,1626,Dialog,Kyoya,「ふむ。１分２０秒か……妥当な時間だな」,"Hmm. One minute and twenty
+seconds... That's a reasonable time.",,,
+mitukuni.json,1627,Dialog,Kyoya,運び込まれた箱の中身は、全て噂のキャロットケーキだった。鏡夜先輩の姿が見えないと思ったら、これを手配していたらしい。,"The delivered box held
+only carrot cake. Senpai
+must have arranged it.",,,
+mitukuni.json,1628,Dialog,Kyoya,大量のケーキが皿に盛られ、テーブルの上へと並べられていく。,"Plates piled high with cake are
+lined up on the table.",,,
+mitukuni.json,1630,Dialog,Kyoya,「さあどうぞ、ハニー先輩。遠慮なさらず一口だけでも召し上がってください」,"Please do, Honey-senpai. Don't
+hesitate to have even just a bite.",,,
+mitukuni.json,1631,Dialog,Kyoya,……鏡夜先輩らしい抜かりない配慮っていうのかな、これって。,"...This is Kyoya-senpai being
+thorough as usual, I guess.",,,
+mitukuni.json,1639,Dialog,Honey,「う、うん……それじゃあ」,Y-Yeah... See you then.,,,
+mitukuni.json,1643,Dialog,Honey,「わあ！　すっごくおいしい！？」,Yay! It's super delicious!?,,,
+mitukuni.json,1645,Dialog,Tamaki,「なっ……あれだけ人参に抵抗のあったハニー先輩が！？」,"Wha...?! Honey-senpai who hated
+carrots so much!?",,,
+mitukuni.json,1647,Dialog,Hikaru & Kaoru,「全然、余裕で食べてるじゃん……」,"I'm eating with plenty of room to
+spare...",,,
+mitukuni.json,1649,Dialog,Mori,「み、光邦……」,M-Mitsukuni...,,,
+mitukuni.json,1651,Dialog,Haruhi,「えっと……これって？」,Um... what's this?,,,
+mitukuni.json,1659,Dialog,Kyoya,「……なに、簡単な話だ」,...What? It's an easy story.,,,
+mitukuni.json,1661,Dialog,Kyoya,「携帯で確認を取ったところ、新たに人参ではなく赤いパプリカを使ったタイプのケーキが発売されていた」,"I checked my phone and found out
+they're selling a new cake with red
+peppers instead of carrots.",,,
+mitukuni.json,1663,Dialog,Kyoya,「ハニー先輩が口にされたのは、そのパプリカのケーキなんだ」,"That's the paprika cake Honey-senpai
+mentioned.",,,
+mitukuni.json,1665,Dialog,Haruhi,「……あーなるほど。そういうことですか」,"Oh, I see. So that's how it is.",,,
+mitukuni.json,1667,Dialog,Kyoya,「だが、ハニー先輩が苦手なものに挑戦しようとしたことには変わりはない」,"But the fact that Honey-senpai tried
+to challenge his weakness hasn't
+changed.",,,
+mitukuni.json,1669,Dialog,Haruhi,「ええ、確かに……」,"Yeah, you're right...",,,
+mitukuni.json,1678,Dialog,Honey,「ねえねえ！　これ、全部僕が食べちゃってもいいの？」,Hey! Can I eat all of this?,,,
+mitukuni.json,1685,Dialog,Tamaki,「それはハニー先輩のものですからね」,That's Honey-senpai's.,,,
+mitukuni.json,1693,Dialog,Mori,「ああ、全部光邦のものだ」,"Yeah, it's all Honey's.",,,
+mitukuni.json,1706,Dialog,Hikaru,「なんか、根本的な解決にはなってない気がするけど……」,"I don't think this solves anything
+fundamentally...",,,
+mitukuni.json,1708,Dialog,Kaoru,「ハニー先輩の笑顔も戻ったし、今日のところは一件落着って感じかな」,"I guess we can call it a day now
+that Honey-senpai's smile is back.",,,
+mitukuni.json,1712,Dialog,Haruhi,「ハニー先輩、良かったですね」,"That's great for you, Honey-senpai.",,,
+mitukuni.json,1717,Dialog,Honey,「うん！　みんなありがとう！　僕、世界中で１番の幸せ者だよ♪」,"「Yeah! Thanks everyone! I'm the
+happiest guy in the whole world!♪」",,,

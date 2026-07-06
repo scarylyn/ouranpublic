@@ -1,0 +1,32 @@
+Ouran Translation Review - Start Here
+
+You do not need programming tools to review this translation.
+
+Easiest option:
+1. Open reviewer_editor.html in Chrome, Edge, Firefox, or Safari.
+2. Search or choose a chapter/file.
+3. Type suggested English only for lines you want changed.
+4. Add notes for anything that sounds wrong, confusing, out of character, or too literal.
+5. Click Download edits.
+6. Send back the downloaded ouran_review_edits.csv file.
+
+Spreadsheet option:
+1. Open reviewer_feedback_template.csv in Excel, LibreOffice, or Google Sheets.
+2. Do not edit file, id, type, speaker, jp, or current_english.
+3. Put replacement wording in suggested_english.
+4. Put comments in notes.
+5. Put looks good, needs edit, or question in status if useful.
+6. Send back the edited CSV.
+
+Reading-only option:
+- Open review_transcripts/ and pick a chapter Markdown file.
+- Send feedback by quoting the line and the file name.
+
+Helpful feedback:
+- Better natural English.
+- Wrong name, honorific, gender, or relationship.
+- A line that sounds out of character.
+- A line that is confusing without context.
+- Typos, missing spaces, or leftover Japanese.
+
+Please include the file and id whenever possible. That lets us apply fixes quickly.

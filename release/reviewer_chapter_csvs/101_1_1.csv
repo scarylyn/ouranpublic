@@ -1,0 +1,1668 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+101_1_1.json,2,Chapter name,,プロローグ,Prologue,,,
+101_1_1.json,20,Dialog,,プロローグをスキップしますか？,Skip the prologue?,,,
+101_1_1.json,21,Choice,,はい,Yes,,,
+101_1_1.json,22,Choice,,いいえ,No,,,
+101_1_1.json,30,Dialog,,――さて、と。,"--Well, then.",,,
+101_1_1.json,39,Chapter name,,プロローグ,Prologue,,,
+101_1_1.json,41,Dialog,,　　　　　　この私立桜蘭学院は,"This private school,
+Ouran Academy,",,,
+101_1_1.json,43,Dialog,,　　　　　　一に家柄、二にお金,"values pedigree first
+and money second.",,,
+101_1_1.json,45,Dialog,,　　　　　そのどちらも兼ね備えた,For the sons and daughters,,,
+101_1_1.json,47,Dialog,,　　　 資産家の子息、息女たちの集う,"of wealthy families
+blessed with both,",,,
+101_1_1.json,49,Dialog,,　　　　　　超金持ち学校である,"it is a school for
+the ultra-rich.",,,
+101_1_1.json,51,Dialog,,　　　　 その学院の南校舎、最上階,"South wing, top floor,",,,
+101_1_1.json,53,Dialog,,　　　　　　北側廊下つきあたり,"at the end of the
+north hallway--",,,
+101_1_1.json,55,Dialog,,　　　　　　未使用無人の音楽室,"an unused, empty
+music room.",,,
+101_1_1.json,57,Dialog,,　　　　　扉を開けるとそこは――,"Open the door,
+and there--",,,
+101_1_1.json,61,Dialog,Everyone,「いらっしゃいませ」,Welcome!,,,
+101_1_1.json,63,Dialog,Everyone,そこは、ホスト部でした。,It was the Host Club.,,,
+101_1_1.json,67,Dialog,Everyone,桜の咲き誇る季節も終わって、今度は新緑の季,"The season of cherry blossoms had
+ended, and",,,
+101_1_1.json,68,Dialog,,節へと様変わりし始めた春の頃。,"spring was giving way to fresh green
+leaves.",,,
+101_1_1.json,70,Dialog,,今日もホスト部は、たくさんのお客さんで賑,The Host Club is packed,,,
+101_1_1.json,71,Dialog,,（にぎ）わっている。,with guests again today.,,,
+101_1_1.json,72,Dialog,,ここに出入りしている人たちは、由緒正しきお,"The people who frequent this place
+are all",,,
+101_1_1.json,73,Dialog,,嬢様方。,"proper young ladies from good
+families.",,,
+101_1_1.json,74,Dialog,,そのお嬢様――、お客さんたちをもてなし、う,"And entertaining those young
+ladies--keeping them happy--is",,,
+101_1_1.json,75,Dialog,,るおわすのが、桜蘭高校ホスト部の部員たち。,"the job of the Ouran High School
+Host Club.",,,
+101_1_1.json,76,Dialog,,テーブルのところでお客さんの相手をしている,"The one charming guests at that
+table",,,
+101_1_1.json,77,Dialog,,人が、桜蘭高校でホスト部を立ち上げた、２年,"is Tamaki Suoh, the second-year who",,,
+101_1_1.json,78,Dialog,,の須王環（すおうたまき）先輩。,founded the Host Club here at Ouran.,,,
+101_1_1.json,79,Dialog,,ホスト部へ来るお客さんの７割は、環先輩が目,"Apparently seven out of ten guests
+come",,,
+101_1_1.json,80,Dialog,,当てらしい。,to this club just for Tamaki-senpai.,,,
+101_1_1.json,90,Dialog,Tamaki,「ああ、姫のいつもと変わらぬ美しさに、,"Ah, princess... Your beauty never
+changes,",,,
+101_1_1.json,91,Dialog,Tamaki,僕の心はいつも熱く、激しく揺さぶられて,"and yet it never fails to set my
+heart",,,
+101_1_1.json,92,Dialog,Tamaki,います……」,ablaze and shake me to my core...,,,
+101_1_1.json,94,Dialog,Tamaki,いつもこんな感じで接客をしている。,"That's how he entertains his guests.
+Always.",,,
+101_1_1.json,96,Dialog,Tamaki,あそこでにこやかにお客さんを案内している人,"The one over there graciously
+showing guests to their",,,
+101_1_1.json,97,Dialog,,が、２年の鳳鏡夜（おおとりきょうや）先輩。,"seats is Kyoya Ootori, another
+second-year.",,,
+101_1_1.json,105,Dialog,Kyoya,「いらっしゃいませ」,Welcome.,,,
+101_1_1.json,106,Dialog,Kyoya,経営というか運営の部分で、ホスト部を取り仕,He runs the Host Club--the business,,,
+101_1_1.json,107,Dialog,Kyoya,切っている。,"side of things, you could say.",,,
+101_1_1.json,110,Dialog,Kyoya,向こうにいる見た目がそっくりな２人。自分と,"Those two over there who look
+exactly",,,
+101_1_1.json,111,Dialog,Kyoya,同じ学年でクラスメイトの常陸院光（ひたちい,"alike are Hikaru and Kaoru
+Hitachiin.",,,
+101_1_1.json,112,Dialog,,んひかる）と常陸院馨（ひたちいんかおる）。,"They're first-years, in my class.",,,
+101_1_1.json,124,Dialog,Hikaru,「馨ってば、僕と一緒のベッドじゃないって聞,"Kaoru, when I heard you wouldn't be",,,
+101_1_1.json,125,Dialog,Hikaru,いたらさー」,sharing a bed with me anymore...,,,
+101_1_1.json,135,Dialog,Kaoru,「ひどいよ光……。それは誰にも言わないでっ,"Hikaru, that's awful... You promised",,,
+101_1_1.json,136,Dialog,Kaoru,て……」,not to tell anyone...,,,
+101_1_1.json,137,Dialog,Kaoru,自分には理解できないけど、兄弟愛っていう設,"I don't really get it myself, but
+that ""brotherly",,,
+101_1_1.json,138,Dialog,Kaoru,定がうけているらしい……。,"love"" act of theirs is a big hit...",,,
+101_1_1.json,140,Dialog,Kaoru,そうそう。２人は、髪型で区別しないとわから,"Oh, right. A lot of people say they
+can't tell",,,
+101_1_1.json,141,Dialog,Kaoru,ないって言う人が多い。,"those two apart without checking
+their hair.",,,
+101_1_1.json,142,Dialog,,髪を右分けにしているほうが光で――。,"The one whose hair parts to the
+right is Hikaru--",,,
+101_1_1.json,143,Dialog,,――左分けにしているほうが馨。,"--and the one whose hair parts to
+the left is Kaoru.",,,
+101_1_1.json,144,Dialog,,そんな方法で見分けなくても、ぜんぜんちがう,"You don't need a trick like that,
+though.",,,
+101_1_1.json,145,Dialog,,と思うんだけどね。よく似てるってことは否定,"They're totally different, if you
+ask",,,
+101_1_1.json,146,Dialog,,しないけど。,"me. Not that I'd deny they look
+alike.",,,
+101_1_1.json,149,Dialog,,あそこでおいしそうにケーキを食べている人が、,The one over there happily eating,,,
+101_1_1.json,150,Dialog,,３年のハニー先輩こと埴之塚光邦（はにのづか,cake is Honey-senpai--Mitsukuni,,,
+101_1_1.json,151,Dialog,,みつくに）先輩。,"Haninozuka, a third-year.",,,
+101_1_1.json,152,Dialog,,その隣にいる背の高い人が、モリ先輩こと銛之,"The tall one next to him is
+Mori-senpai,",,,
+101_1_1.json,153,Dialog,,塚崇（もりのづかたかし）先輩。,also known as Takashi Morinozuka.,,,
+101_1_1.json,162,Dialog,Honey,「あのね、崇。うさちゃんが、ケーキ食べたい,"Hey, Takashi. Usa-chan says he wants
+some",,,
+101_1_1.json,163,Dialog,Honey,んだってー。あげてもいいかな？」,"cake. Is it okay if I give him a
+bite?",,,
+101_1_1.json,172,Dialog,Mori,「……ああ」,...Yeah.,,,
+101_1_1.json,184,Dialog,,ハニー先輩はかわいさが売りで、モリ先輩は寡,"Honey-senpai's selling point is his
+cuteness;",,,
+101_1_1.json,185,Dialog,,黙（かもく）なところが売りらしい。,"Mori-senpai's is his strong, silent
+presence.",,,
+101_1_1.json,188,Dialog,,うーん……。改めて考えることでもないんだけ,Hmm... Not that I need to think it,,,
+101_1_1.json,189,Dialog,,ど、場違いなところにいる気がしてしかたがな,"over again, but I can't shake the",,,
+101_1_1.json,190,Dialog,,い。,feeling that I don't belong here.,,,
+101_1_1.json,191,Dialog,,あんなことがなければ、ホスト部に入ることも,"If that whole thing hadn't happened,
+I",,,
+101_1_1.json,192,Dialog,,なかったんだけど。,"never would have joined the Host
+Club.",,,
+101_1_1.json,194,Dialog,,性別が女なのにホストっていうのは、ちょっと,A girl working as a host might,,,
+101_1_1.json,195,Dialog,,変かもしれないけど……。,"be a little strange, but...",,,
+101_1_1.json,196,Dialog,,女の子にチヤホヤされるっていうのも、なかな,Being fussed over by girls,,,
+101_1_1.json,197,Dialog,,か悪くない。,"isn't half bad, actually.",,,
+101_1_1.json,198,Dialog,,まあそういう訳で。,"Well, anyway.",,,
+101_1_1.json,199,Dialog,,自分こと藤岡ハルヒは、女であることを隠し,"So here I am--Haruhi Fujioka, hiding
+the fact",,,
+101_1_1.json,200,Dialog,,て――。別に隠さなくていいけど――、今日,"that I'm a girl... not that I really
+need",,,
+101_1_1.json,201,Dialog,,もホストとしてここにいる。,"to hide it... working as a host
+again today.",,,
+101_1_1.json,203,Dialog,,――さて、と。,"--Well, then.",,,
+101_1_1.json,208,Chapter name,,第１話,Episode 1,,,
+101_1_1.json,210,Dialog,,いつまでも周りを見てばかりもいられない。,"I can't stand around people-watching
+forever.",,,
+101_1_1.json,211,Dialog,,……どうしようかな？,...What should I do?,,,
+101_1_1.json,212,Choice,,接客しようかな,Entertain guests,,,
+101_1_1.json,213,Choice,,雑用でいいかな,Run errands,,,
+101_1_1.json,224,Dialog,,やっぱり接客かな。いちおう自分もホストなん,"Hosting, I guess. I am a host, after
+all.",,,
+101_1_1.json,225,Dialog,,だし、ちゃんとお客さんの相手をしないとね。,"I should take proper care of the
+guests.",,,
+101_1_1.json,226,Dialog,,そう思ってあたりに視線を向けると――。,"With that in mind, I glanced around
+the room--",,,
+101_1_1.json,233,Dialog,Kyoya,「ハルヒ」,Haruhi.,,,
+101_1_1.json,234,Dialog,Kyoya,鏡夜先輩の声がかかった。,Kyoya-senpai called out to me.,,,
+101_1_1.json,236,Dialog,Haruhi,「何ですか、鏡夜先輩？」,"What is it, Kyoya-senpai?",,,
+101_1_1.json,245,Dialog,Kyoya,「接客の前に、ホストとして大切な事を教えて,"Before you take any guests, let me
+teach",,,
+101_1_1.json,246,Dialog,Kyoya,やろう」,"you something every host needs to
+know.",,,
+101_1_1.json,247,Dialog,Kyoya,そう言って、鏡夜先輩は意味ありげに笑った。,"With that, Kyoya-senpai smiled
+meaningfully.",,,
+101_1_1.json,254,Dialog,,……雑用でいいかな。,...Maybe I'll just run errands.,,,
+101_1_1.json,255,Dialog,,インスタントコーヒーの買い置きがなくなって,We're out of instant coffee anyway.,,,
+101_1_1.json,256,Dialog,,たし、買い出しに行ってこよう。,I'll go buy some more.,,,
+101_1_1.json,257,Dialog,,そういえばホスト部ではインスタントコーヒー,"Come to think of it, the Host Club
+calls",,,
+101_1_1.json,258,Dialog,,を庶民コーヒーって呼んでいるんだよね。,"instant coffee ""commoner's coffee.""",,,
+101_1_1.json,259,Dialog,,まあ自分は普通にインスタントって言ってるけ,"I just call it instant,",,,
+101_1_1.json,260,Dialog,,ど。,though.,,,
+101_1_1.json,261,Dialog,,なんてどうでもいいことを考えながら、歩き出,"While pondering that pointless
+little detail,",,,
+101_1_1.json,262,Dialog,,そうとすると――。,I was about to start walking when--,,,
+101_1_1.json,269,Dialog,Kyoya,「どこへ行く？」,Where are you going?,,,
+101_1_1.json,270,Dialog,Kyoya,鏡夜先輩の声がかかった。,Kyoya-senpai called out to me.,,,
+101_1_1.json,272,Dialog,Haruhi,「インスタントコーヒーの買い出しに行こうか,I was thinking I'd go buy,,,
+101_1_1.json,273,Dialog,Haruhi,と……」,more instant coffee...,,,
+101_1_1.json,281,Dialog,Kyoya,「おまえは、指名がとれるように接客するべき,Shouldn't you be entertaining guests,,,
+101_1_1.json,282,Dialog,Kyoya,じゃないのか？　借金８００万円の藤岡ハルヒ,"and earning requests? You do owe us
+eight",,,
+101_1_1.json,283,Dialog,Kyoya,くん」,"million yen, Haruhi Fujioka-kun.",,,
+101_1_1.json,285,Dialog,Haruhi,「あ、あはは……」,Ah... Ahaha...,,,
+101_1_1.json,286,Dialog,Haruhi,確かにその通りですね、と心のなかで続ける。,"He's got me there, I added silently.",,,
+101_1_1.json,288,Dialog,Haruhi,「えっと、それじゃあ――」,"Um, well then--",,,
+101_1_1.json,293,Dialog,Kyoya,「ハルヒ」,Haruhi.,,,
+101_1_1.json,294,Dialog,Kyoya,接客にと言いかけた言葉が鏡夜先輩の声にさえ,"I was about to say ""back to
+hosting,""",,,
+101_1_1.json,295,Dialog,Kyoya,ぎられる。,but Kyoya-senpai cut me off.,,,
+101_1_1.json,304,Dialog,Kyoya,「接客の前に、ホストとして大切な事を教えて,"Before you take any guests, let me
+teach",,,
+101_1_1.json,305,Dialog,Kyoya,やろう」,"you something every host needs to
+know.",,,
+101_1_1.json,306,Dialog,Kyoya,そう言って、鏡夜先輩は意味ありげに笑った。,"With that, Kyoya-senpai smiled
+meaningfully.",,,
+101_1_1.json,317,Dialog,,……ホストとして大切なこと？　それって――、,"...Something every host needs to
+know? And what would",,,
+101_1_1.json,318,Dialog,,と、質問しようとして口を閉じる。,"that--I started to ask, then shut my
+mouth.",,,
+101_1_1.json,323,Dialog,Kyoya,「まず、お客様にご指名を受けなければ何も始,"First, nothing begins until",,,
+101_1_1.json,324,Dialog,Kyoya,まらない」,a guest requests you.,,,
+101_1_1.json,326,Dialog,Haruhi,「はい」,Right.,,,
+101_1_1.json,328,Dialog,Kyoya,「指名を受けるには人気を得ること、つまり、,"To get requests, you must be
+popular. In other",,,
+101_1_1.json,329,Dialog,Kyoya,お客様の心をつかむことだ」,"words, you must capture your guests'
+hearts.",,,
+101_1_1.json,330,Dialog,Kyoya,……そこがすごく難しいんですけど。,"...That's the really hard part,
+though.",,,
+101_1_1.json,338,Dialog,Kyoya,「そうだな、確かに難しい」,True. It certainly isn't easy.,,,
+101_1_1.json,339,Dialog,Kyoya,こ……、心を読まれてる。,H-he read my mind.,,,
+101_1_1.json,344,Dialog,Kyoya,「おおよそ理解しているだろうが……。お客様,"You've probably got the general
+idea, but...",,,
+101_1_1.json,345,Dialog,Kyoya,への接客について説明しておこうか？」,"shall I explain how to entertain
+your guests?",,,
+101_1_1.json,346,Dialog,Kyoya,接客についての説明……。どうしよう、聞いて,"A lesson on entertaining guests...
+What should",,,
+101_1_1.json,347,Dialog,Kyoya,おこうかな？,I do? Maybe I should hear him out.,,,
+101_1_1.json,348,Choice,Kyoya,説明を聞く,Hear the explanation,,,
+101_1_1.json,349,Choice,Kyoya,大丈夫です,I'm fine,,,
+101_1_1.json,361,Dialog,Haruhi,「すみません、お願いします」,"Yes, please. If you don't mind.",,,
+101_1_1.json,362,Dialog,Haruhi,鏡夜先輩は静かにうなずいた。,Kyoya-senpai nodded quietly.,,,
+101_1_1.json,363,Dialog,Haruhi,まず、と前置きして鏡夜先輩が口をひらく。,"""First,"" Kyoya-senpai began.",,,
+101_1_1.json,371,Dialog,Kyoya,「接客のときは、お客様のご機嫌に合わせて行,"When entertaining a guest, you",,,
+101_1_1.json,372,Dialog,Kyoya,動しなくてはならない」,must act according to her mood.,,,
+101_1_1.json,374,Dialog,Kyoya,「つまり、表情や会話からお客様の気持ちを感,"In other words, you must read her
+feelings from her",,,
+101_1_1.json,375,Dialog,Kyoya,じとって行動することが大切になってくる」,"expression and conversation, and act
+accordingly.",,,
+101_1_1.json,377,Dialog,Haruhi,「はい」,Right.,,,
+101_1_1.json,378,Dialog,Haruhi,……気持ちを考えて行動する、か。,"...Think about how she feels, then
+act. Huh.",,,
+101_1_1.json,379,Dialog,Haruhi,どんな話をしたらいいのか悩んでいる段階の自,"I'm still fretting over what to even
+talk about,",,,
+101_1_1.json,380,Dialog,Haruhi,分は、まだまだなんだなあと実感してしまう。,"so I guess I've got a long way to
+go.",,,
+101_1_1.json,381,Dialog,Haruhi,相手の気持ちを考えるといっても、人によって,"Even if I try to consider a guest's
+feelings,",,,
+101_1_1.json,382,Dialog,Haruhi,『こんなときはこうして欲しい』って考えるこ,everyone has their own idea of,,,
+101_1_1.json,383,Dialog,Haruhi,とは違うから……。,"what they want in any given
+moment...",,,
+101_1_1.json,384,Dialog,,こればっかりは教えてもらうことはできない。,"That's the one thing nobody can
+teach me.",,,
+101_1_1.json,386,Dialog,Haruhi,「お客さんが笑っているとき、困っているとき。,"When a guest is smiling, or when
+she's feeling down...",,,
+101_1_1.json,387,Dialog,Haruhi,どんな気持ちかに合わせて、自分なりに行動し,All I can do is read her mood and,,,
+101_1_1.json,388,Dialog,Haruhi,てみるしかないですよね」,"respond in my own way, right?",,,
+101_1_1.json,392,Dialog,Haruhi,その通りだ、と鏡夜先輩はうなずく。,"""Exactly,"" Kyoya-senpai nodded.",,,
+101_1_1.json,400,Dialog,Kyoya,「内容については６種類から選択すればいい。,"You simply choose from six types of
+responses.",,,
+101_1_1.json,401,Dialog,Kyoya,……こんな感じだな」,...Something like this.,,,
+101_1_1.json,412,Dialog,,……うーん。わかったような、わからないよう,...Hmm. I sort of get,,,
+101_1_1.json,413,Dialog,,な。,"it, and sort of don't.",,,
+101_1_1.json,421,Dialog,Kyoya,「行動選択が正しかったかどうかは、お客様の,"You can tell whether you chose the
+right",,,
+101_1_1.json,422,Dialog,Kyoya,反応に気をつけていればわかるだろう」,"action by watching the guest's
+reaction.",,,
+101_1_1.json,424,Dialog,Haruhi,「どんなふうにですか？」,How does that work?,,,
+101_1_1.json,431,Dialog,,しょうがない奴だな、というように鏡夜先輩は,"Kyoya-senpai sighed, as if to",,,
+101_1_1.json,432,Dialog,,ため息をついて――。,"say I was hopeless, and--",,,
+101_1_1.json,445,Dialog,Kyoya,「……という感じだ」,...And that's how it works.,,,
+101_1_1.json,447,Dialog,Haruhi,「あー、ありがとうございます。……よくわか,Ah--thank you. ...That,,,
+101_1_1.json,448,Dialog,Haruhi,りました」,cleared it right up.,,,
+101_1_1.json,449,Dialog,Haruhi,答えながら、ここでわかりませんって言ったら,"Even as I answered, I wondered what
+would",,,
+101_1_1.json,450,Dialog,Haruhi,どうなるんだろうと思った。,happen if I said I didn't get it.,,,
+101_1_1.json,452,Dialog,Kyoya,「……理解できたか？」,...Did you follow all that?,,,
+101_1_1.json,454,Dialog,Kyoya,えーと、自分のとった行動が良かったのか悪かっ,"Let's see... I can tell whether what
+I did",,,
+101_1_1.json,455,Dialog,Kyoya,たのかは、お客さんの表情と様子が変わること,"was good or bad by watching for
+changes",,,
+101_1_1.json,456,Dialog,Kyoya,でわかる……。,"in the guest's expression and
+mood...",,,
+101_1_1.json,464,Dialog,,良くも悪くもなかったとき、,"Her reaction might be neutral... or
+it might",,,
+101_1_1.json,469,Dialog,,良かったとき、,"be good, pretty good, or really
+good...",,,
+101_1_1.json,477,Dialog,,わりと良かったとき、,"or it might be a miss, a pretty big",,,
+101_1_1.json,485,Dialog,,すごく良かったとき、,"miss, or a complete disaster. So
+there",,,
+101_1_1.json,493,Dialog,,ダメだったとき、,"are seven ways a guest can react,
+and I",,,
+101_1_1.json,498,Dialog,,わりとダメだったとき、,"have to read which one it was from
+how she",,,
+101_1_1.json,506,Dialog,,かなりダメだったとき、と。,"looks and acts. That about covers
+it.",,,
+101_1_1.json,513,Dialog,,こんな感じかな。たぶん大丈夫だと思うけ,"Something like that, I guess.",,,
+101_1_1.json,514,Dialog,,ど……。,I'm probably fine...,,,
+101_1_1.json,515,Choice,,わかりました,Got it,,,
+101_1_1.json,516,Choice,,もう１度……,One more time...,,,
+101_1_1.json,528,Dialog,Haruhi,「はい、わかりました」,Got it. Understood.,,,
+101_1_1.json,536,Dialog,Kyoya,「場数を踏むことだ。そうすれば少しずつわかっ,"It comes down to experience. Keep at
+it and",,,
+101_1_1.json,537,Dialog,Kyoya,てくる」,"you'll figure it out, little by
+little.",,,
+101_1_1.json,538,Dialog,Kyoya,そう言って、鏡夜先輩は笑った。,"With that, Kyoya-senpai smiled.",,,
+101_1_1.json,544,Dialog,Haruhi,「もう１度いいですか？」,Could you go over it one more time?,,,
+101_1_1.json,552,Dialog,Kyoya,「いいだろう」,Very well.,,,
+101_1_1.json,558,Dialog,Haruhi,「大丈夫です」,I've got it now.,,,
+101_1_1.json,566,Dialog,Kyoya,「なるほど、自信があるようだな。それならあ,"I see--confident, are we? Then all
+that's",,,
+101_1_1.json,567,Dialog,Kyoya,とは結果を出してもらうだけだ」,left is for you to deliver results.,,,
+101_1_1.json,568,Dialog,Kyoya,そう言って、鏡夜先輩は笑みを浮かべた。,"With that, a smile crossed
+Kyoya-senpai's face.",,,
+101_1_1.json,580,Dialog,Kyoya,「ああ、ハルヒにこれを渡しておこう」,"Oh, and Haruhi--take this.",,,
+101_1_1.json,584,Dialog,Kyoya,そう言うと、鏡夜先輩はどこからともなく小さ,"With that, Kyoya-senpai produced a",,,
+101_1_1.json,585,Dialog,Kyoya,なノートパソコンを取り出した。,small laptop from out of nowhere.,,,
+101_1_1.json,587,Dialog,Haruhi,「もらえるんですか？」,You're giving it to me?,,,
+101_1_1.json,595,Dialog,Kyoya,「そのパソコンで指名率や借金額を確認できる。,"You can use it to check your request
+rate and your remaining debt.",,,
+101_1_1.json,596,Dialog,Kyoya,なに、レンタル代は請求しないから安心してく,Don't worry--I won't charge,,,
+101_1_1.json,597,Dialog,Kyoya,れ」,you a rental fee.,,,
+101_1_1.json,599,Dialog,Haruhi,「あははは……、そうですよねえ」,"Ahahaha... Right. Of course you
+won't.",,,
+101_1_1.json,600,Dialog,Haruhi,苦笑いを浮かべる自分に、鏡夜先輩が使い方を,"As I forced a smile, Kyoya-senpai",,,
+101_1_1.json,601,Dialog,Haruhi,説明してくれる。,explained how to use it.,,,
+101_1_1.json,609,Dialog,Kyoya,「……理解できたか？」,...Did you follow all that?,,,
+101_1_1.json,611,Dialog,Haruhi,「そうですね……」,Right...,,,
+101_1_1.json,612,Dialog,Haruhi,小さなパソコンを見ながら、鏡夜先輩から聞い,"Looking at the little laptop, I ran
+through",,,
+101_1_1.json,613,Dialog,Haruhi,た説明をもう１度思い返す。,"Kyoya-senpai's explanation one more
+time.",,,
+101_1_1.json,615,Dialog,Haruhi,えっと……。,Let's see...,,,
+101_1_1.json,619,Dialog,,この『指名率確認画面』で、自分の人気がどれ,"This ""Request Rate screen"" shows how
+popular",,,
+101_1_1.json,620,Dialog,,だけあって指名をとれているかがわかる。,"I am and how many requests I'm
+getting.",,,
+101_1_1.json,621,Dialog,,上に向かって動いていれば指名率が高くて、下,"If the graph moves up, my request
+rate",,,
+101_1_1.json,622,Dialog,,がると低い。,"is high; if it drops, it's low.",,,
+101_1_1.json,623,Dialog,,指名率の変化に合わせて借金額が計算されて減っ,"My debt gets recalculated as my
+request rate changes--the",,,
+101_1_1.json,624,Dialog,,ていく仕組みになっている、と。,"better I do, the more it shrinks.",,,
+101_1_1.json,625,Dialog,,ただ、逆に指名率が下がると借金が増えるんだ,"Of course, if my request rate drops,
+my debt",,,
+101_1_1.json,626,Dialog,,よね……。まあ、元の８００万円以上にはなら,"grows instead... Though it sounds
+like it won't",,,
+101_1_1.json,627,Dialog,,ないみたいだけど。,"go above the original eight million
+yen.",,,
+101_1_1.json,628,Dialog,,あとは……。,What else...,,,
+101_1_1.json,629,Dialog,,【指名率】は人気のことだから、営業していな,"My request rate is basically my
+popularity, so",,,
+101_1_1.json,630,Dialog,,いときでも、お客さんとの会話や自分の行動で,"it can change even outside club
+hours, depending",,,
+101_1_1.json,631,Dialog,,変化することもあるんだよね。,"on how I talk to people and how I
+act.",,,
+101_1_1.json,632,Dialog,,……どんな計算で減ったり増えたりするかは、,...I've decided not to ask,,,
+101_1_1.json,633,Dialog,,聞かないことにしよう。,exactly how the math works.,,,
+101_1_1.json,634,Dialog,,あれ？　他にも何か表示されているみたい……。,"Huh? Looks like there's something
+else on here...",,,
+101_1_1.json,638,Dialog,,『好感度確認画面』？,"An ""Affection screen""?",,,
+101_1_1.json,639,Dialog,,つまり、自分とみんなの距離感がわかるってこ,So it shows how close I am with,,,
+101_1_1.json,640,Dialog,,と？　まあ、どうでもいいか。,"everyone? ...Well, whatever.",,,
+101_1_1.json,641,Dialog,,とにかく、１日の終わりに確認して借金が返せ,"What matters is checking it at the
+end of",,,
+101_1_1.json,642,Dialog,,るようにしていければいいわけだし。,"each day and chipping away at that
+debt.",,,
+101_1_1.json,650,Dialog,Haruhi,「はい、大丈夫です」,"Yes, I've got it.",,,
+101_1_1.json,655,Dialog,Haruhi,そう返事をすると、鏡夜先輩は満足したように,"At my answer, Kyoya-senpai nodded",,,
+101_1_1.json,656,Dialog,Haruhi,うなずいて歩いていった。,with satisfaction and walked off.,,,
+101_1_1.json,658,Dialog,,さてと。いろいろ気をつけることもあるけど、,"Okay, then. There's a lot to keep in
+mind,",,,
+101_1_1.json,659,Dialog,,接客をしないと何も始まらないことだけは変わ,"but one thing hasn't changed:
+nothing",,,
+101_1_1.json,660,Dialog,,らない。,starts until I wait on some guests.,,,
+101_1_1.json,666,Dialog,,あたりを見回したとき、扉を開けて入ってくる,"As I looked around, I caught sight
+of",,,
+101_1_1.json,667,Dialog,,お客さんの姿が視界に入った。まずはお出迎え,a guest coming in through the door.,,,
+101_1_1.json,668,Dialog,,から――。,First things first--go welcome her.,,,
+101_1_1.json,670,Dialog,Haruhi,「いらっしゃいませ」,Welcome!,,,
+101_1_1.json,671,Dialog,Haruhi,彼女は、自分と同じクラスの倉賀野百華（くら,"She's Momoka Kurakano, from my
+class.",,,
+101_1_1.json,672,Dialog,Haruhi,かのももか）さん。しっかりした人で、クラス,She's the dependable type--our,,,
+101_1_1.json,673,Dialog,Haruhi,の副委員長をしている。,class vice representative.,,,
+101_1_1.json,679,Dialog,Kurakano,「あ、ハルヒ君」,"Oh, Haruhi-kun.",,,
+101_1_1.json,681,Dialog,Haruhi,「本日のご指名は？」,Who would you like to request today?,,,
+101_1_1.json,686,Dialog,Kurakano,「環様をお願いしたいんだけど……」,"I'd like to see Tamaki-sama, but...",,,
+101_1_1.json,687,Dialog,Kurakano,倉賀野さんの視線の先には、みんなに囲まれて,"Kurakano-san's gaze drifted to
+Tamaki-senpai,",,,
+101_1_1.json,688,Dialog,Kurakano,いる環先輩の姿がある。,surrounded by his usual crowd.,,,
+101_1_1.json,689,Dialog,Kurakano,……あの様子だとしばらくは無理かな？　とは,"...No getting near him for a while,",,,
+101_1_1.json,690,Dialog,Kurakano,いえ、このまま待たせておくわけにもいかない,"by the look of it. Still, I can't
+just",,,
+101_1_1.json,691,Dialog,Kurakano,し。,leave her standing here waiting.,,,
+101_1_1.json,693,Dialog,Haruhi,「……向こうで待ってましょうか？」,...Shall we wait for him over there?,,,
+101_1_1.json,697,Dialog,Haruhi,空席のテーブルを示すと、倉賀野さんはにっこ,"I gestured to an empty table, and",,,
+101_1_1.json,698,Dialog,Haruhi,りと笑った。,Kurakano-san smiled brightly.,,,
+101_1_1.json,700,Dialog,Kurakano,「ハルヒ君もご一緒に？」,"Will you join me, Haruhi-kun?",,,
+101_1_1.json,702,Dialog,Haruhi,「はい、もちろんですよ。さあどうぞ」,"Yes, of course. Right this way.",,,
+101_1_1.json,708,Dialog,Kurakano,「ふふ……」,Hehe...,,,
+101_1_1.json,709,Dialog,Kurakano,テーブルへと案内する途中、倉賀野さんが小さ,"On the way to the table,
+Kurakano-san",,,
+101_1_1.json,710,Dialog,Kurakano,く笑う。,let out a little laugh.,,,
+101_1_1.json,712,Dialog,Haruhi,「どうかしましたか？」,Is something the matter?,,,
+101_1_1.json,717,Dialog,Kurakano,「……ううん。同じクラスで毎日顔を合わせて,"...It's nothing. It's just--we see
+each",,,
+101_1_1.json,718,Dialog,Kurakano,いるのに、こちらでもこうしてお話するのは変,"other in class every day, so
+chatting",,,
+101_1_1.json,719,Dialog,Kurakano,な感じかなって」,like this here feels a little funny.,,,
+101_1_1.json,720,Dialog,Kurakano,言われてみれば確かに……。,Now that she mentions it...,,,
+101_1_1.json,721,Choice,Kurakano,でも自分は……,But I...,,,
+101_1_1.json,722,Choice,Kurakano,そうですね,You're right,,,
+101_1_1.json,736,Dialog,Haruhi,「でも自分は……、もっとお話したいかなって,But I... I'd like it if we,,,
+101_1_1.json,737,Dialog,Haruhi,思いますよ」,"talked more, actually.",,,
+101_1_1.json,742,Dialog,Kurakano,「そう……、なの？」,You... would?,,,
+101_1_1.json,748,Dialog,Haruhi,「はい。……あ、お茶の用意をしてきますから、,"Yes. ...Oh, I'll go get the tea
+ready,",,,
+101_1_1.json,749,Dialog,Haruhi,倉賀野さんは座っていてください」,"so please have a seat, Kurakano-san.",,,
+101_1_1.json,752,Dialog,Haruhi,テーブルへの案内だけに気をとられて、お茶の,"I'd been so focused on getting her
+to a table",,,
+101_1_1.json,753,Dialog,Haruhi,用意をすっかり忘れてた。,"that I completely forgot about the
+tea.",,,
+101_1_1.json,754,Dialog,Haruhi,あぶない、あぶない。このまま一緒に席につく,"Whew, that was close. I nearly",,,
+101_1_1.json,755,Dialog,,ところだった……。,sat right down with her...,,,
+101_1_1.json,762,Dialog,Kyoya,「いい心がけだな」,Good instincts.,,,
+101_1_1.json,764,Dialog,Haruhi,「……ん？　何がですか？」,...Hm? What do you mean?,,,
+101_1_1.json,772,Dialog,Kyoya,「つくづく天然ルーキーだな、おまえは」,"You truly are an airheaded rookie,
+aren't you.",,,
+101_1_1.json,773,Dialog,Kyoya,うーん。ほめられているのか、けなされている,"Hmm. Was that a compliment,",,,
+101_1_1.json,774,Dialog,Kyoya,のか……。,or an insult...?,,,
+101_1_1.json,779,Dialog,Kyoya,「いや、邪魔をしたな。しっかりやってくれ」,"Well, sorry for interrupting. Keep
+up the good work.",,,
+101_1_1.json,782,Dialog,Haruhi,「……はあ」,...Right.,,,
+101_1_1.json,783,Dialog,Haruhi,とりあえずは、今みたいな感じで接客していけ,"So basically, I should keep handling
+guests the way",,,
+101_1_1.json,784,Dialog,Haruhi,ばいいってこと……？　そう思うことにしよう。,"I just did...? I'll take it that
+way, at least.",,,
+101_1_1.json,785,Dialog,Haruhi,さ、早くお茶の用意をして戻らないと。,"Okay, I'd better get that tea ready
+and hurry back.",,,
+101_1_1.json,791,Dialog,Haruhi,「そう――」,You're--,,,
+101_1_1.json,792,Dialog,Haruhi,ですね、と答えかけたとき。,"""--right,"" I started to answer,
+when...",,,
+101_1_1.json,805,Dialog,Kyoya,「ハルヒ」,Haruhi.,,,
+101_1_1.json,806,Dialog,Kyoya,笑顔の鏡夜先輩がいきなり姿を現した。,"A smiling Kyoya-senpai appeared out
+of nowhere.",,,
+101_1_1.json,808,Dialog,Haruhi,「鏡夜先輩！？」,Kyoya-senpai!?,,,
+101_1_1.json,813,Dialog,Kyoya,「申し訳ありません。お茶のご用意をさせます,"My apologies. We'll have your tea
+prepared",,,
+101_1_1.json,814,Dialog,Kyoya,ので、少々お待ちいただけますか？」,"shortly--would you mind waiting a
+moment?",,,
+101_1_1.json,818,Dialog,Kyoya,倉賀野さんがうなずくと同時に、自分は鏡夜先,"The instant Kurakano-san nodded,
+Kyoya-senpai",,,
+101_1_1.json,819,Dialog,Kyoya,輩に連行されるようにその場を離れた。,"marched me away like a prisoner
+under escort.",,,
+101_1_1.json,829,Dialog,Kyoya,「……何を考えている？」,...What do you think you're doing?,,,
+101_1_1.json,831,Dialog,Haruhi,「え？　自分はただ……」,Huh? I was just...,,,
+101_1_1.json,836,Dialog,Kyoya,「つくづく天然ルーキーだな、おまえは」,"You truly are an airheaded rookie,
+aren't you.",,,
+101_1_1.json,837,Dialog,Kyoya,続けて、あんなところでうなずいてどうすると,"Then, with a sigh, he asked what I
+thought",,,
+101_1_1.json,838,Dialog,Kyoya,ため息まじりの言葉。,"I was doing, nodding along back
+there.",,,
+101_1_1.json,839,Dialog,Kyoya,……倉賀野さんの言う通りだなあと思っただけ,...I only thought Kurakano-san had,,,
+101_1_1.json,840,Dialog,Kyoya,なんだけど。そんな考え方じゃダメだから止め,a point. But I suppose that attitude,,,
+101_1_1.json,841,Dialog,Kyoya,られたんだよね。,is exactly why he stopped me.,,,
+101_1_1.json,849,Dialog,Kyoya,「天然もいいが、少しは考えるようにな」,"Being a natural is fine, but do try
+thinking now and then.",,,
+101_1_1.json,851,Dialog,Haruhi,「……すみません」,...Sorry.,,,
+101_1_1.json,853,Dialog,Haruhi,今みたいな失敗をしないように、気をつけてお,I'd better be careful not to,,,
+101_1_1.json,854,Dialog,Haruhi,こう。,slip up like that again.,,,
+101_1_1.json,857,Dialog,Haruhi,お茶の用意をして、早く戻ろう。,"Time to get the tea ready and hurry
+back.",,,
+101_1_1.json,872,Dialog,,倉賀野さんのテーブルについて、どんな話をす,"Sitting at Kurakano-san's table,",,,
+101_1_1.json,873,Dialog,,ればいいのか分からないから基本的には聞き役,I mostly just listen--I still have,,,
+101_1_1.json,874,Dialog,,になっている。,no idea what to talk about.,,,
+101_1_1.json,876,Dialog,Kurakano,「――と、思うんだけどハルヒ君はどうかな？」,"--at least, that's what I think.
+What about you, Haruhi-kun?",,,
+101_1_1.json,877,Dialog,Kurakano,機嫌は悪くなさそうだけど――。,She seems to be in a decent mood--,,,
+101_1_1.json,878,Dialog,Kurakano,こんなときは、どうすればいいんだっけ？,"Now, what am I supposed to do at a
+time like this?",,,
+101_1_1.json,882,Dialog,Kurakano,「それでね――」,"So, anyway--",,,
+101_1_1.json,883,Dialog,Kurakano,テーブルについてから、倉賀野さんはずっと楽,"Ever since we sat down, Kurakano-san",,,
+101_1_1.json,884,Dialog,Kurakano,しそうに話しかけてくれている。,has been chatting away happily.,,,
+101_1_1.json,885,Dialog,Kurakano,とはいえ、このままずっとお話してもらってい,"Still, it feels wrong to let her",,,
+101_1_1.json,886,Dialog,Kurakano,るのも悪いような気がする。,carry the conversation forever.,,,
+101_1_1.json,887,Dialog,Kurakano,こんなときは、どうすればいいんだっけ？,"Now, what am I supposed to do at a
+time like this?",,,
+101_1_1.json,891,Dialog,Kurakano,なんだか倉賀野さんの表情が少し暗い。何か悩,"Kurakano-san's expression seems a
+little",,,
+101_1_1.json,892,Dialog,Kurakano,み事があるのか、ときおり小さなため息をつい,"gloomy. Is something bothering her?
+She",,,
+101_1_1.json,893,Dialog,Kurakano,ている。,keeps letting out these small sighs.,,,
+101_1_1.json,894,Dialog,Kurakano,こんなときは、どうすればいいかな？,"What should I do at a time like
+this?",,,
+101_1_1.json,899,Dialog,,めずらしく倉賀野さんの機嫌が良くないみた,It's rare to see Kurakano-san,,,
+101_1_1.json,900,Dialog,,い……。,in a bad mood...,,,
+101_1_1.json,901,Dialog,,こういうときは、どうすればいいのかな……。,"What should I do at a time like
+this...?",,,
+101_1_1.json,903,Dialog,,いつも笑っているイメージのある倉賀野さんだ,"I always picture Kurakano-san
+smiling...",,,
+101_1_1.json,904,Dialog,,けど……。今日は元気がないみたい。,but today she seems down.,,,
+101_1_1.json,905,Dialog,,何かあったのかな……？,Did something happen...?,,,
+101_1_1.json,907,Dialog,Kurakano,「…………はあ」,......*sigh*,,,
+101_1_1.json,909,Dialog,Kurakano,こんなときは、どうすればいいのかな。,"What am I supposed to do at a time
+like this?",,,
+101_1_1.json,945,Dialog,,……とりあえずは、こんな感じかな。,"...I think that went okay, more or
+less.",,,
+101_1_1.json,946,Dialog,,自分もいちおうホストだし、ちゃんと接客でき,"I'm a host too, officially. I've got",,,
+101_1_1.json,947,Dialog,,ないとね。,"to be able to handle guests
+properly.",,,
+101_1_1.json,952,Dialog,,可もなく不可もなくって感じかな。,"Not great, not terrible, I'd say.",,,
+101_1_1.json,953,Dialog,,どう行動すれば良かったのか、よく考えてみな,I should think hard about what,,,
+101_1_1.json,954,Dialog,,いと。,I could have done better.,,,
+101_1_1.json,960,Dialog,,失敗しちゃった。今度は、もっと考えて行動し,"I blew it. Next time, I need",,,
+101_1_1.json,961,Dialog,,ないとなあ。,to think before I act.,,,
+101_1_1.json,967,Dialog,,……ひとまず落ち着いたかな。とはいえ部室を,"...Things seem to have settled down
+for now.",,,
+101_1_1.json,968,Dialog,,見渡すと――。,"Although, looking around the club
+room--",,,
+101_1_1.json,969,Dialog,,環先輩は常連の上賀茂椿（かみかもつばき）さ,"Tamaki-senpai is entertaining one of
+his",,,
+101_1_1.json,970,Dialog,,ん、鏡夜先輩は桜塚希美子（さくらづかきみこ）,"regulars, Tsubaki Kamikamo-san, and
+Kyoya-senpai",,,
+101_1_1.json,971,Dialog,,さんの接客をしている……。,is with Kimiko Sakurazuka-san...,,,
+101_1_1.json,972,Dialog,,光と馨、ハニー先輩とモリ先輩もそれぞれ接客,"Hikaru and Kaoru, Honey-senpai and
+Mori-senpai--they",,,
+101_1_1.json,973,Dialog,,に忙しそう。,"all look busy with guests of their
+own.",,,
+101_1_1.json,974,Dialog,,……あれ？　いつの間にか、完全に手が空いて,...Wait. When did I become the,,,
+101_1_1.json,975,Dialog,,るのは自分だけになってるし。,only one with nothing to do?,,,
+101_1_1.json,976,Dialog,,指名率の低さが、目に見えてわかるなあ……。,"You can really see how low my
+request rate is...",,,
+101_1_1.json,977,Dialog,,気にしてもしかたないし、食器の片付けやお茶,"No use worrying about it. I'll help
+out by",,,
+101_1_1.json,978,Dialog,,の用意を手伝うことにしよう。,"clearing dishes and getting tea
+ready.",,,
+101_1_1.json,981,Dialog,,今度は、先輩たちも落ち着いてきたみたい。い,"Looks like the others have some
+breathing",,,
+101_1_1.json,982,Dialog,,い機会だし、今のうちに接客のコツを聞いてみ,room now. Good opportunity--I'll ask,,,
+101_1_1.json,983,Dialog,,よう。,them for hosting tips while I can.,,,
+101_1_1.json,984,Choice,,環先輩,Tamaki-senpai,,,
+101_1_1.json,985,Choice,,鏡夜先輩,Kyoya-senpai,,,
+101_1_1.json,986,Choice,,光,Hikaru,,,
+101_1_1.json,987,Choice,,馨,Kaoru,,,
+101_1_1.json,988,Choice,,ハニー先輩,Honey-senpai,,,
+101_1_1.json,989,Choice,,モリ先輩,Mori-senpai,,,
+101_1_1.json,1011,Dialog,,環先輩の手が空いたタイミングで、声をかけて,I caught Tamaki-senpai at a free,,,
+101_1_1.json,1012,Dialog,,みる。,moment and called out to him.,,,
+101_1_1.json,1014,Dialog,Haruhi,「あのー、環先輩」,"Um, Tamaki-senpai?",,,
+101_1_1.json,1022,Dialog,Tamaki,「ん、どうしたハルヒ？」,"Hm? What is it, Haruhi?",,,
+101_1_1.json,1024,Dialog,Haruhi,「実は……、接客がうまくできるコツを教えて,"Well... I was hoping you could give
+me",,,
+101_1_1.json,1025,Dialog,Haruhi,もらえないかなと」,"some tips on how to entertain
+guests.",,,
+101_1_1.json,1034,Dialog,Tamaki,「ほう……。ついにハルヒもホストとして,Oho... So Haruhi has finally,,,
+101_1_1.json,1035,Dialog,Tamaki,目覚めたようだな」,awakened as a host.,,,
+101_1_1.json,1037,Dialog,Haruhi,「いえ、別に目覚めたというほどのもので,"No, I wouldn't call it",,,
+101_1_1.json,1038,Dialog,Haruhi,は……」,"awakening, exactly...",,,
+101_1_1.json,1047,Dialog,Tamaki,「いいだろう！　俺から接客のテクニックを伝,Very well! I shall personally pass,,,
+101_1_1.json,1048,Dialog,Tamaki,授しようではないか」,on my hosting techniques to you!,,,
+101_1_1.json,1054,Dialog,Tamaki,「だがその前に、ハルヒには白いワンピース,"But first, Haruhi, you must",,,
+101_1_1.json,1055,Dialog,Tamaki,を――」,put on this white dress--,,,
+101_1_1.json,1057,Dialog,Haruhi,「結構です」,"No, thank you.",,,
+101_1_1.json,1062,Dialog,Haruhi,一瞬でも環先輩に感謝しかけた自分がバカだっ,"I was an idiot for feeling grateful
+to",,,
+101_1_1.json,1063,Dialog,Haruhi,た……。,"Tamaki-senpai, even for a second...",,,
+101_1_1.json,1068,Dialog,Tamaki,「ま、待てハルヒ！　ちゃんと教えるからっ」,"W-wait, Haruhi! I'll really teach
+you, I promise!",,,
+101_1_1.json,1070,Dialog,Haruhi,「……本当ですか？」,...You will?,,,
+101_1_1.json,1078,Dialog,Tamaki,「キングに二言はない。とてもためになる、相,"The King never goes back on his
+word.",,,
+101_1_1.json,1079,Dialog,Tamaki,手を【見つめる】効果について伝授しようでは,I shall teach you the highly useful,,,
+101_1_1.json,1080,Dialog,Tamaki,ないか」,art of gazing into a guest's eyes!,,,
+101_1_1.json,1081,Dialog,Tamaki,大げさに言いながら、環先輩はポーズをとった。,"Tamaki-senpai struck a pose as he
+made his grand declaration.",,,
+101_1_1.json,1090,Dialog,Tamaki,「見つめる……。それは、目と目で会話をする,To gaze... is to hold a conversation,,,
+101_1_1.json,1091,Dialog,Tamaki,ことだ」,with the eyes alone.,,,
+101_1_1.json,1093,Dialog,Haruhi,「……はあ」,...Uh-huh.,,,
+101_1_1.json,1094,Dialog,Haruhi,ためになるんだかならないんだか、よくわから,"I had a feeling this was going to be
+one of those",,,
+101_1_1.json,1095,Dialog,Haruhi,ない話になりそうな気が。,"talks that may or may not actually
+be useful.",,,
+101_1_1.json,1103,Dialog,Tamaki,「――という訳だが、わかったかにゃ？」,"--and that's how it's done.
+Understand, meow?",,,
+101_1_1.json,1104,Dialog,Tamaki,そう言って、得意げに笑う環先輩。余計な話が,"Tamaki-senpai grinned triumphantly.
+I'm pretty",,,
+101_1_1.json,1105,Dialog,Tamaki,ほとんどだったような気もするけど。,"sure most of that was beside the
+point, though.",,,
+101_1_1.json,1106,Dialog,Tamaki,えっと……。,Let's see...,,,
+101_1_1.json,1107,Dialog,Tamaki,【見つめる】という行動は高度なテクニックで、,"Apparently ""gazing"" is an advanced
+technique--get",,,
+101_1_1.json,1108,Dialog,Tamaki,相手の気持ちを理解していないと大失敗すると,"it wrong when you don't understand a
+guest's",,,
+101_1_1.json,1109,Dialog,Tamaki,いうことらしい。,"feelings, and it backfires
+spectacularly.",,,
+101_1_1.json,1111,Dialog,,見つめられて嬉しいとき、嫌なときをちゃんと,"So I have to consider when being
+gazed at makes",,,
+101_1_1.json,1112,Dialog,,考えなきゃダメってことは――。すごく難しい,"someone happy, and when it just
+makes them",,,
+101_1_1.json,1113,Dialog,,ことだよね。,"uncomfortable... That's a pretty
+tall order.",,,
+101_1_1.json,1115,Dialog,Haruhi,「はい、参考になりました。ありがとうござい,I see. That's good,,,
+101_1_1.json,1116,Dialog,Haruhi,ます」,to know. Thank you.,,,
+101_1_1.json,1125,Dialog,,鏡夜先輩の手が空いたタイミングで声をかけて,I caught Kyoya-senpai at a free,,,
+101_1_1.json,1126,Dialog,,みる。,moment and called out to him.,,,
+101_1_1.json,1128,Dialog,Haruhi,「鏡夜先輩」,Kyoya-senpai.,,,
+101_1_1.json,1135,Dialog,Kyoya,「どうした？」,What is it?,,,
+101_1_1.json,1137,Dialog,Haruhi,「接客のコツがあれば教えてもらいたいんです,If you have any tips on entertaining,,,
+101_1_1.json,1138,Dialog,Haruhi,けど……」,"guests, I'd love to hear them...",,,
+101_1_1.json,1147,Dialog,Kyoya,「いい心がけだな」,Good instincts.,,,
+101_1_1.json,1148,Dialog,Kyoya,お前にしては、と笑う。,"""Coming from you, anyway,"" he added
+with a smirk.",,,
+101_1_1.json,1156,Dialog,Kyoya,「ホスト部の利益に繋がることでもある。接客,"It benefits the Host Club's bottom
+line, too. I'll teach",,,
+101_1_1.json,1157,Dialog,Kyoya,での【ふれる】について教えてやろう」,"you about using touch when
+entertaining guests.",,,
+101_1_1.json,1159,Dialog,Haruhi,「はい、お願いします」,"Yes, please.",,,
+101_1_1.json,1160,Dialog,Haruhi,眼鏡のフレームを軽く押し上げて、鏡夜先輩は,"Nudging up the frame of his glasses,
+Kyoya-senpai",,,
+101_1_1.json,1161,Dialog,Haruhi,接客のコツについて話し始めた。,"began explaining the finer points of
+hosting.",,,
+101_1_1.json,1169,Dialog,Kyoya,「……理解できたか？」,...Did you follow all that?,,,
+101_1_1.json,1171,Dialog,Haruhi,「そうですね……」,Let's see...,,,
+101_1_1.json,1172,Dialog,Haruhi,答えながら、鏡夜先輩の言葉を思い返す。,"As I answered, I went back over
+Kyoya-senpai's words.",,,
+101_1_1.json,1173,Dialog,Haruhi,【ふれる】は、言葉の通りスキンシップをとる,"""Touch"" means exactly what it",,,
+101_1_1.json,1174,Dialog,Haruhi,こと。,sounds like: physical contact.,,,
+101_1_1.json,1175,Dialog,Haruhi,相手との距離を縮める有効な手段だけど、人に,"It's an effective way to close the
+distance",,,
+101_1_1.json,1176,Dialog,Haruhi,よってそれを好ましいと思う人もいれば、そう,with someone--but while some people,,,
+101_1_1.json,1177,Dialog,Haruhi,でない人もいる。,"welcome it, others really don't.",,,
+101_1_1.json,1178,Dialog,,そのときの気持ちで、ふれて欲しいと思うとき,"And depending on her mood in the
+moment, the same",,,
+101_1_1.json,1179,Dialog,,と思わないときがある……、と。,"person might want it sometimes and
+not others...",,,
+101_1_1.json,1180,Dialog,,あとはテクニック以前の問題で、失礼のないよ,"And before technique even enters
+into",,,
+101_1_1.json,1181,Dialog,,うにすることに注意しなくちゃいけないってこ,"it, I have to be careful never to be
+rude",,,
+101_1_1.json,1182,Dialog,,とかな。,"about it. That's the gist, I think.",,,
+101_1_1.json,1184,Dialog,Haruhi,「ありがとうございます。参考になりました」,Thank you. That was really helpful.,,,
+101_1_1.json,1193,Dialog,,光の手が空いたタイミングで声をかけてみる。,"I caught Hikaru at a free moment and
+called out to him.",,,
+101_1_1.json,1195,Dialog,Haruhi,「光、ちょっといい？」,"Hikaru, got a minute?",,,
+101_1_1.json,1202,Dialog,Hikaru,「ん、何？」,Hm? What's up?,,,
+101_1_1.json,1204,Dialog,Haruhi,「接客のコツみたいなのがあったら、教えて欲,"If you've got any tips for
+entertaining",,,
+101_1_1.json,1205,Dialog,Haruhi,しいんだけど」,"guests, I'd like to hear them.",,,
+101_1_1.json,1214,Dialog,Hikaru,「おー、やる気じゃん？」,"Ooh, somebody's motivated.",,,
+101_1_1.json,1216,Dialog,Haruhi,「まあ……、それなりに」,Well... more or less.,,,
+101_1_1.json,1220,Dialog,Haruhi,ふーん、という感じで光はニヤっと笑う。,"Hikaru gave a little ""hmm"" and
+grinned at me.",,,
+101_1_1.json,1222,Dialog,Hikaru,「それじゃあ、接客の【話す】についてでい,"Alright then, how about I",,,
+101_1_1.json,1223,Dialog,Hikaru,い？」,cover talking with guests?,,,
+101_1_1.json,1225,Dialog,Haruhi,「うん、お願い」,"Sure, go ahead.",,,
+101_1_1.json,1232,Dialog,,そう答えると、光は笑顔で話し始めた。,"At my answer, Hikaru grinned and
+launched into it.",,,
+101_1_1.json,1240,Dialog,Hikaru,「……まあ、こんなトコかな」,"...Yeah, that about covers it.",,,
+101_1_1.json,1241,Dialog,Hikaru,そうだね、と光の言葉にうなずいて説明を思い,I nodded along and went back,,,
+101_1_1.json,1242,Dialog,Hikaru,返す。,over Hikaru's explanation.,,,
+101_1_1.json,1243,Dialog,Hikaru,話すときは、相手の気持ちを考えるだけじゃな,"When talking with a guest, it's not
+enough to consider",,,
+101_1_1.json,1244,Dialog,Hikaru,く、どんな話を期待しているのかも考えないと,"her feelings--you also have to think
+about",,,
+101_1_1.json,1245,Dialog,Hikaru,いけないらしい。,"what kind of conversation she's
+hoping for.",,,
+101_1_1.json,1246,Dialog,Hikaru,【話す】って簡単なことだけど、時と場合を考,"Talking sounds simple, but you have",,,
+101_1_1.json,1247,Dialog,,えないといけないってことだよね。,to weigh the time and the situation.,,,
+101_1_1.json,1248,Dialog,,よく考えなくても、当たり前のことをもっとも,"Then again, I can't shake the
+feeling he just",,,
+101_1_1.json,1249,Dialog,,らしく説明されただけのような気もする。,"dressed up common sense to sound
+profound.",,,
+101_1_1.json,1251,Dialog,Haruhi,「ありがとう、光」,"Thanks, Hikaru.",,,
+101_1_1.json,1260,Dialog,,馨の手が空いたタイミングで声をかけてみる。,"I caught Kaoru at a free moment and
+called out to him.",,,
+101_1_1.json,1262,Dialog,Haruhi,「馨、ちょっといい？」,"Kaoru, got a minute?",,,
+101_1_1.json,1269,Dialog,Kaoru,「どうしたの？」,What's up?,,,
+101_1_1.json,1271,Dialog,Haruhi,「接客のコツみたいなのがあったら、教えて欲,"If you've got any tips for
+entertaining",,,
+101_1_1.json,1272,Dialog,Haruhi,しいんだけど」,"guests, I'd like to hear them.",,,
+101_1_1.json,1280,Dialog,Kaoru,「……いいけど、いきなりどうしたの？」,"...Sure, but where's this coming
+from all of a sudden?",,,
+101_1_1.json,1282,Dialog,Haruhi,「うん、ちょっとね」,"Oh, you know. Just because.",,,
+101_1_1.json,1289,Dialog,,そう答えると、ふーんという感じで馨は笑みを,Kaoru gave a knowing,,,
+101_1_1.json,1290,Dialog,,浮かべた。,little smile at that.,,,
+101_1_1.json,1293,Dialog,Kaoru,「……ま、いいか。接客の【飲み物】について,"...Well, whatever. How about",,,
+101_1_1.json,1294,Dialog,Kaoru,でいい？」,I cover serving drinks?,,,
+101_1_1.json,1296,Dialog,Haruhi,「うん、お願い」,"Sure, go ahead.",,,
+101_1_1.json,1303,Dialog,,そう答えると、馨は笑顔で話し始めた。,"At my answer, Kaoru smiled and
+launched into it.",,,
+101_1_1.json,1311,Dialog,Kaoru,「……って感じかな」,"...And that's about it, I guess.",,,
+101_1_1.json,1312,Dialog,Kaoru,なるほどねえ、と馨の言葉にうなずいて説明を,"""Makes sense,"" I nodded, going",,,
+101_1_1.json,1313,Dialog,Kaoru,思い返す。,back over his explanation.,,,
+101_1_1.json,1314,Dialog,Kaoru,どう接すればいいのか悩んだときは、【飲み物】,"When you're not sure how to approach
+a guest,",,,
+101_1_1.json,1315,Dialog,Kaoru,を用意すると失敗は少ないらしい。,offering a drink rarely goes wrong.,,,
+101_1_1.json,1316,Dialog,Kaoru,話を聞いている限り、迷ったときに『間』をと,"From what he said, it also works as
+a way to",,,
+101_1_1.json,1317,Dialog,Kaoru,る意味でもいいかもしれないなあ……。,"buy a moment to think when you're
+stuck...",,,
+101_1_1.json,1318,Dialog,,ただ、いつもその行動が正しいとは限らないか,"It won't be the right move every
+single time,",,,
+101_1_1.json,1319,Dialog,,ら気をつけないとね。,"though, so I'll have to be careful.",,,
+101_1_1.json,1320,Dialog,,経験があってわかることだから、少しずつ慣れ,"It's the kind of thing you learn by
+experience.",,,
+101_1_1.json,1321,Dialog,,ていくしかないかな。,"I'll just have to get the hang of it
+bit by bit.",,,
+101_1_1.json,1323,Dialog,Haruhi,「ありがとう、参考にしてみるね」,Thanks. I'll keep that in mind.,,,
+101_1_1.json,1332,Dialog,,ハニー先輩が食べているケーキのお皿が空いた,"The moment Honey-senpai's cake plate
+was",,,
+101_1_1.json,1333,Dialog,,タイミングで、声をかけてみる。,"finally empty, I called out to him.",,,
+101_1_1.json,1335,Dialog,Haruhi,「ハニー先輩、ちょっといいですか？」,"Honey-senpai, do you have a minute?",,,
+101_1_1.json,1343,Dialog,Honey,「あ、ハルちゃん。どうしたの？」,"Oh, Haru-chan! What's up?",,,
+101_1_1.json,1345,Dialog,Haruhi,「すみません、接客のコツがあれば教えてもら,"Sorry to bother you, but if you have
+any",,,
+101_1_1.json,1346,Dialog,Haruhi,いたいんですけど……」,"hosting tips, I'd love to hear
+them...",,,
+101_1_1.json,1354,Dialog,Honey,「うん、いいよ。じゃあねー、すっごく大切な,"Sure, okay! Then I'll teach you
+about",,,
+101_1_1.json,1355,Dialog,Honey,【食べ物】について教えてあげる」,something suuuper important: food!,,,
+101_1_1.json,1357,Dialog,Haruhi,「お願いします」,Please do.,,,
+101_1_1.json,1365,Dialog,,そう答えると、ハニー先輩は満面の笑みを浮か,"At my answer, Honey-senpai",,,
+101_1_1.json,1366,Dialog,,べた。,broke into a huge smile.,,,
+101_1_1.json,1374,Dialog,Honey,「どうかな、ハルちゃん？」,"Well, Haru-chan? What do you think?",,,
+101_1_1.json,1376,Dialog,Haruhi,「そ、そうですね……」,R-right...,,,
+101_1_1.json,1377,Dialog,Haruhi,あいまいに答えながら、ハニー先輩から教わっ,"As I gave my vague answer, I tried
+to go back",,,
+101_1_1.json,1378,Dialog,Haruhi,た内容を思い返してみるけど――。,"over what Honey-senpai had taught
+me, but--",,,
+101_1_1.json,1379,Dialog,Haruhi,甘くておいしいケーキを食べれば、みんなしあ,"All I could remember was that sweet,",,,
+101_1_1.json,1380,Dialog,Haruhi,わせだってことと、どのケーキがおいしいのか,yummy cake makes everyone happy--and,,,
+101_1_1.json,1381,Dialog,Haruhi,しか思い出せない。,which cakes are the yummiest.,,,
+101_1_1.json,1382,Dialog,Haruhi,あ……。,Oh...,,,
+101_1_1.json,1383,Dialog,,胸がいっぱいのときは食べられないから、そう,"There was one useful bit: when
+someone's",,,
+101_1_1.json,1384,Dialog,,いうときは用意しないほうがいいってことは、,"heart is too full to eat, it's",,,
+101_1_1.json,1385,Dialog,,参考になったかな。,better not to bring food at all.,,,
+101_1_1.json,1387,Dialog,Haruhi,「ありがとうございました」,Thank you very much.,,,
+101_1_1.json,1396,Dialog,,モリ先輩の手が空いたタイミングで声をかけて,I caught Mori-senpai at a free,,,
+101_1_1.json,1397,Dialog,,みる。,moment and called out to him.,,,
+101_1_1.json,1399,Dialog,Haruhi,「モリ先輩、ちょっといいですか？」,"Mori-senpai, do you have a minute?",,,
+101_1_1.json,1408,Dialog,Haruhi,「接客のコツがあれば、教えて欲しいんです,"If you have any hosting tips,",,,
+101_1_1.json,1409,Dialog,Haruhi,けど……」,I'd like to hear them...,,,
+101_1_1.json,1417,Dialog,Mori,「……俺でいいのか」,...You're sure you want me?,,,
+101_1_1.json,1419,Dialog,Haruhi,「はい。モリ先輩にお願いしたいんです」,"Yes. I'd like to hear it from you,
+Mori-senpai.",,,
+101_1_1.json,1421,Dialog,Mori,「相手の話を【聞く】ことについてでかまわな,Then... shall I talk,,,
+101_1_1.json,1422,Dialog,Mori,いか？」,about listening?,,,
+101_1_1.json,1424,Dialog,Haruhi,「お願いします」,Please do.,,,
+101_1_1.json,1431,Dialog,,そう答えると、モリ先輩は微笑みを浮かべた。,"At my answer, Mori-senpai gave a
+soft smile.",,,
+101_1_1.json,1436,Dialog,Mori,「……ただ話を聞くだけなら誰にでもできる」,"...Anyone can simply hear someone
+talk.",,,
+101_1_1.json,1438,Dialog,Mori,「相手の立場になって耳を傾け理解する……」,"To truly listen, you put yourself in
+her place and seek to understand...",,,
+101_1_1.json,1446,Dialog,Mori,「その上でも助言することなく、求められるま,"And even then, you offer no
+advice--you simply",,,
+101_1_1.json,1447,Dialog,Mori,ではじっと耳をすませる……」,"keep listening, until you're asked.",,,
+101_1_1.json,1449,Dialog,Haruhi,「――それが聞くこと、相手の言葉に耳を傾け,"--So that's what listening is.
+Giving your",,,
+101_1_1.json,1450,Dialog,Haruhi,る姿勢なんですね」,"full attention to what she has to
+say.",,,
+101_1_1.json,1456,Dialog,Mori,「そうだ」,That's right.,,,
+101_1_1.json,1457,Dialog,Mori,そう言って、モリ先輩は満足そうに微笑む。,"Mori-senpai smiled, looking
+satisfied.",,,
+101_1_1.json,1458,Dialog,Mori,相手の話を聞くのは、モリ先輩らしい接客のコ,"Listening to people... That tip is
+exactly",,,
+101_1_1.json,1459,Dialog,Mori,ツだなあと思う。,what I'd expect from Mori-senpai.,,,
+101_1_1.json,1461,Dialog,Haruhi,「参考になりました。ありがとうございます」,That was really helpful. Thank you.,,,
+101_1_1.json,1469,Dialog,,接客のコツを聞いてはみたけど、実際にちゃん,"I've gathered all these hosting
+tips,",,,
+101_1_1.json,1470,Dialog,,と活用できるようになるまでは時間がかかりそ,"but it'll probably take a while
+before",,,
+101_1_1.json,1471,Dialog,,うだなあ。,I can actually put them to use.,,,
+101_1_1.json,1472,Dialog,,でも少しずつやっていけばいいかな、と思った,"Still, I can work on it little by
+little--or",,,
+101_1_1.json,1473,Dialog,,とき――。,"so I was thinking, when--",,,
+101_1_1.json,1480,Dialog,Kyoya,「ハルヒ」,Haruhi.,,,
+101_1_1.json,1482,Dialog,Haruhi,「何ですか、鏡夜先輩？」,"What is it, Kyoya-senpai?",,,
+101_1_1.json,1484,Dialog,Kyoya,「悪いが手のあいているときは、ヘルプを頼む」,"Sorry, but whenever you're free, I'd
+like you on help duty.",,,
+101_1_1.json,1485,Dialog,Kyoya,……ヘルプっていうと、誰かを手伝うってこと,"...By ""help,"" I guess he means",,,
+101_1_1.json,1486,Dialog,Kyoya,かな。,backing somebody up.,,,
+101_1_1.json,1494,Dialog,Kyoya,「ヘルプについて説明しておこうか」,Shall I explain how helping works?,,,
+101_1_1.json,1495,Dialog,Kyoya,……聞いておいたほうがいいかな？,...Maybe I should hear this.,,,
+101_1_1.json,1496,Choice,Kyoya,お願いします,"Yes, please",,,
+101_1_1.json,1497,Choice,Kyoya,大丈夫です,I'm fine,,,
+101_1_1.json,1509,Dialog,Haruhi,「お願いします」,Please do.,,,
+101_1_1.json,1513,Dialog,Haruhi,ああ、と鏡夜先輩は静かにうなずく。,Kyoya-senpai gave a quiet nod.,,,
+101_1_1.json,1521,Dialog,Kyoya,「簡単に説明すると、俺たちの接客を手伝って,"Simply put, you'll be assisting",,,
+101_1_1.json,1522,Dialog,Kyoya,もらうことだ」,us with our guests.,,,
+101_1_1.json,1524,Dialog,Haruhi,「先輩たちのお手伝いですか？」,Assisting you and the others?,,,
+101_1_1.json,1531,Dialog,,そうだ、と言いながら鏡夜先輩はにやっと笑う。,"""That's right,"" Kyoya-senpai said
+with a smirk.",,,
+101_1_1.json,1535,Dialog,,…………。なんだか聞くのが怖いなあ。,"....... Somehow I'm afraid to hear
+the rest.",,,
+101_1_1.json,1548,Dialog,Haruhi,「あれ、モリ先輩……？」,"Wait, Mori-senpai...?",,,
+101_1_1.json,1550,Dialog,Mori,「……気にするな」,...Don't mind me.,,,
+101_1_1.json,1555,Dialog,Kyoya,「モリ先輩には、お客様役として協力をお願い,I've asked Mori-senpai to cooperate,,,
+101_1_1.json,1556,Dialog,Kyoya,している」,by playing the role of a guest.,,,
+101_1_1.json,1558,Dialog,Haruhi,「そうなんですか」,I see.,,,
+101_1_1.json,1559,Dialog,Haruhi,お客様って感じがぜんぜんしないんだけど……。,"He doesn't exactly scream ""guest"" to
+me, though...",,,
+101_1_1.json,1564,Dialog,Kyoya,「いいか？　俺たちは分刻みの指名に対応する,"Listen well. Our requests are booked
+by the minute,",,,
+101_1_1.json,1565,Dialog,Kyoya,ため、お客様の間を渡り歩いていく」,"so we move from one guest to the
+next all afternoon.",,,
+101_1_1.json,1567,Dialog,Kyoya,「とはいえ、時間が来たからといってすぐに席,"That said, when time is up, we can't",,,
+101_1_1.json,1568,Dialog,Kyoya,を立てるとは限らない」,always leave the table right away.,,,
+101_1_1.json,1570,Dialog,Haruhi,「……つまり、途中から会話に入って接客を引,"...In other words, I should slip
+into the",,,
+101_1_1.json,1571,Dialog,Haruhi,き継げばいいんですね？」,"conversation and take over the
+hosting?",,,
+101_1_1.json,1576,Dialog,Kyoya,「その通り。――だが、途中から会話に入ると,"Precisely. --But joining a
+conversation",,,
+101_1_1.json,1577,Dialog,Kyoya,いうことは……」,midway means...,,,
+101_1_1.json,1579,Dialog,Haruhi,「失敗はできない、ですか？」,That I can't afford to fail?,,,
+101_1_1.json,1583,Dialog,Haruhi,よくわかっているな、と鏡夜先輩はうなずく。,"""You catch on quick,"" Kyoya-senpai
+nodded.",,,
+101_1_1.json,1588,Dialog,Kyoya,「ヘルプに入って失敗すれば、おまえだけでな,"If you step in to help and botch it,",,,
+101_1_1.json,1589,Dialog,Kyoya,く、接客していた俺たちのマイナスイメージに,the bad impression lands not just,,,
+101_1_1.json,1590,Dialog,Kyoya,つながる」,"on you, but on whoever was hosting.",,,
+101_1_1.json,1592,Dialog,Haruhi,「なんだか責任重大ですね」,No pressure or anything...,,,
+101_1_1.json,1593,Dialog,Haruhi,途中から話題についていかなきゃいけないのは、,"Having to pick up the thread of a
+conversation",,,
+101_1_1.json,1594,Dialog,Haruhi,かなり難しそう。,midway sounds really difficult.,,,
+101_1_1.json,1595,Dialog,Haruhi,それに、失敗したら自分だけのミスに収まらな,"And if I mess up, it's not just my
+mistake",,,
+101_1_1.json,1596,Dialog,Haruhi,いところがプレッシャーだなあ。,to bear. Talk about pressure.,,,
+101_1_1.json,1602,Dialog,Mori,「……大丈夫だ」,...You'll be fine.,,,
+101_1_1.json,1603,Dialog,Mori,そう言ってくれるとうれしいんですけど、あん,"I appreciate him saying so, but I
+really",,,
+101_1_1.json,1604,Dialog,Mori,まり自信ないんです……。,don't share his confidence...,,,
+101_1_1.json,1609,Dialog,Kyoya,「内容については６種類から選択すればいい。,"You simply choose from six types of
+topics.",,,
+101_1_1.json,1610,Dialog,Kyoya,……こんな感じだな」,...Something like this.,,,
+101_1_1.json,1611,Dialog,Kyoya,自分の不安なんて関係なく、鏡夜先輩の説明は,"Indifferent to my nerves,
+Kyoya-senpai's",,,
+101_1_1.json,1612,Dialog,Kyoya,続く……。,explanation rolled on...,,,
+101_1_1.json,1619,Dialog,,話は大きく、勉強・雑学・食・運動・娯楽・健,"So conversation topics split into
+six broad types--study, trivia,",,,
+101_1_1.json,1620,Dialog,,康の６種類に分けられるって言われても――。,"food, sports, fun, and health. Easy
+for him to say--",,,
+101_1_1.json,1621,Dialog,,どんな話をしているのかを理解して話題を選ば,"If I don't follow what they're
+talking about",,,
+101_1_1.json,1622,Dialog,,ないと、ヘルプどころか迷惑をかけることになっ,"and pick the right topic, I won't be",,,
+101_1_1.json,1623,Dialog,,ちゃうんだよね。,"helping--I'll be making things
+worse.",,,
+101_1_1.json,1636,Dialog,Haruhi,「あのー、自分の選択が正しかったかどうか,Um... and how do I know whether,,,
+101_1_1.json,1637,Dialog,Haruhi,は――」,I picked the right topic--,,,
+101_1_1.json,1642,Dialog,Kyoya,「イヤでも理解できるはずだ。会話が成立すれ,"You'll know, like it or not.",,,
+101_1_1.json,1643,Dialog,Kyoya,ば――」,If the conversation flows--,,,
+101_1_1.json,1653,Dialog,Mori,「失敗したときは……」,And when I fail...?,,,
+101_1_1.json,1663,Dialog,,確かに、これだけ差があればわかりますよ,Right. With a difference that,,,
+101_1_1.json,1664,Dialog,,ね……。,"stark, I suppose I'll know...",,,
+101_1_1.json,1672,Dialog,Kyoya,「……理解できたか？」,...Did you follow all that?,,,
+101_1_1.json,1673,Dialog,Kyoya,えっと……。説明をもう１度聞くなら、今しか,Hmm... If I want to hear it,,,
+101_1_1.json,1674,Dialog,Kyoya,ないけど……。,"again, it's now or never...",,,
+101_1_1.json,1675,Choice,Kyoya,わかりました,Got it,,,
+101_1_1.json,1676,Choice,Kyoya,もう１度……,One more time...,,,
+101_1_1.json,1688,Dialog,Haruhi,「はい、わかりました」,"Yes, I've got it.",,,
+101_1_1.json,1695,Dialog,,ふむ、という感じで鏡夜先輩は納得したように,Kyoya-senpai gave a satisfied,,,
+101_1_1.json,1696,Dialog,,うなずく。,little nod.,,,
+101_1_1.json,1698,Dialog,Kyoya,「場数を踏むことだ。そうすれば少しずつわかっ,"It comes down to experience. Keep at
+it and",,,
+101_1_1.json,1699,Dialog,Kyoya,てくる」,"you'll figure it out, little by
+little.",,,
+101_1_1.json,1700,Dialog,Kyoya,確かに、いろいろ経験を積むしかないんだよね。,"He's right--all I can do is rack up
+experience.",,,
+101_1_1.json,1701,Dialog,Kyoya,そう考えると、少しは気が楽になってきた。,"Thinking of it that way actually
+made me feel a little better.",,,
+101_1_1.json,1709,Dialog,Haruhi,「もう１度いいですか？」,Could you go over it one more time?,,,
+101_1_1.json,1714,Dialog,Kyoya,「いいだろう」,Very well.,,,
+101_1_1.json,1715,Dialog,Kyoya,気にした様子もなく、鏡夜先輩はそう言ってく,Kyoya-senpai obliged without,,,
+101_1_1.json,1716,Dialog,Kyoya,れた。,a hint of annoyance.,,,
+101_1_1.json,1722,Dialog,Haruhi,「いえ、大丈夫です」,"No, I'm all set.",,,
+101_1_1.json,1730,Dialog,Kyoya,「なるほど、自信があるようだな。それならあ,"I see--confident, are we? Then all
+that's",,,
+101_1_1.json,1731,Dialog,Kyoya,とは結果を出してもらうだけだ」,left is for you to deliver results.,,,
+101_1_1.json,1732,Dialog,Kyoya,そう言って、鏡夜先輩は大きくうなずいた。,"With that, Kyoya-senpai gave a deep
+nod.",,,
+101_1_1.json,1739,Dialog,Haruhi,「これからは手が空いているときは、できるだ,"From now on, whenever I'm free, I'll",,,
+101_1_1.json,1740,Dialog,Haruhi,けヘルプに入るようにしますね」,step in and help as much as I can.,,,
+101_1_1.json,1747,Dialog,Kyoya,「ああ、よろしく頼む」,Good. I'm counting on you.,,,
+101_1_1.json,1749,Dialog,Kyoya,と言い残して、鏡夜先輩は接客へと戻っていっ,"With that, Kyoya-senpai",,,
+101_1_1.json,1750,Dialog,Kyoya,た。,returned to his guests.,,,
+101_1_1.json,1751,Dialog,Kyoya,……あ、いつの間にかまた忙しくなってきてる,...Oh. When did things,,,
+101_1_1.json,1752,Dialog,Kyoya,なあ。,get so busy again?,,,
+101_1_1.json,1753,Dialog,Kyoya,環先輩は、あいかわらず上賀茂さんの相手をし,"Tamaki-senpai is entertaining
+Kamikamo-san,",,,
+101_1_1.json,1754,Dialog,,ている。上賀茂さんはホスト部の常連さんで、,"as usual. She's a Host Club regular,",,,
+101_1_1.json,1755,Dialog,,環先輩を指名することが多い。,and she almost always requests him.,,,
+101_1_1.json,1756,Dialog,,鏡夜先輩も、あいかわらず桜塚さんの相手をし,"Kyoya-senpai is with Sakurazuka-san,",,,
+101_1_1.json,1757,Dialog,,ている。桜塚さんもホスト部の常連さんで、自,"as usual. She's a regular too, and",,,
+101_1_1.json,1758,Dialog,,分のこともよく指名してくれる。,she requests me quite a bit as well.,,,
+101_1_1.json,1759,Dialog,,こんなときがヘルプに入るタイミングなんだろ,"This is probably exactly the sort of
+moment",,,
+101_1_1.json,1760,Dialog,,うけど……。,"I'm supposed to step in and help,
+but...",,,
+101_1_1.json,1761,Choice,,環先輩のヘルプへ,Help Tamaki-senpai,,,
+101_1_1.json,1762,Choice,,鏡夜先輩のヘルプへ,Help Kyoya-senpai,,,
+101_1_1.json,1763,Choice,,自信ないなあ,I don't know about this...,,,
+101_1_1.json,1777,Dialog,,……環先輩のヘルプに入ろう。,...I'll go help Tamaki-senpai.,,,
+101_1_1.json,1778,Dialog,,話の邪魔をしないように、そっと――。失礼し,"Careful not to interrupt, I
+quietly--""Pardon",,,
+101_1_1.json,1779,Dialog,,ますと声をかけて接客に加わる。,"me""--slipped into the conversation.",,,
+101_1_1.json,1791,Dialog,Tamaki,「実は、素晴らしいことを発見したのですよ」,"You see, I have made the most
+marvelous discovery.",,,
+101_1_1.json,1793,Dialog,Kamikamo,「まあ、何ですの？」,"Oh my, what is it?",,,
+101_1_1.json,1798,Dialog,Tamaki,「庶民の技――、いえ……、あの方法はきっと、,"A commoner's technique--no... That
+method shall surely",,,
+101_1_1.json,1799,Dialog,Tamaki,僕と姫と２人だけの、秘密に……」,"be a secret, just between me and my
+princess...",,,
+101_1_1.json,1808,Dialog,Kamikamo,「あ〜ん、環様〜」,Oh my~! Tamaki-sama~!,,,
+101_1_1.json,1810,Dialog,Kamikamo,いったいなんの話で盛り上がってるんだか、具,I have no clue what exactly has,,,
+101_1_1.json,1811,Dialog,Kamikamo,体的にはわからないけど。庶民の技ってところ,"them so worked up. But if
+""commoner's",,,
+101_1_1.json,1812,Dialog,Kamikamo,がヒントだとすれば――。,"technique"" is any hint--",,,
+101_1_1.json,1843,Dialog,Haruhi,「環先輩、それくらいのことなら秘密どころか,"Tamaki-senpai, that's not a secret.",,,
+101_1_1.json,1844,Dialog,Haruhi,雑学にもなりませんよ」,It barely counts as trivia.,,,
+101_1_1.json,1850,Dialog,Tamaki,「なに！　カップ焼きそばの底にかやくを入れ,"What!? Putting the toppings at the
+bottom of the instant yakisoba",,,
+101_1_1.json,1851,Dialog,Tamaki,るという技は、すでに世界の常識なのか！！」,"cup is already common knowledge
+around the world!?",,,
+101_1_1.json,1852,Dialog,Tamaki,……そんなことですか。,...So that's what this was about.,,,
+101_1_1.json,1858,Dialog,Kamikamo,「まあ……」,Oh my...,,,
+101_1_1.json,1860,Dialog,Haruhi,「あの、驚くほどのことじゃないですよ？」,"Um, it's really not that impressive.",,,
+101_1_1.json,1869,Dialog,Tamaki,「庶民の知恵もなかなかあなどりがたいものだ,The wisdom of commoners is not to be,,,
+101_1_1.json,1870,Dialog,Tamaki,な。うむ、これは加藤家の食卓を見直す必要が,underestimated. Hmm... I may need,,,
+101_1_1.json,1871,Dialog,Tamaki,ありそうだぞ」,to rethink the family dinner table.,,,
+101_1_1.json,1872,Dialog,Tamaki,ナイナイ、と心のなかで突っ込みを入れる。,"Not happening, I retorted silently.",,,
+101_1_1.json,1873,Dialog,Tamaki,何かを決意したかのように見える環先輩は、そ,"Looking like a man who had just made
+a great decision,",,,
+101_1_1.json,1874,Dialog,Tamaki,の勢いのまま席を立った。,"Tamaki-senpai rose from his seat on
+the spot.",,,
+101_1_1.json,1879,Dialog,Tamaki,「――申し訳ありませんが、少しの間お傍から,"--Forgive me, my princess, but I
+must",,,
+101_1_1.json,1880,Dialog,Tamaki,離れさせていただきます」,leave your side for a short while.,,,
+101_1_1.json,1883,Dialog,Tamaki,あとを頼むと、小さくつぶやいて環先輩は優雅,"Murmuring ""take care of the rest,""
+Tamaki-senpai",,,
+101_1_1.json,1884,Dialog,Tamaki,な仕草で去っていった。,made his elegant exit.,,,
+101_1_1.json,1885,Dialog,Tamaki,ヘルプは成功したみたいだから、ほっと一安心,Looks like my help actually,,,
+101_1_1.json,1886,Dialog,,かな。,helped. What a relief.,,,
+101_1_1.json,1910,Dialog,Tamaki,「ハルヒ……。何か勘違いをしているようだな」,"Haruhi... You seem to be under some
+misapprehension.",,,
+101_1_1.json,1912,Dialog,Haruhi,「え？」,Huh?,,,
+101_1_1.json,1920,Dialog,Tamaki,「俺が話していたのは、カップ焼きそばを作る,"What I was explaining was that when
+preparing instant",,,
+101_1_1.json,1921,Dialog,Tamaki,とき、かやくを底に入れることにより――」,"yakisoba, placing the toppings at
+the bottom--",,,
+101_1_1.json,1923,Dialog,Tamaki,「お湯を捨てる工程で、かやくをムダにしない,"--ensures not a single topping is
+wasted when you pour",,,
+101_1_1.json,1924,Dialog,Tamaki,という究極の雑学について話していたんだ」,"off the hot water! The ultimate
+piece of trivia!",,,
+101_1_1.json,1926,Dialog,Haruhi,「そういう話だったんですか……」,That's what this was about...?,,,
+101_1_1.json,1927,Dialog,Haruhi,もう少しどんな話をしているのか、考えてから,"I really should have figured out
+what they",,,
+101_1_1.json,1928,Dialog,Haruhi,話題に入れば良かったなあ。,"were talking about before jumping
+in.",,,
+101_1_1.json,1932,Dialog,Haruhi,後悔していると、環先輩がすっと立ち上がった。,"As I stewed in regret, Tamaki-senpai
+rose smoothly from his seat.",,,
+101_1_1.json,1937,Dialog,Tamaki,「――申し訳ありませんが、少しの間お傍から,"--Forgive me, my princess, but I
+must",,,
+101_1_1.json,1938,Dialog,Tamaki,離れさせていただきます」,leave your side for a short while.,,,
+101_1_1.json,1943,Dialog,Kamikamo,「さみしいですわ……、環様」,"How lonely I shall be...
+Tamaki-sama.",,,
+101_1_1.json,1948,Dialog,Tamaki,「僕の心も張り裂けそうです……」,"And my heart, too, is nearly torn in
+two...",,,
+101_1_1.json,1954,Dialog,Kamikamo,「環様……」,Tamaki-sama...,,,
+101_1_1.json,1955,Dialog,Kamikamo,なんだか悲劇のドラマに出てくるカップルみた,"They're like a couple out of some
+tragic drama.",,,
+101_1_1.json,1956,Dialog,Kamikamo,い。でも、自分がちゃんと話題に入れていれば、,"Still... if I'd joined the
+conversation properly,",,,
+101_1_1.json,1957,Dialog,Kamikamo,違った展開だったのかな……。,would things have gone differently?,,,
+101_1_1.json,1965,Dialog,,鏡夜先輩のヘルプに入ろう。,I'll go help Kyoya-senpai.,,,
+101_1_1.json,1966,Dialog,,話の邪魔をしないように、そっと――。失礼し,"Careful not to interrupt, I
+quietly--""Pardon",,,
+101_1_1.json,1967,Dialog,,ますと声をかけて接客に加わる。,"me""--slipped into the conversation.",,,
+101_1_1.json,1978,Dialog,,桜塚さんは、小さくため息をついて言葉を続け,Sakurazuka-san gave a small,,,
+101_1_1.json,1979,Dialog,,た。,sigh and went on.,,,
+101_1_1.json,1981,Dialog,Sakurazuka,「……もうすぐ、ですよね」,"...It's almost time, isn't it.",,,
+101_1_1.json,1983,Dialog,Kyoya,「そうですね、日々の成果が試されるときまで」,"Indeed. The day our daily efforts
+are put to the test draws near.",,,
+101_1_1.json,1988,Dialog,Sakurazuka,「鏡夜先輩は、何か特別なことをしていらっしゃ,"Kyoya-senpai, are you doing",,,
+101_1_1.json,1989,Dialog,Sakurazuka,るのですか？」,anything special to prepare?,,,
+101_1_1.json,1994,Dialog,Kyoya,「いえ、ごく当たり前のことばかりですよ」,"No, nothing out of the ordinary, I
+assure you.",,,
+101_1_1.json,1996,Dialog,Kyoya,いったいなんの話なのかな？　近づいてきてる,"What on earth are they talking
+about? Something",,,
+101_1_1.json,1997,Dialog,Kyoya,ことで、日々の成果が試されること。それが話,"coming up soon, where daily efforts
+get",,,
+101_1_1.json,1998,Dialog,Kyoya,題を指しているんだから――。,"put to the test... So the topic must
+be--",,,
+101_1_1.json,2026,Dialog,Haruhi,「ホスト部で、勉強会を開いてみてもいいんじゃ,Why not hold a study session,,,
+101_1_1.json,2027,Dialog,Haruhi,ないですか？」,here at the Host Club?,,,
+101_1_1.json,2033,Dialog,Kyoya,「ハルヒにしてはおもしろい提案だな。……検,An interesting proposal--coming from,,,
+101_1_1.json,2034,Dialog,Kyoya,討の余地はあるか」,you. ...It may be worth considering.,,,
+101_1_1.json,2039,Dialog,Sakurazuka,「ハルヒ君とお勉強ができるなら、成績も良く,"If I could study with you,
+Haruhi-kun,",,,
+101_1_1.json,2040,Dialog,Sakurazuka,なりそう」,I just know my grades would improve.,,,
+101_1_1.json,2042,Dialog,Haruhi,「成績が良くなるかどうかはわかりませんが、,"I can't promise better grades,",,,
+101_1_1.json,2043,Dialog,Haruhi,楽しそうですよね」,but it does sound fun.,,,
+101_1_1.json,2048,Dialog,Kyoya,「桜塚さん。ここからはハルヒがお相手をつと,"Sakurazuka-san, Haruhi will keep you
+company",,,
+101_1_1.json,2049,Dialog,Kyoya,めますので、僕はこれで失礼します」,from here. If you'll excuse me.,,,
+101_1_1.json,2050,Dialog,Kyoya,自分と桜塚さんの話が軌道にのると同時に、鏡,"The moment my conversation with
+Sakurazuka-san found",,,
+101_1_1.json,2051,Dialog,Kyoya,夜先輩はうやうやしく一礼する。,"its rhythm, Kyoya-senpai gave a
+courteous bow.",,,
+101_1_1.json,2056,Dialog,Sakurazuka,「はい、またお話してくださいね」,"Of course. Do come chat with me
+again.",,,
+101_1_1.json,2061,Dialog,Sakurazuka,もちろんですと笑顔で答えて、鏡夜先輩はテー,"""With pleasure,"" Kyoya-senpai
+replied",,,
+101_1_1.json,2062,Dialog,Sakurazuka,ブルを離れていった。,"with a smile, and left the table.",,,
+101_1_1.json,2064,Dialog,,なんとかヘルプがうまくいったみたいで、ほっ,Somehow the help went smoothly. What,,,
+101_1_1.json,2065,Dialog,,とひと息。だけど、接客を任されているからしっ,a relief... But she's my guest,,,
+101_1_1.json,2066,Dialog,,かりしないとね。,"now, so I'd better stay sharp.",,,
+101_1_1.json,2090,Dialog,Kyoya,「ハルヒ。僕と桜塚さんの話は、中間試験につ,"Haruhi. Sakurazuka-san and I were
+discussing",,,
+101_1_1.json,2091,Dialog,Kyoya,いてなんだがな」,"midterm exams, you know.",,,
+101_1_1.json,2093,Dialog,Haruhi,「……あ、すみません」,...Oh. Sorry.,,,
+101_1_1.json,2098,Dialog,Sakurazuka,「ハルヒ君は、あまり気にしていないのかし,Are exams not much of a worry,,,
+101_1_1.json,2099,Dialog,Sakurazuka,ら？」,"for you, Haruhi-kun?",,,
+101_1_1.json,2101,Dialog,Haruhi,「いえ、そんなことは……」,"No, it's not that...",,,
+101_1_1.json,2106,Dialog,Sakurazuka,「それじゃあ、ご一緒にお勉強しませんか？」,Then why don't we study together?,,,
+101_1_1.json,2108,Dialog,Haruhi,「はい、お邪魔でなければ」,"Sure, if I wouldn't be in the way.",,,
+101_1_1.json,2109,Dialog,Haruhi,桜塚さんの笑顔で、テーブルの雰囲気が持ち直,"Sakurazuka-san's smile brought the
+mood",,,
+101_1_1.json,2110,Dialog,Haruhi,すと――。,"at the table back around, and--",,,
+101_1_1.json,2115,Dialog,Kyoya,「桜塚さん。ここからはハルヒがお相手をつと,"Sakurazuka-san, Haruhi will keep you
+company",,,
+101_1_1.json,2116,Dialog,Kyoya,めますので、僕はこれで失礼します」,from here. If you'll excuse me.,,,
+101_1_1.json,2117,Dialog,Kyoya,自分と桜塚さんの話が軌道にのると同時に、鏡,"The moment my conversation with
+Sakurazuka-san found",,,
+101_1_1.json,2118,Dialog,Kyoya,夜先輩はうやうやしく一礼する。,"its rhythm, Kyoya-senpai gave a
+courteous bow.",,,
+101_1_1.json,2123,Dialog,Sakurazuka,「はい、またお話してくださいね」,"Of course. Do come chat with me
+again.",,,
+101_1_1.json,2128,Dialog,Sakurazuka,もちろんですと笑顔で答えて、鏡夜先輩はテー,"""With pleasure,"" Kyoya-senpai
+replied",,,
+101_1_1.json,2129,Dialog,Sakurazuka,ブルを離れていった。,"with a smile, and left the table.",,,
+101_1_1.json,2132,Dialog,,なんとか持ち直したけど、会話に入るときはもっ,"I managed to recover, but I need to
+be more",,,
+101_1_1.json,2133,Dialog,,と注意しないと……。,"careful jumping into
+conversations...",,,
+101_1_1.json,2141,Dialog,,……自信ないなあ。,...I don't know about this.,,,
+101_1_1.json,2142,Dialog,,ヘルプはできるだけ入るようにって言われてい,I was only told to help out,,,
+101_1_1.json,2143,Dialog,,るだけだし。,"whenever I can, that's all.",,,
+101_1_1.json,2144,Dialog,,会話に加わるタイミングも難しそうだし……。,"And timing my way into a
+conversation sounds tricky...",,,
+101_1_1.json,2145,Dialog,,とりあえず、食器の片付けやお菓子の用意にま,"For now, I'll stick to clearing",,,
+101_1_1.json,2146,Dialog,,わろう。,dishes and setting out sweets.,,,
+101_1_1.json,2158,Dialog,Renge,「ハルヒ君」,Haruhi-kun!,,,
+101_1_1.json,2160,Dialog,Haruhi,「あ、れんげちゃん。いらっしゃい」,"Oh, Renge-chan. Welcome.",,,
+101_1_1.json,2161,Dialog,Haruhi,ホスト部の営業が落ち着いた頃、同じクラスの,Once club hours had calmed,,,
+101_1_1.json,2162,Dialog,Haruhi,宝積寺（ほうしゃくじ）れんげちゃんがやって,"down, Renge Houshakuji-chan",,,
+101_1_1.json,2163,Dialog,Haruhi,きた。,from my class showed up.,,,
+101_1_1.json,2164,Dialog,Haruhi,れんげちゃんは、好きなゲームに登場するキャ,"Renge-chan fell in love at first
+sight with Kyoya-senpai,",,,
+101_1_1.json,2165,Dialog,Haruhi,ラクターのミヤビ君にそっくりな鏡夜先輩にひ,"because he looks exactly like
+Miyabi-kun,",,,
+101_1_1.json,2166,Dialog,Haruhi,と目ぼれして――。,a character from her favorite game--,,,
+101_1_1.json,2167,Dialog,,はるか遠いフランスから、桜蘭高校へ転入して,--and transferred into Ouran High,,,
+101_1_1.json,2168,Dialog,,きた女の子。,all the way from far-off France.,,,
+101_1_1.json,2169,Dialog,,#Color[7]#Scale[1.8]要するにオタク,#Color[7]#Scale[1.8]In short: an otaku,,,
+101_1_1.json,2171,Dialog,Haruhi,「今日はどうしたの？」,What brings you here today?,,,
+101_1_1.json,2176,Dialog,Renge,「もちろん、ホスト部のマネージャーとして活,"To check up on club activities, of
+course.",,,
+101_1_1.json,2177,Dialog,Renge,動の確認ですわ」,"As the Host Club's manager, it's my
+duty!",,,
+101_1_1.json,2190,Dialog,Hikaru,「いつどこで誰がマネージャーって認めたんだ,When did anyone ever agree,,,
+101_1_1.json,2191,Dialog,Hikaru,よ」,you were our manager?,,,
+101_1_1.json,2193,Dialog,Kaoru,「別に来なくていいのに」,"You really don't have to keep
+coming.",,,
+101_1_1.json,2203,Dialog,Renge,「そこの双子！　うるさいですわよ！！」,"You there, twins! Quiet, both of
+you!!",,,
+101_1_1.json,2216,Dialog,Hikaru & Kaoru,「はいはい、そーですか」,"Yeah, yeah. Whatever you say.",,,
+101_1_1.json,2225,Dialog,Renge,「あ、ハルヒ君はちゃんと働いているってわかっ,"Oh, but I can tell you're working
+hard,",,,
+101_1_1.json,2226,Dialog,Renge,ていますわ。その調子でがんばってくださいね」,"Haruhi-kun. Keep it up, okay?",,,
+101_1_1.json,2228,Dialog,Haruhi,「……うん」,...Sure.,,,
+101_1_1.json,2233,Dialog,Renge,「それではごきげんよ〜」,"Well then, ta-ta for now~!",,,
+101_1_1.json,2235,Dialog,Renge,……あ、帰っちゃった。ホントに確認しにきた,"...And she's gone. Coming all this
+way just",,,
+101_1_1.json,2236,Dialog,Renge,だけなのは、れんげちゃんらしいなあ。,"to check in--that's Renge-chan for
+you.",,,
+101_1_1.json,2243,Dialog,Nekozawa,「……やあ」,...Hello there.,,,
+101_1_1.json,2245,Dialog,Haruhi,「わっ！」,Whoa!,,,
+101_1_1.json,2246,Dialog,Haruhi,いきなり出てきたこの人は、黒魔術部の部長で,"The one who just materialized out of
+nowhere is Umehito Nekozawa-senpai,",,,
+101_1_1.json,2247,Dialog,Haruhi,３年の猫澤梅人（ねこざわうめひと）先輩。,"third-year and president of the
+Black Magic Club.",,,
+101_1_1.json,2248,Dialog,Haruhi,生徒らしくない衣装を着ているのは、明るいと,"As for the very un-studentlike
+outfit--apparently",,,
+101_1_1.json,2249,Dialog,Haruhi,ころが苦手な体質だからとのこと。,"his constitution can't handle bright
+places.",,,
+101_1_1.json,2252,Dialog,Haruhi,「いらっしゃいませ、猫澤先輩」,"Welcome, Nekozawa-senpai.",,,
+101_1_1.json,2257,Dialog,Nekozawa,「藤岡君……。今日はとてつもなく不吉なこと,"Fujioka-kun... I have a premonition
+that something",,,
+101_1_1.json,2258,Dialog,Nekozawa,が起こりそうな予感がしてね……」,"terribly ominous will happen
+today...",,,
+101_1_1.json,2260,Dialog,Nekozawa,「このベルゼネフも……、喜びにふる,Even my Belzeneff here... is,,,
+101_1_1.json,2261,Dialog,Nekozawa,えているよ……」,trembling with delight...,,,
+101_1_1.json,2263,Dialog,Nekozawa,ふふふ……、と猫澤先輩は笑いながら帰っていっ,"With a low ""hehehe,"" Nekozawa-senpai",,,
+101_1_1.json,2264,Dialog,Nekozawa,た。,chuckled his way back out.,,,
+101_1_1.json,2265,Dialog,Nekozawa,それだけのことを自分に伝えるために、ホスト,He came all the way to the Host,,,
+101_1_1.json,2266,Dialog,Nekozawa,部まで……？,Club... just to tell me that?,,,
+101_1_1.json,2274,Dialog,Honey,「ハールちゃん」,Haaaru-chan!,,,
+101_1_1.json,2287,Dialog,,考え込む間もなく、今度はハニー先輩とモリ先,"Before I could even puzzle it over,
+Honey-senpai",,,
+101_1_1.json,2288,Dialog,,輩がやってくる。,and Mori-senpai came my way.,,,
+101_1_1.json,2290,Dialog,Haruhi,「どうかしたんですか、ハニー先輩？」,"What is it, Honey-senpai?",,,
+101_1_1.json,2295,Dialog,Honey,「あのね、ハルちゃんにお願いがあるの」,"Um, Haru-chan, I have a favor to
+ask!",,,
+101_1_1.json,2297,Dialog,Haruhi,「はい、何でしょう」,"Sure, what is it?",,,
+101_1_1.json,2302,Dialog,Honey,「僕ね、ケーキ食べるのにいそがしいから、,"I'm super busy eating cake, so could",,,
+101_1_1.json,2303,Dialog,Honey,お客さんのこと案内してあげて」,you go greet that guest for me?,,,
+101_1_1.json,2305,Dialog,Haruhi,「えっと……、向こうにいる方ですね？」,Um... you mean the one over there?,,,
+101_1_1.json,2310,Dialog,Mori,「……ああ、頼む」,...Yeah. Please.,,,
+101_1_1.json,2312,Dialog,Haruhi,「はい、わかりました」,"All right, leave it to me.",,,
+101_1_1.json,2317,Dialog,Honey,「よろしくねー♪」,"Thanks, Haru-chan! ♪",,,
+101_1_1.json,2319,Dialog,Honey,自分が返事をすると同時に、ハニー先輩はケー,"The moment I answered, Honey-senpai",,,
+101_1_1.json,2320,Dialog,Honey,キに向かって走っていった。,went sprinting back to his cake.,,,
+101_1_1.json,2322,Dialog,Honey,その後ろに黙ってついていくモリ先輩の背中を,"I watched Mori-senpai silently trail
+after",,,
+101_1_1.json,2323,Dialog,Honey,見送ってから、お客さんのところへ向かった。,"him, then headed over to the guest.",,,
+101_1_1.json,2331,Dialog,Haruhi,「いらっしゃいませ、お待たせしました」,Welcome! Thank you for waiting.,,,
+101_1_1.json,2332,Dialog,Haruhi,一礼して、視線を上げる。,"I bowed, then raised my eyes.",,,
+101_1_1.json,2333,Dialog,Haruhi,…………。つい見上げちゃったけど、背が高く,....... I couldn't help looking,,,
+101_1_1.json,2334,Dialog,Haruhi,てモデルみたいな人だなあ。,up. She's so tall--like a model.,,,
+101_1_1.json,2343,Dialog,???,「……悪かったわね」,"...Well, excuse me.",,,
+101_1_1.json,2345,Dialog,Haruhi,「え？」,Huh?,,,
+101_1_1.json,2353,Dialog,???,「今、背が高いなって思ったでしょ？　言って,"You just thought ""she's tall,""
+didn't you? For",,,
+101_1_1.json,2354,Dialog,???,おきますけどね、あなたが低すぎるのよ！」,"the record, you're the one who's too
+short!",,,
+101_1_1.json,2356,Dialog,Haruhi,「確かに自分は背の低いほうですけど」,"I mean, I'm on the short side, sure.",,,
+101_1_1.json,2361,Dialog,???,「けど！？」,"""Sure""!?",,,
+101_1_1.json,2362,Dialog,???,……この人、どうしてこんなに怒ってるのかな？,"...Why is she so worked up about
+this?",,,
+101_1_1.json,2364,Dialog,Haruhi,「背が高くて髪もきれいだから、モデルさんみ,"You're tall and your hair is
+beautiful. I just",,,
+101_1_1.json,2365,Dialog,Haruhi,たいだなあって思いましたよ？」,"thought you looked like a model,
+that's all.",,,
+101_1_1.json,2373,Dialog,???,「…………ふ……」,......Hmph...,,,
+101_1_1.json,2374,Dialog,???,…………ふ？,"......""Hmph""?",,,
+101_1_1.json,2382,Dialog,???,「……ふん。あなたなんかにほめられても、別,...Hmph. Don't think flattery from,,,
+101_1_1.json,2383,Dialog,???,に嬉しくないわよ」,the likes of you makes me happy.,,,
+101_1_1.json,2385,Dialog,Haruhi,「別にほめてないですよ？　自分は思ったこと,It wasn't flattery. I only,,,
+101_1_1.json,2386,Dialog,Haruhi,を言っただけですから」,said what I was thinking.,,,
+101_1_1.json,2393,Dialog,,何か悪いこと言っちゃったかな？　……っと、,"Did I say something wrong? ...Oh,
+right--I",,,
+101_1_1.json,2394,Dialog,,そういえば自己紹介を忘れてた。,forgot to introduce myself.,,,
+101_1_1.json,2396,Dialog,Haruhi,「遅くなりましたけど、自分は藤岡ハルヒと言,"Sorry for not saying so sooner--my
+name",,,
+101_1_1.json,2397,Dialog,Haruhi,います。まだ慣れていないので、ご迷惑をおか,"is Haruhi Fujioka. I'm still new at
+this,",,,
+101_1_1.json,2398,Dialog,Haruhi,け――」,"so if I'm clumsy, please forgive--",,,
+101_1_1.json,2404,Dialog,???,「藤岡……、ハルヒ？」,Fujioka... Haruhi?,,,
+101_1_1.json,2406,Dialog,Haruhi,「はい、そうです」,"Yes, that's right.",,,
+101_1_1.json,2415,Dialog,???,なんだろう、じーっと見られているというか、,What is this? I'm being stared,,,
+101_1_1.json,2416,Dialog,???,にらまれているというか……。,at... or maybe glared at...,,,
+101_1_1.json,2426,Dialog,???,「………………もしかして」,.........Could it be...?,,,
+101_1_1.json,2429,Dialog,Haruhi,「はい？」,Yes?,,,
+101_1_1.json,2434,Dialog,???,「ハルちゃん……？」,Haru-chan...?,,,
+101_1_1.json,2436,Dialog,Haruhi,「はい」,That's me.,,,
+101_1_1.json,2437,Dialog,Haruhi,今度は、何か信じられないものを見ているよう,"Now she's looking at me like she's
+seen",,,
+101_1_1.json,2438,Dialog,Haruhi,な目になってるんだけど。,something she can't quite believe.,,,
+101_1_1.json,2446,Dialog,???,「……ねえ、ハルちゃん」,"...Hey, Haru-chan.",,,
+101_1_1.json,2448,Dialog,Haruhi,「何でしょう？」,What is it?,,,
+101_1_1.json,2453,Dialog,???,「私のこと、誰だかわからない？」,You really don't know who I am?,,,
+101_1_1.json,2456,Dialog,???,えーっと？,Umm...?,,,
+101_1_1.json,2457,Choice,???,……名前を聞いてみよう,...Ask her name,,,
+101_1_1.json,2458,Choice,???,どこかで会ったかな？,Have we met somewhere?,,,
+101_1_1.json,2470,Dialog,,思い返してみても、ここしばらくは会った記憶,"I've thought and thought, but I
+can't remember",,,
+101_1_1.json,2471,Dialog,,がないんだけどなあ……。,meeting her anytime recently...,,,
+101_1_1.json,2472,Dialog,,でも、名前を教えてもらったら思い出せるかも,Maybe her name will,,,
+101_1_1.json,2473,Dialog,,しれない。,jog my memory.,,,
+101_1_1.json,2475,Dialog,Haruhi,「失礼ですが、お名前を伺ってもよろしいです,"Excuse me, but... may",,,
+101_1_1.json,2476,Dialog,Haruhi,か？」,I ask your name?,,,
+101_1_1.json,2480,Dialog,Haruhi,と、名前を聞いた途端、表情が不機嫌に変わる。,"The instant I asked, her expression
+soured.",,,
+101_1_1.json,2488,Dialog,???,「……いいわ」,...Fine.,,,
+101_1_1.json,2489,Dialog,???,大きなため息をつきながらつぶやく。,She muttered it with a huge sigh.,,,
+101_1_1.json,2494,Dialog,Sayuri,「私は、姫宮小百合（ひめみやさゆり）」,I'm Sayuri Himemiya.,,,
+101_1_1.json,2495,Dialog,Sayuri,姫宮……、小百合さん……。,Himemiya... Sayuri-san...,,,
+101_1_1.json,2499,Dialog,Sayuri,クラスに姫宮さんはいないし、中学の友だちに,"There's no Himemiya in my class, or
+among my middle school",,,
+101_1_1.json,2500,Dialog,Sayuri,もいない。……小学校の頃の記憶にもない。,"friends. ...Nothing from elementary
+school, either.",,,
+101_1_1.json,2506,Dialog,Sayuri,「ま・さ・か。私の名前を聞いても思い出さな,"You. Can. Not. Be. Serious. You hear
+my",,,
+101_1_1.json,2507,Dialog,Sayuri,いなんてことは、ないわよねえ……」,"name and you still don't remember
+me...?",,,
+101_1_1.json,2508,Dialog,Sayuri,うーん……。姫宮さんがこれだけ自信を持って,Hmm... If Himemiya-san is,,,
+101_1_1.json,2509,Dialog,Sayuri,いるってことは、どこかで知り合いになってい,"this confident about it, we",,,
+101_1_1.json,2510,Dialog,Sayuri,るはず。,must have met somewhere.,,,
+101_1_1.json,2511,Dialog,Sayuri,……ひめみや、ヒメミヤ、姫宮……。小百合、,"...Himemiya, Hi-me-mi-ya,
+Himemiya...",,,
+101_1_1.json,2512,Dialog,Sayuri,サユリ、さゆり……。,"Sayuri, Sa-yu-ri, Sayuri...",,,
+101_1_1.json,2522,Dialog,,思い出した！,I remember now!,,,
+101_1_1.json,2527,Dialog,,まったく思い出せない。,I've got absolutely nothing.,,,
+101_1_1.json,2529,Dialog,Haruhi,「どこかでお会いしたことが――」,Have we met somewhere before--,,,
+101_1_1.json,2537,Dialog,???,「あるわよ」,We have.,,,
+101_1_1.json,2538,Dialog,???,ためらいなくキッパリと言い切る。,Zero hesitation. Total certainty.,,,
+101_1_1.json,2540,Dialog,???,「私の名前を聞いても思い出さないなんて、あ,There's no way you'd hear my name,,,
+101_1_1.json,2541,Dialog,???,りえないわ」,and still not remember me.,,,
+101_1_1.json,2542,Dialog,???,断言するだけの自信があるっていうことは、ど,"If she can declare it with that much
+confidence,",,,
+101_1_1.json,2543,Dialog,???,こかで知り合いになっているはずだよね。,we really must have met somewhere.,,,
+101_1_1.json,2545,Dialog,Haruhi,「あのー、まだお名前を伺っていないのです,Um... I still haven't actually,,,
+101_1_1.json,2546,Dialog,Haruhi,が……」,gotten your name...,,,
+101_1_1.json,2551,Dialog,???,「ちょっ……！　はやく聞きなさいよ！！」,Wha--!? Then hurry up and ask!!,,,
+101_1_1.json,2553,Dialog,Haruhi,「すみません、きっかけがつかめなくて」,"Sorry. I couldn't find the right
+moment.",,,
+101_1_1.json,2560,Dialog,,怒らせちゃうかと思ったけど……、なぜか少し,"I thought that would set her off...
+but",,,
+101_1_1.json,2561,Dialog,,楽しそうに笑ってる。,"for some reason she looks almost
+amused.",,,
+101_1_1.json,2563,Dialog,???,「ハルちゃんって、昔からそんな感じだったよ,"You know, Haru-chan, you've been",,,
+101_1_1.json,2564,Dialog,???,ね」,like this since we were little.,,,
+101_1_1.json,2566,Dialog,Haruhi,「……昔から？」,...Since we were little?,,,
+101_1_1.json,2574,Dialog,Sayuri,「姫宮よ、姫宮小百合（ひめみやさゆり）」,Himemiya. Sayuri Himemiya.,,,
+101_1_1.json,2575,Dialog,Sayuri,その名前を聞いた瞬間――。,The moment I heard that name--,,,
+101_1_1.json,2584,Dialog,,小さい頃のことを思い出した。,"--it all came back. From when we
+were small.",,,
+101_1_1.json,2589,Dialog,,出会ったのは、幼稚園の入園式。,"We met at our kindergarten's opening
+ceremony.",,,
+101_1_1.json,2590,Dialog,,自分の不注意で小百合にぶつかって、泣かせ,"I wasn't watching where I was going
+and crashed right into",,,
+101_1_1.json,2591,Dialog,,ちゃったんだよね。服も汚しちゃって――。,"Sayuri. I made her cry--and got her
+clothes dirty, too--",,,
+101_1_1.json,2592,Dialog,,あのときも小百合は、ものすごく怒ってたなあ。,"She was absolutely furious with me
+back then, too.",,,
+101_1_1.json,2593,Dialog,,ごめんねって言ってもぜんぜん泣きやんでくれ,"No matter how much I said I was
+sorry,",,,
+101_1_1.json,2594,Dialog,,なかったし。,she just wouldn't stop crying.,,,
+101_1_1.json,2595,Dialog,,どうすればいいのか困ってたときにお母さんが,"While I stood there at a loss, my
+mom",,,
+101_1_1.json,2596,Dialog,,きてくれて、仲直りさせてくれて……。,came over and got us to make up...,,,
+101_1_1.json,2599,Dialog,,カシャッ！,*click!*,,,
+101_1_1.json,2600,Dialog,,それから一緒に写真を撮ったんだっけ……。な,"And then we all took a photo
+together...",,,
+101_1_1.json,2601,Dialog,,つかしいなあ。,"Wow, that takes me back.",,,
+101_1_1.json,2603,Dialog,,思い出してみれば、目の前にいる小百合の姿が,"Now that I remember, the Sayuri
+standing in front of me overlaps",,,
+101_1_1.json,2604,Dialog,,あのとき、泣きながら怒っていた姿に重なる。,"perfectly with that little girl,
+crying and fuming.",,,
+101_1_1.json,2605,Dialog,,今日は泣いてないけど、怒っている姿は幼稚園,"No tears today--but the fuming part
+hasn't",,,
+101_1_1.json,2606,Dialog,,の頃から変わっていない。,changed one bit since kindergarten.,,,
+101_1_1.json,2608,Dialog,Sayuri,「ねえハルちゃん。私の勘なんだけど、ものす,"Hey, Haru-chan. Call it a hunch,
+but... are you",,,
+101_1_1.json,2609,Dialog,Sayuri,ごく失礼なこと考えてない？」,"thinking something incredibly rude
+right now?",,,
+101_1_1.json,2610,Dialog,Sayuri,小百合の声に、ふと我に返る。,"Sayuri's voice snapped me back to
+reality.",,,
+101_1_1.json,2618,Dialog,Haruhi,「でも、本当に久しぶりだね。小百合がアメリ,"It really has been forever, though.
+It'd have",,,
+101_1_1.json,2619,Dialog,Haruhi,カに行ってからだから……」,"to be since you left for America,
+so...",,,
+101_1_1.json,2624,Dialog,Sayuri,「少なくとも１０年ぶりかな」,"At least ten years, I'd say.",,,
+101_1_1.json,2626,Dialog,Haruhi,「大きくなったね」,You've gotten so big.,,,
+101_1_1.json,2634,Dialog,Sayuri,「……気にしてるんだから言わないでよ」,"...I'm sensitive about that. Don't
+bring it up.",,,
+101_1_1.json,2636,Dialog,Haruhi,「何を？」,About what?,,,
+101_1_1.json,2641,Dialog,Sayuri,「身長の話に決まってるでしょ！　さっきだっ,"My height, obviously!",,,
+101_1_1.json,2642,Dialog,Sayuri,て――」,"Even just now, you--",,,
+101_1_1.json,2644,Dialog,Sayuri,……あ。だから見上げたとき、ものすごく怒っ,...Oh. So that's why she blew,,,
+101_1_1.json,2645,Dialog,Sayuri,たんだ。,up when I looked up at her.,,,
+101_1_1.json,2647,Dialog,Haruhi,「気にすることないのに。身長だって小百合の,"You shouldn't let it bother you.
+Your height",,,
+101_1_1.json,2648,Dialog,Haruhi,個性のひとつなんだから」,"is part of what makes you *you*,
+Sayuri.",,,
+101_1_1.json,2656,Dialog,Sayuri,「できれば小柄なほうが良かったけどね、ハル,"I'd still rather be petite,",,,
+101_1_1.json,2657,Dialog,Sayuri,ちゃんみたいに」,"though. Like you, Haru-chan.",,,
+101_1_1.json,2658,Dialog,Sayuri,でも逆に小柄だと、もう少し身長が欲しいって,"Funny--when you're the short one,
+you find",,,
+101_1_1.json,2659,Dialog,Sayuri,思うんだよねえ。,"yourself wishing for a little more
+height.",,,
+101_1_1.json,2664,Dialog,Sayuri,「ねえハルちゃん。私、さっきからずっと気に,"Hey, Haru-chan. Something's been",,,
+101_1_1.json,2665,Dialog,Sayuri,なってるんだけど……」,bugging me this whole time...,,,
+101_1_1.json,2667,Dialog,Haruhi,「どうしたの？」,What is it?,,,
+101_1_1.json,2668,Dialog,Haruhi,実は――、と小百合が言いかけたとき。,"""Actually--"" Sayuri began, when...",,,
+101_1_1.json,2670,Dialog,Kurakano,「……ハルヒ君」,...Haruhi-kun.,,,
+101_1_1.json,2675,Dialog,Sayuri,"#Pos[0,20]#Scale[1.4]　　　 「ハルヒ、君！？」","#Pos[0,20]#Scale[1.4]Haruhi... -KUN!?",,,
+101_1_1.json,2688,Dialog,Kamikamo,「そちらの方は、ハルヒくんのお友だちかし,Is this lady a friend,,,
+101_1_1.json,2689,Dialog,Kamikamo,ら？」,"of yours, Haruhi-kun?",,,
+101_1_1.json,2691,Dialog,Haruhi,「はい、幼稚園が一緒だった……」,"Yes, we went to kindergarten
+together...",,,
+101_1_1.json,2692,Dialog,Haruhi,２人に紹介しようと思ったら、小百合は深刻そ,"I turned to introduce her to them
+both, but Sayuri was",,,
+101_1_1.json,2693,Dialog,Haruhi,うな顔で何かつぶやいている。,"muttering something with a grave
+look on her face.",,,
+101_1_1.json,2702,Dialog,Haruhi,「どうかしたの？」,Something wrong?,,,
+101_1_1.json,2710,Dialog,Sayuri,「え！？」,Huh!?,,,
+101_1_1.json,2712,Dialog,Haruhi,「小百合のこと紹介しようと――」,I was going to introduce you--,,,
+101_1_1.json,2717,Dialog,Sayuri,「そんなことより、聞きたいことがあるんだけ,Never mind that. There's something,,,
+101_1_1.json,2718,Dialog,Sayuri,ど」,I need to ask you.,,,
+101_1_1.json,2720,Dialog,Haruhi,「聞きたいこと？」,Something to ask?,,,
+101_1_1.json,2725,Dialog,Sayuri,「ハルちゃんって――」,"Haru-chan, are you--",,,
+101_1_1.json,2727,Dialog,Sayuri,言いかけたとき、笑顔の鏡夜先輩がさえぎるよ,"Before she could finish, a smiling
+Kyoya-senpai",,,
+101_1_1.json,2728,Dialog,Sayuri,うに現れた。,"appeared, cutting her off.",,,
+101_1_1.json,2735,Dialog,Kyoya,「申し訳ありませんが、本日の営業は終了とな,"I'm terribly sorry, ladies, but",,,
+101_1_1.json,2736,Dialog,Kyoya,ります……」,we are closing for the day...,,,
+101_1_1.json,2750,Dialog,Kamikamo,「あら、楽しい時間はあっという間ですわね」,"Oh my. The fun hours simply fly by,
+don't they?",,,
+101_1_1.json,2758,Dialog,Sakurazuka,「それじゃあね、ハルヒ君」,"See you later, Haruhi-kun.",,,
+101_1_1.json,2760,Dialog,Haruhi,「はい、ありがとうございました」,Yes--thank you both for coming.,,,
+101_1_1.json,2769,Dialog,Sayuri,「…………それじゃあ、私も」,"......Then I should be going, too.",,,
+101_1_1.json,2777,Dialog,Kyoya,「ああ、姫宮さんはもうしばらくごゆっくりし,"Ah--Himemiya-san, please,",,,
+101_1_1.json,2778,Dialog,Kyoya,ていってください」,do stay a while longer.,,,
+101_1_1.json,2783,Dialog,Kyoya,２人に続いて扉へ向かう小百合を、鏡夜先輩が,"As Sayuri turned to follow the two
+of them",,,
+101_1_1.json,2784,Dialog,,笑顔で引き止める。,"out, Kyoya-senpai stopped her with a
+smile.",,,
+101_1_1.json,2785,Dialog,,鏡夜先輩が意味もなく引き止めるわけがないか,"Kyoya-senpai never stops anyone
+without",,,
+101_1_1.json,2786,Dialog,,ら、何かあるんだよね。,a reason. Something's up.,,,
+101_1_1.json,2793,Chapter name,,第１話　恋のプロデュース大作戦,Ep. 1: Love Production Plan,,,
+101_1_1.json,2795,Dialog,,今日に限って妙に手際良く誘導されて、あっと,"Today of all days, the guests were
+ushered out with strange",,,
+101_1_1.json,2796,Dialog,,いう間に部室からお客さんの姿が消えた。,"efficiency, and in moments the club
+room was empty.",,,
+101_1_1.json,2797,Dialog,,小百合がいること以外、いつもの営業後と変わ,"Aside from Sayuri being here, it's",,,
+101_1_1.json,2798,Dialog,,らない。,a normal after-hours club room.,,,
+101_1_1.json,2800,Dialog,,それよりも、いつの間にかみんなが小百合のこ,"What bothers me more is that
+everyone",,,
+101_1_1.json,2801,Dialog,,とを知っていたことに疑問が残る。,"already seemed to know who Sayuri
+was.",,,
+101_1_1.json,2802,Dialog,,まあ、紹介する手間が省略できて良かったと言,Though I suppose it did save me,,,
+101_1_1.json,2803,Dialog,,えなくもないんだけど。,the trouble of introductions.,,,
+101_1_1.json,2810,Dialog,Tamaki,「ハルヒの幼い頃の親友……。それはつまり、,"Haruhi's dearest childhood friend...
+Which is to",,,
+101_1_1.json,2811,Dialog,Tamaki,俺にとって娘も同然の存在と言える」,"say, she is practically a daughter
+to me as well!",,,
+101_1_1.json,2818,Dialog,Hikaru,「何をどう考えればそんな妄想が展開されるワ,What thought process could possibly,,,
+101_1_1.json,2819,Dialog,Hikaru,ケ？」,produce that delusion?,,,
+101_1_1.json,2826,Dialog,Kaoru,「ごめんねー、うちの殿ちょっとアレだから」,"Sorry about him. Our lord is kind
+of... you know.",,,
+101_1_1.json,2836,Dialog,Tamaki,「おまえらっ！」,You two...!,,,
+101_1_1.json,2844,Dialog,Hikaru & Kaoru,「だってホントのことなんだもーん」,But it's the truuuth!,,,
+101_1_1.json,2861,Dialog,,言いながら、逃げて行く２人。……やれやれ、,"And with that, the two of them
+bolted.",,,
+101_1_1.json,2862,Dialog,,また始まった。,"...Good grief, here we go again.",,,
+101_1_1.json,2870,Dialog,Sayuri,「ちょっとハルちゃん。みなさんのこと紹介し,"Hey, Haru-chan. Aren't you going",,,
+101_1_1.json,2871,Dialog,Sayuri,てくれないと……」,to introduce everyone...?,,,
+101_1_1.json,2874,Dialog,Haruhi,「それもそうだね。じゃあ順番に……」,"Oh, right. Okay, in order...",,,
+101_1_1.json,2883,Dialog,Tamaki,「初めまして、小百合姫。僕は須王環と申し,"Enchanted, Princess Sayuri. I am
+Tamaki",,,
+101_1_1.json,2884,Dialog,Tamaki,ます。この桜蘭高校ホスト部ではキングとし,Suoh--and here at the Ouran High,,,
+101_1_1.json,2885,Dialog,Tamaki,て――」,"School Host Club, I reign as King--",,,
+101_1_1.json,2888,Dialog,Haruhi,「小百合、呼ぶときは環先輩でいいからね。キ,"Sayuri, just call him Tamaki-senpai.",,,
+101_1_1.json,2889,Dialog,Haruhi,ングなんて誰も呼んでないから」,Nobody actually calls him King.,,,
+101_1_1.json,2898,Dialog,,#Scale[1.4]ガーーーーーーーーーーン！,#Scale[1.4]*GONNNNNNNNG!*,,,
+101_1_1.json,2907,Dialog,Sayuri,「ハルちゃんって容赦ないわね……」,"You don't pull any punches, do you,
+Haru-chan...",,,
+101_1_1.json,2909,Dialog,Sayuri,……何のことだろう？,...What's that supposed to mean?,,,
+101_1_1.json,2919,Dialog,Kyoya,「副部長の鳳鏡夜です。以後、お見知りおきを」,"Kyoya Ootori, vice president. A
+pleasure to make your acquaintance.",,,
+101_1_1.json,2928,Dialog,Haruhi,「……鏡夜先輩の言うことはよく聞くようにね」,"...Whatever Kyoya-senpai says,
+you'll want to listen.",,,
+101_1_1.json,2933,Dialog,Sayuri,「もしかして、副部長のほうが人望あるの？」,"Wait--is the vice president the one
+everybody actually respects?",,,
+101_1_1.json,2935,Dialog,Haruhi,「そうだね」,Pretty much.,,,
+101_1_1.json,2943,Dialog,,#Scale[1.4]ガーーーーーーーーーーン！,#Scale[1.4]*GONNNNNNNNG!*,,,
+101_1_1.json,2946,Dialog,,……めんどうな人だなあ。,...What a high-maintenance guy.,,,
+101_1_1.json,2958,Dialog,Hikaru & Kaoru,「僕たち常陸院ブラザーズでーす」,We're the Hitachiin Brotherrrs!,,,
+101_1_1.json,2960,Dialog,Haruhi,「ちょっと光、馨も」,Hikaru. Kaoru. Come on.,,,
+101_1_1.json,2968,Dialog,Hikaru & Kaoru,「何？」,What?,,,
+101_1_1.json,2970,Dialog,Haruhi,「自己紹介くらいちゃんとしてくれない？,"Could you at least introduce
+yourselves properly?",,,
+101_1_1.json,2971,Dialog,Haruhi,する気がないなら、適当に伝えておくけど」,"If you won't, I'll just make
+something up for you.",,,
+101_1_1.json,2979,Dialog,Hikaru,「ったく、冗談もわかんないの？」,"Sheesh, can't you take a joke?",,,
+101_1_1.json,2987,Dialog,Kaoru,「やりがいないよねえ」,"No fun at all, is she?",,,
+101_1_1.json,2996,Dialog,Tamaki,「ハルヒの言う通りだぞ。光、馨」,"Haruhi is quite right! Hikaru,
+Kaoru!",,,
+101_1_1.json,3009,Dialog,Hikaru & Kaoru,「殿には関係ないしー」,"Nobody asked you, milord.",,,
+101_1_1.json,3019,Dialog,,#Color[7]#Scale[1.8]部長の威厳ゼロ,#Color[7]#Scale[1.8]Zero presidential dignity,,,
+101_1_1.json,3022,Dialog,,立ち直ったり落ち込んだり、忙しい人だな,"Bouncing back one second, crushed
+the",,,
+101_1_1.json,3023,Dialog,,あ……、ほんとに。,next... He really is a busy guy.,,,
+101_1_1.json,3040,Dialog,Hikaru,「僕が常陸院光で――」,I'm Hikaru Hitachiin--,,,
+101_1_1.json,3047,Dialog,Kaoru,「僕が常陸院馨」,--and I'm Kaoru Hitachiin.,,,
+101_1_1.json,3057,Dialog,Sayuri,「……おふたりともそっくりね」,...You two really are identical.,,,
+101_1_1.json,3059,Dialog,Haruhi,「よく似てるかもしれないけど、やっぱり違う,"They may look alike, but they're
+different",,,
+101_1_1.json,3060,Dialog,Haruhi,からわかるようになるよ」,"people. You'll learn to tell them
+apart.",,,
+101_1_1.json,3068,Dialog,Sayuri,「私はしばらくの間、髪型くらいでしか見分け,"For now, I think hairstyle is",,,
+101_1_1.json,3069,Dialog,Sayuri,られなさそうよ」,about all I'll have to go on.,,,
+101_1_1.json,3071,Dialog,Sayuri,そうかなあ……？　自分には……。,Really...? To me...,,,
+101_1_1.json,3073,Dialog,Sayuri,別に難しくもなんともないんだけどなあ……。,...it doesn't seem hard at all.,,,
+101_1_1.json,3081,Dialog,Honey,「ねー、サユちゃん。ケーキ、食べる？」,"Heeey, Sayu-chan! Want some cake?",,,
+101_1_1.json,3083,Dialog,Sayuri,「さ、さゆちゃん？」,S-Sayu-chan?,,,
+101_1_1.json,3085,Dialog,Haruhi,「さゆりだからサユちゃん。ですよね、ハニー,"Sayuri, so ""Sayu-chan.""",,,
+101_1_1.json,3086,Dialog,Haruhi,先輩」,"Right, Honey-senpai?",,,
+101_1_1.json,3096,Dialog,Honey,「うん！」,Yep!,,,
+101_1_1.json,3099,Dialog,Haruhi,「あのね、上級生には見えないかもしれないけ,"He may not look like an
+upperclassman, but",,,
+101_1_1.json,3100,Dialog,Haruhi,ど、こちらが埴之塚光邦先輩。それから――」,"this is Mitsukuni Haninozuka-senpai.
+And--",,,
+101_1_1.json,3108,Dialog,Mori,「……銛之塚崇だ」,...Takashi Morinozuka.,,,
+101_1_1.json,3110,Dialog,Haruhi,「モリ先輩って、ちょっと怖そうに見えるかも,"Mori-senpai might look a little
+scary,",,,
+101_1_1.json,3111,Dialog,Haruhi,しれないけど、大丈夫だからね」,but he's harmless. Promise.,,,
+101_1_1.json,3120,Dialog,Sayuri,「…………え、ええ」,......R-right.,,,
+101_1_1.json,3133,Dialog,Kyoya,「失礼ですが、姫宮さんとハルヒが友人になっ,"Forgive me for asking, Himemiya-san,
+but... considering",,,
+101_1_1.json,3134,Dialog,Kyoya,ている時期を考えると……。性別やホストとい,"when you and Haruhi became
+friends--regarding",,,
+101_1_1.json,3135,Dialog,Kyoya,う立場に対して……」,"the matter of sex, and of being a
+host...",,,
+101_1_1.json,3141,Dialog,Sayuri,「疑問を感じています」,I have questions.,,,
+101_1_1.json,3142,Dialog,Sayuri,鏡夜先輩の言葉を引き継ぐように、小百合がはっ,Sayuri finished Kyoya-senpai's,,,
+101_1_1.json,3143,Dialog,Sayuri,きりと言う。,"sentence, plain and clear.",,,
+101_1_1.json,3148,Dialog,Sayuri,「きれいな髪を切っていることにも驚きました,"The fact that you cut that beautiful
+hair",,,
+101_1_1.json,3149,Dialog,Sayuri,けど、そんなことよりも女の子だったはずのハ,"surprised me too, but never mind
+that--Haru-chan,",,,
+101_1_1.json,3150,Dialog,Sayuri,ルちゃんが――」,"you're supposed to be a girl, and--",,,
+101_1_1.json,3152,Dialog,Sayuri,「ハルヒ君なんて呼ばれて、まるで男の子みた,"--everyone calls you ""Haruhi-kun,""
+like",,,
+101_1_1.json,3153,Dialog,Sayuri,いだし。それに――、制服だって」,you're a boy. And--that uniform!,,,
+101_1_1.json,3158,Dialog,Kyoya,「おっしゃる通りです。それについてはいろい,"You're quite right. There are, shall
+we",,,
+101_1_1.json,3159,Dialog,Kyoya,ろと事情がありまして」,"say, circumstances behind all that.",,,
+101_1_1.json,3160,Dialog,Kyoya,小百合が口にする疑問に対して、鏡夜先輩は笑,Kyoya-senpai's smile never wavered,,,
+101_1_1.json,3161,Dialog,Kyoya,顔を崩さなかった。,in the face of Sayuri's questions.,,,
+101_1_1.json,3164,Dialog,Kyoya,鏡夜先輩は小百合の疑問に答えながら、ていね,"As he answered them, Kyoya-senpai
+walked",,,
+101_1_1.json,3165,Dialog,,いに自分の状況について説明してくれた。,"her carefully through my whole
+situation.",,,
+101_1_1.json,3166,Dialog,,自分がホスト部で８００万円もする花瓶を割っ,"How I broke an eight-million-yen
+vase here",,,
+101_1_1.json,3167,Dialog,,て、その借金を返済するために性別を隠してホ,"at the Host Club, and how I'm
+working as",,,
+101_1_1.json,3168,Dialog,,ストをしていること。,"a host--sex hidden--to pay off the
+debt.",,,
+101_1_1.json,3169,Dialog,,髪の毛は、近所の子にガムをくっつけられて面,"And how I cut my hair because a
+neighborhood kid",,,
+101_1_1.json,3170,Dialog,,倒だから切っちゃったことも。,"stuck gum in it, and dealing with it
+was a pain.",,,
+101_1_1.json,3177,Dialog,Sayuri,「…………ねえ」,......Hey.,,,
+101_1_1.json,3185,Dialog,Sayuri,「このことって秘密よね」,"This is all a secret, isn't it?",,,
+101_1_1.json,3187,Dialog,Haruhi,「そうだけど、別にバレても――」,"Well, yes, but even if it got out--",,,
+101_1_1.json,3200,Dialog,Hikaru,「そしたらさ」,"If it did,",,,
+101_1_1.json,3202,Dialog,Kaoru,「ハルヒはどうやって」,then how exactly,,,
+101_1_1.json,3218,Dialog,Hikaru & Kaoru,「借金を返すのかな？」,would Haruhi pay off the debt?,,,
+101_1_1.json,3220,Dialog,Haruhi,「ホスト以外で、何か別の方法を考えるよ」,"I'd think of some other way. One
+that doesn't involve hosting.",,,
+101_1_1.json,3229,Dialog,Sayuri,「心配しないでハルちゃん。秘密は守るから」,"Don't worry, Haru-chan. Your
+secret's safe with me.",,,
+101_1_1.json,3231,Dialog,Haruhi,「……そうなの？」,...It is?,,,
+101_1_1.json,3240,Dialog,Sayuri,「でもね、ひとつだけ交換条件があるの」,But there is one condition.,,,
+101_1_1.json,3248,Dialog,Kyoya,「お聞きしましょう」,Let's hear it.,,,
+101_1_1.json,3253,Dialog,Sayuri,#Scale[0.7]「……私の想いを……、伝えて欲しいの」,"#Scale[0.7]...I want you to help me...
+convey my feelings.",,,
+101_1_1.json,3267,Dialog,Hikaru & Kaoru,「きこえなーい」,Can't heeear you.,,,
+101_1_1.json,3270,Dialog,Hikaru & Kaoru,キッとにらみつける小百合の視線を、光と馨は,"Sayuri shot them a glare; Hikaru and
+Kaoru",,,
+101_1_1.json,3271,Dialog,Hikaru & Kaoru,しらなーいとばかりにそっぽを向く。,"looked away, whistling innocence.",,,
+101_1_1.json,3286,Dialog,Sayuri,「好きな人に、私の想いを伝えるお手伝いをし,I want your help confessing my,,,
+101_1_1.json,3287,Dialog,Sayuri,て欲しいのよ！」,feelings to the boy I love!,,,
+101_1_1.json,3297,Dialog,,小百合の出した条件に、さすがにみんなもびっ,Even this crowd was stunned,,,
+101_1_1.json,3298,Dialog,,くりしてる。,by Sayuri's condition.,,,
+101_1_1.json,3304,Dialog,,言い出した小百合も勢いだったみたいで、少し,"Sayuri herself seemed to have
+blurted it out",,,
+101_1_1.json,3305,Dialog,,泣き出しそうに見える。,"on momentum--she looked about ready
+to cry.",,,
+101_1_1.json,3307,Dialog,Haruhi,「話、聞かせてもらっていい？」,"Why don't you tell us the whole
+story?",,,
+101_1_1.json,3311,Dialog,Haruhi,そう言うと、小百合の表情がぱっと明るくなっ,"At that, Sayuri's",,,
+101_1_1.json,3312,Dialog,Haruhi,た。,face lit right up.,,,
+101_1_1.json,3318,Dialog,Haruhi,「そうだったんだ」,So that's how it was.,,,
+101_1_1.json,3319,Dialog,Haruhi,みんなも、小百合の話を黙って聞いてくれてい,Everyone listened to Sayuri's,,,
+101_1_1.json,3320,Dialog,Haruhi,た。,story in silence.,,,
+101_1_1.json,3321,Dialog,Haruhi,父親に連れられて出席する、知らない人ばかり,"Party after party on her father's
+arm, surrounded",,,
+101_1_1.json,3322,Dialog,Haruhi,のパーティーの数々。勝手もわからず、出るの,by strangers. Never knowing what to,,,
+101_1_1.json,3323,Dialog,Haruhi,はため息ばかり。,"do with herself, sighing the nights
+away.",,,
+101_1_1.json,3324,Dialog,Haruhi,そんなとき、同い年の男の子に声をかけられて、,"Then one evening, a boy her own age
+spoke",,,
+101_1_1.json,3325,Dialog,,その優しさに気持ちを動かされる。,"to her--and his kindness moved her
+heart.",,,
+101_1_1.json,3326,Dialog,,ほかのパーティー会場で何度か顔を合わせる機,"She crossed paths with him at other
+parties",,,
+101_1_1.json,3327,Dialog,,会はあっても、小百合が両親の知り合いに紹介,"now and then, but she was always
+being introduced",,,
+101_1_1.json,3328,Dialog,,されたり……。,to her parents' acquaintances...,,,
+101_1_1.json,3329,Dialog,,会場に招待された人たちに囲まれたりして、す,"...or surrounded by other invited
+guests,",,,
+101_1_1.json,3330,Dialog,,れ違ってばかり。,and they kept missing each other.,,,
+101_1_1.json,3337,Dialog,Sayuri,「今度は声をかけようって思ったけど……。去,"I told myself I'd speak to him next
+time...",,,
+101_1_1.json,3338,Dialog,Sayuri,年のクリスマス前のパーティーから姿を見かけ,"But after the party just before last
+Christmas,",,,
+101_1_1.json,3339,Dialog,Sayuri,なくなって」,he stopped appearing altogether.,,,
+101_1_1.json,3347,Dialog,Sayuri,「とっても心配になって、お父様に彼のことを,I got so worried that I asked,,,
+101_1_1.json,3348,Dialog,Sayuri,聞いてみたら……」,"Father about him, and...",,,
+101_1_1.json,3349,Dialog,Sayuri,アメリカから日本に戻って、桜蘭高校に入学し,"She learned he'd returned to Japan
+from America and",,,
+101_1_1.json,3350,Dialog,Sayuri,ていたことがわかって――。小百合も自分の想,"enrolled at Ouran High. So Sayuri
+took the entrance",,,
+101_1_1.json,3351,Dialog,Sayuri,いを伝えるために、試験を受けてここへ。,"exam and followed--to tell him how
+she feels.",,,
+101_1_1.json,3352,Dialog,Sayuri,明日から自分と同じ１−Ａに転入することになっ,"Starting tomorrow, she'll be
+transferring into",,,
+101_1_1.json,3353,Dialog,Sayuri,ていて、手続きのついでにホスト部の見学に来,"1-A--my class. Apparently she came
+to see",,,
+101_1_1.json,3354,Dialog,,たらしい。,"the Host Club while finishing the
+paperwork.",,,
+101_1_1.json,3355,Dialog,,とりあえず事情は分かったけど……。,"Well, now I understand the
+situation, but...",,,
+101_1_1.json,3357,Dialog,Haruhi,「小百合、そういうことは――」,"Sayuri, this kind of thing--",,,
+101_1_1.json,3359,Dialog,Haruhi,みんなに頼まないほうがいいよ、と言いかけた,"""--isn't something you should ask
+this",,,
+101_1_1.json,3360,Dialog,Haruhi,とき。,"bunch,"" I was about to say, when...",,,
+101_1_1.json,3367,Dialog,Tamaki,「その条件、飲もうじゃないか！」,We shall accept that condition!,,,
+101_1_1.json,3370,Dialog,Haruhi,「た、環先輩！？」,T-Tamaki-senpai!?,,,
+101_1_1.json,3378,Dialog,Tamaki,「かわいいハルヒのためならば、父として秘密,"For my darling Haruhi's sake,
+guarding this",,,
+101_1_1.json,3379,Dialog,Tamaki,を守り抜くのは当然のこと！」,"secret is nothing less than a
+father's duty!",,,
+101_1_1.json,3381,Dialog,Sayuri,「…………ち、ち？」,......F-father?,,,
+101_1_1.json,3382,Dialog,Sayuri,小百合の疑問はあとで説明するとして……。こ,"I'll explain that one to Sayuri
+later...",,,
+101_1_1.json,3383,Dialog,Sayuri,うなってくると、もう止められない。,"At this point, there's no stopping
+him.",,,
+101_1_1.json,3391,Dialog,Tamaki,「ではさっそく、チームを分けよう」,"Then let us divide into teams at
+once!",,,
+101_1_1.json,3396,Dialog,Tamaki,「俺と鏡夜、光と馨、ハニー先輩とモリ先輩で,"Kyoya and I, Hikaru and Kaoru,
+Honey-senpai",,,
+101_1_1.json,3397,Dialog,Tamaki,ペアを組み、小百合姫の恋をプロデュースする,"and Mori-senpai--in pairs, we shall",,,
+101_1_1.json,3398,Dialog,Tamaki,のだ！」,produce Princess Sayuri's romance!,,,
+101_1_1.json,3406,Dialog,Kyoya,「提案が採用されたチームには、俺が賞品を出,And I'll put up a prize for the,,,
+101_1_1.json,3407,Dialog,Kyoya,してやろう」,team whose plan is chosen.,,,
+101_1_1.json,3409,Dialog,Hikaru & Kaoru,「賞品って？」,A prize? Like what?,,,
+101_1_1.json,3417,Dialog,Kyoya,「ハルヒの中学時代の――」,From Haruhi's middle school days--,,,
+101_1_1.json,3419,Dialog,Haruhi,「ちょっと待ってください。そんな勝手に！」,"Wait a second. Don't I get a say in
+this!?",,,
+101_1_1.json,3427,Dialog,Kyoya,「おまえには借金減額」,"For you, a reduction of your debt.",,,
+101_1_1.json,3428,Dialog,Kyoya,ちなみに、と鏡夜先輩は言葉を続ける。,"""Incidentally,"" Kyoya-senpai went
+on.",,,
+101_1_1.json,3436,Dialog,Kyoya,「ターゲットは真嶋准一（まじまじゅんいち）。,The target is Junichi Majima.,,,
+101_1_1.json,3437,Dialog,Kyoya,容姿、成績ともに人並みだが、人柄の良さで静,"Average in both looks and grades,
+but quietly popular,",,,
+101_1_1.json,3438,Dialog,Kyoya,かに人気があるようだな」,"it seems--on the strength of his
+character.",,,
+101_1_1.json,3439,Dialog,Kyoya,……いったい、いつ調べたんだこの人は。,"...When did he even have time to
+research this guy?",,,
+101_1_1.json,3447,Dialog,Tamaki,「ところでハルヒは、どこのチームに入るのか,"Now then, Haruhi--whose team",,,
+101_1_1.json,3448,Dialog,Tamaki,にゃ？」,"will you join, meow?",,,
+101_1_1.json,3450,Dialog,Tamaki,やるしかないんだよね。,"Not like I have a choice, do I.",,,
+101_1_1.json,3451,Choice,Tamaki,環先輩、鏡夜先輩と,With Tamaki & Kyoya-senpai,,,
+101_1_1.json,3452,Choice,Tamaki,光、馨と,With Hikaru & Kaoru,,,
+101_1_1.json,3453,Choice,Tamaki,ハニー先輩、モリ先輩と,With Honey & Mori-senpai,,,
+101_1_1.json,3470,Dialog,Haruhi,「じゃあ……、環先輩と鏡夜先輩のところに」,"Then... I'll go with Tamaki-senpai
+and Kyoya-senpai.",,,
+101_1_1.json,3481,Dialog,Tamaki,「ハルヒ〜♪」,Haruhi~! ♪,,,
+101_1_1.json,3483,Dialog,Haruhi,「鏡夜先輩がいれば勝てそうですし」,"With Kyoya-senpai on the team, we
+can probably win.",,,
+101_1_1.json,3493,Dialog,Tamaki,「んなっ！？」,Wha--!?,,,
+101_1_1.json,3502,Dialog,,鏡夜先輩は、ふっと笑みを浮かべる。,"Kyoya-senpai allowed himself a small
+smile.",,,
+101_1_1.json,3510,Dialog,Kyoya,「では各自、案を考えておいてくれ。それでい,"Then everyone, have your plans
+ready.",,,
+101_1_1.json,3511,Dialog,Kyoya,いな、環？」,"That works, doesn't it, Tamaki?",,,
+101_1_1.json,3516,Dialog,Tamaki,「……うん」,...Uh-huh.,,,
+101_1_1.json,3521,Dialog,Kyoya,「では、解散だ」,"Dismissed, then.",,,
+101_1_1.json,3524,Dialog,Kyoya,やれやれ……。なんだか大変なことになりそう,Good grief... I have a feeling,,,
+101_1_1.json,3525,Dialog,Kyoya,だなあ。,this is going to be a lot.,,,
+101_1_1.json,3534,Dialog,Haruhi,「光と馨のところで」,I'll go with Hikaru and Kaoru.,,,
+101_1_1.json,3543,Dialog,Tamaki,「ハルヒはお父さんより、そんな性悪双子の方,Haruhi! You'd choose those devil,,,
+101_1_1.json,3544,Dialog,Tamaki,がいいって言うのか！？」,twins over your own father!?,,,
+101_1_1.json,3557,Dialog,Hikaru & Kaoru,「言ってくれるねー、殿」,"Aww, how sweet of you, milord.",,,
+101_1_1.json,3559,Dialog,Haruhi,「自分は、同じクラスだから相談しやすいかな,"I only picked them because we're in
+the same",,,
+101_1_1.json,3560,Dialog,Haruhi,と思って選んだだけですよ」,"class. It makes things easier to
+discuss.",,,
+101_1_1.json,3569,Dialog,Hikaru,「ま、そんなことだろうと思ったけど」,"Yeah, figured it was something like
+that.",,,
+101_1_1.json,3578,Dialog,Kaoru,「ねえ」,Right?,,,
+101_1_1.json,3587,Dialog,Kyoya,「では各自、案を考えておいてくれ。それでい,"Then everyone, have your plans
+ready.",,,
+101_1_1.json,3588,Dialog,Kyoya,いな、環？」,"That works, doesn't it, Tamaki?",,,
+101_1_1.json,3596,Dialog,Tamaki,「……うん」,...Uh-huh.,,,
+101_1_1.json,3601,Dialog,Kyoya,「では、解散だ」,"Dismissed, then.",,,
+101_1_1.json,3604,Dialog,Kyoya,なんだか大変なことになりそうだけど、小百合,"I've got a feeling this is going to
+be a lot--but",,,
+101_1_1.json,3605,Dialog,Kyoya,のためにがんばろう。,I'll give it my best. For Sayuri.,,,
+101_1_1.json,3614,Dialog,Haruhi,「ハニー先輩、モリ先輩。よろしくお願いしま,"Honey-senpai, Mori-senpai--I'm",,,
+101_1_1.json,3615,Dialog,Haruhi,す」,in your care.,,,
+101_1_1.json,3624,Dialog,Tamaki,「ええっ！？」,Whaaat!?,,,
+101_1_1.json,3638,Dialog,Honey,「わーい、ハルちゃんと一緒だー♪　がんばろ,"Yaaay, I'm with Haru-chan! ♪",,,
+101_1_1.json,3639,Dialog,Honey,うね、崇」,"Let's do our best, Takashi!",,,
+101_1_1.json,3642,Dialog,Mori,「……ああ、そうだな」,...Yeah. Let's.,,,
+101_1_1.json,3651,Dialog,Tamaki,「ハルヒ……。そんなにお父さんと一緒はイヤ,Haruhi... Do you truly hate being,,,
+101_1_1.json,3652,Dialog,Tamaki,なのか？」,with your father that much?,,,
+101_1_1.json,3653,Dialog,Tamaki,そんな目で見られても困るんですけど。,Don't look at me like that. Please.,,,
+101_1_1.json,3661,Dialog,Honey,「タマちゃん、ごめんね？」,"Sorry, Tama-chan!",,,
+101_1_1.json,3669,Dialog,Tamaki,「……いえ。ハニー先輩とモリ先輩なら安心し,"...No. If it's Honey-senpai and
+Mori-senpai, I",,,
+101_1_1.json,3670,Dialog,Tamaki,てハルヒをお任せできますから」,"can entrust Haruhi to you with peace
+of mind.",,,
+101_1_1.json,3684,Dialog,Hikaru & Kaoru,「くやしいならそう言えばいいのに」,"If you're jealous, just say so.",,,
+101_1_1.json,3693,Dialog,Tamaki,「ぐぅぅぅぅぅ……」,Grrrrrgh...,,,
+101_1_1.json,3703,Dialog,Kyoya,「では各自、案を考えておいてくれ。それでい,"Then everyone, have your plans
+ready.",,,
+101_1_1.json,3704,Dialog,Kyoya,いな、環？」,"That works, doesn't it, Tamaki?",,,
+101_1_1.json,3709,Dialog,Tamaki,「……うん」,...Uh-huh.,,,
+101_1_1.json,3714,Dialog,Kyoya,「では、解散だ」,"Dismissed, then.",,,
+101_1_1.json,3718,Dialog,Kyoya,どうなるか分からないけど、やれるだけやって,No telling how this will turn,,,
+101_1_1.json,3719,Dialog,Kyoya,みるしかないかな。,"out, but all I can do is try.",,,
+101_1_1.json,3732,Dialog,Haruhi,「どうしたの？」,What's wrong?,,,
+101_1_1.json,3740,Dialog,Sayuri,「ねえハルちゃん。ホスト……、無理にやらさ,"Hey, Haru-chan... This host thing...
+they're",,,
+101_1_1.json,3741,Dialog,Sayuri,れてないの？」,"not forcing you into it, are they?",,,
+101_1_1.json,3743,Dialog,Haruhi,「借金は自分の責任だから、無理にってことじゃ,"The debt is my own responsibility,",,,
+101_1_1.json,3744,Dialog,Haruhi,ないよ」,"so no, it's not like that.",,,
+101_1_1.json,3749,Dialog,Sayuri,「それならいいんだけど……」,"Well... good, then...",,,
+101_1_1.json,3751,Dialog,Haruhi,「大丈夫だよ。ああ見えて悪い人たちじゃない,"I'm fine, really. They may not look",,,
+101_1_1.json,3752,Dialog,Haruhi,から」,"it, but they're not bad people.",,,
+101_1_1.json,3761,Dialog,Sayuri,「うん、わかった。……ごめんね」,Okay. Got it. ...I'm sorry.,,,
+101_1_1.json,3763,Dialog,Sayuri,そう言って、小百合は部室を出て行った。,"With that, Sayuri left the club
+room.",,,
+101_1_1.json,3764,Dialog,Sayuri,……あれ？　どうして『ごめんね』なんだろう？,"...Huh? What was the ""I'm sorry""
+for?",,,
+101_1_1.json,3771,Dialog,Kyoya,「ハルヒ」,Haruhi.,,,
+101_1_1.json,3772,Dialog,Kyoya,気になって追いかけようとしたとき、鏡夜先輩,"It nagged at me, and I was about to
+go after",,,
+101_1_1.json,3773,Dialog,Kyoya,の声に引き止められた。,"her when Kyoya-senpai's voice
+stopped me.",,,
+101_1_1.json,3775,Dialog,Haruhi,「はい」,Yes?,,,
+101_1_1.json,3783,Dialog,Kyoya,「少しお前に試してもらいたいことがあるんだ,There's a little something I'd,,,
+101_1_1.json,3784,Dialog,Kyoya,が……」,like you to try for me...,,,
+101_1_1.json,3786,Dialog,Haruhi,「はあ……」,Uh-huh...,,,
+101_1_1.json,3791,Dialog,Kyoya,「ハルヒの借金が、今日から約１ヶ月で完済で,"The question has come up of whether
+you could pay off",,,
+101_1_1.json,3792,Dialog,Kyoya,きるかどうかという話が持ち上がってな」,"your entire debt in about one month,
+starting today.",,,
+101_1_1.json,3794,Dialog,Haruhi,「はあ？」,Excuse me?,,,
+101_1_1.json,3802,Dialog,Kyoya,「ちょっとした借金返済シミュレーションだと,"Think of it as a little
+debt-repayment",,,
+101_1_1.json,3803,Dialog,Kyoya,考えてくれればいい」,simulation.,,,
+101_1_1.json,3805,Dialog,Haruhi,「もしかして、自分にパソコンを貸してくれた,Wait. Is that why you,,,
+101_1_1.json,3806,Dialog,Haruhi,のは……」,lent me the laptop...?,,,
+101_1_1.json,3812,Dialog,Kyoya,「察しが良くなってきたな」,"You're getting quicker on the
+uptake.",,,
+101_1_1.json,3813,Dialog,Kyoya,悪代官か……、この人は。,"He's like a corrupt magistrate...
+this guy.",,,
+101_1_1.json,3821,Dialog,Kyoya,「ホストとしての天然系がどれほど需要がある,"I also want data on just how much
+demand",,,
+101_1_1.json,3822,Dialog,Kyoya,のか、データも欲しいからな。ハルヒにはぜひ,"there is for an airhead-type host.
+So I'd",,,
+101_1_1.json,3823,Dialog,Kyoya,協力して欲しい」,"very much like your cooperation,
+Haruhi.",,,
+101_1_1.json,3825,Dialog,Kyoya,……っていうか、もうすでに決定事項じゃない,"...In other words, it's already",,,
+101_1_1.json,3826,Dialog,Kyoya,ですか。,"been decided, hasn't it.",,,
+101_1_1.json,3828,Dialog,Kyoya,「１日の営業が終わったあと、データを更新し,"I'll update your data after each
+day's club hours,",,,
+101_1_1.json,3829,Dialog,Kyoya,ておくから、休む前に確認してくれ」,"so check it before you turn in for
+the night.",,,
+101_1_1.json,3831,Dialog,Haruhi,「あのー。自分がそこまでがんばる意味はある,Um... is there any actual reason,,,
+101_1_1.json,3832,Dialog,Haruhi,んでしょうか？」,for me to work that hard?,,,
+101_1_1.json,3840,Dialog,Kyoya,「特に何もない。……と言いたいところだが、,"None whatsoever. ...Is what I'd like
+to say, but--on",,,
+101_1_1.json,3841,Dialog,Kyoya,そのパソコンに加えて賞品をつけよう」,"top of the laptop, I'll throw in a
+prize.",,,
+101_1_1.json,3846,Dialog,Kyoya,「さらに、達成できない場合のペナルティも免,"What's more, I'll waive",,,
+101_1_1.json,3847,Dialog,Kyoya,除しておこう」,the penalty for failure.,,,
+101_1_1.json,3848,Dialog,Kyoya,つまり、最初は達成できなかったらペナルティ,So originally there WAS a penalty,,,
+101_1_1.json,3849,Dialog,Kyoya,がついてたんですね。,for failing. Good to know.,,,
+101_1_1.json,3850,Dialog,Kyoya,でも……。とりあえず、引き受けても大丈夫そ,Still... I suppose there's no,,,
+101_1_1.json,3851,Dialog,Kyoya,うかな？,harm in taking him up on it?,,,
+101_1_1.json,3853,Dialog,Haruhi,「わかりました、やってみます」,All right. I'll give it a try.,,,
+101_1_1.json,3860,Dialog,,当然だな、という感じに鏡夜先輩はうなずく。,"Kyoya-senpai nodded, as if there had
+never been any doubt.",,,
+101_1_1.json,3862,Dialog,,とりあえず……。無理しないように、がんばれ,"Well... I'll do what I can,",,,
+101_1_1.json,3863,Dialog,,ばいいかな。,without overdoing it.,,,
+101_1_1.json,3869,Dialog,,んー……。,Mmm...,,,
+101_1_1.json,3870,Dialog,,シャープペンを置いて大きく伸びをする。今日,I set down my mechanical pencil and,,,
+101_1_1.json,3871,Dialog,,の勉強はこのくらいにして、そろそろ寝ようか,stretched. That's enough studying,,,
+101_1_1.json,3872,Dialog,,な。,for tonight--time for bed soon.,,,
+101_1_1.json,3873,Dialog,,……でも、桜蘭で小百合に会うなんて思わなかっ,...I still can't believe I ran into,,,
+101_1_1.json,3874,Dialog,,たなあ。,"Sayuri at Ouran, of all places.",,,
+101_1_1.json,3875,Dialog,,明日からは、小百合の恋をプロデュースするこ,"Starting tomorrow, we're producing",,,
+101_1_1.json,3876,Dialog,,とになってるから、いろいろ考えておかないと,"Sayuri's romance, so I'd better",,,
+101_1_1.json,3877,Dialog,,いけないなあ。,give it some real thought.,,,
+101_1_1.json,3878,Dialog,,あ……、パソコンを起動して指名率と借金の状,"Oh... I should boot up the laptop
+and",,,
+101_1_1.json,3879,Dialog,,態を見ておかないと。,check my request rate and debt.,,,
+101_1_1.json,3880,Dialog,,１日目だし、こんな感じかな？,"It's only day one, so... this looks
+about right?",,,
+101_1_1.json,3881,Dialog,,先は長いんだし、無理しないでやっていこう。,"It's a long road ahead. Slow and
+steady--no burning out.",,,

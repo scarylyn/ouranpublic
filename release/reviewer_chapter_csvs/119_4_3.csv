@@ -1,0 +1,281 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+119_4_3.json,3,Chapter name,,第４話　ホスト部は活動停止せよ,Ep. 4: Shut Down the Host Club,,,
+119_4_3.json,7,Dialog,,ガチャ。,Click.,,,
+119_4_3.json,10,Dialog,Haruhi,「すみません、遅れました」,Sorry for being late.,,,
+119_4_3.json,11,Dialog,Haruhi,#Color[7]#Scale[1.8]ホスト部　営業……中？,#Color[7]#Scale[1.8]Host Club... in session?,,,
+119_4_3.json,12,Dialog,Haruhi,……あれ？,...Huh?,,,
+119_4_3.json,13,Dialog,Haruhi,お客さんが誰もいない……。いつもなら、結構,There's no one here... It's usually,,,
+119_4_3.json,14,Dialog,Haruhi,込んでる時間なのに。,pretty busy at this time.,,,
+119_4_3.json,21,Dialog,Honey,「あ、ハルちゃん……」,"Ah, Haru-chan...",,,
+119_4_3.json,23,Dialog,Haruhi,「ハニー先輩……。今日は、お休みじゃないで,Senpai Honey... You're not taking,,,
+119_4_3.json,24,Dialog,Haruhi,すよね？」,"the day off today, are you?",,,
+119_4_3.json,37,Dialog,Hikaru & Kaoru,「僕らも知りたいよ」,I want to know too.,,,
+119_4_3.json,38,Dialog,Hikaru & Kaoru,カベにもたれていた光と馨が、不機嫌そうな声,"Hikaru and Kaoru, leaning against",,,
+119_4_3.json,39,Dialog,Hikaru & Kaoru,を上げる。,"the wall, grumble unhappily.",,,
+119_4_3.json,43,Dialog,Haruhi,「環先輩は……」,Tamaki-senpai...,,,
+119_4_3.json,50,Dialog,Kyoya,「環なら理事長室だ」,"「Tama-chan's in the principal's
+office.」",,,
+119_4_3.json,52,Dialog,Haruhi,「何かあったんですか？」,Is something wrong?,,,
+119_4_3.json,60,Dialog,Mori,「……呼び出しだ」,An summons.,,,
+119_4_3.json,61,Dialog,Mori,……呼び出しっていうことは、やっぱり何かあっ,...I guess something did,,,
+119_4_3.json,62,Dialog,Mori,たんだ。,happen if they called me.,,,
+119_4_3.json,67,Dialog,Kyoya,「ここ数日、広がっているウワサの件は知って,Have you heard about the rumor,,,
+119_4_3.json,68,Dialog,Kyoya,いるか？」,that's been spreading lately?,,,
+119_4_3.json,82,Dialog,Hikaru,「あー、例のアレ？」,"Oh, that thing?",,,
+119_4_3.json,87,Dialog,Kaoru,「夜の街で大暴れしたっていう」,"Caused a ruckus in the city at
+night.",,,
+119_4_3.json,90,Dialog,Kaoru,……大暴れ？,...go wild?,,,
+119_4_3.json,97,Dialog,Honey,「怪獣まで出てきて、大変だったんだよね」,"It was tough with even monsters
+showing up.",,,
+119_4_3.json,98,Dialog,Honey,#Scale[1.4]怪獣！？,#Scale[1.4]Monster!?!,,,
+119_4_3.json,107,Dialog,Mori,「いや……、怪獣は出なかった」,No... there were no monsters.,,,
+119_4_3.json,113,Dialog,Honey,「あれ？　じゃあ何が出たんだろ……。ナマハ,Hmm? Then what could it be...?,,,
+119_4_3.json,114,Dialog,Honey,ゲかなあ？」,Could it be Namahage?,,,
+119_4_3.json,119,Dialog,Mori,「…………それは……」,...That's...,,,
+119_4_3.json,120,Dialog,Mori,あれ……。否定しないってことはもしかして、,Huh...? Not denying it means it,,,
+119_4_3.json,121,Dialog,Mori,ナマハゲが？　でも――。,might be the Namahage...? But --,,,
+119_4_3.json,125,Dialog,Haruhi,「自分が聞いてた話とは、かなり違うんですけ,It's quite different,,,
+119_4_3.json,126,Dialog,Haruhi,ど……」,from what I heard...,,,
+119_4_3.json,138,Dialog,Hikaru,「ナマハゲって何か知らないけど」,I don't know what Namahage are.,,,
+119_4_3.json,143,Dialog,Kaoru,「鏡夜先輩と見間違えたんじゃないの？」,"Aren't you mistaking me for
+Ootori-senpai?",,,
+119_4_3.json,157,Dialog,Honey,「じゃあ、鏡ちゃんが暴れちゃったの？」,"So you're saying Kyoya-chan went
+wild?",,,
+119_4_3.json,171,Dialog,,みんなの視線が、鏡夜先輩に集中する……。,"Everyone's eyes are focused on
+Kyoya-senpai...",,,
+119_4_3.json,183,Dialog,Kyoya,「……話を進めてもいいかな？」,Can I move on with the story?,,,
+119_4_3.json,185,Dialog,Haruhi,「……ど、どうぞ」,...H-Here.,,,
+119_4_3.json,194,Dialog,Kyoya,「ウワサについてだが、実際のところは――」,"That's about the rumor, but
+actually--",,,
+119_4_3.json,195,Dialog,Kyoya,眼鏡を押し上げて、鏡夜先輩は静かに話し始め,"Pushing up his glasses, Kyoya-senpai",,,
+119_4_3.json,196,Dialog,Kyoya,た。,began to speak quietly.,,,
+119_4_3.json,197,Dialog,Kyoya,……以前から付き合っていた２人だけど、家柄,"...They had been dating for a while,
+but their",,,
+119_4_3.json,198,Dialog,Kyoya,が合わないっていう理由で、両親からは大反対,"parents strongly opposed it because
+they",,,
+119_4_3.json,199,Dialog,Kyoya,を受けていた。,"didn't think their families were
+compatible.",,,
+119_4_3.json,200,Dialog,Kyoya,おまけに女の子には、幼いころに婚約者が決め,"To make matters worse, girls have
+their fiances arranged for them when",,,
+119_4_3.json,201,Dialog,,られていて、２人の仲は引き裂かれることに。,"they're young, so the two of them
+are destined to be torn apart.",,,
+119_4_3.json,202,Dialog,,それが引き金になって２人は家を出てしまい、,"That was the trigger that made them
+run away",,,
+119_4_3.json,203,Dialog,,夜の繁華街をさまよい歩く。そこで警察に補導,"from home and wander around the city
+at night.",,,
+119_4_3.json,204,Dialog,,されて――。,"There, they were picked up by the
+police--.",,,
+119_4_3.json,212,Dialog,Kyoya,「……と、言うことだ」,...That's how it is.,,,
+119_4_3.json,214,Dialog,Haruhi,「なんだか、ドラマみたいな話ですね」,It's like something out of a drama.,,,
+119_4_3.json,216,Dialog,Haruhi,でもそれは２人の問題であって、ホスト部には,"But that's their problem, and it
+doesn't seem",,,
+119_4_3.json,217,Dialog,Haruhi,何の関係もなさそうだけど……。,"to have anything to do with the Host
+Club...",,,
+119_4_3.json,222,Dialog,Kyoya,「何の関係もない、と言いたいところだが……。,I want to say we're not related...,,,
+119_4_3.json,223,Dialog,Kyoya,学校側からは、ホスト部の活動を一時停止する,The school has ordered us to suspend,,,
+119_4_3.json,224,Dialog,Kyoya,ように通達された」,host club activities for now.,,,
+119_4_3.json,237,Dialog,Hikaru & Kaoru,「意味わかんないよ、鏡夜先輩」,"I don't get it, Kyoya-senpai.",,,
+119_4_3.json,239,Dialog,Honey,「何か、他に理由があるの？」,Is there any other reason?,,,
+119_4_3.json,246,Dialog,,ハニー先輩の言葉に、不満を言い続けようとし,"Hikaru and Kaoru, who had been
+complaining about",,,
+119_4_3.json,247,Dialog,,た光と馨は口を閉じた。,"Honey-senpai's words, stopped
+talking.",,,
+119_4_3.json,261,Dialog,Kyoya,「補導の件は、学校の力でもみ消したようです,It seems the school covered up,,,
+119_4_3.json,262,Dialog,Kyoya,が……。どこからか、その話が流れて広がって,the incident with their influence...,,,
+119_4_3.json,263,Dialog,Kyoya,いるんです」,"But somehow, word got out.",,,
+119_4_3.json,271,Dialog,Mori,「……２人の問題から、全体に広がったという,It's spread from their,,,
+119_4_3.json,272,Dialog,Mori,ことだな」,problem to everyone.,,,
+119_4_3.json,273,Dialog,Mori,鏡夜先輩は、静かにうなずいて状況を続けて説,"Kyoya-senpai quietly nodded and
+continued",,,
+119_4_3.json,274,Dialog,Mori,明してくれた。,to explain the situation.,,,
+119_4_3.json,277,Dialog,Mori,私立で自由な校風とはいえ、こんな問題が起こ,"Even with our private school's lax
+atmosphere, we can't",,,
+119_4_3.json,278,Dialog,,るようでは困る――、と、非難の声があがる。,"afford to have such problems --
+complaints arise.",,,
+119_4_3.json,279,Dialog,,そこになぜか【ホスト部】の存在が持ち出され、,"For some reason, the existence of
+the Host Club",,,
+119_4_3.json,280,Dialog,,そんなふしだらな部活があっていいのかという,"comes up, and a debate starts about
+whether",,,
+119_4_3.json,281,Dialog,,議論が持ち上がる。,"such an indecent club should even
+exist.",,,
+119_4_3.json,282,Dialog,,さらに問題になったのは、ホスト部の部長が、,"The fact that the host club
+president was the",,,
+119_4_3.json,283,Dialog,,理事長の息子であったこと――。,"chairman's son became an even bigger
+issue...",,,
+119_4_3.json,290,Dialog,Kyoya,「ホスト部のような活動を許す理事長は、学校,"It seems that there are those who
+say the board of directors is
+privatizing",,,
+119_4_3.json,291,Dialog,Kyoya,を私物化しているという指摘もでたそうだ」,"the school by allowing activities
+like the Host Club.",,,
+119_4_3.json,299,Dialog,Honey,「でも、ホスト部を作ったときには、なんにも,"But when we started the Host Club,",,,
+119_4_3.json,300,Dialog,Honey,言われなかったよね？」,"nobody said anything, right?",,,
+119_4_3.json,308,Dialog,Mori,「……ああ」,「...Yeah.」,,,
+119_4_3.json,311,Dialog,Mori,偶然の補導から始まったことだけど、ホスト部,"It started with an accidental
+detention, but since",,,
+119_4_3.json,312,Dialog,Mori,が関係してるわけでもないのに、何かおかしい,"the Host Club isn't involved, I
+can't shake",,,
+119_4_3.json,313,Dialog,Mori,気がする……。,"off this feeling that something's
+wrong...",,,
+119_4_3.json,315,Dialog,Haruhi,「それって……」,That's...,,,
+119_4_3.json,327,Dialog,Hikaru & Kaoru,「ただの言いがかりじゃん」,Just nonsense.,,,
+119_4_3.json,330,Dialog,Haruhi,「あ、そうそう」,"Oh, right.",,,
+119_4_3.json,333,Dialog,Haruhi,めずらしく光たちと意見が合った。でも、本当,"Rarely do Hikaru and Kaoru agree
+with me. But",,,
+119_4_3.json,334,Dialog,Haruhi,に言いがかりだと思う。,"I really think they're just
+nitpicking.",,,
+119_4_3.json,341,Dialog,Kyoya,「須王を良く思わない連中が動いているという,"There's also the possibility that
+people who don't",,,
+119_4_3.json,342,Dialog,Kyoya,可能性もあるが……。どちらにしても、つけい,"like Kurakano are behind this...
+Either way, it",,,
+119_4_3.json,343,Dialog,Kyoya,る隙を見せたこちらのミスだな」,"was our mistake to let them get the
+upper hand.",,,
+119_4_3.json,345,Dialog,Haruhi,「それって……」,That's...,,,
+119_4_3.json,350,Dialog,Kyoya,「言い忘れていたが、理事長室には知事もおい,"By the way, it seems that the
+governor",,,
+119_4_3.json,351,Dialog,Kyoya,でだそうだ」,is also in the principal's office.,,,
+119_4_3.json,353,Dialog,Haruhi,"#Pos[0,20]#Scale[1.4]　　　　 「知事！？」",Governor! ?!,,,
+119_4_3.json,355,Dialog,Haruhi,なんだか大事件になってるみたいなんだけ,It seems like this has,,,
+119_4_3.json,356,Dialog,Haruhi,ど……。,become a big deal...,,,
+119_4_3.json,363,Dialog,Honey,「……タマちゃん、大丈夫かなあ」,...I wonder if Tam-chan's okay.,,,
+119_4_3.json,376,Dialog,Hikaru,「殿、大丈夫かな……」,"My lord, are you all right...?",,,
+119_4_3.json,392,Dialog,Mori,「鏡夜……」,「Kyoya...」,,,
+119_4_3.json,397,Dialog,Kyoya,「残念ですが、どうなるのかはわかりません」,"I'm afraid I have no idea what will
+happen.",,,
+119_4_3.json,399,Dialog,Haruhi,「そんな、鏡夜先輩……」,"Oh, Kyoya-senpai...",,,
+119_4_3.json,404,Dialog,Kyoya,「詳しいことは環が戻ってきてからになるが、,"I'll have to wait until Tama-chan
+gets",,,
+119_4_3.json,405,Dialog,Kyoya,おそらくは――」,"back for details, but probably--",,,
+119_4_3.json,407,Dialog,Kyoya,鏡夜先輩のつぶやきは、誰にも聞こえなかった。,"Kyoya-senpai's muttering went
+unheard by everyone.",,,
+119_4_3.json,417,Dialog,,ガチャ。,Click.,,,
+119_4_3.json,418,Dialog,,扉が開く音が部室にひびき――、環先輩が姿を,"The sound of the door opening echoes
+in",,,
+119_4_3.json,419,Dialog,,見せる。,the clubroom -- and Senpai appears.,,,
+119_4_3.json,425,Dialog,,暗い表情を見ていると、どんなことを言われた,"Looking at his gloomy expression, I",,,
+119_4_3.json,426,Dialog,,のか怖くて聞けなくなってしまった。,was too scared to ask what he said.,,,
+119_4_3.json,427,Dialog,,光と馨も、環先輩の顔を見ないように視線をそ,Hikaru and Kaoru are also avoiding,,,
+119_4_3.json,428,Dialog,,らしてるし……。,looking at Senpai's face...,,,
+119_4_3.json,436,Dialog,Honey,「タマちゃん……」,Tama-chan...,,,
+119_4_3.json,441,Dialog,Tamaki,「残念ですが……」,I'm afraid...,,,
+119_4_3.json,442,Dialog,Tamaki,そう言って環先輩は目をそらし、うつむいてし,"Saying that, Tama-chan looked",,,
+119_4_3.json,443,Dialog,Tamaki,まう。,away and hung his head.,,,
+119_4_3.json,458,Dialog,Hikaru,「……ま、まさか」,...N-no way.,,,
+119_4_3.json,461,Dialog,Kaoru,「廃部！？」,Disband!?,,,
+119_4_3.json,470,Dialog,Tamaki,「あ……、いや。今のところは、一時停止なん,"Ah... No. For now,",,,
+119_4_3.json,471,Dialog,Tamaki,だが」,it's just on pause.,,,
+119_4_3.json,474,Dialog,Tamaki,廃部でなくて良かったけど、活動の一時停止は,"I'm glad we didn't get disbanded,",,,
+119_4_3.json,475,Dialog,Tamaki,決まっちゃったんだ……。,but our activities are on hold...,,,
+119_4_3.json,483,Dialog,Kyoya,「予想通り、というところか」,As expected.,,,
+119_4_3.json,498,Dialog,Hikaru & Kaoru,「まぎらわしいんだよ、殿は！！」,"It's confusing, Your Highness!!",,,
+119_4_3.json,507,Dialog,Tamaki,「えっ？」,Huh?,,,
+119_4_3.json,521,Dialog,Honey,「タマちゃんのばかー！」,"You idiot, Tama-chan!",,,
+119_4_3.json,526,Dialog,Mori,「……環」,...Tamaki,,,
+119_4_3.json,535,Dialog,Tamaki,「えっ？　ええっ？　モリ先輩まで！？」,"Wh-what? Even you too, senpai!?",,,
+119_4_3.json,537,Dialog,Haruhi,「環先輩が悪いですね。あんな言い方をされる,"It's your fault, Tama-chan. Anyone
+would",,,
+119_4_3.json,538,Dialog,Haruhi,と、誰だって誤解します」,misunderstand after hearing that.,,,
+119_4_3.json,547,Dialog,Tamaki,「ハ、ハルヒまで！？　いったいどういうこと,Haruhi too! ? What’s going on,,,
+119_4_3.json,548,Dialog,Tamaki,なのだ！？　活動停止は、断じて俺のせいでは,here!? The club suspension,,,
+119_4_3.json,549,Dialog,Tamaki,ないぞっ！？」,has nothing to do with me!!?,,,
+119_4_3.json,550,Dialog,Tamaki,環先輩のせいだとは思ってないけど……。,"I don't think it's Tamaki-senpai's
+fault...",,,
+119_4_3.json,555,Dialog,Tamaki,「……と、とにかく。しばらくの間、ホスト部,Anyway... The Host Club will,,,
+119_4_3.json,556,Dialog,Tamaki,は一時活動停止とする」,be on hiatus for now.,,,
+119_4_3.json,565,Dialog,Kyoya,「妥当な判断だな。知事まで動いている状況な,"That's a reasonable judgment. Given
+that even the",,,
+119_4_3.json,566,Dialog,Kyoya,ら、静観がベストだろう」,"governor is involved, it's best to
+watch and wait.",,,
+119_4_3.json,567,Dialog,Kyoya,淡々とした鏡夜先輩の言葉が、重くのしかかっ,Kyoya-senpai's calm words,,,
+119_4_3.json,568,Dialog,Kyoya,てくる。,weigh heavily on me.,,,
+119_4_3.json,576,Dialog,Tamaki,「こんな形で活動を停止したくはない……」,I don't want to stop like this...,,,
+119_4_3.json,578,Dialog,Haruhi,「環先輩……」,Tamaki-senpai...,,,
+119_4_3.json,583,Dialog,Tamaki,「誤解されているかもしれないが、俺たちの活,"Though we may be misunderstood, our
+activities",,,
+119_4_3.json,584,Dialog,Tamaki,動は、女性をもてあそぶものではない！」,are not about toying with women!,,,
+119_4_3.json,589,Dialog,Tamaki,「お客様の喜ぶ顔が見たいという、純粋かつ清,It's not from my pure and innocent,,,
+119_4_3.json,590,Dialog,Tamaki,らかな奉仕精神のたまものではないか！」,"desire to see you smile, is it?!",,,
+119_4_3.json,604,Dialog,Hikaru,「そんなこと」,I don't believe that.,,,
+119_4_3.json,609,Dialog,Kaoru,「考えたこともないよね」,Never thought about it.,,,
+119_4_3.json,610,Dialog,Kaoru,自分は借金返済のためだから、環先輩の言う,"I'm just paying off my debts, so",,,
+119_4_3.json,611,Dialog,Kaoru,『奉仕精神』からはものすごく遠いところにい,I'm way far from Tamaki-senpai's,,,
+119_4_3.json,612,Dialog,Kaoru,るんですけどね……。,idea of 'service spirit'...,,,
+119_4_3.json,621,Dialog,Tamaki,「考えたことはなくてもそうなの！」,"That's how it is even if I didn't
+think about it!",,,
+119_4_3.json,627,Dialog,Tamaki,「ホスト部へ訪れる姫君は、安らぎを求めてこ,Princesses who visit our Host,,,
+119_4_3.json,628,Dialog,Tamaki,こへおいでになっているのだぞ？」,Club are seeking comfort here.,,,
+119_4_3.json,633,Dialog,Tamaki,「活動停止によって、どれほど悲しまれるかを,"I can't sleep thinking about how sad
+everyone",,,
+119_4_3.json,634,Dialog,Tamaki,考えると、夜も眠れなくなる……」,will be if we stop our activities...,,,
+119_4_3.json,635,Dialog,Tamaki,……どんどん論点がずれているような気がする,...I feel like we're,,,
+119_4_3.json,636,Dialog,Tamaki,んですけど。,getting off track.,,,
+119_4_3.json,643,Dialog,Tamaki,「考えるべきことは、そうした心の隙間を、ど,Perhaps what we should consider,,,
+119_4_3.json,644,Dialog,Tamaki,のようにして、埋めて差し上げるかではないだ,is how to fill those,,,
+119_4_3.json,645,Dialog,Tamaki,ろうか……」,gaps in their hearts...,,,
+119_4_3.json,648,Dialog,Tamaki,すっかり悲劇の主人公になってる……。でも、,"I've become the tragic
+protagonist... But",,,
+119_4_3.json,649,Dialog,Tamaki,こんな状況でもお客さんのことを考えていられ,"it's amazing that you can still
+think about",,,
+119_4_3.json,650,Dialog,,るのはすごいなあ。,"your customers even in this
+situation.",,,
+119_4_3.json,657,Dialog,Kyoya,「今日はこのまま解散だ。今後のことは、改め,Disband for today. I'll contact you,,,
+119_4_3.json,658,Dialog,Kyoya,て連絡する。……いいな？」,about future plans... Got it?,,,
+119_4_3.json,660,Dialog,Kyoya,鏡夜先輩の言葉に、環先輩をのぞいたみんなが,Everyone except Tama-chan nodded,,,
+119_4_3.json,661,Dialog,Kyoya,うなずく。,at Kyoya-senpai's words.,,,
+119_4_3.json,662,Dialog,Kyoya,……環先輩は悲劇に酔っていたけど、誰も気に,"......Even though Tama-chan was
+wallowing in tragedy, no one seemed",,,
+119_4_3.json,663,Dialog,Kyoya,した様子はない。これって、人望の差なのかな。,"to mind. Is this because of the
+difference in popularity?",,,
+119_4_3.json,675,Dialog,Honey,「……それじゃあ僕、帰るね。いこ、崇」,"Then I'll head home. Let's go,
+Takashi.",,,
+119_4_3.json,680,Dialog,Mori,「ああ」,"""Yeah.""",,,
+119_4_3.json,683,Dialog,Mori,ハニー先輩とモリ先輩は、どこか少しさびしそ,"Senpai Honey and Mori-senpai left
+the",,,
+119_4_3.json,684,Dialog,Mori,うに部室から出て行った。,clubroom looking a little forlorn.,,,
+119_4_3.json,696,Dialog,Hikaru & Kaoru,「あーあ、ツマンナイの」,"Aww, that's boring.",,,
+119_4_3.json,703,Dialog,,光と馨は肩をすくめてため息をついた。――と,Hikaru and Kaoru shrugged and,,,
+119_4_3.json,704,Dialog,,思ったらニヤっと笑う。,sighed... Then they grinned.,,,
+119_4_3.json,709,Dialog,Hikaru,「なあハルヒ、たまには一緒に帰ろーぜ」,"Hey Haruhi, how about going home
+together once in a while?",,,
+119_4_3.json,714,Dialog,Kaoru,「車で送ってあげるよ」,Take you in my car!,,,
+119_4_3.json,716,Dialog,Haruhi,「いらない、歩いて帰るから」,「I don't need it. I'll walk home.」,,,
+119_4_3.json,717,Dialog,Haruhi,高級外車でアパートの前まで送られるなんて、,"I can't even imagine being dropped
+off in",,,
+119_4_3.json,718,Dialog,Haruhi,想像もしたくない。,"front of an apartment in a luxury
+car.",,,
+119_4_3.json,726,Dialog,Hikaru & Kaoru,「いいじゃん、一緒に帰ろうよ」,"Come on, let's go home together.",,,
+119_4_3.json,729,Dialog,Haruhi,「だから、いらないってば」,「I said I don't need it.」,,,
+119_4_3.json,738,Dialog,Tamaki,「子どもたち……、お父さんの話も聞いてくれ,Children... will you listen,,,
+119_4_3.json,739,Dialog,Tamaki,ないか？」,to my story too?,,,
+119_4_3.json,740,Dialog,Tamaki,遠慮がちに、環先輩が自分たちに声をかけてく,Tamaki-senpai hesitantly,,,
+119_4_3.json,741,Dialog,Tamaki,る。,calls out to us.,,,
+119_4_3.json,743,Dialog,Haruhi,「すみません環先輩。自分も帰りますから」,"Sorry, Tama-chan. I'm heading home
+too.",,,
+119_4_3.json,758,Dialog,Hikaru & Kaoru,「まったねー、殿」,"Hold still, sir.",,,
+119_4_3.json,767,Dialog,,#Scale[1.4]ガーーーーーーン！,#Scale[1.4]GAAAAAAAAH!,,,
+119_4_3.json,778,Dialog,Tamaki,「か、母さんや、子どもたちが反抗期に……」,"What if my mom and kids go through
+their rebellious phase...",,,
+119_4_3.json,783,Dialog,Kyoya,「……環、おまえもさっさと出て行け」,"......Tamaki, you get out too.",,,
+119_4_3.json,788,Dialog,Kyoya,#Scale[1.4]ガーーーーーーン！,#Scale[1.4]GAAAAAAAAH!,,,
+119_4_3.json,797,Dialog,Tamaki,「か……、母さんまで………………」,「M-Mother too............」,,,
+119_4_3.json,802,Dialog,Kyoya,「ここに閉じ込めて欲しいのか？」,Want me to lock you in here?,,,
+119_4_3.json,807,Dialog,Tamaki,「……え」,...Huh?,,,
+119_4_3.json,812,Dialog,Kyoya,「鍵を閉めて帰ると言っているんだ」,Lock up and go home.,,,
+119_4_3.json,817,Dialog,Tamaki,「…………帰る」,「......Let's go home.」,,,
+119_4_3.json,818,Dialog,Tamaki,……まったく、何やってるんだか。,"...Honestly, what are you doing?",,,
+119_4_3.json,823,Dialog,Tamaki,緊迫感のかけらもないけど、今日からホスト部,"There's not even an ounce of
+tension, but starting",,,
+119_4_3.json,824,Dialog,,は一時活動停止……。,"today, the Host Club will be on
+temporary hiatus...",,,
+119_4_3.json,825,Dialog,,……大丈夫だよね、きっと。そう考えながら、,"...I'll be fine, I'm sure. With that",,,
+119_4_3.json,826,Dialog,,部室を後にした。,"thought in mind, I left the
+clubroom.",,,
+119_4_3.json,833,Dialog,,ホスト部、一時活動停止かあ……。,The Host Club's on hiatus...?,,,
+119_4_3.json,834,Dialog,,ずいぶん大きな騒ぎになってきちゃってるけど、,The commotion's gotten pretty,,,
+119_4_3.json,835,Dialog,,まさか……、このまま再開されないなんてこと,"big, but there's no way... they",,,
+119_4_3.json,836,Dialog,,はないよね。,"won't restart it, right?",,,
+119_4_3.json,838,Dialog,Haruhi,「……まさかね」,...Not likely.,,,
+119_4_3.json,839,Dialog,Haruhi,つまらないことを考えるのはやめて、パソコン,Stop thinking about boring stuff,,,
+119_4_3.json,840,Dialog,Haruhi,をチェックしておこう。,and check the computer.,,,
+119_4_3.json,843,Dialog,Haruhi,考えてばかりいてもしょうがないし、今日はも,"There's no point in just thinking
+about",,,
+119_4_3.json,844,Dialog,Haruhi,う寝よう……。,it... I should go to bed for today.,,,

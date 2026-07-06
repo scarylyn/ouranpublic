@@ -1,0 +1,583 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+105_2_1.json,9,Dialog,Kyoya,「ハルヒ……、ちょっと」,Haruhi... a moment.,,,
+105_2_1.json,11,Dialog,Kyoya,突然鏡夜先輩に呼び出されて、お客さんのいな,"Kyoya-senpai suddenly calls me over,
+and",,,
+105_2_1.json,12,Dialog,Kyoya,い場所まで来る。,"we move somewhere away from the
+guests.",,,
+105_2_1.json,17,Dialog,Kyoya,「……お前の接客態度は消極的過ぎる」,"...Your attitude toward hosting is
+far too passive.",,,
+105_2_1.json,19,Dialog,Haruhi,「……はい」,...Yes.,,,
+105_2_1.json,20,Dialog,Haruhi,確かに、営業中なのに接客しないことが多かっ,"He is right. Even during club hours,
+there were probably",,,
+105_2_1.json,21,Dialog,Haruhi,たかもしれない……。,"a lot of times when I was not really
+serving anyone...",,,
+105_2_1.json,29,Dialog,Kyoya,「以前、警告したはずだ。借金を返済すること,"I warned you before. Paying off your
+debt",,,
+105_2_1.json,30,Dialog,Kyoya,も重要だが、お前自身がホスト部にいて楽しめ,"is important, but if you cannot
+enjoy",,,
+105_2_1.json,31,Dialog,Kyoya,ないのであれば――」,being in the Host Club yourself--,,,
+105_2_1.json,32,Dialog,Kyoya,鏡夜先輩は、冷たい口調で言い放った。,Kyoya-senpai says it in an icy tone.,,,
+105_2_1.json,40,Dialog,Kyoya,「お前は、ここにいる資格がない。今日限りで,You have no right to be here. As of,,,
+105_2_1.json,41,Dialog,Kyoya,ホスト部は辞めてもらう」,"today, you will leave the Host Club.",,,
+105_2_1.json,43,Dialog,Haruhi,「えっ！？　そんな……」,Huh!? But...,,,
+105_2_1.json,48,Dialog,Kyoya,「借金のことは忘れてもらって構わない。,You may forget about the debt.,,,
+105_2_1.json,49,Dialog,Kyoya,……ここには、もう二度と来るな」,...Do not ever come here again.,,,
+105_2_1.json,50,Dialog,Kyoya,鏡夜先輩の言葉をかみしめながら、部室を出る。,"I leave the clubroom with
+Kyoya-senpai's words weighing on me.",,,
+105_2_1.json,53,Dialog,Kyoya,……ある意味、これで自分は自由になれたのか,"...In one sense, maybe this",,,
+105_2_1.json,54,Dialog,Kyoya,もしれない。,means I am free now.,,,
+105_2_1.json,55,Dialog,,でも……。,But...,,,
+105_2_1.json,57,Dialog,,青い空を見上げる。,I look up at the blue sky.,,,
+105_2_1.json,58,Dialog,,もっと積極的に行動すれば良かった……。,"I should have acted more
+proactively...",,,
+105_2_1.json,59,Dialog,,何でだろう？　なんだか胸に穴があいた感じが,Why is that? It feels like there,,,
+105_2_1.json,60,Dialog,,する……。,is a hole in my chest...,,,
+105_2_1.json,68,Chapter name,,第２話,Episode 2,,,
+105_2_1.json,70,Dialog,,１週間がはじまるさわやかな月曜の朝、なんだ,"It is a fresh Monday morning, the
+start of a new week,",,,
+105_2_1.json,71,Dialog,,けど少し眠い……。変な夢のせいで夜中に目が,"but I am a little sleepy... Maybe
+because that",,,
+105_2_1.json,72,Dialog,,覚めたせいかな。,"weird dream woke me up in the middle
+of the night.",,,
+105_2_1.json,75,Dialog,,……余計なことを考えないようにしよう。あん,"...I should stop thinking about
+unnecessary",,,
+105_2_1.json,76,Dialog,,まり思い出したくないし。,"things. I do not really want to
+remember it.",,,
+105_2_1.json,77,Dialog,,気分転換に、誰かと話でもしようかな。,"Maybe I will talk to someone for a
+change of pace.",,,
+105_2_1.json,78,Choice,,倉賀野さん,Kurakano-san,,,
+105_2_1.json,79,Choice,,桜塚さん,Sakurazuka-san,,,
+105_2_1.json,80,Choice,,上賀茂さん,Kamikamo-san,,,
+105_2_1.json,81,Choice,,れんげちゃん,Renge-chan,,,
+105_2_1.json,82,Choice,,小百合,Sayuri,,,
+105_2_1.json,83,Choice,,やめておこう,Leave it,,,
+105_2_1.json,110,Dialog,Haruhi,「倉賀野さん、おはようございます」,"Good morning, Kurakano-san.",,,
+105_2_1.json,115,Dialog,Kurakano,「ハルヒ君、おはよう――。あれ？　少し疲れ,"Good morning, Haruhi-kun--",,,
+105_2_1.json,116,Dialog,Kurakano,てませんか」,Oh? Are you a little tired?,,,
+105_2_1.json,118,Dialog,Haruhi,「いえ、疲れてるというか。昨夜はよく眠れな,"No, it is not exactly tired. I just
+did",,,
+105_2_1.json,119,Dialog,Haruhi,くて……」,not sleep very well last night...,,,
+105_2_1.json,124,Dialog,Kurakano,「あら……。えっと、そんなときは――」,"Oh... Um, when that happens--",,,
+105_2_1.json,128,Dialog,Kurakano,倉賀野さんと２人で、よく眠れないときはどう,Kurakano-san and I head to class,,,
+105_2_1.json,129,Dialog,Kurakano,すればいいのかっていう話をしながら教室に向,while talking about what to,,,
+105_2_1.json,130,Dialog,Kurakano,かった。,do when you cannot sleep well.,,,
+105_2_1.json,144,Dialog,Haruhi,「桜塚さん、おはようございます」,"Good morning, Sakurazuka-san.",,,
+105_2_1.json,150,Dialog,Sakurazuka,「あ、ハルヒ君。おはよう」,"Oh, Haruhi-kun. Good morning.",,,
+105_2_1.json,151,Dialog,Sakurazuka,声をかけると、元気な声が返ってくる。,"When I call out to her, she answers
+in a cheerful voice.",,,
+105_2_1.json,156,Dialog,Sakurazuka,「あれ？　なんだか眠そうだけど……」,Huh? You look kind of sleepy...,,,
+105_2_1.json,158,Dialog,Haruhi,「あ、わかります？　昨夜、変な夢を見て夜中,"Oh, can you tell? I had a weird
+dream last night",,,
+105_2_1.json,159,Dialog,Haruhi,に目を覚ましちゃったんですよ」,"and woke up in the middle of the
+night.",,,
+105_2_1.json,164,Dialog,Sakurazuka,「それって、嫌な夢だったの？」,Was it a bad dream?,,,
+105_2_1.json,168,Dialog,Sakurazuka,桜塚さんと２人で、どんな夢を見たか話しなが,"Sakurazuka-san and I head to class
+while",,,
+105_2_1.json,169,Dialog,Sakurazuka,ら教室に向かった。,"talking about what kind of dream it
+was.",,,
+105_2_1.json,183,Dialog,Haruhi,「上賀茂さん、おはようございます」,"Good morning, Kamikamo-san.",,,
+105_2_1.json,188,Dialog,Kamikamo,「おはようございます。朝からハルヒくんに会,"Good morning. Seeing Haruhi-kun
+first thing in the morning",,,
+105_2_1.json,189,Dialog,Kamikamo,えるなんて、今日はいいことがありそうですわ」,"makes me feel as if something lovely
+will happen today.",,,
+105_2_1.json,191,Dialog,Haruhi,「そんなことはないと思いますけど、そう言っ,"I do not think it is that big a
+deal, but",,,
+105_2_1.json,192,Dialog,Haruhi,てもらえるとうれしいですね」,"it makes me happy to hear you say
+that.",,,
+105_2_1.json,197,Dialog,Kamikamo,「ふふ……」,Hehe...,,,
+105_2_1.json,198,Dialog,Kamikamo,上賀茂さんの笑顔を見てると、昨夜の夢のこと,"Looking at Kamikamo-san's smile, I
+feel like",,,
+105_2_1.json,199,Dialog,Kamikamo,も忘れられそうな気がするなあ。,"I might be able to forget last
+night's dream.",,,
+105_2_1.json,204,Dialog,Kamikamo,「でも、ハルヒくんとはここでお別れです,But this is where I must part,,,
+105_2_1.json,205,Dialog,Kamikamo,わ……」,"with you, Haruhi-kun...",,,
+105_2_1.json,206,Dialog,Kamikamo,あ、そうか。上賀茂さんは上級生だから……。,"Oh, right. Kamikamo-san is an
+upperclassman...",,,
+105_2_1.json,208,Dialog,Haruhi,「放課後になれば、また会えます」,"We can see each other again after
+school.",,,
+105_2_1.json,213,Dialog,Kamikamo,「……さようなら、ハルヒくんっ」,"...Farewell, Haruhi-kun!",,,
+105_2_1.json,215,Dialog,Kamikamo,涙を浮かべて、上賀茂さんは駆け出していっ,"With tears in her eyes, Kamikamo-san",,,
+105_2_1.json,216,Dialog,Kamikamo,た。……そんなに大げさなことじゃないと思う,runs off. ...I do not think,,,
+105_2_1.json,217,Dialog,Kamikamo,んだけどなあ。,"it is that dramatic, though.",,,
+105_2_1.json,229,Dialog,Haruhi,「れんげちゃん、おはよう」,"Morning, Renge-chan.",,,
+105_2_1.json,235,Dialog,Renge,「……朝からハルヒ君に話しかけてもらえるな,"...To have Haruhi-kun speak to me
+first thing",,,
+105_2_1.json,236,Dialog,Renge,んて、これはなんていうフラグなのかしら？」,"in the morning... What kind of flag
+is this?",,,
+105_2_1.json,237,Dialog,Renge,#Color[7]#Scale[1.8]フラグ？,#Color[7]#Scale[1.8]Flag?,,,
+105_2_1.json,241,Dialog,Renge,普通に、朝の挨拶をしただけなんだけど……。,"I just gave her a normal morning
+greeting...",,,
+105_2_1.json,243,Dialog,Haruhi,「えーっと、行こっか？」,Umm... shall we go?,,,
+105_2_1.json,248,Dialog,Renge,「ええ、もちろんですわ！」,"Yes, of course!",,,
+105_2_1.json,249,Dialog,Renge,れんげちゃん……、朝から元気だなあ。,"Renge-chan... She has so much energy
+this early.",,,
+105_2_1.json,262,Dialog,Haruhi,「おはよう、小百合」,"Morning, Sayuri.",,,
+105_2_1.json,267,Dialog,Sayuri,「おはよう、ハルちゃん。……なあに？　眠そ,"Morning, Haru-chan. ...What",,,
+105_2_1.json,268,Dialog,Sayuri,うな顔して」,is it? You look sleepy.,,,
+105_2_1.json,269,Dialog,Sayuri,小百合はくすくす笑いながら目を細める。,"Sayuri narrows her eyes with a quiet
+giggle.",,,
+105_2_1.json,271,Dialog,Haruhi,「あ、わかる？　昨夜、変な夢を見て夜中に目,"Oh, you can tell? I had a weird
+dream last night",,,
+105_2_1.json,272,Dialog,Haruhi,を覚ましちゃってさ」,"and woke up in the middle of the
+night.",,,
+105_2_1.json,280,Dialog,Sayuri,「ふ〜ん、どんな夢を見たの？」,"Hmm, what kind of dream was it?",,,
+105_2_1.json,282,Dialog,Haruhi,「…………思い出したくない」,"............I do not want to
+remember.",,,
+105_2_1.json,287,Dialog,Sayuri,「そういわれると、余計に聞きたくなるのはど,Why does hearing that make,,,
+105_2_1.json,288,Dialog,Sayuri,うしてかな〜」,me want to ask even more?,,,
+105_2_1.json,290,Dialog,Haruhi,「ん〜、意地悪だから？」,"Hmm, because you are mean?",,,
+105_2_1.json,296,Dialog,Sayuri,「――！　ハルちゃん、ひどいっ！！」,"--! Haru-chan, that is awful!!",,,
+105_2_1.json,298,Dialog,Haruhi,「小百合がそんなこというからだよ。……ほら、,"That is what you get for saying
+that,",,,
+105_2_1.json,299,Dialog,Haruhi,教室行こう」,"Sayuri. ...Come on, let's go to
+class.",,,
+105_2_1.json,307,Dialog,Sayuri,「私、１人で行くもん！」,I am going by myself!,,,
+105_2_1.json,309,Dialog,Sayuri,小百合はそう言うと駆け出して――、途中で,"Sayuri says that and runs off--then
+stops",,,
+105_2_1.json,310,Dialog,Sayuri,足を止める。それから、ちらっと振り向く。,"halfway. After that, she glances
+back.",,,
+105_2_1.json,311,Dialog,Sayuri,……ああいうところは、昔と変わらないんだよ,...That part of her has not,,,
+105_2_1.json,312,Dialog,Sayuri,ね。,changed since we were kids.,,,
+105_2_1.json,317,Dialog,,声はかけなくていいかな。,"I probably do not need to call after
+her.",,,
+105_2_1.json,318,Dialog,,眠そうな顔で話しかけたら、『どうしたの』,"If I talk to her while I look
+sleepy, she will ask, ""What is
+wrong?""",,,
+105_2_1.json,319,Dialog,,って聞かれて夢の話をすることになりそうだ,And then I will probably end,,,
+105_2_1.json,320,Dialog,,し……。,up talking about the dream...,,,
+105_2_1.json,321,Dialog,,授業中に居眠りしないように気をつけよう。,"I should be careful not to doze off
+during class.",,,
+105_2_1.json,327,Dialog,,#Color[7]#Scale[1.8]放課後,#Color[7]#Scale[1.8]After School,,,
+105_2_1.json,329,Dialog,,いつもよりも少し早い時間、第三音楽室に向か,I head to the third music room,,,
+105_2_1.json,330,Dialog,,う。,a little earlier than usual.,,,
+105_2_1.json,331,Dialog,,……あんまり早いと張り切ってるみたいかなと,"...I thought arriving too early
+might make",,,
+105_2_1.json,332,Dialog,,思ったけど、まあいいかと思い直して、角をま,"me look too eager, but then I
+decided",,,
+105_2_1.json,333,Dialog,,がると――。,it was fine and turned the corner--,,,
+105_2_1.json,341,Dialog,Kyoya,「めずらしく早いじゃないか」,You are unusually early.,,,
+105_2_1.json,345,Dialog,Kyoya,鏡夜先輩に声をかけられた。,Kyoya-senpai calls out to me.,,,
+105_2_1.json,347,Dialog,Haruhi,「そうですね、たまには……」,I suppose so. Once in a while...,,,
+105_2_1.json,355,Dialog,Kyoya,「本当にたまには、だがな」,"Very much once in a while, yes.",,,
+105_2_1.json,356,Dialog,Kyoya,…………事実だから、何も言い返せない。,"............It is true, so I cannot
+say anything back.",,,
+105_2_1.json,361,Dialog,Kyoya,「いつもこれぐらいならいいが、あまり遅れが,"If you were always this punctual,
+that would be fine. But if",,,
+105_2_1.json,362,Dialog,Kyoya,目立つようなら、ペナルティも検討するぞ？」,"your lateness starts to stand out, I
+will consider a penalty.",,,
+105_2_1.json,364,Dialog,Haruhi,「気をつけます……」,I will be careful...,,,
+105_2_1.json,369,Dialog,Kyoya,「ああ、そうするといい」,Good. See that you are.,,,
+105_2_1.json,370,Dialog,Kyoya,本当に気をつけないと、借金がどんどん加算さ,"If I am not really careful, I feel
+like",,,
+105_2_1.json,371,Dialog,Kyoya,れて行くような気がする。,my debt is going to keep piling up.,,,
+105_2_1.json,380,Dialog,Kyoya,「ところで参考までに聞きたいんだが、庶民の,"By the way, for reference, what do",,,
+105_2_1.json,381,Dialog,Kyoya,過ごす休暇とは、どんなことをするんだ？」,commoners do during their days off?,,,
+105_2_1.json,383,Dialog,Haruhi,「自分は、掃除や洗濯……。それからちょっと,"For me, cleaning and laundry...",,,
+105_2_1.json,384,Dialog,Haruhi,遠くのスーパーまで買い物に行ったりするくら,"Then maybe going shopping at a
+supermarket",,,
+105_2_1.json,385,Dialog,Haruhi,いですね」,a little farther away.,,,
+105_2_1.json,390,Dialog,Kyoya,「……まったく参考にならんな」,"...That is no use as a reference at
+all.",,,
+105_2_1.json,392,Dialog,Haruhi,「すみませんね、参考にならなくて」,Sorry I could not be useful.,,,
+105_2_1.json,400,Dialog,Kyoya,「普段何をしているかではなく、外出や遠出を,"I am not asking what you do every
+day.",,,
+105_2_1.json,401,Dialog,Kyoya,するとしたら、どういった場所に行くのか聞き,"If you were going out or taking a
+trip,",,,
+105_2_1.json,402,Dialog,Kyoya,たいんだが？」,what sort of place would you go?,,,
+105_2_1.json,407,Dialog,Haruhi,「……はあ。それなら季節にもよりますけど、,"...Oh. Then it depends on the
+season,",,,
+105_2_1.json,408,Dialog,Haruhi,『お花見』『海水浴』。それから『温泉』かな,"but cherry blossom viewing, swimming
+at",,,
+105_2_1.json,409,Dialog,Haruhi,あ」,"the beach... and hot springs, maybe.",,,
+105_2_1.json,411,Dialog,Haruhi,「最近なら、『健康ランド』や『スパリゾート』,"Lately, maybe places like health
+centers or spa resorts",,,
+105_2_1.json,412,Dialog,Haruhi,ですかね」,would count.,,,
+105_2_1.json,420,Dialog,Kyoya,「スパ？　それは、ベルギー東部の温泉保養都,"Spa? Does that have some connection
+to the",,,
+105_2_1.json,421,Dialog,Kyoya,市と関係があるのか？」,"hot spring resort city in eastern
+Belgium?",,,
+105_2_1.json,423,Dialog,Haruhi,「え？　いえ、そんな本格的なものではなく,"Huh? No, it is not anything",,,
+105_2_1.json,424,Dialog,Haruhi,て――」,that serious--,,,
+105_2_1.json,425,Dialog,Haruhi,うーん、どうやって説明すれば伝わるのか,"Hmm, how can I explain this",,,
+105_2_1.json,426,Dialog,Haruhi,な……。,so he will understand...?,,,
+105_2_1.json,443,Dialog,Kyoya,「……なるほど。一種のテーマパークという訳,...I see. So it is a,,,
+105_2_1.json,444,Dialog,Kyoya,だな」,kind of theme park.,,,
+105_2_1.json,446,Dialog,Haruhi,「はい、そうだと思います」,"Yes, I think so.",,,
+105_2_1.json,447,Dialog,Haruhi,人工物ってあんまり好きじゃないから、正直な,"I do not really like artificial
+places, so honestly,",,,
+105_2_1.json,448,Dialog,Haruhi,ところよくわからないけど。,I do not know that much about them.,,,
+105_2_1.json,449,Dialog,Haruhi,何の参考かはわからないけど、とりあえず自分,"I do not know what he needed it for,",,,
+105_2_1.json,450,Dialog,Haruhi,にできる説明はこれくらいかな。,but that is about all I can explain.,,,
+105_2_1.json,458,Dialog,Kyoya,「少しのんびり話しすぎたな。急ぐぞ、ハルヒ」,"We spent a little too long chatting.
+Hurry, Haruhi.",,,
+105_2_1.json,460,Dialog,Haruhi,「あ、はい」,"Oh, yes.",,,
+105_2_1.json,462,Dialog,Haruhi,少し足を速めて、鏡夜先輩と部室へ急いだ。,"I pick up my pace a little and hurry
+to the clubroom with Kyoya-senpai.",,,
+105_2_1.json,486,Dialog,,営業の準備をしていると――。,As I am getting ready for business--,,,
+105_2_1.json,493,Dialog,Kyoya,「ハルヒ、ちょっといいか？」,"Haruhi, do you have a moment?",,,
+105_2_1.json,495,Dialog,Haruhi,「はい？」,Yes?,,,
+105_2_1.json,500,Dialog,Kyoya,「お前がここにいる理由はなんだ？」,What is your reason for being here?,,,
+105_2_1.json,502,Dialog,Haruhi,「借金を返すため、ですけど」,To pay back my debt.,,,
+105_2_1.json,510,Dialog,Kyoya,「自覚はあるようだが、働きはいまひとつだな」,"You seem aware of that, but your
+work leaves something to be desired.",,,
+105_2_1.json,512,Dialog,Haruhi,「……頑張っているつもりなんですけど」,...I am trying my best.,,,
+105_2_1.json,520,Dialog,Kyoya,「そうか。では、問題は別のところにありそう,I see. Then the problem,,,
+105_2_1.json,521,Dialog,Kyoya,だな」,may lie elsewhere.,,,
+105_2_1.json,523,Dialog,Haruhi,「それは……」,That is...,,,
+105_2_1.json,528,Dialog,Kyoya,「ここにいることがお前にとって、意味のある,Whether being here has meaning,,,
+105_2_1.json,529,Dialog,Kyoya,場所であるかどうか。そして、この時を楽しめ,for you. And whether you,,,
+105_2_1.json,530,Dialog,Kyoya,るのかどうか、というところか」,can enjoy this time here.,,,
+105_2_1.json,532,Dialog,Haruhi,「楽しむ……？」,Enjoy it...?,,,
+105_2_1.json,533,Dialog,Haruhi,どうすればいいんだろう？　鏡夜先輩にしては、,"What am I supposed to do? For
+Kyoya-senpai, this",,,
+105_2_1.json,534,Dialog,Haruhi,珍しくまわりくどい言い方だけど。,"is an unusually roundabout way of
+saying things.",,,
+105_2_1.json,535,Dialog,Haruhi,……もっと接客すればいいのかな？,"...Maybe I should host more
+actively?",,,
+105_2_1.json,537,Dialog,Haruhi,「えっと、もう少し積極的に接客するように心,"Um, I will try to be a little more",,,
+105_2_1.json,538,Dialog,Haruhi,掛けます」,proactive about serving guests.,,,
+105_2_1.json,543,Dialog,Kyoya,「……なるほど。それもひとつの解釈だな」,"...I see. That is one
+interpretation.",,,
+105_2_1.json,545,Dialog,Kyoya,小さくため息をついて――、しっかりなとつぶ,"He lets out a small sigh, mutters,",,,
+105_2_1.json,546,Dialog,Kyoya,やいて歩いていった。,"""Do your best,"" and walks away.",,,
+105_2_1.json,552,Dialog,,#Color[7]#Scale[1.8]ホスト部営業中,#Color[7]#Scale[1.8]Host Club Open,,,
+105_2_1.json,553,Dialog,,今日もホスト部は、たくさんのお客さんで賑や,"Today the Host Club is packed with
+guests",,,
+105_2_1.json,554,Dialog,,かというか、華やかというか。,"again. Lively, or maybe glamorous.",,,
+105_2_1.json,555,Dialog,,さっきまではお茶とお菓子の用意で忙しかった,"Until just now I was busy preparing
+tea and",,,
+105_2_1.json,556,Dialog,,けど、なんとか手もあいたし……。,"sweets, but somehow my hands are
+free...",,,
+105_2_1.json,557,Dialog,,あれ？　めずらしく光と馨が別々のテーブルで,"Huh? Hikaru and Kaoru are serving at
+separate",,,
+105_2_1.json,558,Dialog,,接客してる。兄弟愛の設定だから、いつも一緒,"tables for once. Their whole act is
+brotherly",,,
+105_2_1.json,559,Dialog,,だったのに。,"love, so they are usually together.",,,
+105_2_1.json,560,Dialog,,……手伝いに行ったほうがいいと思うんだけど、,"...I think I should go help,",,,
+105_2_1.json,561,Dialog,,どうしようかな。,but what should I do?,,,
+105_2_1.json,562,Choice,,今度でいいかな,Maybe next time,,,
+105_2_1.json,563,Choice,,光のヘルプへ,Help Hikaru,,,
+105_2_1.json,564,Choice,,馨のヘルプへ,Help Kaoru,,,
+105_2_1.json,580,Dialog,,今度でいいかな。光と馨なら、自分たちでなん,Maybe next time. Hikaru and Kaoru,,,
+105_2_1.json,581,Dialog,,とかするだろうし。,can probably handle it themselves.,,,
+105_2_1.json,582,Dialog,,自分は食器の片付けでもしておこう。,I will go clear some dishes instead.,,,
+105_2_1.json,587,Dialog,,大変そうだし、光を手伝おう。,"It looks tough, so I will help
+Hikaru.",,,
+105_2_1.json,599,Dialog,,話の邪魔をしないように、小さく声をかけて接,"I quietly speak up so I do not
+interrupt",,,
+105_2_1.json,600,Dialog,,客に加わる。,the conversation and join the table.,,,
+105_2_1.json,605,Dialog,Hikaru,「――っていうワケ」,--and that is why.,,,
+105_2_1.json,610,Dialog,Kurakano,「わたくし、知らなかったわ。世界的に有名な指,"I had no idea. To think a
+world-famous",,,
+105_2_1.json,611,Dialog,Kurakano,揮者の方が関わっていらしたなんて」,conductor was involved...,,,
+105_2_1.json,616,Dialog,Hikaru,「技術的な問題だと思ってたから、僕も驚い,"I thought it was a technical issue,",,,
+105_2_1.json,617,Dialog,Hikaru,ちゃってさ」,so I was surprised too.,,,
+105_2_1.json,622,Dialog,Hikaru,「馨に話したら――、『僕をだまそうとするな,"When I told Kaoru, he almost cried
+and",,,
+105_2_1.json,623,Dialog,Hikaru,んてヒドイ』って泣きそうになるし」,"said, ""How could you try to trick
+me?""",,,
+105_2_1.json,628,Dialog,Kurakano,「……まあ」,...My.,,,
+105_2_1.json,630,Dialog,Kurakano,なんの話だろう……。『有名な指揮者』が関係,"What are they talking about...? It
+sounds like it",,,
+105_2_1.json,631,Dialog,Kurakano,していることみたいだけど――。,"has something to do with a famous
+conductor--",,,
+105_2_1.json,662,Dialog,,たぶんだけど……。,Probably...,,,
+105_2_1.json,664,Dialog,Haruhi,「ＣＤが１２センチになった理由ですね。クラ,"You mean the reason CDs are twelve
+centimeters",,,
+105_2_1.json,665,Dialog,Haruhi,シック音楽の演奏時間に合わせたらしいですけ,"across, right? Apparently it was
+chosen to",,,
+105_2_1.json,666,Dialog,Haruhi,ど」,"fit the length of a classical
+performance.",,,
+105_2_1.json,671,Dialog,Kurakano,「さすがハルヒ君、博識ね」,"As expected of Haruhi-kun. You know
+so much.",,,
+105_2_1.json,677,Dialog,Hikaru,「ハルヒも見たの？　昨日の『加藤家の食卓』」,"Did you see yesterday's Kato Family
+Dinner too, Haruhi?",,,
+105_2_1.json,679,Dialog,Haruhi,「ううん、昨日は見逃しちゃったよ」,"No, I missed it yesterday.",,,
+105_2_1.json,684,Dialog,Hikaru,「へー、じゃあ前から知ってたんだ……」,"Oh, so you already knew about it...",,,
+105_2_1.json,689,Dialog,Kurakano,「光くんは、テレビでご覧になったばかりだっ,So you had only just seen it,,,
+105_2_1.json,690,Dialog,Kurakano,たのね」,"on television, Hikaru-kun.",,,
+105_2_1.json,695,Dialog,Hikaru,「まあ、そうだけど……。ハルヒに教えてもらっ,"Well, yeah... Haruhi told me about",,,
+105_2_1.json,696,Dialog,Hikaru,たんだけど、『加藤家の食卓』ってけっこうお,"it, and Kato Family Dinner",,,
+105_2_1.json,697,Dialog,Hikaru,もしろいんだよ」,is actually pretty interesting.,,,
+105_2_1.json,702,Dialog,Kurakano,「それなら、わたくしも見てみようかしら」,"In that case, perhaps I should watch
+it too.",,,
+105_2_1.json,707,Dialog,Hikaru,「他にも『裏ワザ』っていうのがあるんだけど、,"There are other things called life
+hacks,",,,
+105_2_1.json,708,Dialog,Hikaru,それはハルヒに聞いてくれる？」,"too. Could you ask Haruhi about
+those?",,,
+105_2_1.json,713,Dialog,Kurakano,「ええ、ありがとう。光くん」,"Yes, thank you, Hikaru-kun.",,,
+105_2_1.json,718,Dialog,Hikaru,「いーえ。それじゃあ、あとはよろしく」,"No problem. I will leave the rest to
+you.",,,
+105_2_1.json,724,Dialog,Hikaru,話がうまく引き継げたところで、光はテーブル,Once the conversation is handed over,,,
+105_2_1.json,725,Dialog,,を離れた。,"smoothly, Hikaru leaves the table.",,,
+105_2_1.json,726,Dialog,,この調子でがんばろう。,Let's keep this up.,,,
+105_2_1.json,747,Dialog,Hikaru,「――おいおい」,"--Hey, come on.",,,
+105_2_1.json,749,Dialog,Haruhi,「あれ……、違った？」,Huh...? Was that wrong?,,,
+105_2_1.json,754,Dialog,Hikaru,「『加藤家の食卓』見てないの？　昨日、ＣＤ,"You did not watch Kato Family
+Dinner? Yesterday they",,,
+105_2_1.json,755,Dialog,Hikaru,の大きさが決まった話してたじゃん」,"were talking about how the size of
+CDs was decided.",,,
+105_2_1.json,757,Dialog,Haruhi,「ごめん、昨日は見逃してて……」,"Sorry, I missed it yesterday...",,,
+105_2_1.json,762,Dialog,Hikaru,「ったく、雑学ならハルヒもついて来られると,"Jeez, I thought Haruhi could at
+least",,,
+105_2_1.json,763,Dialog,Hikaru,思ったのに」,keep up when it came to trivia.,,,
+105_2_1.json,764,Dialog,Hikaru,失敗しちゃった……。もう少し考えてから話題,"I messed up... I should have thought
+a",,,
+105_2_1.json,765,Dialog,Hikaru,に入れば良かった。,"little more before joining the
+topic.",,,
+105_2_1.json,773,Dialog,Hikaru,「それじゃあ、代わりに『裏ワザ』の話を教え,Then teach her about,,,
+105_2_1.json,774,Dialog,Hikaru,てあげてよ」,life hacks instead.,,,
+105_2_1.json,779,Dialog,Kurakano,「『うらわざ』って何ですか？」,What are life hacks?,,,
+105_2_1.json,781,Dialog,Haruhi,「豆知識というか、ちょっとした便利な雑学の,"They are like bits of trivia,",,,
+105_2_1.json,782,Dialog,Haruhi,ことですよ」,or small useful tips.,,,
+105_2_1.json,787,Dialog,Kurakano,「楽しそうですね」,That sounds fun.,,,
+105_2_1.json,795,Dialog,Hikaru,「使えるかどうかは別だけど、けっこうおもし,"Whether they are useful or not is a
+separate",,,
+105_2_1.json,796,Dialog,Hikaru,ろいんだよね」,"question, but they are pretty
+interesting.",,,
+105_2_1.json,797,Dialog,Hikaru,――と、話がうまく引き継げたところで、光は,"--and once the conversation is
+handed over",,,
+105_2_1.json,798,Dialog,Hikaru,席を立った。,"smoothly, Hikaru gets up from his
+seat.",,,
+105_2_1.json,803,Dialog,Hikaru,「またね、倉賀野姫」,"See you, Princess Kurakano.",,,
+105_2_1.json,808,Dialog,Kurakano,「ええ、ありがとう。光くん」,"Yes, thank you, Hikaru-kun.",,,
+105_2_1.json,814,Dialog,Kurakano,倉賀野さんに見送られて、光はテーブルを離れ,Kurakano-san sees him off as,,,
+105_2_1.json,815,Dialog,,ていった。,Hikaru leaves the table.,,,
+105_2_1.json,816,Dialog,,……失敗しないようにがんばろう。,"...I need to do my best not to mess
+up.",,,
+105_2_1.json,822,Dialog,,大変そうだし、馨を手伝おう。,"It looks tough, so I will help
+Kaoru.",,,
+105_2_1.json,834,Dialog,,話の邪魔をしないように、小さく声をかけて接,"I quietly speak up so I do not
+interrupt",,,
+105_2_1.json,835,Dialog,,客に加わると――。,"the conversation and join the
+table--",,,
+105_2_1.json,840,Dialog,Kaoru,「ウワサをすればってところかな？」,"Talk about good timing, huh?",,,
+105_2_1.json,845,Dialog,Sakurazuka,「そうね、こういうことは、やっぱりハルヒ君,"Yes, for something like this, we",,,
+105_2_1.json,846,Dialog,Sakurazuka,に聞いてみたほうがいいよね」,really should ask Haruhi-kun.,,,
+105_2_1.json,848,Dialog,Kaoru,「そうそう、何か特別な方法でもあるんじゃな,"Right, right. Maybe there is some",,,
+105_2_1.json,849,Dialog,Kaoru,いの？」,special method or something?,,,
+105_2_1.json,851,Dialog,Haruhi,「えーと……？」,Um...?,,,
+105_2_1.json,856,Dialog,Kaoru,「ほら、ハルヒって得意でしょ」,"You know, you are good at it,
+Haruhi.",,,
+105_2_1.json,858,Dialog,Kaoru,えっと、『自分が得意』なことで、教えられる,"Let's see. Something I am good at,",,,
+105_2_1.json,859,Dialog,Kaoru,『方法』があるっていうことは……。,with a method I can teach...,,,
+105_2_1.json,891,Dialog,Haruhi,「……勉強なら、予習と復習かな」,"...If it is studying, I guess
+preparation and review.",,,
+105_2_1.json,897,Dialog,Kaoru,「ぷっ、ふふっ……。何その普通の答え」,"Pfft, hehe... What is with that
+totally normal answer?",,,
+105_2_1.json,902,Dialog,Sakurazuka,「わたしは、ハルヒ君らしくていいと思うな」,"I think that answer is very like
+you, Haruhi-kun.",,,
+105_2_1.json,903,Dialog,Sakurazuka,失礼な馨とは正反対に、桜塚さんは笑顔でほめ,"In complete contrast to rude Kaoru,
+Sakurazuka-san",,,
+105_2_1.json,904,Dialog,Sakurazuka,てくれる。,praises me with a smile.,,,
+105_2_1.json,912,Dialog,Kaoru,「でも、確かにハルヒらしいよね」,But it really is like Haruhi.,,,
+105_2_1.json,914,Dialog,Haruhi,「……馨に言われると、バカにされてるみたい,"...When you say it, Kaoru, I feel",,,
+105_2_1.json,915,Dialog,Haruhi,な気がする」,like I am being made fun of.,,,
+105_2_1.json,920,Dialog,Kaoru,「はいはい、じゃあ僕はここで退散するから、,"Yes, yes. Then I will make my escape",,,
+105_2_1.json,921,Dialog,Kaoru,あとはよろしくね」,"here, so I leave the rest to you.",,,
+105_2_1.json,924,Dialog,Kaoru,話がうまく引き継げたところで、馨はテーブル,Once the conversation is handed over,,,
+105_2_1.json,925,Dialog,Kaoru,を離れた。,"smoothly, Kaoru leaves the table.",,,
+105_2_1.json,926,Dialog,Kaoru,この調子でがんばろう。,Let's keep this up.,,,
+105_2_1.json,947,Dialog,Kaoru,「……それ、ぜんぜん関係ないんだけど」,...That has nothing to do with it.,,,
+105_2_1.json,949,Dialog,Haruhi,「あれ……、違った？」,Huh...? Was that wrong?,,,
+105_2_1.json,951,Dialog,Sakurazuka,「あ、あの……、ハルヒ君の勉強方法のこと,U-Um... I meant Haruhi-kun's,,,
+105_2_1.json,952,Dialog,Sakurazuka,なんだ」,study methods.,,,
+105_2_1.json,954,Dialog,Haruhi,「……あ、そうだったんですか」,"...Oh, that is what you meant.",,,
+105_2_1.json,955,Dialog,Haruhi,失敗しちゃった……。もう少し考えてから話題,"I messed up... I should have thought
+a",,,
+105_2_1.json,956,Dialog,Haruhi,に入れば良かった。,"little more before joining the
+topic.",,,
+105_2_1.json,961,Dialog,Kaoru,「という訳だから、ハルヒは勉強方法を２人っ,"So there you have it. Haruhi will
+teach",,,
+105_2_1.json,962,Dialog,Kaoru,きりになって教えてあげてね」,you study methods one-on-one.,,,
+105_2_1.json,967,Dialog,Sakurazuka,「か、馨くん？」,K-Kaoru-kun?,,,
+105_2_1.json,970,Dialog,Sakurazuka,話をうまくつなげると、馨はあっという間にテー,"After connecting the conversation
+smoothly,",,,
+105_2_1.json,971,Dialog,Sakurazuka,ブルを離れた。,Kaoru leaves the table in no time.,,,
+105_2_1.json,972,Dialog,Sakurazuka,特別な勉強方法なんてないけど、公式を覚える,"I do not have any special study
+methods, but I can",,,
+105_2_1.json,973,Dialog,Sakurazuka,コツくらいならなんとかなるかな……。,"probably manage tips for memorizing
+formulas...",,,
+105_2_1.json,980,Dialog,,忙しくテーブルを行き来していると、上賀茂さ,"As I am busily moving between
+tables,",,,
+105_2_1.json,981,Dialog,,んから指名をいただいた。,Kamikamo-san asks for me.,,,
+105_2_1.json,991,Dialog,,上賀茂さんのテーブルについて、どんな話をす,"At Kamikamo-san's table, I mostly",,,
+105_2_1.json,992,Dialog,,ればいいのか分からないから基本的には聞き役,listen because I am not sure,,,
+105_2_1.json,993,Dialog,,になっている。,what I should talk about.,,,
+105_2_1.json,995,Dialog,Kamikamo,「――わたくし、驚いてしまいましたわ」,--I was quite surprised.,,,
+105_2_1.json,996,Dialog,Kamikamo,うん、機嫌は悪くなさそう。,"Okay, she does not seem to be in a
+bad mood.",,,
+105_2_1.json,997,Dialog,Kamikamo,こういうときには、どんなふうに行動すればい,How should I act at,,,
+105_2_1.json,998,Dialog,Kamikamo,いかな？,a time like this?,,,
+105_2_1.json,1000,Dialog,Kamikamo,テーブルについてから、上賀茂さんはずっと楽,"Since I sat down at the table,
+Kamikamo-san has",,,
+105_2_1.json,1001,Dialog,Kamikamo,しそうに話しかけてくれている。,"been happily talking to me the whole
+time.",,,
+105_2_1.json,1003,Dialog,Kamikamo,「――素敵ですわよね」,"--It truly is lovely, is it not?",,,
+105_2_1.json,1004,Dialog,Kamikamo,自分といえば、ほとんど聞き役に回ってるだけ,"As for me, I have mostly",,,
+105_2_1.json,1005,Dialog,Kamikamo,だし。,just been listening.,,,
+105_2_1.json,1006,Dialog,Kamikamo,何か行動しないと……。,I need to do something...,,,
+105_2_1.json,1010,Dialog,Kamikamo,「……そうですわね」,"...Yes, I suppose so.",,,
+105_2_1.json,1011,Dialog,Kamikamo,上賀茂さん、元気がないみたいだけど……。何,Kamikamo-san seems down...,,,
+105_2_1.json,1012,Dialog,Kamikamo,かあったのかな。,Did something happen?,,,
+105_2_1.json,1013,Dialog,Kamikamo,悩んでいるなら相談にのってあげられればいい,"If something is bothering her, I
+would",,,
+105_2_1.json,1014,Dialog,Kamikamo,んだけど……。,like to be able to listen...,,,
+105_2_1.json,1015,Dialog,Kamikamo,こんなときは、どうすればいいのかな？,"What should I do at a time like
+this?",,,
+105_2_1.json,1018,Dialog,,めずらしく上賀茂さんの機嫌が良くないみた,Kamikamo-san seems unusually,,,
+105_2_1.json,1019,Dialog,,い……。,unhappy...,,,
+105_2_1.json,1022,Dialog,Kamikamo,こういうときは、どうすればいいのかな……。,"What should I do at a time like
+this...?",,,
+105_2_1.json,1024,Dialog,Kamikamo,いつも微笑んでる上賀茂さんだけど……。今日,"Kamikamo-san is always smiling,
+but...",,,
+105_2_1.json,1025,Dialog,Kamikamo,は元気がないみたいだ。,"today she does not seem very
+cheerful.",,,
+105_2_1.json,1027,Dialog,Kamikamo,「…………ふう」,............Sigh.,,,
+105_2_1.json,1029,Dialog,Kamikamo,こんなときは、どうすればいいのかな。,"What should I do at a time like
+this?",,,
+105_2_1.json,1065,Dialog,,……こんなところかな？,"...That should do it, maybe?",,,
+105_2_1.json,1066,Dialog,,上賀茂さんも、楽しそうにしてくれているみた,Kamikamo-san seems to be,,,
+105_2_1.json,1067,Dialog,,いだし。,enjoying herself too.,,,
+105_2_1.json,1072,Dialog,,良くも悪くもなかったみたいだけど……。,It seems it was just okay...,,,
+105_2_1.json,1073,Dialog,,どう行動すれば良かったのか、よく考えてみな,I may need to think carefully,,,
+105_2_1.json,1074,Dialog,,いと駄目かもしれない。,about how I should have acted.,,,
+105_2_1.json,1081,Dialog,,失敗しちゃった。今度は、もっと考えて行動し,"I messed up. Next time, I need",,,
+105_2_1.json,1082,Dialog,,ないと……。,to think more before I act...,,,
+105_2_1.json,1088,Dialog,,…………やっと落ち着いてきた。これなら少し,"............I finally calmed down.
+Maybe",,,
+105_2_1.json,1089,Dialog,,くらい休憩しても大丈夫かな。,"it is okay to take a short break
+now.",,,
+105_2_1.json,1097,Dialog,Honey,「ハーーーーーーーーールちゃん♪」,Haaaaaaaaaru-chan♪,,,
+105_2_1.json,1099,Dialog,Haruhi,「わっ！　す、すみませんハニー先輩！！」,"Wah! S-Sorry, Honey-senpai!!",,,
+105_2_1.json,1104,Dialog,Honey,「……ん？　どうしてごめんなさいするの？」,...Hm? Why are you apologizing?,,,
+105_2_1.json,1106,Dialog,Haruhi,「あはは……、それもそうですね」,Ahaha... You are right.,,,
+105_2_1.json,1119,Dialog,Mori,「……もう少しやれるか？」,"...Can you keep going a little
+longer?",,,
+105_2_1.json,1121,Dialog,Haruhi,「ええ、まだ大丈夫です」,"Yes, I am still fine.",,,
+105_2_1.json,1126,Dialog,Mori,「そうか……。光邦」,I see... Mitsukuni.,,,
+105_2_1.json,1131,Dialog,Honey,「はーーーい。それじゃあ、もうちょっとがん,Okaaay. Then let's try a,,,
+105_2_1.json,1132,Dialog,Honey,ばろうね、ハルちゃん」,"little longer, Haru-chan.",,,
+105_2_1.json,1141,Dialog,,ハニー先輩とモリ先輩は、誰もついていないテー,"Honey-senpai and Mori-senpai walk
+toward",,,
+105_2_1.json,1142,Dialog,,ブルのほうへ歩いていった。,a table no one is attending.,,,
+105_2_1.json,1143,Dialog,,……自分だけ休憩してるわけにはいかないみた,"...I guess I cannot be the only one
+taking",,,
+105_2_1.json,1144,Dialog,,いだけど、どうしようかな。,"a break, but what should I do?",,,
+105_2_1.json,1145,Choice,,倉賀野さん,Kurakano-san,,,
+105_2_1.json,1146,Choice,,桜塚さん,Sakurazuka-san,,,
+105_2_1.json,1147,Choice,,上賀茂さん,Kamikamo-san,,,
+105_2_1.json,1148,Choice,,やっぱりひと休み,Take a short break,,,
+105_2_1.json,1166,Dialog,,みんな頑張ってるんだし、自分も倉賀野さんの,"Everyone is working hard, so I
+should",,,
+105_2_1.json,1167,Dialog,,ところで――。,go to Kurakano-san's table too--,,,
+105_2_1.json,1174,Dialog,,しばらく話を続けていたら、お昼ごはんの話に,"After we talk for a while, the",,,
+105_2_1.json,1175,Dialog,,なって、自分が作ってきているお弁当の話になっ,"topic turns to lunch, then to",,,
+105_2_1.json,1176,Dialog,,た。,the bento I make for myself.,,,
+105_2_1.json,1178,Dialog,Haruhi,「でも、たいしたおかずじゃないんですよ」,"But the side dishes are not anything
+special.",,,
+105_2_1.json,1183,Dialog,Kurakano,「お弁当を作っているだけでも、すごいと思い,I think making your own bento,,,
+105_2_1.json,1184,Dialog,Kurakano,ます」,at all is impressive.,,,
+105_2_1.json,1186,Dialog,Haruhi,「そうでしょうか？」,Do you think so?,,,
+105_2_1.json,1187,Dialog,Haruhi,昨夜の残り物と卵焼きとかくらいだし。,"It is mostly last night's leftovers
+and tamagoyaki.",,,
+105_2_1.json,1192,Dialog,Kurakano,「わたくしも、ハルヒ君を見習って、お弁当を作っ,"Perhaps I should follow your example
+and",,,
+105_2_1.json,1193,Dialog,Kurakano,てみようかな……」,"try making a bento too,
+Haruhi-kun...",,,
+105_2_1.json,1195,Dialog,Haruhi,「それなら、今度ご一緒しませんか？」,"In that case, would you like to do
+it together sometime?",,,
+105_2_1.json,1201,Dialog,Kurakano,「は、はい……。喜んで」,Y-Yes... I would be happy to.,,,
+105_2_1.json,1202,Dialog,Kurakano,倉賀野さんは、どんなお弁当を作ってくるのか,"I wonder what kind of bento
+Kurakano-san",,,
+105_2_1.json,1203,Dialog,Kurakano,な。失礼でなければ、おかずの交換とかしてみ,"would make. If it is not rude, I
+might",,,
+105_2_1.json,1204,Dialog,Kurakano,たいかも。,like to trade side dishes with her.,,,
+105_2_1.json,1213,Dialog,,みんな頑張ってるんだし、自分も桜塚さんのと,"Everyone is working hard, so I
+should",,,
+105_2_1.json,1214,Dialog,,ころで――。,go to Sakurazuka-san's table too--,,,
+105_2_1.json,1221,Dialog,,お菓子作りの話になると、桜塚さんは目を輝か,"When the conversation turns to
+making sweets,",,,
+105_2_1.json,1222,Dialog,,せた。,Sakurazuka-san's eyes light up.,,,
+105_2_1.json,1228,Dialog,Sakurazuka,「ハルヒ君って、お菓子も作れるのね」,"You can make sweets too, Haruhi-kun?",,,
+105_2_1.json,1230,Dialog,Haruhi,「最近はあんまり……、ですけどね。桜塚さん,Not much lately... But do you like,,,
+105_2_1.json,1231,Dialog,Haruhi,は、好きなんですか？　お菓子作り」,"making sweets, Sakurazuka-san?",,,
+105_2_1.json,1236,Dialog,Sakurazuka,「ほんの真似事だけど。……ねえ、ハルヒ君,"Only in a small way. ...Hey,
+Haruhi-kun,",,,
+105_2_1.json,1237,Dialog,Sakurazuka,は、どんなお菓子が好きなの？」,what kind of sweets do you like?,,,
+105_2_1.json,1239,Dialog,Haruhi,「自分は、甘さ控え目のジンジャークッキーで,"For me, ginger cookies",,,
+105_2_1.json,1240,Dialog,Haruhi,すね」,that are not too sweet.,,,
+105_2_1.json,1245,Dialog,Sakurazuka,「クッキーが……。良かった」,Cookies... Good.,,,
+105_2_1.json,1247,Dialog,Haruhi,「どうしてですか？」,Why is that?,,,
+105_2_1.json,1252,Dialog,Sakurazuka,「い、いえ……、その……」,N-No... um...,,,
+105_2_1.json,1257,Dialog,Sakurazuka,……どうして赤くなってるのかな。,...Why is she turning red?,,,
+105_2_1.json,1266,Dialog,,みんな頑張ってるんだし、自分も上賀茂さんの,"Everyone is working hard, so I
+should",,,
+105_2_1.json,1267,Dialog,,ところで――。,go to Kamikamo-san's table too--,,,
+105_2_1.json,1275,Dialog,Kamikamo,「ハルヒくんのお好きな果物は何かしら？」,"Haruhi-kun, what fruit do you like?",,,
+105_2_1.json,1277,Dialog,Haruhi,「自分は、イチゴが好きですよ」,I like strawberries.,,,
+105_2_1.json,1283,Dialog,Kamikamo,「……イチゴでしたら、『アイベリー』のジャ,"...If it is strawberries, I would
+love",,,
+105_2_1.json,1284,Dialog,Kamikamo,ムを食べていただきたいですわ。手作りですか,"for you to try my Ai-Berry jam. It
+is",,,
+105_2_1.json,1285,Dialog,Kamikamo,ら、甘さも控え目ですのよ」,"handmade, so the sweetness is
+modest.",,,
+105_2_1.json,1287,Dialog,Haruhi,「へえ……、おいしそうですね」,Oh... That sounds delicious.,,,
+105_2_1.json,1291,Dialog,Haruhi,高級そうなイチゴだから、自分には手がでそう,"They sound like expensive
+strawberries, so",,,
+105_2_1.json,1292,Dialog,Haruhi,にないけど……。,"I doubt I could get my hands on
+them...",,,
+105_2_1.json,1293,Dialog,Haruhi,特売のときにイチゴを買ってきて、ジャムを作っ,"Maybe I will buy strawberries when
+they",,,
+105_2_1.json,1294,Dialog,,てみようかな。,are on sale and try making jam.,,,
+105_2_1.json,1306,Dialog,,やっぱりひと休みしてからにしよう。,"I think I will take a break first
+after all.",,,
+105_2_1.json,1307,Dialog,,……頑張れないことはないけど、ちょっと疲れ,...It is not that I cannot keep,,,
+105_2_1.json,1308,Dialog,,ちゃったし。,"going, but I am a little tired.",,,
+105_2_1.json,1314,Dialog,,今日は何ごともなく、営業が終わった。いつも,"Today's business ends without
+anything happening.",,,
+105_2_1.json,1315,Dialog,,なら何かひとつくらいあるのに。,Usually there is at least one thing.,,,
+105_2_1.json,1316,Dialog,,……もの足りないって言うわけじゃないけど、,"...It is not that I feel
+unsatisfied,",,,
+105_2_1.json,1317,Dialog,,何もないことで不安になるなんて、おかしいよ,but getting nervous because nothing,,,
+105_2_1.json,1318,Dialog,,ね。,happened is kind of strange.,,,
+105_2_1.json,1325,Dialog,Tamaki,「今日は特にイベントを用意しなかったが――。,"I did not prepare any particular
+event today--",,,
+105_2_1.json,1326,Dialog,Tamaki,明日は、『庶民菓子祭り』の開催をここに宣言,"But tomorrow, I hereby declare we
+shall",,,
+105_2_1.json,1327,Dialog,Tamaki,する！！」,hold a Commoner Sweets Festival!!,,,
+105_2_1.json,1329,Dialog,Haruhi,「……何ですか、それ」,...What is that supposed to be?,,,
+105_2_1.json,1338,Dialog,Tamaki,「庶民の文化、駄菓子を集めて食べようという,"A festival where we gather and eat
+cheap",,,
+105_2_1.json,1339,Dialog,Tamaki,お祭りだ！」,"sweets, one of the commoner
+cultures!",,,
+105_2_1.json,1352,Dialog,Hikaru & Kaoru,「わ〜い、庶民菓子、庶民菓子」,"Yay, commoner sweets, commoner
+sweets.",,,
+105_2_1.json,1362,Dialog,Honey,「あまいお菓子もあるのかなあ」,"I wonder if there will be sweet
+ones.",,,
+105_2_1.json,1369,Dialog,,まったくこの人たちは……。それに何も言わな,"Honestly, these people... And since",,,
+105_2_1.json,1370,Dialog,,いところを見ると、鏡夜先輩も賛成ってことな,"he is not saying anything, does",,,
+105_2_1.json,1371,Dialog,,のかな？,that mean Kyoya-senpai agrees too?,,,
+105_2_1.json,1379,Dialog,,#Color[7]#Scale[1.8]駄菓子でコストダウン成功,#Color[7]#Scale[1.8]Cutting Costs with Cheap Sweets,,,
+105_2_1.json,1380,Dialog,,……ああ、駄菓子は安いもんね。,"...Oh, right. Cheap sweets are
+cheap.",,,
+105_2_1.json,1382,Dialog,,どうなるのかはわからないけど、何ごともなけ,"I do not know how this will turn
+out,",,,
+105_2_1.json,1383,Dialog,,ればいいな……。,but I hope nothing happens...,,,
+105_2_1.json,1389,Dialog,,今日は何も起こらなくて良かったけど、けっこ,"I am glad nothing happened today,
+but",,,
+105_2_1.json,1390,Dialog,,う忙しかったから疲れちゃったなあ。,"it was pretty busy, so I am tired.",,,
+105_2_1.json,1391,Dialog,,勉強は適当なところで切り上げて、早めに休ま,"I should wrap up studying at a
+reasonable point",,,
+105_2_1.json,1392,Dialog,,ないと明日がつらいかも……。,"and rest early, or tomorrow might be
+rough...",,,
+105_2_1.json,1393,Dialog,,あ、忘れないうちにパソコンのチェックをして,"Oh, before I forget, I need",,,
+105_2_1.json,1394,Dialog,,おかないと……。,to check the computer...,,,
+105_2_1.json,1396,Dialog,,明日は駄菓子のお祭りかあ……。テーブルに,"Tomorrow is a cheap sweets festival,
+huh...",,,
+105_2_1.json,1397,Dialog,,駄菓子を並べて食べるだけですめばいいんだ,"I hope all we have to do is line
+cheap",,,
+105_2_1.json,1398,Dialog,,けど……。,"sweets up on the table and eat
+them...",,,
+105_2_1.json,1399,Dialog,,……そうもいかないんだよね、きっと。,"...It definitely will not be that
+simple.",,,

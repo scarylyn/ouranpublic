@@ -1,0 +1,1176 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+110_2_6.json,5,Dialog,,たどりついた場所は草津温泉……、のはずなん,The place we arrived at should,,,
+110_2_6.json,6,Dialog,,だけど。,be Kusatsu Onsen... except.,,,
+110_2_6.json,8,Dialog,,ここは本当に草津温泉？　……っていうか日本？,"Is this really Kusatsu Onsen? ...Or
+for that matter, Japan?",,,
+110_2_6.json,9,Dialog,,なんだか不安になってきた……。,"I am starting to feel kind of
+uneasy...",,,
+110_2_6.json,10,Dialog,,自分だけここで待っているように言われて、１,"They told me to wait here by myself,
+so",,,
+110_2_6.json,11,Dialog,,人で待たされることになったけど……。,"I ended up standing around alone,
+but...",,,
+110_2_6.json,12,Dialog,,先輩たちは何をしているんだろう？,I wonder what the senpais are doing.,,,
+110_2_6.json,13,Dialog,,……もしかして、知らない間にアマゾンの奥地,"...Maybe they brought me somewhere
+deep",,,
+110_2_6.json,14,Dialog,,にでも連れてこられたのかも。,in the Amazon without me noticing.,,,
+110_2_6.json,15,Dialog,,見渡す限り、まわりにはジャングル。,"As far as I can see, there is jungle
+all around.",,,
+110_2_6.json,17,Dialog,,目の前には温泉と言うより、巨大プール。,"In front of me is less a hot spring
+than a gigantic pool.",,,
+110_2_6.json,18,Dialog,,いや、巨大プールというより、人工海岸だ。,"No, less a gigantic pool than an
+artificial beach.",,,
+110_2_6.json,19,Dialog,,……入ってるの全部お湯だけど。,"...Though it is all filled with hot
+water.",,,
+110_2_6.json,27,Dialog,Tamaki,「ハルヒ〜、またせたな！」,"Haruhi, sorry to keep you waiting!",,,
+110_2_6.json,28,Dialog,Tamaki,やっと環先輩が走りよってきた。,"Tamaki-senpai finally came running
+over.",,,
+110_2_6.json,41,Dialog,Hikaru,「どう、この水着？」,"Well? What do you think of this
+swimsuit?",,,
+110_2_6.json,43,Dialog,Kaoru,「似合う？」,Does it suit me?,,,
+110_2_6.json,48,Dialog,Haruhi,次々と、水着になって現れる。,"One after another, they appear in
+swimsuits.",,,
+110_2_6.json,50,Dialog,Haruhi,「それよりも、ここが何なのかがわからないん,"More importantly, I still do not
+understand what",,,
+110_2_6.json,51,Dialog,Haruhi,ですけど。温泉……、ですよね？」,"this place is. It is... a hot
+spring, right?",,,
+110_2_6.json,52,Dialog,Haruhi,指定された草津の【スパリゾート・フェニック,"The designated place in Kusatsu, Spa
+Resort Phoenix, was",,,
+110_2_6.json,53,Dialog,Haruhi,ス】は、その名前の通りの立派な建物だった。,"every bit the splendid building its
+name suggested.",,,
+110_2_6.json,54,Dialog,Haruhi,全天候型のまさにリゾート。,"An all-weather resort in the truest
+sense.",,,
+110_2_6.json,55,Dialog,Haruhi,ホントに草津温泉なの？　と言いたくなるよう,"It is such a lavish facility that it
+makes me want to ask,",,,
+110_2_6.json,56,Dialog,Haruhi,な豪華な施設で、なんだかもう、これって……。,"is this really Kusatsu Onsen?
+Somehow, it is just...",,,
+110_2_6.json,57,Dialog,,まるで、本物の熱帯の密林にいる気分。,"It feels like being in a real
+tropical jungle.",,,
+110_2_6.json,59,Dialog,,……本物の熱帯の密林には、温泉も湯気もない,"...Though a real tropical jungle
+probably",,,
+110_2_6.json,60,Dialog,,だろうけど。,would not have hot springs or steam.,,,
+110_2_6.json,61,Dialog,,確かに入り口を通って建物のなかに入ったし、,"I definitely came into the building
+through the entrance,",,,
+110_2_6.json,62,Dialog,,見上げれば天井もある。,"and when I look up, there is a
+ceiling.",,,
+110_2_6.json,63,Dialog,,でも、これって、草津の温泉には見えない。,"But this does not look like a hot
+spring in Kusatsu.",,,
+110_2_6.json,64,Dialog,,屋内プールと呼ぶにはスケールが大きすぎる。,"It is far too huge to call an indoor
+pool.",,,
+110_2_6.json,71,Dialog,Kyoya,「れっきとした温泉だ。今は整備点検中で無人,"It is a proper hot spring. They are
+currently closed for maintenance",,,
+110_2_6.json,72,Dialog,Kyoya,だが、特別に入れてもらえるよう交渉してきた」,"inspections, but I negotiated
+special permission for us to enter.",,,
+110_2_6.json,74,Dialog,Haruhi,「交渉って……？」,Negotiated...?,,,
+110_2_6.json,83,Dialog,Kyoya,「気にする必要はない」,"There is no need to concern
+yourself.",,,
+110_2_6.json,84,Dialog,Kyoya,ううっ、なんだか考えるのが怖い……。,"Ugh, I am kind of scared to think
+about it...",,,
+110_2_6.json,93,Dialog,Honey,「うん！　わ〜い、貸し切り貸し切り〜」,"Yeah! Yay, we have it all to
+ourselves, all to ourselves!",,,
+110_2_6.json,101,Dialog,Kyoya,「交渉の際に聞いてみたが、今日は俺たち以外,"I asked during the negotiations, and
+it seems",,,
+110_2_6.json,102,Dialog,Kyoya,に出入りする者はいなかったようだ」,"no one has come in or out today
+except us.",,,
+110_2_6.json,110,Dialog,Tamaki,「ふむ。少なくとも、誰かが隠れているとする,"Hmm. At the very least, if someone
+is hiding here,",,,
+110_2_6.json,111,Dialog,Tamaki,なら、前日からか……」,"they would have been here since
+yesterday...",,,
+110_2_6.json,113,Dialog,Haruhi,「けっこう暑いのに、ずーっとここに、です,"It is pretty hot, and they would",,,
+110_2_6.json,114,Dialog,Haruhi,か？」,be here this whole time?,,,
+110_2_6.json,123,Dialog,Tamaki,「そうだ……、蘭花さんは、こんな暑いところ,"That is it... Ranka-san is being
+imprisoned",,,
+110_2_6.json,124,Dialog,Tamaki,に幽閉されている……！」,in a place this hot...!,,,
+110_2_6.json,125,Dialog,Tamaki,#Color[7]#Scale[1.8]ただ今の気温　２９℃,#Color[7]#Scale[1.8]Current temperature: 29 C,,,
+110_2_6.json,133,Dialog,Tamaki,「皆の衆！　一刻もはやく蘭花さんを悪の魔の,"Gentlemen! We must rescue Ranka-san
+from the evil clutches",,,
+110_2_6.json,134,Dialog,Tamaki,手から救い出し、父の安否を気づかうハルヒを,"of darkness with all possible haste,
+and set Haruhi's",,,
+110_2_6.json,135,Dialog,Tamaki,安心させてあげるのだ！」,"worried heart at ease over her
+father's safety!",,,
+110_2_6.json,137,Dialog,Haruhi,「心配も不安も何も……」,I am not really worried or uneasy...,,,
+110_2_6.json,139,Dialog,Everyone,「お──っ！」,Yeah!,,,
+110_2_6.json,142,Dialog,Haruhi,「はあ……」,Uh-huh...,,,
+110_2_6.json,143,Dialog,Haruhi,みんなが盛り上がってるのに水をさすのも悪い,"Everyone is getting so worked up
+that I feel bad throwing",,,
+110_2_6.json,144,Dialog,Haruhi,から何も言えないけど……。,"cold water on it, so I cannot say
+anything...",,,
+110_2_6.json,151,Dialog,Tamaki,「どうしたんだ？　ハルヒ。ため息なんかつい,"What is wrong, Haruhi?",,,
+110_2_6.json,152,Dialog,Tamaki,て」,Sighing like that.,,,
+110_2_6.json,155,Dialog,Haruhi,「いえ、何でも……」,"No, it is nothing...",,,
+110_2_6.json,168,Dialog,Hikaru & Kaoru,「ターイム！」,Time out!,,,
+110_2_6.json,170,Dialog,Haruhi,「何、２人とも？」,"What is it, you two?",,,
+110_2_6.json,178,Dialog,Hikaru,「僕たちだけ水着で、ハルヒが水着じゃないの,"Only we are in swimsuits,",,,
+110_2_6.json,179,Dialog,Hikaru,は……」,and Haruhi is not...,,,
+110_2_6.json,187,Dialog,Kaoru,「納得いきませーん！」,That is unacceptable!,,,
+110_2_6.json,189,Dialog,Haruhi,「……いや、べつに遊びに来てるんじゃないん,"...No, we are not exactly",,,
+110_2_6.json,190,Dialog,Haruhi,だし」,here to play.,,,
+110_2_6.json,200,Dialog,Honey,「わ〜、僕もハルちゃんの水着見た〜い」,"Wow, I wanna see Haru-chan in a
+swimsuit too!",,,
+110_2_6.json,213,Dialog,Mori,「待て、光邦……」,"Wait, Honey...",,,
+110_2_6.json,218,Dialog,Honey,「崇は見たくないの？」,"You do not wanna see it, Mori?",,,
+110_2_6.json,224,Dialog,Mori,「……………………あ、……いや」,"............Ah, ...no.",,,
+110_2_6.json,233,Dialog,Tamaki,「まて！　お父さんは反対だぞ！　嫁入り前の,"Wait! Father objects! I absolutely
+will not have",,,
+110_2_6.json,234,Dialog,Tamaki,娘が、やわ肌をさらすなど断じて！」,"my unmarried daughter exposing her
+tender skin!",,,
+110_2_6.json,236,Dialog,Haruhi,「確かに着替えたほうがいいかもしれませんね」,"Actually, it may be better if I
+change.",,,
+110_2_6.json,241,Dialog,Haruhi,あ、でも水着なんか……。,"Oh, but I do not have a swimsuit or
+anything...",,,
+110_2_6.json,254,Dialog,Hikaru & Kaoru,「はい、どーぞ」,Here you go.,,,
+110_2_6.json,255,Dialog,Hikaru & Kaoru,……用意してたんだ。,...They had one ready.,,,
+110_2_6.json,257,Dialog,Haruhi,「じゃあ、着替えてきます」,Then I will go change.,,,
+110_2_6.json,277,Dialog,Everyone,「いってらっしゃーい」,See you in a bit.,,,
+110_2_6.json,288,Dialog,Tamaki,「ハ、ハルヒ〜、ダメだあ……。お父さんは、,"H-Haruhi, nooo... Father",,,
+110_2_6.json,289,Dialog,Tamaki,お父さんは……」,"is, Father is...",,,
+110_2_6.json,293,Dialog,Haruhi,「おまたせしました」,Sorry to keep you waiting.,,,
+110_2_6.json,307,Dialog,Hikaru & Kaoru,「ナイス〜！」,Nice!,,,
+110_2_6.json,317,Dialog,Honey,「わあ、ハルちゃん、かわいい〜！」,"Wow, Haru-chan, you are so cute!",,,
+110_2_6.json,325,Dialog,Mori,「……ああ」,...Yeah.,,,
+110_2_6.json,341,Dialog,Kyoya,「どうしたんだ、環」,"What is wrong, Tamaki?",,,
+110_2_6.json,350,Dialog,Tamaki,「あ、あ、いや、そのっ……」,"Ah, ah, no, um...!",,,
+110_2_6.json,352,Dialog,Haruhi,「やっぱり自分、こういった水着は似合いませ,I knew a swimsuit like,,,
+110_2_6.json,353,Dialog,Haruhi,んね」,this does not suit me.,,,
+110_2_6.json,361,Dialog,Kaoru,「そんなことないって、似合ってるよ」,"That is not true. It looks good on
+you.",,,
+110_2_6.json,363,Dialog,Haruhi,「そうかなあ？」,You think so?,,,
+110_2_6.json,369,Dialog,Tamaki,「うんうん！！」,"Yeah, yeah!!",,,
+110_2_6.json,382,Dialog,Hikaru,「ねえ、せっかくだから、みんなで記念撮影し,"Hey, since we have the chance, why
+do",,,
+110_2_6.json,383,Dialog,Hikaru,ない？」,"we not all take a commemorative
+photo?",,,
+110_2_6.json,390,Dialog,Tamaki,「……なにィ！」,...What?!,,,
+110_2_6.json,391,Dialog,Tamaki,なぜか環先輩は、今度は急に怒り始めた。,"For some reason, Tamaki-senpai
+suddenly started getting angry this
+time.",,,
+110_2_6.json,397,Dialog,Tamaki,「駄目だ！　写真は許しません！」,No! I will not allow photographs!,,,
+110_2_6.json,405,Dialog,Kaoru,「ま〜た、殿は独占欲が強いんだから」,"There milord goes again, being all
+possessive.",,,
+110_2_6.json,407,Dialog,Hikaru,「案外ムッツリだよねえ？」,"He is surprisingly repressed, huh?",,,
+110_2_6.json,409,Dialog,Haruhi,「いいですよ。減るもんじゃないですし」,"It is fine. It is not as if anything
+will wear away.",,,
+110_2_6.json,415,Dialog,Tamaki,「減るの！　減っちゃうんだってば！！」,It will! It really will wear away!!,,,
+110_2_6.json,416,Dialog,Tamaki,……何が減るんだか。,...What is supposed to wear away?,,,
+110_2_6.json,426,Dialog,Honey,「え〜と、じゃあハルちゃんは真ん中ね！　僕、,"Um, then Haru-chan goes in the",,,
+110_2_6.json,427,Dialog,Honey,お隣がいいな！」,middle! I wanna be next to her!,,,
+110_2_6.json,435,Dialog,Tamaki,「くっ……！　反対側のお隣は、俺だ！」,"Guh...! Then I shall be next to her
+on the other side!",,,
+110_2_6.json,450,Dialog,Hikaru & Kaoru,「あっ、ずるい！」,"Hey, no fair!",,,
+110_2_6.json,455,Dialog,Hikaru,「僕らがセッティングしてる間に！」,While we were setting it up!,,,
+110_2_6.json,460,Dialog,Kaoru,「タイマーセット！　急いで光っ！」,"Timer set! Hurry, Hikaru!",,,
+110_2_6.json,463,Dialog,Kaoru,馨が手を離した瞬間、カメラが傾いた。,"The instant Kaoru let go, the camera
+tilted.",,,
+110_2_6.json,465,Dialog,Haruhi,「あ。カメラ……」,Oh. The camera...,,,
+110_2_6.json,466,Dialog,Haruhi,カシャ！,Click!,,,
+110_2_6.json,467,Dialog,Haruhi,……ガシャン！！,...Crash!!,,,
+110_2_6.json,479,Dialog,Hikaru & Kaoru,「ええっ！？」,Whaaat!?,,,
+110_2_6.json,484,Dialog,Hikaru & Kaoru,液晶画面には、最後に撮れた画像が映っている,The last photo it took is showing,,,
+110_2_6.json,485,Dialog,Hikaru & Kaoru,けど……。,"on the LCD screen, but...",,,
+110_2_6.json,486,Dialog,,レンズのところが……。,The lens is...,,,
+110_2_6.json,488,Dialog,Hikaru,「あーあ……」,Oh no...,,,
+110_2_6.json,490,Dialog,Kaoru,「完全に壊れてるね」,It is totally broken.,,,
+110_2_6.json,492,Dialog,Tamaki,「日頃の行いが悪いからだな」,"This is what you get for your usual
+behavior.",,,
+110_2_6.json,494,Dialog,Hikaru & Kaoru,「殿にだけは言われたくないでーす！」,"We do not want to hear that from
+you, milord!",,,
+110_2_6.json,496,Dialog,Honey,「壊れちゃったからしょうがないけど、,"It is broken, so it cannot be",,,
+110_2_6.json,497,Dialog,Honey,残念だねえ」,"helped, but it is too bad.",,,
+110_2_6.json,498,Dialog,Honey,自分は別に、残念じゃないんですけど。,"Personally, I am not especially
+disappointed.",,,
+110_2_6.json,511,Dialog,Tamaki,「皆の衆、遊びはここまでだ。これからだ,"Gentlemen, playtime ends",,,
+110_2_6.json,512,Dialog,Tamaki,が――」,here. From now on--,,,
+110_2_6.json,520,Dialog,Kyoya,「場所はここで間違いないとして、相変わらず,"Assuming this is indeed the right
+place, there are",,,
+110_2_6.json,521,Dialog,Kyoya,交換条件や身代金の指定もないな」,"still no exchange conditions or
+ransom demands.",,,
+110_2_6.json,529,Dialog,Honey,「日にちも書いてないしねえ」,"And there is no date written on it
+either.",,,
+110_2_6.json,531,Dialog,Haruhi,「……そんな脅迫状ってあるんですかね？」,"...Do threatening letters like that
+even exist?",,,
+110_2_6.json,539,Dialog,Mori,「何か仕掛けがあるかもしれない……」,There may be some trick to it...,,,
+110_2_6.json,547,Dialog,Tamaki,「そうだな。まずは手わけして、蘭花さんを捜,"True. First, let us split up and
+search for",,,
+110_2_6.json,548,Dialog,Tamaki,すとしようか。チーム分けはどうする？」,"Ranka-san. How shall we divide the
+teams?",,,
+110_2_6.json,556,Dialog,Hikaru,「はーい、学年ごとにチームを組むのが良いと,"Okaaay, I think we should",,,
+110_2_6.json,557,Dialog,Hikaru,思いまーす！」,make teams by school year!,,,
+110_2_6.json,566,Dialog,Tamaki,「なるほど、ちょうど２人ずつ組になれるしな」,"I see. That would conveniently let
+us pair up two by two.",,,
+110_2_6.json,568,Dialog,Haruhi,「じゃあ自分は……」,Then I will...,,,
+110_2_6.json,569,Dialog,Haruhi,光と馨のところになるのかな。同じ学年だし。,"I guess I would be with Hikaru and
+Kaoru. We are in the same year.",,,
+110_2_6.json,577,Dialog,Kyoya,「ハルヒは、好きなチームを選んでかまわない,"Haruhi, you may choose whichever",,,
+110_2_6.json,578,Dialog,Kyoya,ぞ」,team you like.,,,
+110_2_6.json,588,Dialog,Tamaki,「では、お父さんと一緒に！」,Then come with Father!,,,
+110_2_6.json,601,Dialog,Hikaru,「ハルヒ、殿のチームだけはやめときなって」,"Haruhi, you should avoid milord's
+team, at least.",,,
+110_2_6.json,603,Dialog,Kaoru,「そうそう。僕らのところにおいでよ」,"Yeah, yeah. Come over to us.",,,
+110_2_6.json,618,Dialog,Honey,「ハルちゃんと一緒だったら楽しいな〜！　,"It would be fun if Haru-chan came
+with us!",,,
+110_2_6.json,619,Dialog,Honey,ねっ、崇」,"Right, Mori?",,,
+110_2_6.json,624,Dialog,Mori,「……ああ、そうだな」,"...Yeah, it would.",,,
+110_2_6.json,627,Dialog,Mori,どうしようかな……？,What should I do...?,,,
+110_2_6.json,628,Choice,Mori,環先輩、鏡夜先輩と,With Tamaki & Kyoya-senpai,,,
+110_2_6.json,629,Choice,Mori,光、馨と,With Hikaru & Kaoru,,,
+110_2_6.json,630,Choice,Mori,ハニー先輩、モリ先輩と,With Honey & Mori-senpai,,,
+110_2_6.json,647,Dialog,Haruhi,「じゃあ、環先輩たちと一緒に行きます」,"Then I will go with Tamaki-senpai
+and Kyoya-senpai.",,,
+110_2_6.json,657,Dialog,Tamaki,「ああ、ハルヒ……！　これでお父さんとずっ,"Ah, Haruhi...! Now you and Father",,,
+110_2_6.json,658,Dialog,Tamaki,と一緒だよ！」,can be together forever!,,,
+110_2_6.json,667,Dialog,Hikaru,「僕らと一緒のほうが楽しいのに」,"It would be more fun with us,
+though.",,,
+110_2_6.json,671,Dialog,Haruhi,「鏡夜先輩と一緒なら、心強いですし」,"And I will feel safer with
+Kyoya-senpai there.",,,
+110_2_6.json,679,Dialog,Kyoya,「そうか」,I see.,,,
+110_2_6.json,687,Dialog,Tamaki,「なにーーッ！」,Whaaat?!,,,
+110_2_6.json,694,Dialog,Kaoru,「しかたないかな……」,I guess there is no helping it...,,,
+110_2_6.json,704,Dialog,Tamaki,「っ！　いいかハルヒ！　お父さんは何として,"Ngh! Listen, Haruhi! Father will
+find",,,
+110_2_6.json,705,Dialog,Tamaki,もこの父が捜し出してみせる！　だから安心し,"this father of yours no matter what!
+So",,,
+110_2_6.json,706,Dialog,Tamaki,て、お父さんについて来るんだ。行くぞーっ！」,relax and follow Father. Let us go!,,,
+110_2_6.json,708,Dialog,Tamaki,言うが早いか、１人で走っていってしまっ,No sooner had he said it,,,
+110_2_6.json,709,Dialog,Tamaki,た……。,than he ran off alone...,,,
+110_2_6.json,711,Dialog,Haruhi,「……いや、お父さんお父さんってわけがわか,"...No, I do not even understand all",,,
+110_2_6.json,712,Dialog,Haruhi,らないですし」,"this Father, Father business.",,,
+110_2_6.json,719,Dialog,Kyoya,「あいつは……、いったいどこに行く気なんだ,Where does he think,,,
+110_2_6.json,720,Dialog,Kyoya,か」,he is going...?,,,
+110_2_6.json,727,Dialog,,鏡夜先輩と２人で、走っていく環先輩を見てい,"As Kyoya-senpai and I watched
+Tamaki-senpai",,,
+110_2_6.json,728,Dialog,,ると――、あ、戻ってきた。,"run off-- oh, he came back.",,,
+110_2_6.json,741,Dialog,Tamaki,「……えっと、どこに行けばいいんだっけ？」,"...Um, where am I supposed to go
+again?",,,
+110_2_6.json,742,Dialog,Tamaki,……選択、まちがえたかな？,...Did I choose wrong?,,,
+110_2_6.json,753,Dialog,Haruhi,「じゃあ、光と馨のところにしようかな」,"Then I guess I will go with Hikaru
+and Kaoru.",,,
+110_2_6.json,767,Dialog,Hikaru & Kaoru,「わかってるじゃん、ハルヒも」,"You get it too, huh, Haruhi?",,,
+110_2_6.json,790,Dialog,Hikaru,「やっぱり僕らと一緒がいいよね〜」,"Of course you would rather be with
+us~",,,
+110_2_6.json,792,Dialog,Kaoru,「殿は放っといて、仲良く捜そうね〜」,"Let's leave milord alone and search
+together~",,,
+110_2_6.json,801,Dialog,Tamaki,「ハルヒ！　こんないかがわしい双子と一緒に,Haruhi! You must not go with,,,
+110_2_6.json,802,Dialog,Tamaki,行くんじゃありません！」,these indecent twins!,,,
+110_2_6.json,810,Dialog,Kyoya,「環、いいから諦めろ」,"Tamaki, give it up.",,,
+110_2_6.json,812,Dialog,Haruhi,「そっちはよろしくお願いします、鏡夜先輩」,"I will leave that side to you,
+Kyoya-senpai.",,,
+110_2_6.json,827,Dialog,Tamaki,「うわーーーん！　ハルヒーー！」,Waaah! Haruhi!,,,
+110_2_6.json,830,Dialog,Tamaki,チーム分けなんだから、しょうがないのに……。,"We are splitting into teams, so
+there is no helping it...",,,
+110_2_6.json,839,Dialog,Haruhi,「じゃあ、ハニー先輩たちのチームで」,"Then I will go with Honey-senpai's
+team.",,,
+110_2_6.json,847,Dialog,Honey,「わ〜い！　ハ〜ルちゃんと一緒〜♪」,Yay! I get to be with Haru-chan~,,,
+110_2_6.json,864,Dialog,Tamaki,「そ、そんな〜」,N-Nooo~,,,
+110_2_6.json,877,Dialog,Hikaru,「あ〜あ……」,Aww...,,,
+110_2_6.json,879,Dialog,Kaoru,「つまんないの」,How boring.,,,
+110_2_6.json,893,Dialog,Honey,「ハルちゃんハルちゃん、ぜったい、蘭花さん,"Haru-chan, Haru-chan, we are
+definitely",,,
+110_2_6.json,894,Dialog,Honey,を見つけ出そうね」,"gonna find Ranka-san, okay?",,,
+110_2_6.json,896,Dialog,Haruhi,「見つかればいいんですけどね……」,I hope we can find him...,,,
+110_2_6.json,897,Dialog,Haruhi,まあ、この２人と一緒なら、何が起きても大丈,"Well, if I am with these two, maybe
+I will",,,
+110_2_6.json,898,Dialog,Haruhi,夫、かな……？,"be all right no matter what
+happens...?",,,
+110_2_6.json,911,Dialog,Tamaki,「よーし、簡単に打ち合わせるぞ。この先は大,"All right, let us have a brief
+strategy meeting.",,,
+110_2_6.json,912,Dialog,Tamaki,きく３つのルートにわかれている。チームごと,"Ahead of us, the path splits into
+three",,,
+110_2_6.json,913,Dialog,Tamaki,にわかれよう」,"major routes. Each team will take
+one.",,,
+110_2_6.json,926,Dialog,Hikaru,「じゃ、僕たちはこっち」,Then we will take this one.,,,
+110_2_6.json,940,Dialog,Honey,「僕らはこっちだね」,Then we are this way.,,,
+110_2_6.json,954,Dialog,Tamaki,「では、残ったルートは俺と鏡夜で行く。何も,"Then Kyoya and I will take the
+remaining",,,
+110_2_6.json,955,Dialog,Tamaki,見つからなくても、夕刻にはここで合流するこ,"route. Even if you find nothing,",,,
+110_2_6.json,956,Dialog,Tamaki,と。いいな？」,regroup here by evening. Understood?,,,
+110_2_6.json,970,Dialog,Hikaru & Kaoru,「イエッサー！」,"Yes, sir!",,,
+110_2_6.json,984,Dialog,Honey,「いえっさー！」,"Yes, sir!",,,
+110_2_6.json,990,Dialog,Haruhi,「それじゃ、行きましょうか」,"Well then, shall we go?",,,
+110_2_6.json,991,Dialog,Haruhi,この広大なジャングル温泉のどこかに、お父さ,"I wonder if Dad really is somewhere
+in",,,
+110_2_6.json,992,Dialog,Haruhi,んはいるのかなあ……。,this enormous jungle hot spring...,,,
+110_2_6.json,1008,Dialog,Haruhi,「……誰もいないですね」,...There is no one here.,,,
+110_2_6.json,1015,Dialog,Kyoya,「貸し切りだからな」,It is reserved for private use.,,,
+110_2_6.json,1023,Dialog,Tamaki,「ほお〜、これが温泉というものか……」,"Oho~ So this is what they call a hot
+spring...",,,
+110_2_6.json,1025,Dialog,Haruhi,「確実に違います」,It definitely is not.,,,
+110_2_6.json,1027,Dialog,Haruhi,それにしても、何なんだろう。,"Still, what is this place supposed
+to be?",,,
+110_2_6.json,1028,Dialog,Haruhi,こんな広大な施設のなかに、熱帯の林。お湯こ,A tropical forest inside a facility,,,
+110_2_6.json,1029,Dialog,Haruhi,そ、確かに草津のお湯を引いてきた物なんだろ,this huge. The water itself probably,,,
+110_2_6.json,1030,Dialog,Haruhi,うけど……。,"really is drawn from Kusatsu, but...",,,
+110_2_6.json,1032,Dialog,Haruhi,「この施設だと、わざわざ草津に来た意味がな,"With a facility like this, there is
+not much",,,
+110_2_6.json,1033,Dialog,Haruhi,いですねえ」,"point in coming all the way to
+Kusatsu.",,,
+110_2_6.json,1040,Dialog,Kyoya,「まあ、そうかもしれないな」,"Well, perhaps not.",,,
+110_2_6.json,1049,Dialog,Tamaki,「おお！　あれはなんだ！？」,Oh! What is that!?,,,
+110_2_6.json,1053,Dialog,Haruhi,「子どもは喜びそうですけどね」,"Children would probably enjoy it,
+though.",,,
+110_2_6.json,1058,Dialog,Kyoya,「確かにな」,That is true.,,,
+110_2_6.json,1060,Dialog,Kyoya,環先輩は会話が聞こえていないのか気にしてい,"Whether Tamaki-senpai cannot hear
+our",,,
+110_2_6.json,1061,Dialog,Kyoya,ないのか、そのまま楽しそうに探索を続けてい,"conversation or simply does not
+care,",,,
+110_2_6.json,1062,Dialog,Kyoya,る。,he keeps happily exploring anyway.,,,
+110_2_6.json,1069,Dialog,Tamaki,「むー、何か手がかりはないものか……。お？,"Hmm, is there no clue anywhere...?
+Oh?",,,
+110_2_6.json,1070,Dialog,Tamaki,おおっ！？」,Ooh!?,,,
+110_2_6.json,1079,Dialog,Tamaki,「ハルヒ、見てごらん！　南国の鳥さんが飛ん,"Haruhi, look! A tropical",,,
+110_2_6.json,1080,Dialog,Tamaki,でいったよ！」,bird just flew by!,,,
+110_2_6.json,1081,Dialog,Tamaki,……はあ。この調子で大丈夫なのかな。,"...Sigh. Are we going to be all
+right at this rate?",,,
+110_2_6.json,1083,Dialog,Tamaki,環先輩は、密林のそこかしこに首を突っ込んで,"Tamaki-senpai pokes his head into
+every",,,
+110_2_6.json,1084,Dialog,Tamaki,は、目まぐるしく走り回っている。本当に子ど,"part of the jungle and runs around
+at a dizzying",,,
+110_2_6.json,1085,Dialog,Tamaki,もみたいな人だ。,pace. He really is like a child.,,,
+110_2_6.json,1086,Dialog,,鏡夜先輩はそんな環先輩を冷静に見つめながら、,"Kyoya-senpai walks beside me, calmly",,,
+110_2_6.json,1087,Dialog,,自分の横を歩いている。,watching Tamaki-senpai do all that.,,,
+110_2_6.json,1088,Dialog,,これだけ性格正反対の２人の関係が、どうもい,"I still cannot quite make sense of
+the relationship between",,,
+110_2_6.json,1089,Dialog,,まだにピンとこない。,"two people whose personalities are
+this completely opposite.",,,
+110_2_6.json,1090,Dialog,,いったい、先輩たちはどうしてホスト部なんて,Why did the senpais ever start,,,
+110_2_6.json,1091,Dialog,,作ったのかな？,something like the Host Club?,,,
+110_2_6.json,1098,Dialog,Kyoya,「何ボーッとしているんだ、ハルヒ」,"What are you spacing out for,
+Haruhi?",,,
+110_2_6.json,1101,Dialog,Haruhi,「いえ、ただ……、どうして『ホスト部』なん,"No, I was just... wondering why you
+made something",,,
+110_2_6.json,1102,Dialog,Haruhi,て作ったんだろうって、なんとなく」,"like a Host Club, for some reason.",,,
+110_2_6.json,1107,Dialog,Kyoya,「前にも同じことを聞いてきたな」,You asked me the same thing before.,,,
+110_2_6.json,1116,Dialog,Kyoya,「今考えることでもないんじゃないか？」,"Is that really something to think
+about right now?",,,
+110_2_6.json,1118,Dialog,Haruhi,「そうですよね……」,You are right...,,,
+110_2_6.json,1119,Dialog,Haruhi,気のせいか、鏡夜先輩が少しだけ笑ったような,"Maybe I imagined it, but I thought",,,
+110_2_6.json,1120,Dialog,Haruhi,気がした。,Kyoya-senpai smiled just a little.,,,
+110_2_6.json,1128,Dialog,Kyoya,「……あのバカをしっかり見ておかないと、ど,"...If I do not keep a proper eye on
+that idiot, there is",,,
+110_2_6.json,1129,Dialog,Kyoya,んな暴走をされるかわからないからな」,"no telling what sort of runaway
+nonsense he will attempt.",,,
+110_2_6.json,1137,Dialog,Tamaki,「ん？　呼んだかにゃ？」,"Hm? Did you call me, nya?",,,
+110_2_6.json,1145,Dialog,Kyoya,「いや、気のせいだ」,"No, you imagined it.",,,
+110_2_6.json,1146,Dialog,Kyoya,この先輩たちのやりとりは、まるで夫婦漫才だ。,"The way these senpais go back and
+forth is like a married comedy duo.",,,
+110_2_6.json,1147,Dialog,Kyoya,自分にはよくわからないけど、それだけ息の合,"I do not really understand it
+myself, but I suppose",,,
+110_2_6.json,1148,Dialog,Kyoya,うコンビなのだろう。,"that means they are a perfectly
+matched pair.",,,
+110_2_6.json,1152,Dialog,Haruhi,「あ……、別れ道ですよ、先輩」,"Ah... The path splits here, senpais.",,,
+110_2_6.json,1153,Dialog,Haruhi,歩いていると、この先に進む道は２つにわかれ,"As we walk along, the path",,,
+110_2_6.json,1154,Dialog,Haruhi,ている。,ahead splits into two.,,,
+110_2_6.json,1155,Dialog,Haruhi,片方は小さなプールのほうに、もう片方はその,"One leads toward a small pool, while
+the",,,
+110_2_6.json,1156,Dialog,Haruhi,ままジャングルのほうにのびている。,"other continues on toward the
+jungle.",,,
+110_2_6.json,1157,Choice,Haruhi,小さなプールのほうに,Toward the small pool,,,
+110_2_6.json,1158,Choice,Haruhi,ジャングルのほうに,Toward the jungle,,,
+110_2_6.json,1172,Dialog,Haruhi,「プールのほうが安全そうですね」,The pool side looks safer.,,,
+110_2_6.json,1179,Dialog,Kyoya,「そうだな」,Yes.,,,
+110_2_6.json,1181,Dialog,Kyoya,不安定な足元を用心深く進む。ちょっと油断す,"I move carefully over the unsteady
+footing. If I let",,,
+110_2_6.json,1182,Dialog,Kyoya,ると、すべって転びそうだ。,"my guard down even a little, I might
+slip and fall.",,,
+110_2_6.json,1184,Dialog,Haruhi,「……あ」,...Ah.,,,
+110_2_6.json,1185,Dialog,Haruhi,あれ？,Huh?,,,
+110_2_6.json,1186,Dialog,Haruhi,密林をかきわけると、目の前に小さなプールが,"After pushing through the dense
+jungle, a small",,,
+110_2_6.json,1187,Dialog,Haruhi,見えてくる。プールからは何かがパシャパシャ,"pool comes into view. From the pool
+comes",,,
+110_2_6.json,1188,Dialog,Haruhi,と泳ぐ音が。,"the splashing sound of something
+swimming.",,,
+110_2_6.json,1189,Dialog,Haruhi,何かって──？,Something--?,,,
+110_2_6.json,1192,Dialog,Haruhi,「わ……」,Wha...,,,
+110_2_6.json,1194,Dialog,Haruhi,ワニ！？　大きな水音を立てて、クワっと口を,"A crocodile!? With a huge splash, a
+crocodile",,,
+110_2_6.json,1195,Dialog,Haruhi,開いてワニが自分のほうへ飛び出した――。,"opened its mouth wide and lunged
+toward me--.",,,
+110_2_6.json,1197,Dialog,Tamaki,「ハルヒーっ！！」,Haruhi!!,,,
+110_2_6.json,1199,Dialog,Tamaki,一瞬、何が起きたのかわからなかった。,"For an instant, I did not understand
+what had happened.",,,
+110_2_6.json,1200,Dialog,Tamaki,それから少しして、環先輩が自分を助けてくれ,"A little while later, I realized",,,
+110_2_6.json,1201,Dialog,Tamaki,たんだと理解できた。,that Tamaki-senpai had saved me.,,,
+110_2_6.json,1203,Dialog,Haruhi,「……環……、先輩？」,...Tamaki... senpai?,,,
+110_2_6.json,1205,Dialog,Tamaki,「大丈夫か、ハルヒ！」,"Are you all right, Haruhi!",,,
+110_2_6.json,1207,Dialog,Haruhi,「……ちょっと痛いです」,...It hurts a little.,,,
+110_2_6.json,1209,Dialog,Tamaki,「えっ！　あっ！」,What! Ah!,,,
+110_2_6.json,1211,Dialog,Tamaki,自分をあわてて離す先輩に、どうお礼を言おう,"As senpai hurriedly let go of me, I
+stayed dazed for",,,
+110_2_6.json,1212,Dialog,Tamaki,か、しばらく混乱したままボーっとしていた。,"a while, too confused to figure out
+how to thank him.",,,
+110_2_6.json,1219,Dialog,Haruhi,「……さっきの先輩、ちょっとだけかっこ良かっ,...You were a little cool,,,
+110_2_6.json,1220,Dialog,Haruhi,たですよ」,"just now, senpai.",,,
+110_2_6.json,1228,Dialog,Tamaki,「そ、そうか……」,I-I see...,,,
+110_2_6.json,1237,Dialog,Kyoya,「おい！　大丈夫か？」,Hey! Are you all right?,,,
+110_2_6.json,1239,Dialog,Haruhi,「自分は平気です。環先輩が助けてくれました,I am fine. Tamaki-senpai,,,
+110_2_6.json,1240,Dialog,Haruhi,から」,saved me.,,,
+110_2_6.json,1241,Dialog,Haruhi,なんだってこんなところにワニが……。,"What is a crocodile doing in a place
+like this...?",,,
+110_2_6.json,1249,Dialog,Kyoya,「ワニの放し飼いはきわめて危険、ということ,So allowing crocodiles to roam,,,
+110_2_6.json,1250,Dialog,Kyoya,だな」,free is extremely dangerous.,,,
+110_2_6.json,1252,Dialog,Haruhi,「危険かどうか以前に、放し飼いにする動物じゃ,"Before we even get to whether it is
+dangerous, I do",,,
+110_2_6.json,1253,Dialog,Haruhi,ないと思いますよ……」,"not think that is an animal you let
+roam free...",,,
+110_2_6.json,1254,Dialog,Haruhi,やっぱり、微妙なところで鏡夜先輩も環先輩に,"As I thought, Kyoya-senpai's common
+sense is",,,
+110_2_6.json,1255,Dialog,Haruhi,負けず劣らず、常識がズレてると思う……。,"subtly just as off as
+Tamaki-senpai's...",,,
+110_2_6.json,1264,Dialog,Haruhi,「……こっちのほうに何かあるような気がしま,...I feel like there is,,,
+110_2_6.json,1265,Dialog,Haruhi,すね」,something this way.,,,
+110_2_6.json,1266,Dialog,Haruhi,何か、気配というか……。何だろう？,"Some kind of presence, or... What is
+it?",,,
+110_2_6.json,1267,Dialog,Haruhi,うっそうと木の生い茂ったジャングルをゆっく,"We slowly walk through the jungle,
+where",,,
+110_2_6.json,1268,Dialog,Haruhi,りと歩いていく。,the trees grow thick and dense.,,,
+110_2_6.json,1269,Dialog,Haruhi,ざわざわと木々がゆれる音、横を流れる小川の,"The rustling of swaying trees, the
+water sounds from the pool like",,,
+110_2_6.json,1270,Dialog,Haruhi,ようなプールの水音、変な鳥の鳴き声が響く。,"a stream flowing beside us, and
+strange bird calls echo around us.",,,
+110_2_6.json,1271,Dialog,,ふと川の先を見ると、何かが動いている。,"When I glance farther down the
+river, something is moving.",,,
+110_2_6.json,1272,Dialog,,何かって――。,Something--,,,
+110_2_6.json,1275,Dialog,Haruhi,「わ……」,Wha...,,,
+110_2_6.json,1277,Dialog,Haruhi,バシャッ！！,Splash!!,,,
+110_2_6.json,1278,Dialog,Haruhi,ワニ！？　大きな水音を立て、クワっと口を,"A crocodile!? With a huge splash and
+its mouth gaping",,,
+110_2_6.json,1279,Dialog,Haruhi,開きながら、ワニが水面を飛び跳ねている。,"wide, a crocodile leaps across the
+water's surface.",,,
+110_2_6.json,1288,Dialog,Tamaki,「なっ！　ワニ！？」,Wh-! A crocodile!?,,,
+110_2_6.json,1296,Dialog,Kyoya,「ワニの放し飼いはきわめて危険、ということ,So allowing crocodiles to roam,,,
+110_2_6.json,1297,Dialog,Kyoya,だな」,free is extremely dangerous.,,,
+110_2_6.json,1299,Dialog,Haruhi,「危険かどうか以前に、放し飼いにする動物じゃ,"Before we even get to whether it is
+dangerous, I do",,,
+110_2_6.json,1300,Dialog,Haruhi,ないと思いますよ……」,"not think that is an animal you let
+roam free...",,,
+110_2_6.json,1301,Dialog,Haruhi,やっぱり、微妙なところで鏡夜先輩も環先輩に,"As I thought, Kyoya-senpai's common
+sense is",,,
+110_2_6.json,1302,Dialog,Haruhi,負けず劣らず、常識がズレてると思う……。,"subtly just as off as
+Tamaki-senpai's...",,,
+110_2_6.json,1310,Dialog,Haruhi,「はあ……、手がかりも見つからないし」,"Sigh... We have not found any clues,
+either.",,,
+110_2_6.json,1311,Dialog,Haruhi,その上、誰もいない。……これじゃ情報収集も,"On top of that, there is no one
+here. ...At this",,,
+110_2_6.json,1312,Dialog,Haruhi,できやしない。,"rate, we cannot even gather
+information.",,,
+110_2_6.json,1319,Dialog,Kyoya,「まあ、こんな事だろうとは、思ったがな」,"Well, I expected as much.",,,
+110_2_6.json,1321,Dialog,Kyoya,ガサッ。,Rustle.,,,
+110_2_6.json,1322,Dialog,Kyoya,なんだろう？　何か動いたみたいだけど……。,"What was that? It seemed like
+something moved...",,,
+110_2_6.json,1323,Dialog,Kyoya,まさか、また……！？,"No way, again...!?",,,
+110_2_6.json,1337,Dialog,Hikaru & Kaoru,「あー、殿だ」,"Ah, it is milord.",,,
+110_2_6.json,1346,Dialog,Tamaki,「おまえらか」,"Oh, it is you.",,,
+110_2_6.json,1354,Dialog,Kaoru,「ふ〜ん。向こうの道と合流してたんだ」,"Hmm. So it joined up with the other
+path.",,,
+110_2_6.json,1359,Dialog,Hikaru,「ねーねーハルヒ。こっちゼンゼンつまんない。,"Hey, hey, Haruhi. This way is
+totally boring.",,,
+110_2_6.json,1360,Dialog,Hikaru,そっちはどう？」,How about yours?,,,
+110_2_6.json,1362,Dialog,Haruhi,「こっちも収穫ナシだよ」,We have not found anything either.,,,
+110_2_6.json,1370,Dialog,Hikaru & Kaoru,「本当にここで合ってるワケ〜？」,Are we really in the right place~?,,,
+110_2_6.json,1371,Dialog,Hikaru & Kaoru,確かにここって書かれてたから、間違いないと,"It definitely said this was the
+place,",,,
+110_2_6.json,1372,Dialog,Hikaru & Kaoru,は思うけど……。,"so I think there is no mistake,
+but...",,,
+110_2_6.json,1377,Dialog,Tamaki,「まだ全部確認していないだろう。とにかく、,"We have not checked everything yet.
+In any",,,
+110_2_6.json,1378,Dialog,Tamaki,一通り見て回るのだ！」,"case, we must look around the whole
+area!",,,
+110_2_6.json,1386,Dialog,Hikaru,「はーい」,Okaaay.,,,
+110_2_6.json,1391,Dialog,Kaoru,「じゃ、まったね〜」,"Well then, see you~",,,
+110_2_6.json,1394,Dialog,Kaoru,光たちは、またジャングルのなかに消えていっ,Hikaru and the others disappeared,,,
+110_2_6.json,1395,Dialog,Kaoru,た。,into the jungle again.,,,
+110_2_6.json,1403,Dialog,Tamaki,「俺たちも捜すぞ！　あいつらにだけは先をこ,We are searching too! I will,,,
+110_2_6.json,1404,Dialog,Tamaki,させん！」,not let them get ahead of us!,,,
+110_2_6.json,1405,Dialog,Tamaki,……そんなところで対抗意識を燃やさなくても。,"...He does not have to get
+competitive over that.",,,
+110_2_6.json,1418,Dialog,,ガサッ。,Rustle.,,,
+110_2_6.json,1425,Dialog,Tamaki,「さ、かわいいハルヒの肌に傷がついたりしな,"Now then, to ensure not a scratch
+mars dear Haruhi's",,,
+110_2_6.json,1426,Dialog,Tamaki,いように、お父さんが盾になろう」,"skin, Father shall become your
+shield.",,,
+110_2_6.json,1427,Dialog,Tamaki,そう言って、環先輩が体を張って前を進んでい,"With that, Tamaki-senpai puts
+himself",,,
+110_2_6.json,1428,Dialog,Tamaki,る。,"on the line and advances ahead of
+us.",,,
+110_2_6.json,1436,Dialog,Tamaki,「やはり、ハルヒが水着に着替えたのは間違い,"As I feared, Haruhi changing into",,,
+110_2_6.json,1437,Dialog,Tamaki,だったんだ……」,a swimsuit was a mistake...,,,
+110_2_6.json,1439,Dialog,Haruhi,「自分は大丈夫です。少々スリ傷ができたくら,I'm fine. I only picked,,,
+110_2_6.json,1440,Dialog,Haruhi,いで……」,up a few scratches...,,,
+110_2_6.json,1445,Dialog,Tamaki,「だめ！　鏡夜もハルヒが傷つかないように気,"No! Kyoya, you be careful Haruhi",,,
+110_2_6.json,1446,Dialog,Tamaki,をつけてくれ」,does not get hurt too.,,,
+110_2_6.json,1448,Dialog,Tamaki,ガサッ。,Rustle.,,,
+110_2_6.json,1449,Dialog,Tamaki,いきなり、脇道から何かが飛び出した。,"All of a sudden, something leapt out
+from a side path.",,,
+110_2_6.json,1450,Dialog,Tamaki,茂みからちょうど顔を出した生き物と、思いっ,"My eyes met squarely with the
+creature that",,,
+110_2_6.json,1451,Dialog,Tamaki,きり目が合う。,"had just poked its head out of the
+bushes.",,,
+110_2_6.json,1452,Dialog,,――ワニ！？,--A crocodile!?,,,
+110_2_6.json,1454,Dialog,Haruhi,「何でこんなところに……」,Why is there one here...,,,
+110_2_6.json,1456,Dialog,Haruhi,ここは刺激しないように、ゆっくり離れたほう,"At a time like this, it is better to
+back away",,,
+110_2_6.json,1457,Dialog,Haruhi,が……、いいんだよね。,"slowly so I do not provoke it...
+right.",,,
+110_2_6.json,1458,Dialog,Haruhi,とにかく落ち着いて、１歩ずつ後ろに――。,"Anyway, stay calm and take one step
+back at a time--",,,
+110_2_6.json,1460,Dialog,Haruhi,「…………あっ！？」,............ah!?,,,
+110_2_6.json,1461,Dialog,Haruhi,何かが、がしっと自分を抱きとめた。,Something caught me in a firm hold.,,,
+110_2_6.json,1464,Dialog,Haruhi,「……鏡夜先輩？」,...Kyoya-senpai?,,,
+110_2_6.json,1466,Dialog,Kyoya,「大丈夫か、ハルヒ」,"Are you all right, Haruhi?",,,
+110_2_6.json,1468,Dialog,Haruhi,「逃げたほうがいいんじゃないですか」,Shouldn't we run away?,,,
+110_2_6.json,1470,Dialog,Haruhi,鏡夜先輩は、ワニをにらんだまま、自分をかば,"Kyoya-senpai kept glaring at the
+crocodile,",,,
+110_2_6.json,1471,Dialog,Haruhi,うように前に立っている。,"standing in front of me as if to
+shield me.",,,
+110_2_6.json,1473,Dialog,Kyoya,「短距離なら、おまえが思っている以上に素早,"Over short distances, it is faster
+than you",,,
+110_2_6.json,1474,Dialog,Kyoya,いぞ。背を見せるのは危険だ」,"think. Turning your back on it is
+dangerous.",,,
+110_2_6.json,1475,Dialog,Kyoya,環先輩も真剣な顔で、じっと動けないでいる。,"Tamaki-senpai stood frozen too, his
+face completely serious.",,,
+110_2_6.json,1478,Dialog,Kyoya,しばらくにらみあって、ワニはのっそりと水路,"After we stared each other down for
+a while,",,,
+110_2_6.json,1479,Dialog,Kyoya,へ消えて行った。,"the crocodile lumbered off into the
+waterway.",,,
+110_2_6.json,1481,Dialog,,ふう……。,Whew...,,,
+110_2_6.json,1488,Dialog,Tamaki,「助かった……。やっぱり、ワニも鏡夜は恐かっ,"We're saved... It seems even
+crocodiles",,,
+110_2_6.json,1489,Dialog,Tamaki,たようだな」,are afraid of Kyoya after all.,,,
+110_2_6.json,1502,Dialog,Kyoya,「……次は、お前をエサにして逃げることにし,"...Next time, I believe I will",,,
+110_2_6.json,1503,Dialog,Kyoya,よう」,use you as bait while I escape.,,,
+110_2_6.json,1518,Dialog,Haruhi,「……あの」,...Um.,,,
+110_2_6.json,1523,Dialog,Kyoya,「お前が怪我でもしたら、蘭花さんに会わせる,"If you were injured, I would have",,,
+110_2_6.json,1524,Dialog,Kyoya,顔がないからな」,no face to show Ranka-san.,,,
+110_2_6.json,1526,Dialog,Haruhi,「ありがとうございます……」,Thank you...,,,
+110_2_6.json,1532,Dialog,Kyoya,「気にしなくていい。次は環が犠牲になってく,"No need to worry. Apparently Tamaki
+will",,,
+110_2_6.json,1533,Dialog,Kyoya,れるそうだからな」,be making the sacrifice next time.,,,
+110_2_6.json,1534,Dialog,Kyoya,…………そこでさわやかに笑わないでください。,"............Please do not smile so
+pleasantly at a time like this.",,,
+110_2_6.json,1541,Dialog,,ガサッ。,Rustle.,,,
+110_2_6.json,1543,Dialog,Haruhi,「……けっこう歩きましたねえ」,...We really have walked a lot.,,,
+110_2_6.json,1544,Dialog,Haruhi,結局、何の手がかりもないまま、ジャングルを,"In the end, we made it out of the
+jungle",,,
+110_2_6.json,1545,Dialog,Haruhi,抜けた。,without finding a single clue.,,,
+110_2_6.json,1552,Dialog,Kyoya,「今のところは、骨折り損、というところだな」,"So far, I would call this wasted
+effort.",,,
+110_2_6.json,1554,Dialog,Kyoya,ガサッ。,Rustle.,,,
+110_2_6.json,1555,Dialog,Kyoya,茂みがゆれ、また何か出てくるのかと、あわて,"The bushes shook, and I hurriedly
+braced myself,",,,
+110_2_6.json,1556,Dialog,Kyoya,て身構える。,"thinking something else might come
+out.",,,
+110_2_6.json,1564,Dialog,Honey,「あ、ハルちゃん！」,"Ah, Haru-chan!",,,
+110_2_6.json,1574,Dialog,,ハニー先輩の後ろから、モリ先輩も顔を出した。,"Mori-senpai appeared from behind
+Honey-senpai as well.",,,
+110_2_6.json,1576,Dialog,Haruhi,「ハニー先輩でしたか……。びっくりしました,"Oh, it was you, Honey-senpai...",,,
+110_2_6.json,1577,Dialog,Haruhi,よ……」,You startled me...,,,
+110_2_6.json,1585,Dialog,Tamaki,「そちらのほうは、何か見つかりましたか？」,Did you find anything on your side?,,,
+110_2_6.json,1590,Dialog,Honey,「なんにもないよ〜。僕、おなかへってきちゃっ,Nothing at all~. I'm starting,,,
+110_2_6.json,1591,Dialog,Honey,た……」,to get hungry...,,,
+110_2_6.json,1592,Dialog,Honey,どうやらハニー先輩たちのほうも空振りか,Looks like Honey-senpai's,,,
+110_2_6.json,1593,Dialog,Honey,あ……。,group came up empty too...,,,
+110_2_6.json,1595,Dialog,Haruhi,「そういえば、もうすぐ夕方じゃないですか？」,"Come to think of it, isn't it almost
+evening?",,,
+110_2_6.json,1600,Dialog,Honey,「そーだね。でも、まだ少し時間があるから、,"Yup. But we still have a little
+time,",,,
+110_2_6.json,1601,Dialog,Honey,もう少しがんばる！」,so I'll keep trying a bit longer!,,,
+110_2_6.json,1606,Dialog,Tamaki,「ハニー先輩の言う通り！　さあ、気合を入れ,"Honey-senpai is right! Come now, let",,,
+110_2_6.json,1607,Dialog,Tamaki,なおして進むぞ！」,us renew our spirits and press on!,,,
+110_2_6.json,1618,Dialog,Honey,「ハルちゃんは、あんまり無理はしないでね」,"Haru-chan, don't push yourself too
+hard, okay?",,,
+110_2_6.json,1623,Dialog,Mori,「……行くぞ、光邦」,"...Let's go, Mitsukuni.",,,
+110_2_6.json,1626,Dialog,Mori,ハニー先輩たちと別れ、自分たちもしばらく捜,"After parting from Honey-senpai and
+the others, we",,,
+110_2_6.json,1627,Dialog,Mori,索を続けることにした。,"decided to keep searching for a
+while ourselves.",,,
+110_2_6.json,1631,Dialog,,結局、何の手がかりも見つからなかった。,"In the end, we did not find any
+clues.",,,
+110_2_6.json,1634,Dialog,Haruhi,「そろそろ集合場所に戻りましょうか」,"Shall we head back to the meeting
+place soon?",,,
+110_2_6.json,1641,Dialog,Tamaki,「……あともう少し」,...Just a little longer.,,,
+110_2_6.json,1654,Dialog,Kyoya,「環……。俺たちの戻りが遅れると、みんなに,"Tamaki... If we are late returning,",,,
+110_2_6.json,1655,Dialog,Kyoya,心配をかけるぞ」,everyone will worry.,,,
+110_2_6.json,1656,Dialog,Kyoya,鏡夜先輩の言葉に、環先輩もしかたないといっ,"At Kyoya-senpai's words,
+Tamaki-senpai",,,
+110_2_6.json,1657,Dialog,Kyoya,たふうにうなずき、自分たちは集合場所に向かっ,"nodded as if he had no choice,",,,
+110_2_6.json,1658,Dialog,Kyoya,た。,and we went to the meeting place.,,,
+110_2_6.json,1668,Dialog,,ジャングルのなかを歩いているような気分にな,It feels like we are walking,,,
+110_2_6.json,1669,Dialog,,る。,through a jungle.,,,
+110_2_6.json,1671,Dialog,Haruhi,「おおげさな施設……」,An over-the-top facility...,,,
+110_2_6.json,1678,Dialog,Kaoru,「ちょっとしたレジャーランドってところだね」,It is like a little leisure park.,,,
+110_2_6.json,1680,Dialog,Haruhi,「ちょっとどころじゃないよ」,It is more than a little.,,,
+110_2_6.json,1688,Dialog,Hikaru,「ねえ、先輩たちもいないし、ちょっと遊んで,"Hey, since the senpais aren't here
+either,",,,
+110_2_6.json,1689,Dialog,Hikaru,いかない？」,want to play around a little?,,,
+110_2_6.json,1690,Dialog,Hikaru,いつもの事ながら、この２人は遊ぶ事ばっかり。,"As usual, these two only ever think
+about playing.",,,
+110_2_6.json,1692,Dialog,Haruhi,「遊びで来てるんじゃないんだから。まじめに,We didn't come here to,,,
+110_2_6.json,1693,Dialog,Haruhi,捜してよ」,play. Search seriously.,,,
+110_2_6.json,1694,Dialog,Haruhi,……その、目的がちょっとこう、あいまいなと,...Though our objective is kind,,,
+110_2_6.json,1695,Dialog,Haruhi,ころが多いんだけど。,of vague in a lot of ways.,,,
+110_2_6.json,1709,Dialog,Hikaru & Kaoru,「つまんなーい」,Boooring.,,,
+110_2_6.json,1710,Dialog,Hikaru & Kaoru,そうは言いながらも、２人ともちゃんと辺りを,"Even as they say that, both of them",,,
+110_2_6.json,1711,Dialog,Hikaru & Kaoru,見てくれている。,are properly looking around.,,,
+110_2_6.json,1716,Dialog,Hikaru,「……殿は今頃、どうしてるかな」,"...I wonder what milord is doing
+right about now.",,,
+110_2_6.json,1728,Dialog,Kaoru,「確実に鏡夜先輩に何か迷惑かけてるよね」,"He is definitely causing
+Kyoya-senpai some kind of trouble.",,,
+110_2_6.json,1740,Dialog,Hikaru,「言えてる」,No kidding.,,,
+110_2_6.json,1741,Dialog,Hikaru,２人は、楽しそうに環先輩の話題で笑い合って,"The two of them laugh together
+happily",,,
+110_2_6.json,1742,Dialog,Hikaru,いる。,over the topic of Tamaki-senpai.,,,
+110_2_6.json,1743,Dialog,Hikaru,そういえば、どうして環先輩の事を光と馨は,"Come to think of it, why do Hikaru
+and",,,
+110_2_6.json,1744,Dialog,Hikaru,【殿】って言うのかな？,Kaoru call Tamaki-senpai milord?,,,
+110_2_6.json,1750,Dialog,Hikaru,「ん、何？　どうして【殿】かって？」,"Hm? What? You mean why we call him
+milord?",,,
+110_2_6.json,1755,Dialog,Kaoru,「そりゃあ、……ね？」,"Well, that's because... right?",,,
+110_2_6.json,1769,Dialog,Hikaru & Kaoru,「あのしゃべり方、殿様じゃん！」,"That way he talks is totally like
+some feudal lord!",,,
+110_2_6.json,1772,Dialog,Haruhi,「ふ〜ん……」,Huh...,,,
+110_2_6.json,1775,Dialog,Haruhi,まあ、確かにおかしなしゃべり方だし、どこで,"Well, he certainly does speak
+strangely, and I",,,
+110_2_6.json,1776,Dialog,Haruhi,日本語を習ったのか、興味は尽きないけど。,"am endlessly curious where he
+learned Japanese.",,,
+110_2_6.json,1778,Dialog,Haruhi,この辺りは足場がかなり悪い感じ、ちょっと油,"The footing around here feels pretty
+bad.",,,
+110_2_6.json,1779,Dialog,,断すると転びそうだなあ。,"If I let my guard down, I might
+trip.",,,
+110_2_6.json,1786,Dialog,Hikaru,「おい、ハルヒ。大丈夫か？」,"Hey, Haruhi. You okay?",,,
+110_2_6.json,1787,Dialog,Hikaru,光が自分に、手を伸ばしてきた。,Hikaru reached his hand out to me.,,,
+110_2_6.json,1788,Dialog,Hikaru,その手を……。,That hand...,,,
+110_2_6.json,1789,Choice,Hikaru,いらない,No thanks,,,
+110_2_6.json,1790,Choice,Hikaru,ありがとう,Thanks,,,
+110_2_6.json,1804,Dialog,Haruhi,「いらない。心配されるほど足場が悪いわけじゃ,No thanks. The footing is not,,,
+110_2_6.json,1805,Dialog,Haruhi,ないし」,so bad that you need to worry.,,,
+110_2_6.json,1807,Dialog,Haruhi,そう言って、光の手を素通りする。,"Saying that, I walk right past
+Hikaru's hand.",,,
+110_2_6.json,1808,Dialog,Haruhi,が、言ったそばからその前で木の根につまずい,"But right after I said it, I tripped",,,
+110_2_6.json,1809,Dialog,Haruhi,てしまった。,over a tree root in front of me.,,,
+110_2_6.json,1811,Dialog,Haruhi,「わっ！？」,Wah!?,,,
+110_2_6.json,1819,Dialog,Hikaru,「お、おいっ！　大丈夫か！？」,H-Hey! Are you okay!?,,,
+110_2_6.json,1822,Dialog,Hikaru,倒れそうなところを光に抱きとめられた。,"Just as I was about to fall, Hikaru
+caught me in his arms.",,,
+110_2_6.json,1824,Dialog,Hikaru,断ったあとだから、さすがにちょっと気まず,"Since I had just turned him down,
+this",,,
+110_2_6.json,1825,Dialog,Hikaru,い……。,is honestly a little awkward...,,,
+110_2_6.json,1827,Dialog,Hikaru,「ほら、最初から僕の言うことを聞いてれば良,See? You should have listened,,,
+110_2_6.json,1828,Dialog,Hikaru,かったんだよ」,to me from the start.,,,
+110_2_6.json,1829,Dialog,Hikaru,……反論できない。,...I cannot argue with that.,,,
+110_2_6.json,1830,Dialog,Hikaru,さっき断っちゃったのも悪かったし……、ここ,"It was my fault for refusing earlier
+too...",,,
+110_2_6.json,1831,Dialog,Hikaru,は素直にあやまろう。,I should just apologize honestly.,,,
+110_2_6.json,1833,Dialog,Haruhi,「ごめん。ありがとう、光」,"Sorry. Thanks, Hikaru.",,,
+110_2_6.json,1836,Dialog,Hikaru,「あ……」,Ah...,,,
+110_2_6.json,1837,Dialog,Hikaru,何だろう、光が少し驚いた顔をした。,"I wonder why. Hikaru looked a little
+surprised.",,,
+110_2_6.json,1839,Dialog,Hikaru,「……あ、足場が悪いんだから注意しろよな！,"...Th-The footing is bad, so watch
+where you're going!",,,
+110_2_6.json,1840,Dialog,Hikaru,ったく……」,Geez...,,,
+110_2_6.json,1847,Dialog,,光は怒ったように言うと、ふり払うように手を,"Hikaru said it as if he were angry,
+then let",,,
+110_2_6.json,1848,Dialog,,離した。,"go of my hand like he was shaking me
+off.",,,
+110_2_6.json,1850,Dialog,,どうしたんだろ急に。変なの……。,"What got into him all of a sudden?
+Weird...",,,
+110_2_6.json,1857,Dialog,Haruhi,「ありがとう」,Thank you.,,,
+110_2_6.json,1861,Dialog,Haruhi,そう言って、素直に光の手を借りる。,"Saying that, I obediently let Hikaru
+help me.",,,
+110_2_6.json,1869,Dialog,Hikaru,「けっこう足場が悪いみたいだから、注意しろ,Looks like the footing is,,,
+110_2_6.json,1870,Dialog,Hikaru,よ」,"pretty bad, so be careful.",,,
+110_2_6.json,1872,Dialog,Haruhi,「うん、わかってる」,"Yeah, I know.",,,
+110_2_6.json,1873,Dialog,Haruhi,確かに、ちょっと油断すると足をとられそうだ。,"It is true that if I am a little
+careless, I might lose my footing.",,,
+110_2_6.json,1879,Dialog,,結構な時間、あてもなく歩き続ける。,"We keep walking aimlessly for quite
+some time.",,,
+110_2_6.json,1890,Dialog,,光たちは口を休める事もなく、ずっと話し続け,"Hikaru and the others never give
+their",,,
+110_2_6.json,1891,Dialog,,ていた。,"mouths a rest, talking the entire
+time.",,,
+110_2_6.json,1892,Dialog,,この２人は、生まれた頃からずっと一緒だから、,"Since these two have been together
+ever since they were",,,
+110_2_6.json,1893,Dialog,,寂しいって経験をした事がないのかもしれない。,"born, maybe they have never
+experienced loneliness.",,,
+110_2_6.json,1894,Dialog,,そう思うと、ちょっとだけうらやましく思えた。,"When I thought of it that way, I
+felt just a little jealous.",,,
+110_2_6.json,1902,Dialog,Hikaru,「あーあ、なーんにも見つからないし」,"Aww, we haven't found anything at
+all.",,,
+110_2_6.json,1910,Dialog,Kaoru,「誰もいないから、話も聞けないし」,"And there is nobody here, so we
+can't ask anyone.",,,
+110_2_6.json,1924,Dialog,Hikaru & Kaoru,「お手上げって感じ？」,Feels like we're out of options?,,,
+110_2_6.json,1926,Dialog,Haruhi,「２人とも、そんな簡単にあきらめないでよ」,"You two, do not give up that easily.",,,
+110_2_6.json,1929,Dialog,Haruhi,ガサッ。,Rustle.,,,
+110_2_6.json,1937,Dialog,Honey,「…………あ、ハルちゃん見ーつけた」,"............Ah, found you,
+Haru-chan.",,,
+110_2_6.json,1939,Dialog,Haruhi,「あっ、ハニー先輩」,"Oh, Honey-senpai.",,,
+110_2_6.json,1941,Dialog,Haruhi,ガサッ。,Rustle.,,,
+110_2_6.json,1948,Dialog,Mori,「…………ん」,...Hm.,,,
+110_2_6.json,1950,Dialog,Haruhi,「モリ先輩も」,Mori-senpai too.,,,
+110_2_6.json,1963,Dialog,Honey,「ん〜、向こうの道が途中でつながってたんだ,Hmm~. The path over there must,,,
+110_2_6.json,1964,Dialog,Honey,ねえ」,have connected partway through.,,,
+110_2_6.json,1972,Dialog,Kaoru,「ハニー先輩、何か収穫はありましたか？」,"Honey-senpai, did you find anything?",,,
+110_2_6.json,1978,Dialog,Honey,「あ……、ごめんね。なんにも見つからなかっ,Ah... Sorry. We didn't,,,
+110_2_6.json,1979,Dialog,Honey,たよ……」,find anything at all...,,,
+110_2_6.json,1981,Dialog,Haruhi,「いいえ、ハニー先輩があやまる事じゃありま,"No, Honey-senpai, that is not
+anything",,,
+110_2_6.json,1982,Dialog,Haruhi,せんよ。ねえ？」,you need to apologize for. Right?,,,
+110_2_6.json,1991,Dialog,Hikaru,「うん。だってこっちも収穫ゼロだから」,Yeah. We came up with zero too.,,,
+110_2_6.json,2000,Dialog,Mori,「そうか……」,I see...,,,
+110_2_6.json,2008,Dialog,Honey,「そっかあ、それじゃあどっちが先に見つける,"Oh, okay. Then it is a race",,,
+110_2_6.json,2009,Dialog,Honey,か競争だね」,to see who finds it first.,,,
+110_2_6.json,2015,Dialog,,そう元気に言うと、ハニー先輩はまたジャング,"After saying that cheerfully,
+Honey-senpai",,,
+110_2_6.json,2016,Dialog,,ルのなかに戻っていった。,went back into the jungle.,,,
+110_2_6.json,2021,Dialog,,モリ先輩も自分たちに向かって軽く微笑むと、,"Mori-senpai gave us a slight smile
+too,",,,
+110_2_6.json,2022,Dialog,,ハニー先輩のあとを追っていった。,then followed after Honey-senpai.,,,
+110_2_6.json,2034,Dialog,Hikaru & Kaoru,「いってらっしゃ〜い」,See you later~,,,
+110_2_6.json,2038,Dialog,Haruhi,「結局、手がかりはなしか……」,"So in the end, no clues...",,,
+110_2_6.json,2045,Dialog,Hikaru,「考えててもしょうがないし、行こうよ」,"No point standing around thinking
+about it. Let's go.",,,
+110_2_6.json,2047,Dialog,Haruhi,「そうだね」,Yeah.,,,
+110_2_6.json,2048,Dialog,Haruhi,気を取り直して、再び自分たちは捜索を開始し,"Pulling ourselves together,",,,
+110_2_6.json,2049,Dialog,Haruhi,た。,we began our search again.,,,
+110_2_6.json,2061,Dialog,,こんなに蒸し暑いところを、ずっと歩いてると,"Walking this long through somewhere
+so",,,
+110_2_6.json,2062,Dialog,,疲れるなあ……。,"hot and humid really wears you
+out...",,,
+110_2_6.json,2064,Dialog,Haruhi,「……ふう」,...Whew.,,,
+110_2_6.json,2071,Dialog,Kaoru,「どうしたのハルヒ？」,"What's wrong, Haruhi?",,,
+110_2_6.json,2073,Dialog,Haruhi,「……ん、何でも……、ない」,...Hm? Nothing... I'm fine.,,,
+110_2_6.json,2081,Dialog,Hikaru,「まさかとは思うけど、疲れたんじゃないよ,"I doubt it, but you aren't",,,
+110_2_6.json,2082,Dialog,Hikaru,ね？」,"tired, are you?",,,
+110_2_6.json,2090,Dialog,Kaoru,「光……。ハルヒだっていちおう女の子なんだ,Hikaru... Haruhi is still,,,
+110_2_6.json,2091,Dialog,Kaoru,から」,"a girl, you know.",,,
+110_2_6.json,2099,Dialog,Hikaru,「あー、そうだった」,"Oh, right.",,,
+110_2_6.json,2101,Dialog,Haruhi,「……悪かったね、『いちおう』で」,"...Sorry for being only
+""technically"" here.",,,
+110_2_6.json,2109,Dialog,Hikaru,「それじゃあ、休憩にする？」,Then shall we take a break?,,,
+110_2_6.json,2117,Dialog,Kaoru,「そうだね、ハルヒも疲れてるみたいだし」,Yeah. Haruhi looks tired too.,,,
+110_2_6.json,2126,Dialog,Hikaru,「馨はハルヒと待っててよ。僕はちょっと周り,"Kaoru, you wait here with Haruhi. I",,,
+110_2_6.json,2127,Dialog,Hikaru,を見てくるから」,am going to look around for a bit.,,,
+110_2_6.json,2135,Dialog,Kaoru,「気をつけてね、光」,"Be careful, Hikaru.",,,
+110_2_6.json,2141,Dialog,Kaoru,大丈夫と片手を上げると、光は茂みのなかに姿,"Hikaru raised one hand to say he
+would be",,,
+110_2_6.json,2142,Dialog,,を消していった。,"fine, then disappeared into the
+bushes.",,,
+110_2_6.json,2144,Dialog,Haruhi,「光、１人で大丈夫なのかな……」,"Will Hikaru really be all right by
+himself...?",,,
+110_2_6.json,2152,Dialog,Kaoru,「同じようなところばっかり歩いてたから、気,"We have been walking through the
+same kind of",,,
+110_2_6.json,2153,Dialog,Kaoru,にしてるんだよ」,"place this whole time, so it is
+bothering him.",,,
+110_2_6.json,2155,Dialog,Haruhi,「あれ？　そうなの？」,Huh? Is that right?,,,
+110_2_6.json,2160,Dialog,Kaoru,「気づいてなかったんだ……、ハルヒ」,You did not notice... Haruhi?,,,
+110_2_6.json,2162,Dialog,Haruhi,「……あははは」,...Ahahaha.,,,
+110_2_6.json,2170,Dialog,Kaoru,「……ま、いいけどね」,"...Well, it is fine.",,,
+110_2_6.json,2172,Dialog,Kaoru,そう言いながら、馨はその場に座り込む。,"As he said that, Kaoru sat down on
+the spot.",,,
+110_2_6.json,2179,Dialog,Kaoru,「ハルヒも座ったら？　疲れてるでしょ」,"Why do you not sit too, Haruhi? You
+are tired, right?",,,
+110_2_6.json,2182,Dialog,Haruhi,「うん、そうする」,"Yeah, I will.",,,
+110_2_6.json,2183,Dialog,Haruhi,えっと、どこかもたれられるようなところ,"Now then, is there anywhere",,,
+110_2_6.json,2184,Dialog,Haruhi,は……。,I can lean against...?,,,
+110_2_6.json,2187,Dialog,Haruhi,「ごめん馨、ちょっと背中を借りるね」,"Sorry, Kaoru. I am going to borrow
+your back for a bit.",,,
+110_2_6.json,2192,Dialog,Kaoru,「背中……？」,My back...?,,,
+110_2_6.json,2197,Dialog,Kaoru,「ちょ、ちょっとハルヒっ」,"W-wait, Haruhi!",,,
+110_2_6.json,2200,Dialog,Haruhi,「少しだけ背中、貸してて」,"Just lend me your back for a little
+while.",,,
+110_2_6.json,2204,Dialog,Haruhi,「水着だからどこにも寄りかかれないし……」,"I am in a swimsuit, so I cannot lean
+against just anything...",,,
+110_2_6.json,2205,Dialog,Haruhi,さすがに寝転ぶわけには行かないし、木に寄り,"I really cannot lie down, and
+leaning against",,,
+110_2_6.json,2206,Dialog,Haruhi,かかったら痛そうだしね。,a tree looks like it would hurt.,,,
+110_2_6.json,2208,Dialog,Kaoru,「……別にいいけど、【貸し】だからね」,"...I do not mind, but you owe me for
+this.",,,
+110_2_6.json,2210,Dialog,Haruhi,「それなら、馨も自分に寄りかかれば？」,"Then why does Kaoru not lean against
+me too?",,,
+110_2_6.json,2212,Dialog,Kaoru,「……そうだね」,...Good point.,,,
+110_2_6.json,2213,Dialog,Kaoru,突然、目の前の茂みが揺れた。何だろう？,"All of a sudden, the bushes in front
+of us shook. What was that?",,,
+110_2_6.json,2222,Dialog,,あわてて馨が立ち上がる。,Kaoru hurried to his feet.,,,
+110_2_6.json,2224,Dialog,Kaoru,「……光」,...Hikaru.,,,
+110_2_6.json,2238,Dialog,Hikaru,「向こう側に脇道があった。行ってみよう」,"There was a side path over there.
+Let us try it.",,,
+110_2_6.json,2244,Dialog,Hikaru,「……ん？　馨、顔赤いけどどうしたの？」,"...Hm? Kaoru, your face is red. What
+happened?",,,
+110_2_6.json,2249,Dialog,Kaoru,「何でもないよ……」,It is nothing...,,,
+110_2_6.json,2256,Dialog,,進んでも進んでも、変化のないジャングル。,"No matter how far we went, the
+jungle never changed.",,,
+110_2_6.json,2257,Dialog,,ガサッ。,Rustle.,,,
+110_2_6.json,2271,Dialog,Kaoru,「今度は何？」,What is it this time?,,,
+110_2_6.json,2273,Dialog,Hikaru,「ワニだったりして」,Maybe it is a crocodile.,,,
+110_2_6.json,2275,Dialog,Haruhi,「ないない」,No way.,,,
+110_2_6.json,2278,Dialog,Haruhi,茂みのなかから現れたのは――。,What came out of the bushes was--,,,
+110_2_6.json,2286,Dialog,Tamaki,「おっ、そこにいるのは！」,"Oh, there you are!",,,
+110_2_6.json,2302,Dialog,Hikaru & Kaoru,「なんだ殿か」,Oh. It is just milord.,,,
+110_2_6.json,2312,Dialog,Kyoya,「……ここはこう繋がっていたのか」,...So this is how the paths connect.,,,
+110_2_6.json,2322,Dialog,Tamaki,「ハルヒ〜！　再会できて俺はうれしいぞ！　,"Haruhi! How happy I am that we are
+reunited!",,,
+110_2_6.json,2323,Dialog,Tamaki,さあ、一緒に進もうか！」,"Now, shall we proceed together?",,,
+110_2_6.json,2335,Dialog,Hikaru,「だから、それだと別行動の意味ないじゃん」,"But then splitting up would be
+pointless.",,,
+110_2_6.json,2337,Dialog,Kaoru,「さ、殿はあっち！　ほら行って！」,"Okay, milord, you go that way! Come
+on, move!",,,
+110_2_6.json,2347,Dialog,Haruhi,「鏡夜先輩。何か手がかりはありましたか？」,"Kyoya-senpai. Did you find any
+clues?",,,
+110_2_6.json,2355,Dialog,Kyoya,「今のところはないな。その様子だと、そっち,"None so far. Judging from your
+faces,",,,
+110_2_6.json,2356,Dialog,Kyoya,もなさそうだな」,I assume you have not either.,,,
+110_2_6.json,2358,Dialog,Haruhi,「……はい」,...Yes.,,,
+110_2_6.json,2366,Dialog,Tamaki,「がっかりすることはないぞ。日が暮れるまで,"There is no need to be discouraged.
+We still",,,
+110_2_6.json,2367,Dialog,Tamaki,まだ時間はあるのだ。行こう、鏡夜」,"have time before sunset. Let us go,
+Kyoya.",,,
+110_2_6.json,2375,Dialog,Kyoya,「……ああ。お前たちも、集合の時間には遅れ,"...Yes. The rest of you, do not",,,
+110_2_6.json,2376,Dialog,Kyoya,るなよ」,be late for the meeting time.,,,
+110_2_6.json,2390,Dialog,Hikaru & Kaoru,「はーい、お達者で〜」,"Okaaay, take care now.",,,
+110_2_6.json,2392,Dialog,Hikaru & Kaoru,さて、とりあえず夕暮れまでもう少し。頑張っ,"Well, there was still a little time
+until sunset.",,,
+110_2_6.json,2393,Dialog,Hikaru & Kaoru,て捜してみよう。,"For now, we would just have to keep
+looking.",,,
+110_2_6.json,2400,Dialog,Haruhi,「そろそろ時間だよね」,"It is about time, right?",,,
+110_2_6.json,2412,Dialog,Hikaru,「戻ろうか？」,Should we head back?,,,
+110_2_6.json,2414,Dialog,Kaoru,「そうだね……」,Yeah...,,,
+110_2_6.json,2415,Dialog,Kaoru,結局、半日ムダにしちゃったなあ……。,"In the end, we wasted half the
+day...",,,
+110_2_6.json,2423,Dialog,,……ここ、本当に温泉？,...Is this really a hot spring?,,,
+110_2_6.json,2436,Dialog,Honey,「すぐに見つけられると思うよ〜。ね、崇」,"I think we will find it soon. Right,
+Takashi?",,,
+110_2_6.json,2441,Dialog,Mori,「……ああ」,...Yeah.,,,
+110_2_6.json,2442,Dialog,Mori,この２人は本当にマイペース。,"These two really do things at their
+own pace.",,,
+110_2_6.json,2451,Dialog,,ハニー先輩は、いつもの調子で鼻歌まじりに、,"Honey-senpai was skipping through
+the",,,
+110_2_6.json,2452,Dialog,,ジャングルのなかをスキップしている。,"jungle, humming like he always does.",,,
+110_2_6.json,2460,Dialog,Honey,「だから、ハルちゃんもそんな心配しないで」,"So do not worry so much, Haru-chan.",,,
+110_2_6.json,2461,Dialog,Honey,そう言われても、自分はそんなにお父さんにつ,"Even if he says that, I am not
+actually",,,
+110_2_6.json,2462,Dialog,Honey,いては心配してないんだけど。,that worried about my dad.,,,
+110_2_6.json,2463,Dialog,Honey,……こう見えて、ハニー先輩はけっこう本気で,"...For all his looks, Honey-senpai
+seems",,,
+110_2_6.json,2464,Dialog,Honey,お父さんの事を心配しているらしい。,"to be seriously worried about my
+dad.",,,
+110_2_6.json,2471,Dialog,,モリ先輩も口数は少ないものの、目つきは真剣,"Mori-senpai was as quiet as ever,
+but his eyes",,,
+110_2_6.json,2472,Dialog,,だ。２人とも常に周囲に目を光らせているのが,"were serious. I could tell both of
+them",,,
+110_2_6.json,2473,Dialog,,わかる。,"were constantly watching our
+surroundings.",,,
+110_2_6.json,2474,Dialog,,そういえば、ぜんぜん似てないけど、この２人,"Come to think of it, they do not
+look alike",,,
+110_2_6.json,2475,Dialog,,は親せき同士なんだよね……。,"at all, but these two are
+relatives...",,,
+110_2_6.json,2483,Dialog,Honey,「それに、悪い人が出てきても、崇と一緒にやっ,"And even if bad guys show up,
+Takashi",,,
+110_2_6.json,2484,Dialog,Honey,つけるからね」,and I will beat them up.,,,
+110_2_6.json,2492,Dialog,Mori,「……問題ない」,...No problem.,,,
+110_2_6.json,2493,Dialog,Mori,そうだ、ハニー先輩もモリ先輩も武道の達人で、,"Right. Honey-senpai and Mori-senpai
+are both",,,
+110_2_6.json,2494,Dialog,Mori,ものすごく強いんだった。,"martial arts masters, and incredibly
+strong.",,,
+110_2_6.json,2505,Dialog,Honey,「わーっ、海みたいだよ！」,"Wow, it is like the ocean!",,,
+110_2_6.json,2507,Dialog,Honey,その声に視線を向けると、その先には砂浜が,"I looked toward his voice, and a
+sandy",,,
+110_2_6.json,2508,Dialog,Honey,広がっていた。ハニー先輩は走って、波打ち,beach spread out ahead. Honey-senpai,,,
+110_2_6.json,2509,Dialog,Honey,際に近づく。,ran over to the water's edge.,,,
+110_2_6.json,2510,Dialog,Honey,……温泉になぜ砂浜が？,"...Why is there a sandy beach at a
+hot spring?",,,
+110_2_6.json,2511,Dialog,Honey,ハニー先輩は、波打ち際で何か拾い集めている,Honey-senpai seemed to be gathering,,,
+110_2_6.json,2512,Dialog,,みたいだけど……。,something at the water's edge...,,,
+110_2_6.json,2513,Choice,,気にしない,Ignore it,,,
+110_2_6.json,2514,Choice,,気になる,Check it out,,,
+110_2_6.json,2525,Dialog,,いちいち気にしててもしょうがないか。,"I guess there is no point worrying
+about every little thing.",,,
+110_2_6.json,2526,Dialog,,波にさらわれるわけでもないし。とりあえず見,"It is not as if he will be swept
+away by the waves.",,,
+110_2_6.json,2527,Dialog,,えるところにいるからいいかな。,"He is in sight, so it should be fine
+for now.",,,
+110_2_6.json,2528,Dialog,,そう思っていると、ハニー先輩は再びこちらに,"As I was thinking that, Honey-senpai",,,
+110_2_6.json,2529,Dialog,,戻ってきた。,came back over to us.,,,
+110_2_6.json,2537,Dialog,Honey,「ハルちゃん、あとで一緒に潮干狩りしよう。,"Haru-chan, let us go clamming
+together later.",,,
+110_2_6.json,2538,Dialog,Honey,カニとかもいるかも！」,There might be crabs too!,,,
+110_2_6.json,2539,Dialog,Honey,……ここって温泉、だよね？,"...This is a hot spring, right?",,,
+110_2_6.json,2547,Dialog,,気になってそばへ行くと……。,"Curious, I went over beside him...",,,
+110_2_6.json,2551,Dialog,Honey,「ね、ね、ハルちゃん。コレっ！」,"Hey, hey, Haru-chan. Look!",,,
+110_2_6.json,2553,Dialog,Haruhi,「いっぱいありますねえ」,There are so many.,,,
+110_2_6.json,2554,Dialog,Haruhi,ハニー先輩の手の平には、貝殻がたくさんあっ,Honey-senpai had a whole handful,,,
+110_2_6.json,2555,Dialog,Haruhi,た。,of seashells in his palm.,,,
+110_2_6.json,2557,Dialog,Honey,「好きなのあげるから選んでいいよ」,"I will give you whichever one you
+like, so pick one.",,,
+110_2_6.json,2559,Dialog,Haruhi,「そうですか？　それじゃあ……」,Really? Then...,,,
+110_2_6.json,2560,Dialog,Haruhi,どれにしようかな？,Which one should I choose?,,,
+110_2_6.json,2565,Dialog,Honey,「くすぐったいよ」,That tickles.,,,
+110_2_6.json,2568,Dialog,Honey,「そこじゃないよ〜」,Not there.,,,
+110_2_6.json,2571,Dialog,Honey,「ん〜」,Hmm...,,,
+110_2_6.json,2574,Dialog,Honey,「それ、かわいいでしょ」,"That one is cute, right?",,,
+110_2_6.json,2578,Dialog,Haruhi,「そうですね」,"Yes, it is.",,,
+110_2_6.json,2580,Dialog,Honey,「えへ♪　……やっと笑ってくれた」,Eheh. ...You finally smiled.,,,
+110_2_6.json,2588,Dialog,,ハニー先輩、自分を元気付けるために貝殻を集,Honey-senpai gathered the,,,
+110_2_6.json,2589,Dialog,,めてくれてたんだ……。,shells to cheer me up...,,,
+110_2_6.json,2597,Dialog,Honey,「ねえねえ、ハルちゃん。あとでカニとか探し,"Hey, hey, Haru-chan. Let us look",,,
+110_2_6.json,2598,Dialog,Honey,てみようね」,"for crabs and things later, okay?",,,
+110_2_6.json,2600,Dialog,Haruhi,「はい、自分はホタテとかウニも見つかるとう,Yes. I would be happy if we found,,,
+110_2_6.json,2601,Dialog,Haruhi,れしいですね」,scallops or sea urchins too.,,,
+110_2_6.json,2608,Dialog,,……どれくらい歩いただろう？,...How long had we been walking?,,,
+110_2_6.json,2609,Dialog,,手がかりもまったく見つからないし、誰もいな,"We had not found a single clue, and
+there was no",,,
+110_2_6.json,2610,Dialog,,いので人に聞くこともできない。,"one around, so we could not ask
+anyone either.",,,
+110_2_6.json,2611,Dialog,,なんだか、ものすごくムダに歩きまわっている,I was starting to feel like we were,,,
+110_2_6.json,2612,Dialog,,気がしてきた。,just wandering around for nothing.,,,
+110_2_6.json,2613,Dialog,,ガサッ。,Rustle.,,,
+110_2_6.json,2614,Dialog,,茂みをかきわけてでてきたのは――。,"The one who pushed through the
+bushes and appeared was--",,,
+110_2_6.json,2622,Dialog,Tamaki,「あれ……？　ハルヒ……」,Huh...? Haruhi...,,,
+110_2_6.json,2633,Dialog,Honey,「あっ、タマちゃん！」,"Oh, Tama-chan!",,,
+110_2_6.json,2641,Dialog,Kyoya,「……ここはこう繋がっていたのか」,...So this is how the paths connect.,,,
+110_2_6.json,2651,Dialog,Tamaki,「これは、運命の再会だな。……しかたない、,"This must be a fated reunion.
+...Very",,,
+110_2_6.json,2652,Dialog,Tamaki,共に行こうではないか」,"well, let us go together.",,,
+110_2_6.json,2659,Dialog,Honey,「ダメだよタマちゃん。それじゃ別行動してる,"No, Tama-chan. That would make",,,
+110_2_6.json,2660,Dialog,Honey,意味がなくなっちゃうでしょ？」,"splitting up pointless, right?",,,
+110_2_6.json,2667,Dialog,Mori,「光邦の言う通りだ」,Mitsukuni is right.,,,
+110_2_6.json,2677,Dialog,Haruhi,「鏡夜先輩。何か手がかりはありましたか？」,"Kyoya-senpai. Did you find any
+clues?",,,
+110_2_6.json,2685,Dialog,Kyoya,「今のところはないな。その様子だと、そっち,"None so far. Judging from your
+faces,",,,
+110_2_6.json,2686,Dialog,Kyoya,もなさそうだな」,I assume you have not either.,,,
+110_2_6.json,2688,Dialog,Haruhi,「……はい」,...Yes.,,,
+110_2_6.json,2696,Dialog,Mori,「まだ時間はある。環、鏡夜……、頼む」,"There is still time. Tamaki,
+Kyoya... please.",,,
+110_2_6.json,2705,Dialog,Honey,「こっちは僕たちにまかせてね」,Leave this side to us.,,,
+110_2_6.json,2713,Dialog,Tamaki,「……わかりました。ハルヒ、心配するな。,"...Understood. Haruhi, do not worry.",,,
+110_2_6.json,2714,Dialog,Tamaki,必ず見つかる」,We will find it.,,,
+110_2_6.json,2716,Dialog,Haruhi,「……はい」,...Yes.,,,
+110_2_6.json,2718,Dialog,Haruhi,再び別れて、自分たちは探索へと向かった。,"After splitting up again, we set off
+to continue searching.",,,
+110_2_6.json,2731,Dialog,,――あれ？,--Huh?,,,
+110_2_6.json,2732,Dialog,,しばらく歩いていると、いつの間にかお湯が足,"After we had been walking for a
+while, I realized",,,
+110_2_6.json,2733,Dialog,,首まで増水している。,"the hot water had risen up to my
+ankles.",,,
+110_2_6.json,2742,Dialog,Honey,「あったかいねえ」,It is warm.,,,
+110_2_6.json,2743,Dialog,Honey,ハニー先輩は、楽しそうに足でお湯をはじく。,"Honey-senpai happily splashed the
+hot water with his feet.",,,
+110_2_6.json,2746,Dialog,Haruhi,「水着に着替えてて良かった。――って、どん,"I am glad I changed into my
+swimsuit. --Wait,",,,
+110_2_6.json,2747,Dialog,Haruhi,どん水位が上がってません？」,is the water level getting higher?,,,
+110_2_6.json,2748,Dialog,Haruhi,さすがにこの広さなんだから、おぼれる事はな,The place was so wide that I,,,
+110_2_6.json,2749,Dialog,Haruhi,いだろうけど……。,"doubted I would drown, but...",,,
+110_2_6.json,2756,Dialog,Mori,「向こうに休憩所がある」,There is a rest area over there.,,,
+110_2_6.json,2758,Dialog,Haruhi,「それじゃあとりあえず、あそこに行きましょ,Then let us go,,,
+110_2_6.json,2759,Dialog,Haruhi,う」,there for now.,,,
+110_2_6.json,2760,Dialog,Haruhi,なんだかのぼせてきた感じがするし、休憩する,"I was starting to feel overheated,
+so it",,,
+110_2_6.json,2761,Dialog,Haruhi,にはちょうどいいかな……。,"seemed like a good time for a
+break...",,,
+110_2_6.json,2765,Dialog,,なんだか、頭がぼーっとする……。,"Somehow, my head feels foggy...",,,
+110_2_6.json,2773,Dialog,Honey,「ふにゅ〜」,Funyuu~,,,
+110_2_6.json,2775,Dialog,Honey,休憩所に入ると同時に、ハニー先輩は椅子にご,"The moment we entered the rest area,
+Honey-senpai",,,
+110_2_6.json,2776,Dialog,Honey,ろんと横になってしまった。,flopped down sideways on a chair.,,,
+110_2_6.json,2777,Dialog,Honey,自分も少し疲れたっていうか、眠いっていう,I guess I am feeling a little,,,
+110_2_6.json,2778,Dialog,Honey,か……。,"tired too. Or sleepy, maybe...",,,
+110_2_6.json,2784,Dialog,,モリ先輩が自分の隣にすっと座った。,"Mori-senpai quietly sat down beside
+me.",,,
+110_2_6.json,2789,Dialog,Mori,「ハルヒ、今日は疲れただろう？」,"Haruhi, you must be tired today.",,,
+110_2_6.json,2792,Dialog,Haruhi,「……は、はあ」,...Y-yes.,,,
+110_2_6.json,2795,Dialog,Mori,「ふふ、かわいいヤツだな。さあ、俺の腕のな,"Heh heh, you are a cute one.",,,
+110_2_6.json,2796,Dialog,Mori,かでおやすみ」,"Now, sleep in my arms.",,,
+110_2_6.json,2801,Dialog,Haruhi,「あ、あの……、モリ先輩」,U-um... Mori-senpai.,,,
+110_2_6.json,2804,Dialog,Mori,「どうしたんだ、ハルヒ？」,"What is it, Haruhi?",,,
+110_2_6.json,2806,Dialog,Haruhi,「……いえ、何も」,"...No, nothing.",,,
+110_2_6.json,2807,Dialog,Haruhi,もしかして、もう自分は眠ってて夢を見ている,Maybe I am already asleep,,,
+110_2_6.json,2808,Dialog,Haruhi,のかもしれない。,and dreaming this.,,,
+110_2_6.json,2810,Dialog,Haruhi,せっかくだから、このまま少し寝よう。,"Since I have the chance, I might as
+well sleep a little like this.",,,
+110_2_6.json,2812,Dialog,Haruhi,目が覚めたら、いつものモリ先輩に戻るのか,"When I wake up, will Mori-senpai",,,
+110_2_6.json,2813,Dialog,,な……？,be back to normal...?,,,
+110_2_6.json,2821,Dialog,Honey,「ねえねえ、ハルちゃん……。おきてよ〜」,"Hey, hey, Haru-chan... Wake up~",,,
+110_2_6.json,2823,Dialog,Haruhi,「ん……、ハニーせんぱ……」,Mm... Honey-senpai...,,,
+110_2_6.json,2828,Dialog,Honey,「ちょっと、お昼寝しちゃったね」,"We took a little nap, huh?",,,
+110_2_6.json,2843,Dialog,Haruhi,「……モリ先輩、さっき……」,"...Mori-senpai, earlier...",,,
+110_2_6.json,2844,Dialog,Haruhi,目が覚めると、モリ先輩は完全にいつもの様子,"When I woke up, Mori-senpai was
+completely",,,
+110_2_6.json,2845,Dialog,Haruhi,に戻っている。,back to his usual self.,,,
+110_2_6.json,2850,Dialog,Honey,「崇はねえ、ねむいときはあんなふうになるん,Takashi gets like that,,,
+110_2_6.json,2851,Dialog,Honey,だよ」,when he is sleepy.,,,
+110_2_6.json,2853,Dialog,Haruhi,「……そうなんですか？」,...He does?,,,
+110_2_6.json,2858,Dialog,Mori,「…………いや」,...No.,,,
+110_2_6.json,2860,Dialog,Haruhi,「知らないみたいですけど……？」,He does not seem to know that...?,,,
+110_2_6.json,2865,Dialog,Honey,「おぼえてないだけだもん」,"He just does not remember, that's
+all.",,,
+110_2_6.json,2869,Dialog,Haruhi,モリ先輩は、眠くなるとさわやかになる……、,Mori-senpai gets refreshing,,,
+110_2_6.json,2870,Dialog,Haruhi,か。,when he is sleepy... huh.,,,
+110_2_6.json,2872,Dialog,Haruhi,あ、すっかりお湯がひいてる。,"Oh, the hot water has completely
+drained away.",,,
+110_2_6.json,2874,Dialog,Haruhi,「それじゃあ、行きましょうか」,"Well then, shall we go?",,,
+110_2_6.json,2879,Dialog,Honey,「うん！」,Yep!,,,
+110_2_6.json,2884,Dialog,Mori,「……ああ」,...Yeah.,,,
+110_2_6.json,2892,Dialog,,改めてジャングルを探索していると――。,As we resumed exploring the jungle-,,,
+110_2_6.json,2893,Dialog,,ガサッ。,Rustle.,,,
+110_2_6.json,2894,Dialog,,がさっと茂みがゆれた。今度は何か出てくるの,"The bushes rustled. I wondered if
+something",,,
+110_2_6.json,2895,Dialog,,かと思ったら……。,"would come out this time, but...",,,
+110_2_6.json,2907,Dialog,Hikaru & Kaoru,「よ〜ハルヒ！」,"Yo, Haruhi!",,,
+110_2_6.json,2917,Dialog,Honey,「あ、ヒカちゃんとカオちゃんだ」,"Oh, it is Hika-chan and Kao-chan.",,,
+110_2_6.json,2919,Dialog,Honey,さっきの環先輩たちと同じく、光たちのコース,"Apparently Hikaru and the others'
+course connected",,,
+110_2_6.json,2920,Dialog,Honey,もこことつながっていたらしい。,"here too, just like Tamaki-senpai's
+group earlier.",,,
+110_2_6.json,2921,Dialog,Honey,お互いに情報を交換するものの、やはり手がか,"We exchanged information, but as
+expected,",,,
+110_2_6.json,2922,Dialog,Honey,りはゼロ。,there were no clues at all.,,,
+110_2_6.json,2924,Dialog,Haruhi,「はあ……、やっぱり」,Sigh... I figured.,,,
+110_2_6.json,2931,Dialog,Mori,「日が暮れるまでまだ時間はある」,There is still time before sunset.,,,
+110_2_6.json,2933,Dialog,Haruhi,「そうですね。じゃあ、もう少しお願い……」,"Right. Then please keep looking a
+little longer...",,,
+110_2_6.json,2946,Dialog,Hikaru,「おー、またあとでな」,"Okay, see you later.",,,
+110_2_6.json,2948,Dialog,Kaoru,「きっと見つかるよ」,I am sure we will find it.,,,
+110_2_6.json,2954,Dialog,Kaoru,光たちと別れたあと、しばらく捜し続けたけれ,"After we parted from Hikaru and the
+others, we",,,
+110_2_6.json,2955,Dialog,,ど、何も見つからなかった。,"kept searching for a while, but
+found nothing.",,,
+110_2_6.json,2957,Dialog,Haruhi,「……戻りましょうか」,...Shall we head back?,,,
+110_2_6.json,2969,Dialog,Honey,「ごめんね、見つけられなくて」,Sorry we could not find it.,,,
+110_2_6.json,2974,Dialog,Mori,「……すまない」,...Sorry.,,,
+110_2_6.json,2976,Dialog,Haruhi,「いえ、そんな……」,"No, that's not true...",,,
+110_2_6.json,2985,Dialog,,合流場所で無事に全員そろったけど、収穫は何,"Everyone gathered safely at the
+meeting",,,
+110_2_6.json,2986,Dialog,,もなかった。,"point, but we had found nothing.",,,
+110_2_6.json,2994,Dialog,Tamaki,みんな、かなりクタクタに疲れているのが顔,"Just looking at their faces, I could",,,
+110_2_6.json,2995,Dialog,Tamaki,を見てわかる。なんだか、申し訳ない気持ち,"tell everyone was completely worn
+out.",,,
+110_2_6.json,2996,Dialog,Tamaki,になってきた。,I started to feel kind of guilty.,,,
+110_2_6.json,2999,Dialog,Haruhi,「はあ……」,Uh-huh...,,,
+110_2_6.json,3011,Dialog,Hikaru,「どうしよっか……？」,What should we do...?,,,
+110_2_6.json,3013,Dialog,Kaoru,「うん……」,Right...,,,
+110_2_6.json,3022,Dialog,Honey,「僕、おなかすいちゃった……」,I am hungry...,,,
+110_2_6.json,3030,Dialog,Mori,「大丈夫か」,Are you all right?,,,
+110_2_6.json,3033,Dialog,Haruhi,「場所を間違えたのかなあ……」,Maybe I got the place wrong...,,,
+110_2_6.json,3041,Dialog,Honey,「……あれっ？」,...Huh?,,,
+110_2_6.json,3054,Dialog,Mori,「どうした、光邦」,"What is it, Mitsukuni?",,,
+110_2_6.json,3059,Dialog,Honey,「あんなところに、封筒があるよ」,There is an envelope over there.,,,
+110_2_6.json,3061,Dialog,Haruhi,「……こんなところに？」,...In a place like this?,,,
+110_2_6.json,3064,Dialog,Haruhi,封筒はあのときに渡されたものと同じで、あて,"The envelope was the same as the one
+I was given then,",,,
+110_2_6.json,3065,Dialog,Haruhi,先には『藤岡ハルヒ様』とだけ書いてある。,"and the address only said, 'To
+Haruhi Fujioka.'",,,
+110_2_6.json,3066,Dialog,Haruhi,なかには『×』印の書かれた地図が入っていた。,Inside was a map marked with an X.,,,
+110_2_6.json,3067,Dialog,Haruhi,場所を確認すると、どうやら誰も捜していない,"When we checked the location, it
+seemed",,,
+110_2_6.json,3068,Dialog,,ところみたいだった。,to be a place no one had searched.,,,
+110_2_6.json,3070,Dialog,Haruhi,「……最初に見つけてれば良かったですね」,"...It would have been nice if we had
+found this first.",,,
+110_2_6.json,3077,Dialog,Tamaki,「過ぎたことを言ってもしかたがなかろう。,"There is no use talking about what
+is already past.",,,
+110_2_6.json,3078,Dialog,Tamaki,とにかく行くぞ！　桜蘭ホスト部、出動だ！」,"At any rate, let us go! Ouran Host
+Club, move out!",,,
+110_2_6.json,3080,Dialog,Tamaki,環先輩のひと声で、ぞろぞろと地図の場所へと,"At Tamaki-senpai's command, we all
+started",,,
+110_2_6.json,3081,Dialog,Tamaki,歩き出した。,walking toward the place on the map.,,,
+110_2_6.json,3083,Dialog,Tamaki,いかにも怪しい洞窟の入り口に到着。,"We arrived at the entrance to an
+extremely suspicious-looking cave.",,,
+110_2_6.json,3084,Dialog,,こんなところがあったんだ……。,So there was a place like this...,,,
+110_2_6.json,3092,Dialog,Tamaki,「いいか皆の衆、この先にどんな危険が待ち受,"Listen well, all of you. Whatever
+dangers",,,
+110_2_6.json,3093,Dialog,Tamaki,けているやもしれん――」,may await us beyond this point-,,,
+110_2_6.json,3095,Dialog,Tamaki,話している環先輩の横を通り過ぎ、ハニー先輩、,"As Tamaki-senpai was talking,
+Honey-senpai, Mori-senpai, and
+Kyoya-senpai",,,
+110_2_6.json,3096,Dialog,Tamaki,モリ先輩、鏡夜先輩の順に洞窟に入っていく。,"passed by him and entered the cave,
+in that order.",,,
+110_2_6.json,3108,Dialog,Hikaru & Kaoru,「じゃあ殿、お先にー」,"Well then, milord, we are going on
+ahead.",,,
+110_2_6.json,3111,Dialog,Hikaru & Kaoru,光と馨が洞窟に入ると、話を無視された環先輩,"When Hikaru and Kaoru entered the
+cave, Tamaki-senpai, whose speech
+had",,,
+110_2_6.json,3112,Dialog,Hikaru & Kaoru,が洞窟の脇でひざを抱えてすねてしまった。,"been ignored, crouched beside the
+cave hugging his knees and sulking.",,,
+110_2_6.json,3121,Dialog,Haruhi,「行かないんですか？」,Aren't you going?,,,
+110_2_6.json,3126,Dialog,Tamaki,「……行く」,...I am going.,,,
+110_2_6.json,3140,Dialog,Honey,「あれえ、もう行き止まりだ」,"Huh, it is already a dead end.",,,
+110_2_6.json,3148,Dialog,Mori,「…………ん」,...Hm.,,,
+110_2_6.json,3150,Dialog,Haruhi,「何かありました？」,Did you find something?,,,
+110_2_6.json,3151,Dialog,Haruhi,モリ先輩の差し出した物は――。,What Mori-senpai held out was-,,,
+110_2_6.json,3153,Dialog,Haruhi,「……お父さんのだ」,...It is Dad's.,,,
+110_2_6.json,3154,Dialog,Haruhi,自分が小学生のときに、プレゼントしたイヤリ,An earring I gave him when,,,
+110_2_6.json,3155,Dialog,Haruhi,ング。,I was in elementary school.,,,
+110_2_6.json,3163,Dialog,Tamaki,「ハルヒ……」,Haruhi...,,,
+110_2_6.json,3165,Dialog,Haruhi,「……手がかりも見つかりましたから、今日は,"...Now that we have found a clue,",,,
+110_2_6.json,3166,Dialog,Haruhi,もうお終いにしましょうか」,shall we call it a day?,,,
+110_2_6.json,3171,Dialog,Tamaki,「それでいいのか？　……やっと手がかりが見,Are you sure about that? ...We,,,
+110_2_6.json,3172,Dialog,Tamaki,つかったんだぞ？」,"finally found a clue, you know.",,,
+110_2_6.json,3174,Dialog,Haruhi,「何も見つからないよりは、安心できましたよ」,"It is more reassuring than finding
+nothing at all.",,,
+110_2_6.json,3181,Dialog,,鏡夜先輩の案内で、近くの別荘にホスト部一同,"With Kyoya-senpai guiding us, the
+entire",,,
+110_2_6.json,3182,Dialog,,はたどりついた。,Host Club arrived at a nearby villa.,,,
+110_2_6.json,3190,Dialog,Ranka,「あ〜ら、ハルヒ〜。遅かったわね〜？」,"Oh my, Haruhi~. You certainly took
+your time~",,,
+110_2_6.json,3192,Dialog,Haruhi,「お父さん！」,Dad!,,,
+110_2_6.json,3193,Dialog,Haruhi,#Color[7]#Scale[1.8]事件解決？,#Color[7]#Scale[1.8]Case solved?,,,
+110_2_6.json,3198,Dialog,Ranka,「お先してま〜す」,I went on ahead~,,,
+110_2_6.json,3211,Dialog,Tamaki,「お父さん……、事情を――」,Dad... I need to explain-,,,
+110_2_6.json,3217,Dialog,Ranka,「気安くお父さんなんて呼ばないでくれるかし,Would you please not call,,,
+110_2_6.json,3218,Dialog,Ranka,ら」,me Dad so casually?,,,
+110_2_6.json,3224,Dialog,Tamaki,「うっ……」,Ugh...,,,
+110_2_6.json,3233,Dialog,Kyoya,「――事情は、俺のほうから説明しよう」,"-I will explain the situation
+myself.",,,
+110_2_6.json,3234,Dialog,Kyoya,リサーチをかねて、公開前のスパリゾートにお,"When it was decided that Dad would
+be invited to the spa",,,
+110_2_6.json,3235,Dialog,Kyoya,父さんを招待することになったとき、せっかく,"resort before it opened as part of
+the research, things",,,
+110_2_6.json,3236,Dialog,Kyoya,だから自分も――、という展開になって……。,"turned into, since we were at it, I
+should come too...",,,
+110_2_6.json,3237,Dialog,Kyoya,普通に招待しても断るだろうから、ミステリー,"They figured he would refuse a
+normal invitation,",,,
+110_2_6.json,3238,Dialog,Kyoya,ツアーの仕掛けを考えて、わざわざ誘拐なんて,"so they came up with a mystery tour
+setup and even",,,
+110_2_6.json,3239,Dialog,Kyoya,いうことで――。,"went out of their way to call it a
+kidnapping-",,,
+110_2_6.json,3240,Dialog,,今回の一件が計画された……。思い返してみれ,"That was how this whole incident was
+planned...",,,
+110_2_6.json,3241,Dialog,,ば、鏡夜先輩が休みの過ごし方を聞いたときか,"Looking back, it started when
+Kyoya-senpai",,,
+110_2_6.json,3242,Dialog,,ら、始まってたんだ。,asked how I spent my days off.,,,
+110_2_6.json,3243,Dialog,,…………やれやれ。,...Good grief.,,,
+110_2_6.json,3252,Dialog,Ranka,「……怒ってる？」,...Are you angry?,,,
+110_2_6.json,3254,Dialog,Haruhi,「…………少し」,...A little.,,,
+110_2_6.json,3255,Dialog,Haruhi,なんにもなくて良かったけど……。,"I am glad nothing happened, but...",,,
+110_2_6.json,3257,Dialog,Haruhi,「もうこんなことしないでよ。心配したんだか,Do not do something like this,,,
+110_2_6.json,3258,Dialog,Haruhi,ら」,again. I was worried.,,,
+110_2_6.json,3263,Dialog,Ranka,「ハルヒ……、ごめんね」,Haruhi... I am sorry.,,,
+110_2_6.json,3265,Dialog,Haruhi,「もういいですよ」,It is all right now.,,,
+110_2_6.json,3273,Dialog,Tamaki,「いちおう……、良かったんだよな？」,"For now... this is good, right?",,,
+110_2_6.json,3276,Dialog,Haruhi,「人騒がせなことに巻き込まれて、１日を無駄,"Except for the part where I got
+dragged into",,,
+110_2_6.json,3277,Dialog,Haruhi,に過ごしたことを除けばですけど」,"a huge commotion and wasted an
+entire day.",,,
+110_2_6.json,3282,Dialog,Tamaki,「……よし。ならば、明日の日曜日を有意義に,"...Good. In that case, let us make",,,
+110_2_6.json,3283,Dialog,Tamaki,過ごそうではないか！」,"meaningful use of tomorrow, Sunday!",,,
+110_2_6.json,3296,Dialog,Hikaru & Kaoru,「さんせーい」,Agreed.,,,
+110_2_6.json,3306,Dialog,Honey,「わーーーい！」,Yaaay!,,,
+110_2_6.json,3308,Dialog,Honey,……できれば自分は、帰って掃除と洗濯がした,"...If possible, I would rather go
+home and",,,
+110_2_6.json,3309,Dialog,Honey,いんですけど。,"do the cleaning and laundry, though.",,,
+110_2_6.json,3316,Dialog,Ranka,「たまにはいいんじゃないの」,"It is all right once in a while,
+isn't it?",,,
+110_2_6.json,3318,Dialog,Haruhi,「お父さん……」,Dad...,,,
+110_2_6.json,3323,Dialog,Ranka,「のんびりしようね？」,"Let us take it easy, okay?",,,
+110_2_6.json,3325,Dialog,Haruhi,「……うん」,...Okay.,,,
+110_2_6.json,3332,Dialog,,……誘拐なんておかしいとは思ってたけど、ま,...I did think a kidnapping was,,,
+110_2_6.json,3333,Dialog,,さか自分をここに連れてくるためのウソだった,"strange, but I never imagined",,,
+110_2_6.json,3334,Dialog,,なんて。,it was a lie to bring me here.,,,
+110_2_6.json,3335,Dialog,,まあせっかくきたんだし、温泉に入るのは楽し,"Well, since we came all this way, I
+am",,,
+110_2_6.json,3336,Dialog,,みだけど。,looking forward to the hot springs.,,,
+110_2_6.json,3337,Dialog,,明日はお父さんとのんびりして……、帰ったら,"Tomorrow I will relax with Dad...
+and when I get home, I",,,
+110_2_6.json,3338,Dialog,,スーパーに行って、掃除と洗濯しないと。,"need to go to the supermarket, then
+clean and do laundry.",,,
+110_2_6.json,3340,Dialog,,眠くなってきた……。,I am getting sleepy...,,,
+110_2_6.json,3341,Dialog,,パソコンのチェック、しておかないと……。,I need to check my computer...,,,
+110_2_6.json,3344,Dialog,,……今日は本当に、疲れたなあ。,...Today really wore me out.,,,

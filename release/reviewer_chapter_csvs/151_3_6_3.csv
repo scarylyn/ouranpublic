@@ -1,0 +1,804 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+151_3_6_3.json,14,Dialog,,部室は、重苦しい雰囲気に包まれていた。,"The clubroom was enveloped in a
+heavy atmosphere.",,,
+151_3_6_3.json,16,Dialog,Renge,「まさか、まさかの結果発表ですわ……」,It's the unexpected results...,,,
+151_3_6_3.json,21,Dialog,Renge,「絢爛ホスト部の勝利、つまり……、環さんは,The splendid Host Club's victory...,,,
+151_3_6_3.json,22,Dialog,Renge,レオさんのものに……！」,means you belong to Leo-sama...!,,,
+151_3_6_3.json,27,Dialog,Sayuri,「桜蘭ホスト部が……」,Our Ouran Host Club...,,,
+151_3_6_3.json,41,Dialog,Leo,「環、ボクたちの勝ちだよ」,"Tamaki, we won!",,,
+151_3_6_3.json,46,Dialog,Tamaki,「無念だ……」,It's a shame...,,,
+151_3_6_3.json,47,Dialog,Tamaki,ホスト部が負けてしまった。ということはつま,The Host Club lost...,,,
+151_3_6_3.json,48,Dialog,Tamaki,り……。,Which means...,,,
+151_3_6_3.json,53,Dialog,Leo,「ボクはうれしいよ。これから一緒に、絢爛ホ,"I'm happy. Let's work together to
+make the",,,
+151_3_6_3.json,54,Dialog,Leo,スト部を盛り上げていこうね」,"Extravagant Host Club even more
+popular.",,,
+151_3_6_3.json,59,Dialog,Tamaki,「待て！　ハルヒも、なんとか言ってくれ！」,"Wait! Haruhi, say something!",,,
+151_3_6_3.json,61,Dialog,Haruhi,「……ごめんなさい」,...I am sorry.,,,
+151_3_6_3.json,83,Dialog,Renge,「さあ、今ここに始まりました、世紀の対戦！,"And so, here we begin, the battle of
+the century!",,,
+151_3_6_3.json,84,Dialog,Renge,我が桜蘭ホスト部ＶＳ絢爛ホスト部。実況は、,"Our Ouran Host Club VS the Splendor
+Host Club. Commentary",,,
+151_3_6_3.json,85,Dialog,Renge,宝積寺れんげが務めさせていただきますわ」,"will be provided by Renge
+Houshakuji.",,,
+151_3_6_3.json,86,Dialog,Renge,れんげちゃんが実況役なのはいいんだけど――。,"I don't mind Renge being the
+commentator--.",,,
+151_3_6_3.json,88,Dialog,Sayuri,「ア、アシスタントの……、姫宮小百合です」,A-Assistant... Sayuri Himemiya.,,,
+151_3_6_3.json,89,Dialog,Sayuri,どうして小百合まで……。あの困っている様子,"Why Sayuri too... Seeing her
+flustered like that,",,,
+151_3_6_3.json,90,Dialog,Sayuri,を見ると、いきなりお願いされたんだろうなあ。,"she must have been asked to do it
+suddenly.",,,
+151_3_6_3.json,95,Dialog,Renge,「待ちに待った因縁の対決ですが、今回の勝負,"Long-awaited grudge match, but what
+do you",,,
+151_3_6_3.json,96,Dialog,Renge,をどう思いますか、姫宮さん？」,"think of this contest, Miss
+Himemiya?",,,
+151_3_6_3.json,102,Dialog,Sayuri,「あの、宝積寺さん……。私には、『因縁』と,"Um, Houjyuji-san... I don't really",,,
+151_3_6_3.json,103,Dialog,Sayuri,かよくわからないんだけど……」,get what 'destiny' means...,,,
+151_3_6_3.json,109,Dialog,Renge,「姫宮さん！　そういうことは脳内で補完して,Ms. Himemiya! You have to fill,,,
+151_3_6_3.json,110,Dialog,Renge,いただかなくては困りますわ」,in the blanks in your head!,,,
+151_3_6_3.json,116,Dialog,Sayuri,「は……、はい？」,H-Hi?,,,
+151_3_6_3.json,124,Dialog,Renge,「第１試合は、『ネコ探し』です！　それでは、,"The first game is 'Find the Cat'!
+Now then,",,,
+151_3_6_3.json,125,Dialog,Renge,参加する選手の紹介ですわ」,let me introduce the participants!,,,
+151_3_6_3.json,130,Dialog,Renge,「桜蘭ホスト部からは、環さん、鏡夜様の登場,Ladies and gentlemen! From the Ouran,,,
+151_3_6_3.json,131,Dialog,Renge,です！」,"Host Club, Tamaki and Kyoya!",,,
+151_3_6_3.json,144,Dialog,,きゃ〜〜〜！,Kyaa!!!,,,
+151_3_6_3.json,159,Dialog,Sayuri,「絢爛学園からは、レオさんと、その他,"From the Extravagant Academy,",,,
+151_3_6_3.json,160,Dialog,Sayuri,２名……？」,Leo-san and two others...?,,,
+151_3_6_3.json,161,Dialog,Sayuri,その他２名？　『その他』ってなんだろう？,"Two others? What does ""others"" mean?",,,
+151_3_6_3.json,170,Dialog,Kyoya,「あの２人は、絢爛学園探偵部の部長と副部長,"They're the president and
+vice-president of",,,
+151_3_6_3.json,171,Dialog,Kyoya,だな」,"the Extravagant Academy Detective
+Club.",,,
+151_3_6_3.json,172,Dialog,Kyoya,すでに情報はつかんでいるらしく、鏡夜先輩が,"It seemed he already knew the
+information,",,,
+151_3_6_3.json,173,Dialog,Kyoya,さらっと教えてくれた。,and Kyoya-senpai casually told me.,,,
+151_3_6_3.json,175,Dialog,Haruhi,「ホスト部とは関係ないですけど……」,"It's not related to the Host Club...
+but...",,,
+151_3_6_3.json,176,Dialog,Haruhi,この勝負、大丈夫なのかな……。,I wonder if I can win this...,,,
+151_3_6_3.json,190,Dialog,Renge,「ターゲットは、白い靴下柄の黒ネコですわ。,"The target is a black cat with white
+sock patterns.",,,
+151_3_6_3.json,191,Dialog,Renge,首輪には鈴がついてますから、音も頼りにして,Please rely on the sound,,,
+151_3_6_3.json,192,Dialog,Renge,くださいませ」,of the bell as well~」,,,
+151_3_6_3.json,197,Dialog,Renge,「それでは第１回戦、スタートですわっ！！」,"And so, the first round starts now!!",,,
+151_3_6_3.json,200,Dialog,Renge,#Color[7]#Scale[1.8]ネコ探し,#Color[7]#Scale[1.8]Find the Cat,,,
+151_3_6_3.json,201,Dialog,Renge,パン！,Punch!,,,
+151_3_6_3.json,202,Dialog,Renge,れんげちゃんの合図で、第１回戦が始まった。,"The first round began at Renge's
+signal.",,,
+151_3_6_3.json,210,Dialog,Tamaki,「行ってくる！」,「I'm going!」,,,
+151_3_6_3.json,212,Dialog,Tamaki,鏡夜先輩を置いて、環先輩が飛び出していく。,"Tamaki-senpai runs off and leaves
+Kyoya-senpai behind.",,,
+151_3_6_3.json,219,Dialog,Kyoya,「勝手に突っ走るな」,Don't run off on your own.,,,
+151_3_6_3.json,221,Dialog,Kyoya,鏡夜先輩も、環先輩を追って駆けていった。２,Kyoya-senpai ran after Tama-chan.,,,
+151_3_6_3.json,222,Dialog,Kyoya,人のいた場所に、ポツンと残された小さなカバ,Left behind where,,,
+151_3_6_3.json,223,Dialog,Kyoya,ン。,they were... a small bag.,,,
+151_3_6_3.json,225,Dialog,Haruhi,「……先輩たちのかな？」,"...Is it yours, senpai?",,,
+151_3_6_3.json,226,Dialog,Haruhi,中身は、たくさんのネコグッズだった。ネコを,"Inside were lots of cat-related
+items... things",,,
+151_3_6_3.json,227,Dialog,Haruhi,捕まえるのに役に立ちそうなものばっかり……。,"that seemed useful for catching
+cats.",,,
+151_3_6_3.json,228,Dialog,Haruhi,これって、忘れちゃいけないものなんじゃない,You shouldn't forget,,,
+151_3_6_3.json,229,Dialog,Haruhi,かな？,"this, right?",,,
+151_3_6_3.json,230,Dialog,Haruhi,――あれから１０分くらい過ぎて。,"--About ten minutes have passed
+since then.",,,
+151_3_6_3.json,237,Dialog,Leo,「やった！　ボクが捕まえたよ！」,Yay! I caught it!,,,
+151_3_6_3.json,238,Dialog,Leo,ネコを抱えたレオさんが、うれしそうに戻って,Leo returned happily with,,,
+151_3_6_3.json,239,Dialog,Leo,きた。,a cat in his arms.,,,
+151_3_6_3.json,248,Dialog,Hikaru,「あれ、殿たち負けちゃった？」,"Hey, did you guys lose?",,,
+151_3_6_3.json,249,Dialog,Hikaru,はあ、やっぱり……。イヤな予感はしたけど。,"I see... I had a bad feeling about
+this.",,,
+151_3_6_3.json,258,Dialog,Tamaki,「やられた……」,I'm done for...,,,
+151_3_6_3.json,266,Dialog,Kyoya,「おまえが預けた荷物を忘れるからだ、バカが」,"Because you forget the stuff I leave
+with you, idiot.",,,
+151_3_6_3.json,267,Dialog,Kyoya,ああ、やっぱりあのカバンは環先輩の持ち物だっ,"Oh, so that bag was Tama-chan's",,,
+151_3_6_3.json,268,Dialog,Kyoya,たのか。,after all.,,,
+151_3_6_3.json,270,Dialog,Haruhi,「ちょっとマズイ展開ですね」,This is getting complicated.,,,
+151_3_6_3.json,271,Dialog,Haruhi,最初の１本を取られてしまった。,The first one was taken from me.,,,
+151_3_6_3.json,277,Dialog,,しかし、鏡夜先輩は、この期に及んで余裕の笑,"However, Kyoya-senpai still",,,
+151_3_6_3.json,278,Dialog,,みを浮かべた。,wore a smug smile.,,,
+151_3_6_3.json,280,Dialog,Kyoya,「なに、まだ次の２本を取り返せばいいだけの,"「What, it's just a matter of",,,
+151_3_6_3.json,281,Dialog,Kyoya,ことだ」,getting back the next two.」,,,
+151_3_6_3.json,282,Dialog,Kyoya,それってもう負けられないってことだよなあ。,"That means we can't afford to lose
+anymore, huh?",,,
+151_3_6_3.json,283,Dialog,Kyoya,責任重大だ……。,This is serious...,,,
+151_3_6_3.json,302,Dialog,Renge,「さあお次は……。第２回戦！　『金魚すくい』,"All right then... Round Two!
+'Goldfish Scooping'!",,,
+151_3_6_3.json,303,Dialog,Renge,ですわっ！」,That's it!」,,,
+151_3_6_3.json,308,Dialog,Renge,「中庭の池に数百匹の金魚が放されています。,"There are hundreds of goldfish in
+the pond in the courtyard.",,,
+151_3_6_3.json,309,Dialog,Renge,あの広さで金魚をすくうのは難しそうです……」,"It doesn't look easy to catch
+goldfish in that size...」",,,
+151_3_6_3.json,310,Dialog,Renge,この広さで金魚すくいと言い張ること自体が難,"It's hard to even claim that
+goldfish",,,
+151_3_6_3.json,311,Dialog,Renge,しいんじゃないかな……。,scooping would work in this space...,,,
+151_3_6_3.json,316,Dialog,Renge,「それでは、参加選手の紹介です！　桜蘭ホス,"And now, introducing our
+contestants! From",,,
+151_3_6_3.json,317,Dialog,Renge,ト部からは光くん、馨くんですわ！」,"Ouran's Host Club, Hikaru and Kaoru!",,,
+151_3_6_3.json,331,Dialog,,きゃ〜〜〜！,Kyaa!!!,,,
+151_3_6_3.json,332,Dialog,,光と馨が前に進み出ると、歓声がわきあがった。,"Hikaru and Kaoru stepped forward,
+eliciting cheers.",,,
+151_3_6_3.json,337,Dialog,Hikaru,「……馨、わかってるだろ」,"「...Kaoru, you know what I mean,
+right?」",,,
+151_3_6_3.json,342,Dialog,Kaoru,「うん……。でも……、恥ずかしいよ、光……」,"Yeah... But... It's embarrassing,
+Hikaru...",,,
+151_3_6_3.json,347,Dialog,Hikaru,「大丈夫だよ、僕も一緒だから……」,"I'm with you, so it'll be okay...",,,
+151_3_6_3.json,349,Dialog,Kaoru,「光が、そう言うなら……」,If Hikaru says so...,,,
+151_3_6_3.json,350,Dialog,Kaoru,言いながら２人は制服に手をかけて――。,"As they spoke, the two of them
+reached for their uniforms --.",,,
+151_3_6_3.json,354,Dialog,Kaoru,バッ！,Bang!,,,
+151_3_6_3.json,355,Dialog,Kaoru,勢い良く制服を脱ぎ捨てた。,I threw off my uniform with vigor.,,,
+151_3_6_3.json,374,Dialog,Renge,「んーーーーーーっ！！　見逃せないサービス,Ah!! It's a service,,,
+151_3_6_3.json,375,Dialog,Renge,ショットですわっ！」,shot you can't miss!,,,
+151_3_6_3.json,378,Dialog,Sayuri,「なななな、何で脱ぐのよっ！」,"Wh-W-Why are you taking off your
+clothes!",,,
+151_3_6_3.json,387,Dialog,Renge,「あら……？」,Oh...?,,,
+151_3_6_3.json,402,Dialog,Hikaru,「ぜんぶ脱ぐわけないでしょ」,I'm not stripping completely.,,,
+151_3_6_3.json,404,Dialog,Kaoru,「水着だよ、み・ず・ぎ」,"Swimsuit, m-i-z-u-g-wa.",,,
+151_3_6_3.json,420,Dialog,Hikaru & Kaoru,「ハルヒもびっくりした？」,Did Haruhi get surprised too?,,,
+151_3_6_3.json,422,Dialog,Haruhi,「別に」,Whatever.,,,
+151_3_6_3.json,431,Dialog,Hikaru & Kaoru,「なんだ、つまんないの」,Boring.,,,
+151_3_6_3.json,432,Dialog,Hikaru & Kaoru,つまんないって言われても、困るんだけど。,"I'm troubled when you say it's
+boring.",,,
+151_3_6_3.json,448,Dialog,Renge,「いいえ、水着は水着でおいしいですわ。ね、,"No, swimsuits are delicious in their",,,
+151_3_6_3.json,449,Dialog,Renge,姫宮さん」,"own way. Right, Miss Himemiya?",,,
+151_3_6_3.json,455,Dialog,Sayuri,「わっ、私にふらないでよっ！　そんなこと,"Wait, don't ignore me! Besides,",,,
+151_3_6_3.json,456,Dialog,Sayuri,より、ほら、絢爛チームの選手も……、って、,"look, the players on the Extravagant",,,
+151_3_6_3.json,457,Dialog,Sayuri,ええっ！？」,Team are... what?!,,,
+151_3_6_3.json,458,Dialog,Sayuri,ギャラリーからもどよめきが上がる。,An uproar rises from the gallery.,,,
+151_3_6_3.json,474,Dialog,Hikaru,「……何、アレ？」,...What's that?,,,
+151_3_6_3.json,477,Dialog,Kaoru,「あれで、僕らと同い年なの？」,Is she really our age?,,,
+151_3_6_3.json,480,Dialog,Kaoru,現れたのは、かなり老けた感じの２人組。どう,"The two people who appeared looked
+quite old.",,,
+151_3_6_3.json,481,Dialog,Kaoru,見ても確実に５０才は過ぎてるかと……。,"They definitely had to be over
+fifty...",,,
+151_3_6_3.json,489,Dialog,Kyoya,「おそらく、金魚すくいのプロフェッショナル,Probably brought in professional,,,
+151_3_6_3.json,490,Dialog,Kyoya,を連れてきたんだろう」,goldfish scoopers.,,,
+151_3_6_3.json,492,Dialog,Haruhi,「それって、反則なんじゃないですか？　生徒,"That's not fair, right? Letting
+someone",,,
+151_3_6_3.json,493,Dialog,Haruhi,でもない人が参加するなんて」,"who's not even a student
+participate.",,,
+151_3_6_3.json,501,Dialog,Kyoya,「いや、問題ないよう手を回してあるだろう。,"No, I'm sure it's already taken care
+of.",,,
+151_3_6_3.json,502,Dialog,Kyoya,……もしかしたら今この時点においては、あの,"...Maybe at this point, those",,,
+151_3_6_3.json,503,Dialog,Kyoya,２人も生徒なのかもしれない」,two are still students too.,,,
+151_3_6_3.json,508,Dialog,Kyoya,「もっとも、明日にはもう生徒ではなくなって,"Of course, you won't be",,,
+151_3_6_3.json,509,Dialog,Kyoya,いるだろうがな」,a student tomorrow.,,,
+151_3_6_3.json,510,Dialog,Kyoya,そんなことまでするなんて……。,You'd go that far...?,,,
+151_3_6_3.json,525,Dialog,Renge,「それでは第２回戦、スタートですわっ！」,"And so, the second round starts now!",,,
+151_3_6_3.json,529,Dialog,Renge,#Color[7]#Scale[1.8]金魚すくい,#Color[7]#Scale[1.8]Goldfish scooping,,,
+151_3_6_3.json,530,Dialog,Renge,パン！,Punch!,,,
+151_3_6_3.json,531,Dialog,Renge,れんげちゃんの合図で、いよいよ第２回戦が始,"With Renge's signal, the second",,,
+151_3_6_3.json,532,Dialog,,まった。,round finally began.,,,
+151_3_6_3.json,544,Dialog,Hikaru,「行くよ、馨！」,"Let's go, Kaoru!",,,
+151_3_6_3.json,547,Dialog,Kaoru,「うん！」,Yep!,,,
+151_3_6_3.json,550,Dialog,Kaoru,バシャ！,Splash!,,,
+151_3_6_3.json,551,Dialog,Kaoru,いきなり水に飛び込んだ馨が金魚を追う。光の,"Kaoru dives in and chases the
+goldfish. He",,,
+151_3_6_3.json,552,Dialog,Kaoru,方へ追い込んで、それを光がすくう作戦らしい。,"drives it toward Hikaru, who catches
+it.",,,
+151_3_6_3.json,553,Dialog,Kaoru,金魚すくいというより、川遊びとかに近い気が,It feels more like playing in a,,,
+151_3_6_3.json,554,Dialog,,するなあ……。,river than catching goldfish...,,,
+151_3_6_3.json,555,Dialog,,一方、相手チームは普通に黙々と金魚をすくっ,"On the other hand, the opposing team",,,
+151_3_6_3.json,556,Dialog,,ている。,"silently scoops up goldfish
+normally.",,,
+151_3_6_3.json,557,Dialog,,その手つきは職人っぽいのだけど、この広い水,"Your movements look professional,
+but you can't",,,
+151_3_6_3.json,558,Dialog,,場で、小さな金魚を追いきれるものじゃない。,"catch a small goldfish in such a
+large pond.",,,
+151_3_6_3.json,559,Dialog,,しかも光と馨が池のなかで暴れるせいで、うま,"And because Hikaru and Kaoru are
+causing trouble",,,
+151_3_6_3.json,560,Dialog,,く捕まえられないみたいだ。,"in the pond, we can't catch it
+properly.",,,
+151_3_6_3.json,567,Dialog,Hikaru,「やりーっ！　江戸地金ゲット！」,Yay! Got some Edo gold!,,,
+151_3_6_3.json,582,Dialog,Renge,「ふたごチーム、早くも高得点の江戸地金を,The Twin Team seems to have already,,,
+151_3_6_3.json,583,Dialog,Renge,ゲットしたようです！」,scored big with Edo gold!,,,
+151_3_6_3.json,592,Dialog,Ou,「あなた方、それでもプロですか！？」,Are you guys still pros!?,,,
+151_3_6_3.json,593,Dialog,Ou,やっぱりあの人たち、プロなんだ……。,"I guess those guys really are
+professionals...",,,
+151_3_6_3.json,594,Dialog,Ou,でも、プロにこんなイレギュラーな勝負は、か,But maybe this irregular match,,,
+151_3_6_3.json,595,Dialog,Ou,えって難しいのかも。,is actually harder for pros.,,,
+151_3_6_3.json,597,Dialog,Ou,ピーーーーーーーーッ！,Beep!,,,
+151_3_6_3.json,610,Dialog,Renge,「終了ですわーーーーっ！」,Game over!!!~,,,
+151_3_6_3.json,611,Dialog,Renge,こちらは大物の江戸地金をゲット。対して絢爛,"We got a big catch here. In
+contrast, the Extravagant",,,
+151_3_6_3.json,612,Dialog,Renge,ホスト部は、小物を数匹という状況だ。,Host Club has several small ones.,,,
+151_3_6_3.json,613,Dialog,Renge,ということは……。,That means...,,,
+151_3_6_3.json,618,Dialog,Renge,「桜蘭ホスト部の勝利ですわっ！」,"It's a victory for the Ouran Host
+Club!",,,
+151_3_6_3.json,633,Dialog,Hikaru & Kaoru,「イエーーーーーーーイ！」,Yaaaaaay!,,,
+151_3_6_3.json,634,Dialog,Hikaru & Kaoru,すごい、どうなるかと思ったけど勝った……。,"Wow, I thought for sure I'd lose...
+but I won.",,,
+151_3_6_3.json,635,Dialog,Hikaru & Kaoru,これで１対１。次で勝負が決まる。,"This is one on one. The next move
+will decide it all.",,,
+151_3_6_3.json,655,Dialog,Renge,「いよいよ第３試合！　ここまでは１勝１敗、,And now for match three! So far,,,
+151_3_6_3.json,656,Dialog,Renge,まったくの互角！　勝負はこの最終戦で決まり,"it's one win each, completely even!",,,
+151_3_6_3.json,657,Dialog,Renge,ます！」,The deciding battle is here!,,,
+151_3_6_3.json,659,Dialog,Sayuri,「つまり、次の勝負に負けると、今までの苦労,"In other words, if I lose the next
+match,",,,
+151_3_6_3.json,660,Dialog,Sayuri,がすべて水の泡ということです……」,"all my hard work will be for
+nothing...",,,
+151_3_6_3.json,669,Dialog,Tamaki,「そうだ！　勝たないと、俺が絢爛へ編入させ,"That's right! If we lose, I'll be
+transferred",,,
+151_3_6_3.json,670,Dialog,Tamaki,られてしまうのだ！」,"to the Extracurricular Activities
+Division!",,,
+151_3_6_3.json,678,Dialog,Hikaru,「まあ、サイアクしょーがないよね〜」,"Well, it's not that bad~",,,
+151_3_6_3.json,694,Dialog,Tamaki,「な、な……。皆の衆、俺への愛はその程度な,N-N... Is that all you,,,
+151_3_6_3.json,695,Dialog,Tamaki,のか……？」,"love me, guys...?",,,
+151_3_6_3.json,703,Dialog,Honey,「タマちゃんタマちゃん」,Tama-chan Tama-chan,,,
+151_3_6_3.json,704,Dialog,Honey,がっくりとうなだれる環先輩の背中を、ハニー,Honey-senpai pats Tama-chan's,,,
+151_3_6_3.json,705,Dialog,Honey,先輩がポンポンたたく。,slumped back.,,,
+151_3_6_3.json,713,Dialog,Mori,「環、安心しろ……」,"Tamaki, calm down...",,,
+151_3_6_3.json,718,Dialog,Honey,「僕ら、負けないからね！」,We won't lose!,,,
+151_3_6_3.json,719,Dialog,Honey,ハニー先輩もモリ先輩も、自信たっぷりだ。,"Both Honey-senpai and Mori-senpai
+are so confident!",,,
+151_3_6_3.json,734,Dialog,Renge,「最終戦は『大食い対決』です！」,It's an eating contest!,,,
+151_3_6_3.json,739,Dialog,Renge,「絢爛ホスト部は、張満腹さん、張空腹さん、,"Exquisite Host Club! Zhang Full
+Belly, Zhang",,,
+151_3_6_3.json,740,Dialog,Renge,豪徳寺さんの入場です！」,"Empty Stomach, and Gokurakubo are
+here!",,,
+151_3_6_3.json,743,Dialog,Renge,その３人が姿を現したとたん、あちこちからど,"The moment those three appeared,",,,
+151_3_6_3.json,744,Dialog,Renge,よめきが起こった。,gasps echoed from all around.,,,
+151_3_6_3.json,745,Dialog,Renge,豪徳寺さんと一緒にいる２人は、まるでおすも,The two with Gouda-san are like,,,
+151_3_6_3.json,746,Dialog,,うさんのような巨体だった。,sumo wrestlers in size.,,,
+151_3_6_3.json,758,Dialog,Hikaru,「今度は何の人？」,Who's next?,,,
+151_3_6_3.json,767,Dialog,Ou,「絢爛ホスト部です」,Resplendent Host Club!,,,
+151_3_6_3.json,768,Dialog,Ou,本当ですか……！？,Is that so...!?!,,,
+151_3_6_3.json,776,Dialog,Kyoya,「向こうもなりふり構っていられないようだな」,"They seem to be in a do-or-die
+situation too.",,,
+151_3_6_3.json,777,Dialog,Kyoya,そう言いつつ、鏡夜先輩はまだ余裕の笑みを浮,"Even so, Kyoya-senpai still has",,,
+151_3_6_3.json,778,Dialog,Kyoya,かべている。,a smug smile on his face.,,,
+151_3_6_3.json,779,Dialog,Kyoya,どうしていつも、こう自信満々なんだろう。,Why are you always so confident?,,,
+151_3_6_3.json,793,Dialog,Renge,「対する桜蘭ホスト部はハニー先輩、モリ先輩、,"That's our Ouran Host Club:
+Honey-senpai,",,,
+151_3_6_3.json,794,Dialog,Renge,そしてハルヒ君ですわっ！」,"Mori-senpai, and Haruhi-kun!",,,
+151_3_6_3.json,807,Dialog,,きゃ〜〜〜！,Kyaa!!!,,,
+151_3_6_3.json,812,Dialog,Honey,「ねえ、まだ？　まだ食べちゃダメなの？」,"Hey, are you done yet? Can't I eat
+yet?",,,
+151_3_6_3.json,817,Dialog,Mori,「……まだだ……」,Not yet...,,,
+151_3_6_3.json,818,Dialog,Mori,ずらっと並んだデザートの前で、ハニー先輩は,"In front of the lined-up desserts,
+Honey-senpai is restrained.",,,
+151_3_6_3.json,819,Dialog,Mori,お預け状態。早く食べたくてうずうずしている。,"He's fidgeting with anticipation to
+eat them.",,,
+151_3_6_3.json,830,Dialog,Ou,今にも開始しようというとき、王さんが静かに,"Just as we were about to begin,
+Ootori-san",,,
+151_3_6_3.json,831,Dialog,Ou,手を上げた。,quietly raised his hand.,,,
+151_3_6_3.json,836,Dialog,Ou,「少々、ルールの改定を提案したいのですが」,"I'd like to propose a slight change
+in the rules.",,,
+151_3_6_3.json,837,Dialog,Ou,その口元に笑みが浮かぶ。いったい何を提案す,A smile appears on his lips. Just,,,
+151_3_6_3.json,838,Dialog,Ou,るつもりだろう。,what does he intend to propose?,,,
+151_3_6_3.json,846,Dialog,Renge,「まあ、ルールを？　どういうものですの？」,"Well, what are the rules?",,,
+151_3_6_3.json,851,Dialog,Ou,「この大食い対決は、規定量を食べきるまでの,"This gluttony contest is about
+seeing who",,,
+151_3_6_3.json,852,Dialog,Ou,時間を競うスタイルです」,"can finish their portion in less
+time.",,,
+151_3_6_3.json,857,Dialog,Ou,「ですが、どうしても、ビジュアル的に少々地,"But visually, it would",,,
+151_3_6_3.json,858,Dialog,Ou,味になってしまう」,be a bit plain.,,,
+151_3_6_3.json,859,Dialog,Ou,ただ食べるだけの勝負なんだから、それはしょ,"It's just a contest to eat, so I
+guess",,,
+151_3_6_3.json,860,Dialog,Ou,うがないと思うけど……。,"there's nothing we can do about
+it...",,,
+151_3_6_3.json,865,Dialog,Ou,「そこで、デザートを運ぶ担当者の妨害をして,Then how about we revise the rule to,,,
+151_3_6_3.json,866,Dialog,Ou,も構わないというルールに、改定してはいかが,allow interference with the person,,,
+151_3_6_3.json,867,Dialog,Ou,でしょう？」,in charge of bringing out dessert?,,,
+151_3_6_3.json,869,Dialog,Haruhi,「ちょっと待ってください。それは危険なんじゃ,Wait a second. Isn't,,,
+151_3_6_3.json,870,Dialog,Haruhi,ないですか？」,that dangerous?,,,
+151_3_6_3.json,871,Dialog,Haruhi,なにしろ、両チームにはモリ先輩と豪徳寺さ,"After all, both teams have
+Mori-senpai",,,
+151_3_6_3.json,872,Dialog,Haruhi,んがいる。２人とも、武芸を極めた家柄らし,"and Mr. Gokurakubo. They're both
+from families",,,
+151_3_6_3.json,873,Dialog,Haruhi,いし……。,known for their martial arts...,,,
+151_3_6_3.json,882,Dialog,Leo,「ボクも反対だよ。ゲームとはいえ、どんなハ,"I'm against it too. Even if it's
+just",,,
+151_3_6_3.json,883,Dialog,Leo,プニングがあるか……」,"a game, who knows what'll happen...",,,
+151_3_6_3.json,890,Dialog,,……と、反対するレオさんの前に、豪徳寺さん,"...and in front of Mr. Leo, who was
+about",,,
+151_3_6_3.json,891,Dialog,,が立ちふさがった。,"to object, Gouda stood his ground.",,,
+151_3_6_3.json,896,Dialog,Gotokuji,「悪いが、やらせてもらうぞ」,"Sorry, let me do this.",,,
+151_3_6_3.json,902,Dialog,Leo,「……由綱」,「...Junichi」,,,
+151_3_6_3.json,909,Dialog,,心配そうにつぶやくレオさんに対して――。,Leo-san mutters worriedly--.,,,
+151_3_6_3.json,910,Dialog,,豪徳寺さんは、モリ先輩をにらみつけてる。,"Gotokuji-san is glaring at
+Mori-senpai.",,,
+151_3_6_3.json,911,Dialog,,……危険な感じがするなあ。,...It feels kind of dangerous.,,,
+151_3_6_3.json,920,Dialog,Kyoya,「いいでしょう」,Fine.,,,
+151_3_6_3.json,921,Dialog,Kyoya,でも、鏡夜先輩があっさりルール改定を認めて,But Kyoya-senpai readily,,,
+151_3_6_3.json,922,Dialog,Kyoya,しまった。,accepted the rule change.,,,
+151_3_6_3.json,924,Dialog,Haruhi,「いいんですか？」,Are you sure?,,,
+151_3_6_3.json,929,Dialog,Kyoya,「モリ先輩、ハニー先輩……。よろしくお願い,"Mori-senpai, Honey-senpai...",,,
+151_3_6_3.json,930,Dialog,Kyoya,します」,Please take care of me.,,,
+151_3_6_3.json,943,Dialog,Honey,「まっかせて〜！」,Let me do it~!,,,
+151_3_6_3.json,945,Dialog,Mori,「問題ない」,No problem.,,,
+151_3_6_3.json,946,Dialog,Mori,まあ、２人がそう言うなら大丈夫なのかな……。,"Well, if you two say so, it should
+be okay...",,,
+151_3_6_3.json,961,Dialog,Renge,「えー、ではそのようにルールを改定します」,"All right, then let's change the
+rules like that.",,,
+151_3_6_3.json,964,Dialog,Renge,ハニー先輩が食べる役、自分が運ぶ役、そして,"Honey-senpai eats, I serve, and
+Mori-senpai",,,
+151_3_6_3.json,965,Dialog,Renge,モリ先輩が防衛役と、役割が決まった。,guards! Our roles are set.,,,
+151_3_6_3.json,966,Dialog,Renge,相手チームでは、やっぱり豪徳寺さんが防衛に,The Goudetsui guy's,,,
+151_3_6_3.json,967,Dialog,Renge,ついたみたいだ。,on defense again.,,,
+151_3_6_3.json,968,Dialog,,つまり、モリ先輩と豪徳寺さんが直接ぶつかる,"So Mori-senpai and Mr. Gokudera will
+clash",,,
+151_3_6_3.json,969,Dialog,,ことになる。やっぱり何かありそうだ……。,"directly... Something's bound to
+happen...",,,
+151_3_6_3.json,982,Dialog,Renge,「それでは最終戦、『大食い対決』スタート,"And so, the final battle,",,,
+151_3_6_3.json,983,Dialog,Renge,です！！」,"'Eating Contest,' begins!!",,,
+151_3_6_3.json,986,Dialog,Renge,#Color[7]#Scale[1.8]大食い対決,#Color[7]#Scale[1.8]Eating Contest!,,,
+151_3_6_3.json,987,Dialog,Renge,パン！,Punch!,,,
+151_3_6_3.json,988,Dialog,Renge,とうとう最終戦が始まった。,The final battle has begun.,,,
+151_3_6_3.json,989,Dialog,,勝負はデザートバイキング方式だ。ずらりと並,"The contest is a dessert buffet
+style.",,,
+151_3_6_3.json,990,Dialog,,んだ５０種類のデザートから、自分がハニー先,"From the lineup of 50 desserts,",,,
+151_3_6_3.json,991,Dialog,,輩のところに運んでいく。,you'll bring some to Honey-senpai.,,,
+151_3_6_3.json,999,Dialog,Haruhi,「どうぞ、ハニー先輩」,"Please, Honey-senpai.",,,
+151_3_6_3.json,1007,Dialog,Honey,「ありがと、ハルちゃん。それじゃあ、いった,"Thanks, Haru-chan.",,,
+151_3_6_3.json,1008,Dialog,Honey,だきまーす！」,I'll take it then!,,,
+151_3_6_3.json,1009,Dialog,Honey,言ったとたん、ハニー先輩はケーキを食べ始め,"As soon as I said that, Honey-senpai",,,
+151_3_6_3.json,1010,Dialog,Honey,た。,started eating cake.,,,
+151_3_6_3.json,1012,Dialog,Honey,早い――！,Hurry up!--!,,,
+151_3_6_3.json,1026,Dialog,Renge,「さすがハニー先輩！　ものすごい勢いでデザー,"Way to go, Honey-senpai! You're
+demolishing",,,
+151_3_6_3.json,1027,Dialog,Renge,トを平らげていきます！」,the desserts at an incredible pace!,,,
+151_3_6_3.json,1032,Dialog,Sayuri,「絢爛チームの巨体に負けてないですね〜」,"You're not outmatched by the flashy
+team's big bodies~",,,
+151_3_6_3.json,1033,Dialog,Sayuri,どちらかというと、体の大きな絢爛ホスト部の,"It almost seems like the big guys in
+the Extravagant",,,
+151_3_6_3.json,1034,Dialog,Sayuri,人たちの方が苦戦しているようにさえ見える。,Host Club are having a harder time.,,,
+151_3_6_3.json,1043,Dialog,Ou,「くっ……、なぜだ？」,「Gh... why?」,,,
+151_3_6_3.json,1051,Dialog,Kyoya,「あのデザートはうちで用意したもの。ハニー,"That dessert was prepared by us. We
+made it",,,
+151_3_6_3.json,1052,Dialog,Kyoya,先輩の好みに合わせて、思いきり甘くしてある」,"extra sweet to suit Honey-senpai's
+tastes.",,,
+151_3_6_3.json,1053,Dialog,Kyoya,なるほど、それはふつうの人には甘過ぎるだろ,I see... That would be too sweet,,,
+151_3_6_3.json,1054,Dialog,Kyoya,うなあ……。,for an ordinary person...,,,
+151_3_6_3.json,1055,Dialog,Kyoya,最初はいいとしても、だんだん胸焼けしてきて,It's natural to lose steam and,,,
+151_3_6_3.json,1056,Dialog,Kyoya,ペースが落ちてくるのは当然だ。,get queasy as time goes on.,,,
+151_3_6_3.json,1070,Dialog,Renge,「運んでいる途中で落としたときのペナルティ,Be careful! You'll have to add ten,,,
+151_3_6_3.json,1071,Dialog,Renge,は１０食追加ですので、注意してください！」,more dishes if you drop one!,,,
+151_3_6_3.json,1072,Dialog,Renge,確かに、それは大きいロスだ。気を付けて運ば,"Indeed, that's a big loss. Be",,,
+151_3_6_3.json,1073,Dialog,Renge,ないと。,careful when carrying it.,,,
+151_3_6_3.json,1082,Dialog,Honey,「ハルちゃん、もうすぐ食べ終わっちゃうよ〜。,"Haru-chan, you'll finish eating
+soon~.",,,
+151_3_6_3.json,1083,Dialog,Honey,つぎつぎー！」,Next~!」,,,
+151_3_6_3.json,1085,Dialog,Haruhi,「あ、ハイ！　今持っていきますね」,"「Ah, got it! I'll bring them right
+now.」",,,
+151_3_6_3.json,1087,Dialog,Haruhi,本当に早い！　ハニー先輩、さっき持ってきた,"You're really fast! Honey-senpai,
+you've already finished",,,
+151_3_6_3.json,1088,Dialog,Haruhi,ケーキ１ホールをもう食べ終わってる。,"eating that whole cake you brought a
+little while ago!",,,
+151_3_6_3.json,1089,Dialog,Haruhi,これは自分がちゃんと運べれば、勝てるはずだ。,"I should be able to win if I handle
+this properly.",,,
+151_3_6_3.json,1091,Dialog,Haruhi,ハニー先輩のペースを考えると、なるべくたく,I should bring as much as I can,,,
+151_3_6_3.json,1092,Dialog,,さん運んだほうがいいな。,since Honey-senpai eats so fast.,,,
+151_3_6_3.json,1093,Dialog,,自分が足を引っ張らないようにしないと……。,"I can't afford to hold anyone
+back...",,,
+151_3_6_3.json,1096,Dialog,Gotokuji,「ハッ！！」,「Ah!!」,,,
+151_3_6_3.json,1097,Dialog,Gotokuji,ビュッ！,Buh!,,,
+151_3_6_3.json,1099,Dialog,Haruhi,「え……？」,「Huh...?」,,,
+151_3_6_3.json,1100,Dialog,Haruhi,横に何か通って――。,Go through something on the side--.,,,
+151_3_6_3.json,1102,Dialog,Haruhi,キンッ……。,Jingle...,,,
+151_3_6_3.json,1103,Dialog,Haruhi,自分の目の前の床に、金属のフォークが２本音,Two metal forks clattered to,,,
+151_3_6_3.json,1104,Dialog,Haruhi,を立てて落ちた。,the floor in front of me.,,,
+151_3_6_3.json,1106,Dialog,Haruhi,「な、何……？」,W-What...?,,,
+151_3_6_3.json,1107,Dialog,Haruhi,今このフォーク、うしろから飛んできた……。,"A fork just flew at me from
+behind...",,,
+151_3_6_3.json,1114,Dialog,Mori,「ハルヒ、気にするな……」,"Don't worry about it, Haruhi...",,,
+151_3_6_3.json,1115,Dialog,Mori,いつのまにか、自分の背後にモリ先輩が立ちは,"Before I knew it, Mori-senpai was
+standing",,,
+151_3_6_3.json,1116,Dialog,Mori,だかっていた。豪徳寺さんと向かい合っている。,behind me facing Kamikamo-san.,,,
+151_3_6_3.json,1124,Dialog,Gotokuji,「チッ……」,Tch...,,,
+151_3_6_3.json,1125,Dialog,Gotokuji,どうやら、豪徳寺さんにフォークを投げつけら,Looks like Gouda-san,,,
+151_3_6_3.json,1126,Dialog,Gotokuji,れたらしい。,threw a fork at me.,,,
+151_3_6_3.json,1127,Dialog,Gotokuji,食事用とは言え、刺さったらどうなっていた,"Even if it was for eating, what
+would",,,
+151_3_6_3.json,1128,Dialog,Gotokuji,か……。,have happened if I got stuck...?,,,
+151_3_6_3.json,1136,Dialog,Mori,「……ハルヒは、デザート運びに専念してくれ」,"Haruhi, focus on bringing out the
+desserts.",,,
+151_3_6_3.json,1138,Dialog,Haruhi,「わかりました。お願いします、モリ先輩」,"I see. Please do, Mori-senpai.",,,
+151_3_6_3.json,1142,Dialog,Haruhi,モリ先輩は、チラッとこっちをふり返り、笑っ,Mori-senpai glanced over and,,,
+151_3_6_3.json,1143,Dialog,Haruhi,てうなずいてくれた。,"smiled, nodding at me.",,,
+151_3_6_3.json,1151,Dialog,Gotokuji,「やらせん！」,Don't make me do it!,,,
+151_3_6_3.json,1163,Dialog,,豪徳寺さんが、自分を追って動く。が、すぐに,"Goudouji-san moves after me, but
+Mori-senpai",,,
+151_3_6_3.json,1164,Dialog,,モリ先輩が、その前に立ちはだかった。,quickly steps in front of him.,,,
+151_3_6_3.json,1174,Dialog,Gotokuji,「銛之塚崇……」,Takashi Morinozuka...,,,
+151_3_6_3.json,1177,Dialog,Gotokuji,２人はにらみ合ったまま動かない。,"The two of them just glared at each
+other without moving.",,,
+151_3_6_3.json,1178,Dialog,Gotokuji,モリ先輩が食い止めてくれている間に、早く持っ,Grab it quick while Mori-senpai,,,
+151_3_6_3.json,1179,Dialog,Gotokuji,て行こう。,holds them off!,,,
+151_3_6_3.json,1190,Dialog,Honey,「ふう……。ごちそうさまー♪」,Phew... Thanks for the meal~♪,,,
+151_3_6_3.json,1191,Dialog,Honey,ハニー先輩は、順調にデザートを食べている。,"Honey-senpai is eating dessert
+steadily.",,,
+151_3_6_3.json,1193,Dialog,Honey,絢爛の方は、満腹さんと空腹さんが交代で食べ,"The dazzling one is eating slower
+than",,,
+151_3_6_3.json,1194,Dialog,Honey,てるのに、１人で食べてるハニー先輩よりペー,"Honey-senpai, who's eating alone
+despite",,,
+151_3_6_3.json,1195,Dialog,Honey,スが落ちてる。,taking turns with full and empty.,,,
+151_3_6_3.json,1196,Dialog,Honey,向こうの２人とも、もう甘いものにうんざりっ,They both look sick,,,
+151_3_6_3.json,1197,Dialog,,て顔だ。,of sweets already.,,,
+151_3_6_3.json,1199,Dialog,Haruhi,「また補充します」,Refill it again.,,,
+151_3_6_3.json,1205,Dialog,Honey,「ハルちゃん、僕、次はシュークリームが食べ,"Haru-chan, I want to",,,
+151_3_6_3.json,1206,Dialog,Honey,たいな！」,eat cream puffs next!,,,
+151_3_6_3.json,1207,Dialog,Honey,ずっと食べ続けてるのに、元気だなあ。ハニー,You're so energetic even though you,,,
+151_3_6_3.json,1208,Dialog,Honey,先輩……。,keep eating... Honey-senpai...,,,
+151_3_6_3.json,1211,Dialog,Honey,デザートの補給に走る。残り量から考えて、こ,"Run to replenish dessert supplies.
+Considering",,,
+151_3_6_3.json,1212,Dialog,,れが最後の補給だ。,"what's left, this will be our last
+chance.",,,
+151_3_6_3.json,1213,Dialog,,皿を手に取ろうとしたとき、お客さんたちから,"When I reached for the plate,",,,
+151_3_6_3.json,1214,Dialog,,悲鳴が上がった。,the customers screamed.,,,
+151_3_6_3.json,1216,Dialog,female student,「モリ先輩！！」,Mori-senpai!!,,,
+151_3_6_3.json,1217,Dialog,female student,え……？,Huh...?,,,
+151_3_6_3.json,1223,Dialog,,自分が慌ててふり返ると、モリ先輩は少し体勢,I turned around in a hurry and saw,,,
+151_3_6_3.json,1224,Dialog,,を崩したところだった。,Mori-senpai slightly off-balance.,,,
+151_3_6_3.json,1233,Dialog,,その隙に、豪徳寺さんがモリ先輩に迫る。,"Take advantage of that to get close
+to Mori-senpai.",,,
+151_3_6_3.json,1234,Dialog,,モリ先輩が危ない――！,Mori-senpai's in danger--!,,,
+151_3_6_3.json,1235,Choice,,踏みとどまる,Stay put,,,
+151_3_6_3.json,1236,Choice,,助けないと！,Help her!,,,
+151_3_6_3.json,1247,Dialog,,――モリ先輩ならきっと大丈夫。自分が行って,"--Mori-senpai will definitely be
+fine. I'd",,,
+151_3_6_3.json,1248,Dialog,,も、邪魔になるだけだし。,"just get in the way if I went
+myself.",,,
+151_3_6_3.json,1256,Dialog,Mori,「くっ！」,「Gah!」,,,
+151_3_6_3.json,1271,Dialog,Renge,「素晴らしい！　モリ先輩、体勢を崩しながら,"Awesome! Mori-senpai managed to
+dodge Koudokuji-san's",,,
+151_3_6_3.json,1272,Dialog,Renge,も見事に豪徳寺さんの攻撃をかわしました！」,attack even while off-balance!,,,
+151_3_6_3.json,1282,Dialog,Gotokuji,「はずしたか……」,I missed...,,,
+151_3_6_3.json,1284,Dialog,Gotokuji,思った通り、モリ先輩は豪徳寺さんの攻撃をか,"As I thought, Mori-senpai dodged",,,
+151_3_6_3.json,1285,Dialog,Gotokuji,わして、なにごともなかったように立ち上がっ,Koudokuji-san's attack and got,,,
+151_3_6_3.json,1286,Dialog,Gotokuji,ていた。,up as if nothing had happened.,,,
+151_3_6_3.json,1287,Dialog,Gotokuji,お客さんたちも、ホッとしたような声を出した。,"The customers let out
+relieved-sounding voices.",,,
+151_3_6_3.json,1288,Dialog,Gotokuji,モリ先輩たちを信じて、自分もするべきことを,Believe in Senpai and,,,
+151_3_6_3.json,1289,Dialog,,やろう。,do what I should.,,,
+151_3_6_3.json,1290,Dialog,,残りのデザートをぜんぶ取って走る。これで最,Grab all remaining desserts,,,
+151_3_6_3.json,1291,Dialog,,後だ。,and run. This is it.,,,
+151_3_6_3.json,1293,Dialog,Haruhi,「ハニー先輩、これで最後です！」,"Honey-senpai, this is it!",,,
+151_3_6_3.json,1295,Dialog,Haruhi,そう言ってハニー先輩をふり返ると――。,"Saying that, I turned to look at
+Honey-senpai--.",,,
+151_3_6_3.json,1298,Dialog,Haruhi,巨大パフェを運ぶ満腹さんがバランスを崩して,A full-stomached person carrying a,,,
+151_3_6_3.json,1299,Dialog,Haruhi,よろめき、今にもハニー先輩のほうに倒れかか,giant parfait is losing balance and,,,
+151_3_6_3.json,1300,Dialog,Haruhi,りそうになってる。,about to fall onto Honey-senpai.,,,
+151_3_6_3.json,1301,Dialog,Haruhi,ハニー先輩は、食べることに夢中で気がついて,Honey-senpai's so focused on,,,
+151_3_6_3.json,1302,Dialog,Haruhi,ない。,eating he hasn't noticed.,,,
+151_3_6_3.json,1303,Dialog,Haruhi,どうしよう、あんな巨体につぶされたら――！,"What should I do? If he crushes me
+with his huge body--!",,,
+151_3_6_3.json,1304,Choice,,助けにいく,Go help them,,,
+151_3_6_3.json,1305,Choice,,逃げてください,Run away!,,,
+151_3_6_3.json,1318,Dialog,,自分が行くしかない！,I have to go!,,,
+151_3_6_3.json,1319,Dialog,,デザートを手にしたままハニー先輩の元へと走,Run to Honey-senpai with,,,
+151_3_6_3.json,1320,Dialog,,る。,the dessert in hand.,,,
+151_3_6_3.json,1322,Dialog,Haruhi,「ハニー先輩、危ない！」,"Honey-senpai, watch out!",,,
+151_3_6_3.json,1329,Dialog,Honey,「ほえ？」,「Huh?」,,,
+151_3_6_3.json,1330,Dialog,Honey,ハニー先輩が顔を上げる。そこに倒れていく満,"Honey-senpai looks up. There goes
+Ootori-san's",,,
+151_3_6_3.json,1331,Dialog,Honey,腹さんの巨体。,huge body as he collapses.,,,
+151_3_6_3.json,1332,Dialog,Honey,ダメだ、間に合わない……！,No way... we won't make it in time!,,,
+151_3_6_3.json,1338,Dialog,Honey,「はっ！」,「Hey!」,,,
+151_3_6_3.json,1340,Dialog,Honey,ハニー先輩は素早く体をかわした。でも、満腹,"Honey-senpai quickly dodged, but
+Manjusan's",,,
+151_3_6_3.json,1341,Dialog,Honey,さんのお腹がハニー先輩に迫り――。,belly came close to him--.,,,
+151_3_6_3.json,1342,Dialog,Honey,ドシーン……。,Thud...,,,
+151_3_6_3.json,1343,Dialog,Honey,テーブルに覆いかぶさるように、満腹さんの巨,Mitsukuni's huge body collapsed,,,
+151_3_6_3.json,1344,Dialog,Honey,体が倒れ込んだ。,onto the table.,,,
+151_3_6_3.json,1357,Dialog,Renge,「なんということでしょう！　張満腹さん、転,Oh my! Zhang Manfu,,,
+151_3_6_3.json,1358,Dialog,Renge,倒！」,has fallen!,,,
+151_3_6_3.json,1362,Dialog,Haruhi,「ハニー先輩は！？」,Where's Honey-senpai!?,,,
+151_3_6_3.json,1368,Dialog,Haruhi,倒れた満腹さんの陰から、ハニー先輩が立ち上,"From behind Otori-san, who had
+fallen",,,
+151_3_6_3.json,1369,Dialog,,がった。,"over, Honey-senpai stood up.",,,
+151_3_6_3.json,1376,Dialog,Honey,「大丈夫だよ、ハルちゃん！」,"「I'm fine, Haru-chan!」",,,
+151_3_6_3.json,1377,Dialog,Honey,さすがハニー先輩、ギリギリでかわしたらしい。,"As expected of Honey-senpai, he
+barely managed to avoid it.",,,
+151_3_6_3.json,1378,Dialog,Honey,しかもまだ、手に持った皿のタルトを食べ続け,And he's still eating,,,
+151_3_6_3.json,1379,Dialog,Honey,てる。,the tart on his plate.,,,
+151_3_6_3.json,1387,Dialog,Sayuri,「埴之塚先輩は、無傷のようですっ」,Kurakano-senpai seems unharmed.,,,
+151_3_6_3.json,1389,Dialog,Sayuri,ハニー先輩とはいえ、少し気づくのが遅れたら、,"Even though it was Honey-senpai, if
+I had been",,,
+151_3_6_3.json,1390,Dialog,Sayuri,つぶされたかもしれない……。,"a bit slower, he might have squashed
+me...",,,
+151_3_6_3.json,1391,Dialog,Sayuri,満腹さんはそのまま巨大パフェを手に持って去っ,Manbuku left holding,,,
+151_3_6_3.json,1392,Dialog,Sayuri,ていった。,the giant parfait.,,,
+151_3_6_3.json,1394,Dialog,stuffed to the gills,「チッ……」,Tch...,,,
+151_3_6_3.json,1395,Dialog,stuffed to the gills,え……？　今、舌打ちされた気がする。まさか、,"Huh...? Did someone just flip me off
+just now?",,,
+151_3_6_3.json,1396,Dialog,stuffed to the gills,今倒れたのってわざと……？,"No way... They fell on purpose,
+didn't they...?",,,
+151_3_6_3.json,1398,Dialog,stuffed to the gills,持ってた巨大パフェは無事だし、やっぱりねらっ,"The giant parfait I had is safe, so
+maybe",,,
+151_3_6_3.json,1399,Dialog,stuffed to the gills,てたのかもしれない。,they were after something else.,,,
+151_3_6_3.json,1406,Dialog,Honey,「ありがとうね、ハルちゃん。ハルちゃんのお,"Thanks to you, Haru-chan! We're",,,
+151_3_6_3.json,1407,Dialog,Honey,かげで助かったよ！」,saved because of you!,,,
+151_3_6_3.json,1409,Dialog,Haruhi,「いいえ……。それよりハニー先輩、気を付け,"No... Honey-senpai,",,,
+151_3_6_3.json,1410,Dialog,Haruhi,てください」,be careful.,,,
+151_3_6_3.json,1412,Dialog,Haruhi,もしかしたら、また何かしてくるかもしれない。,Maybe they'll do something else.,,,
+151_3_6_3.json,1413,Dialog,Haruhi,自分も用心しておかないと。,I have to be careful too.,,,
+151_3_6_3.json,1432,Dialog,Renge,「さあ、ハプニングもありましたがハニー先輩,"Alright! Despite the little mishap,
+Honey-senpai's",,,
+151_3_6_3.json,1433,Dialog,Renge,の食欲は止まらず！　完食は目前です！」,"appetite hasn't stopped! He's almost
+done!",,,
+151_3_6_3.json,1434,Dialog,Renge,満腹さんたちも、おとなしくデザートを食べて,Everyone's quietly enjoying,,,
+151_3_6_3.json,1435,Dialog,Renge,る。,their desserts.,,,
+151_3_6_3.json,1436,Dialog,Renge,このままならこっちは大丈夫かな。,"I should be okay if it stays like
+this.",,,
+151_3_6_3.json,1441,Dialog,Renge,「一方、防衛役の２人の争いは――」,"On the other hand, the dispute
+between the two defenders--",,,
+151_3_6_3.json,1444,Dialog,Renge,れんげちゃんの実況に合わせて、自分もモリ先,"Search for Mori-senpai and
+Koudoku-ji with",,,
+151_3_6_3.json,1445,Dialog,Renge,輩と豪徳寺さんを目で捜す。,"my eyes along with Renge's
+commentary.",,,
+151_3_6_3.json,1464,Dialog,Gotokuji,２人はキッとおたがいをにらみ合っている。,"The two glare at each other
+fiercely.",,,
+151_3_6_3.json,1478,Dialog,Renge,「お互いの間合いをとっているといったところ,They're sizing each other up...,,,
+151_3_6_3.json,1479,Dialog,Renge,でしょうか……。両者、微動だにしません！」,Neither of them moves an inch!,,,
+151_3_6_3.json,1489,Dialog,Gotokuji,「……ハッ！！」,「...Ah!!」,,,
+151_3_6_3.json,1491,Dialog,Gotokuji,突然、豪徳寺さんが間合いをつめた。,"Suddenly, Koudouji-san closed the
+distance.",,,
+151_3_6_3.json,1502,Dialog,,一瞬の間でモリ先輩に近づき、側面から攻撃を,"In an instant, I moved closer to
+Mori-senpai and",,,
+151_3_6_3.json,1503,Dialog,,しかけていた。頭をねらった蹴りだ。,"attacked from the side. A kick aimed
+at his head.",,,
+151_3_6_3.json,1507,Dialog,Mori,モリ先輩はそのするどい蹴りを、余裕をもって,Senior Mori easily dodged,,,
+151_3_6_3.json,1508,Dialog,Mori,かわした。,that sharp kick.,,,
+151_3_6_3.json,1509,Dialog,Mori,でも、豪徳寺さんの攻撃もそこで止まらない。,"But Goudo's attack doesn't stop
+there.",,,
+151_3_6_3.json,1511,Dialog,Mori,豪徳寺さんはクルリと体を回転させ、そのまま,Koudokuji spun around,,,
+151_3_6_3.json,1512,Dialog,,さらに蹴りを放つ。,and kicked again.,,,
+151_3_6_3.json,1516,Dialog,Gotokuji,「フンッ！！」,Hmph!!,,,
+151_3_6_3.json,1522,Dialog,Gotokuji,それも難なくかわすモリ先輩。すばやく後退し、,"Senpai Mori dodges that too easily.
+He quickly",,,
+151_3_6_3.json,1523,Dialog,,距離をとって向かい合う。,"steps back and faces me from a
+distance.",,,
+151_3_6_3.json,1525,Dialog,,――この間、ほんの１秒足らずだ。,--It was less than one second.,,,
+151_3_6_3.json,1539,Dialog,Renge,「すばらしい！　大食いとはまったく関係のな,"Fantastic! A battle completely
+unrelated",,,
+151_3_6_3.json,1540,Dialog,Renge,い戦いが、ひそかに激しくなっています！」,to gluttony is secretly heating up!,,,
+151_3_6_3.json,1541,Dialog,Renge,れんげちゃんやお客さんたちも、２人の戦いに,Renge and the customers are,,,
+151_3_6_3.json,1542,Dialog,Renge,釘付けになっている。,glued to the two of them.,,,
+151_3_6_3.json,1551,Dialog,Renge,「ですが、モリ先輩はまだ１度も攻撃していま,But Mori-senpai hasn't attacked,,,
+151_3_6_3.json,1552,Dialog,Renge,せん……。どういうことでしょうか？」,even once... What's going on?,,,
+151_3_6_3.json,1553,Dialog,Renge,れんげちゃんの言う通り、モリ先輩は豪徳寺さ,Renge's right. Morisenpai has only,,,
+151_3_6_3.json,1554,Dialog,Renge,んの攻撃をかわすばかりで、自分から攻撃して,been dodging Koudokuji's attacks,,,
+151_3_6_3.json,1555,Dialog,Renge,いない。,and hasn't attacked himself.,,,
+151_3_6_3.json,1570,Dialog,Gotokuji,「なぜ攻めてこない……」,Why aren't you attacking...,,,
+151_3_6_3.json,1575,Dialog,Mori,「やりあう理由がない」,No reason to fight.,,,
+151_3_6_3.json,1576,Dialog,Mori,モリ先輩の返事が気に入らなかったのか、豪徳,"Mori-senpai's answer must not have
+pleased",,,
+151_3_6_3.json,1577,Dialog,Mori,寺さんの表情が変わった。,"Koudouji-san, as his expression
+changed.",,,
+151_3_6_3.json,1582,Dialog,Gotokuji,「ならば、理由を作るまで！」,Then I'll make up an excuse!,,,
+151_3_6_3.json,1584,Dialog,Gotokuji,豪徳寺さんはいきなりモリ先輩に打ち込んだ。,"Kodokushi-san suddenly hit
+Mori-senpai.",,,
+151_3_6_3.json,1585,Dialog,Gotokuji,残像が見えるくらいすばやい踏み込み。だけど、,"A blur so fast that afterimages
+appear. But Morisenpai",,,
+151_3_6_3.json,1586,Dialog,Gotokuji,モリ先輩はあわてずにそれをかわし――。,"dodges it calmly without
+panicking--.",,,
+151_3_6_3.json,1592,Dialog,Mori,「……っ！　ハルヒ！！」,「...! Haruhi!!」,,,
+151_3_6_3.json,1594,Dialog,Haruhi,「え……、何ですか？」,Wha...? What is it?,,,
+151_3_6_3.json,1601,Dialog,,何で突然自分を……、と聞く前に、目の前に,"Before I could ask why all of a
+sudden... I",,,
+151_3_6_3.json,1602,Dialog,,迫ってくる人影を見て気づいた。,"noticed the figure looming in front
+of me.",,,
+151_3_6_3.json,1603,Dialog,,豪徳寺さんが、自分に向かってきてる……！,"Koudokuji-san is coming toward
+me...!",,,
+151_3_6_3.json,1608,Dialog,Gotokuji,「本気にさせてやる」,I'll make you take me seriously.,,,
+151_3_6_3.json,1616,Dialog,Mori,「くっ……」,「Gh...」,,,
+151_3_6_3.json,1618,Dialog,Mori,モリ先輩が駆けてくるが、不意をつかれたのか,Mori-senpai runs over but seems,,,
+151_3_6_3.json,1619,Dialog,Mori,出遅れてる。,to be lagging behind.,,,
+151_3_6_3.json,1620,Dialog,Mori,豪徳寺さんから逃げようと思っても、突然のこ,"Even if I wanted to run from
+Koudokuji-san,",,,
+151_3_6_3.json,1621,Dialog,Mori,とで体が動かない。,my body won't move.,,,
+151_3_6_3.json,1628,Dialog,Honey,「ハルちゃん！！」,「Haru-chan!!」,,,
+151_3_6_3.json,1635,Dialog,,豪徳寺さんの拳が、自分に迫る。,Gouda-sensei's fist is coming at me.,,,
+151_3_6_3.json,1639,Dialog,,ビュッ――！,Buuuh--!,,,
+151_3_6_3.json,1644,Dialog,Haruhi,「……あれ？」,......huh?,,,
+151_3_6_3.json,1645,Dialog,Haruhi,気配を感じて目を開けると、目の前にハニー先,"I opened my eyes when I sensed
+someone and",,,
+151_3_6_3.json,1646,Dialog,Haruhi,輩の背中があった。,"found Senior Honey's back in front
+of me.",,,
+151_3_6_3.json,1647,Dialog,Haruhi,ハニー先輩が、豪徳寺さんの拳をしっかりと止,Honey-senpai is holding back,,,
+151_3_6_3.json,1648,Dialog,Haruhi,めている。,Mr. Gouda's fist firmly.,,,
+151_3_6_3.json,1650,Dialog,Gotokuji,「埴之塚、光邦っ……！」,"""Kurakano, Honey...""!",,,
+151_3_6_3.json,1652,Dialog,Honey,「ハルちゃんは関係ない。こんなことする人は、,"Haru-chan has nothing to do with
+this. People who",,,
+151_3_6_3.json,1653,Dialog,Honey,武道家として失格だよ」,"act like this are unfit to be
+martial artists.",,,
+151_3_6_3.json,1654,Dialog,Honey,ハニー先輩らしくない怒った声に、自分はもち,"I was surprised by Honey-senpai's
+angry",,,
+151_3_6_3.json,1655,Dialog,Honey,ろん、豪徳寺さんも驚いた。,"voice, and so was Kamikamo-san.",,,
+151_3_6_3.json,1657,Dialog,Gotokuji,「くッ……、何を甘いことを……ッ！」,Ku... What foolish thoughts...,,,
+151_3_6_3.json,1658,Dialog,Gotokuji,豪徳寺さんの拳に、ものすごい力がこもってい,I can tell there's tremendous,,,
+151_3_6_3.json,1659,Dialog,Gotokuji,るのがわかる。,power in Gouda's fist.,,,
+151_3_6_3.json,1660,Dialog,Gotokuji,けれど、その拳をつかんでいるハニー先輩はび,"But Honey-senpai didn't budge,",,,
+151_3_6_3.json,1661,Dialog,Gotokuji,くとも動かなかった。,still holding onto that fist.,,,
+151_3_6_3.json,1663,Dialog,Gotokuji,「貴様ッ……！！」,You brat...!!,,,
+151_3_6_3.json,1671,Dialog,Mori,「光邦！」,Honey!,,,
+151_3_6_3.json,1672,Dialog,Mori,そこにモリ先輩が駆けてくる。それを見て、ハ,"Mori-senpai runs over there. Seeing
+that,",,,
+151_3_6_3.json,1673,Dialog,Mori,ニー先輩が豪徳寺さんの腕を放した。,"Honey-senpai lets go of Mr. Gouda's
+arm.",,,
+151_3_6_3.json,1681,Dialog,Honey,「ハルちゃん、大丈夫？　痛いところない？」,"Haru-chan, are you okay? Does
+anything hurt?",,,
+151_3_6_3.json,1682,Dialog,Honey,自分をふり返ったハニー先輩は、いつも通りの,"When I looked at myself,
+Honey-senpai",,,
+151_3_6_3.json,1683,Dialog,Honey,ハニー先輩だった。,was still Honey-senpai.,,,
+151_3_6_3.json,1685,Dialog,Haruhi,「はい……。おかげさまで」,Yes... Thanks to you.,,,
+151_3_6_3.json,1690,Dialog,Honey,「良かった〜。じゃ、最後のひと口、食べちゃ,Yay! I'll eat,,,
+151_3_6_3.json,1691,Dialog,Honey,うね！」,the last bite!,,,
+151_3_6_3.json,1693,Dialog,Honey,そう言うと、ハニー先輩はテーブルに戻り、,"Saying that, Honey-senpai returned
+to the table",,,
+151_3_6_3.json,1694,Dialog,Honey,お皿に残っていたケーキを口に放り込んだ。,"and shoved the leftover cake into
+his mouth.",,,
+151_3_6_3.json,1695,Dialog,Honey,最後ってことは、今ので完食……？,"Is this what you mean by last...
+finishing my meal?",,,
+151_3_6_3.json,1696,Dialog,Honey,ピーーーーーーーーッ！,Beep!,,,
+151_3_6_3.json,1710,Dialog,Renge,「終了〜〜！！　ハニー先輩、完食です！」,"Finished~~!! Honey-senpai, clean
+plate!",,,
+151_3_6_3.json,1720,Dialog,Honey,「わーい♪　勝ったあ〜！」,Yay♪ We won!,,,
+151_3_6_3.json,1734,Dialog,Renge,「桜蘭ホスト部の２勝１敗で、桜蘭ホスト部の,The Ouran Host Club wins with,,,
+151_3_6_3.json,1735,Dialog,Renge,勝利です！」,two victories and one loss!,,,
+151_3_6_3.json,1738,Dialog,Renge,きゃ〜〜〜！,Kyaa!!!,,,
+151_3_6_3.json,1739,Dialog,Renge,お客さんたちから、いっせいに歓声が上がった。,The customers all cheered at once.,,,
+151_3_6_3.json,1740,Dialog,Renge,見ていた環先輩たちも同じように喜んでいる。,"The others watching, including
+Tama-chan, were also happy.",,,
+151_3_6_3.json,1741,Dialog,,一時はどうなることかと思ったけど、勝ったん,I thought for a moment we were,,,
+151_3_6_3.json,1742,Dialog,,だ……。,done for... but we won.,,,
+151_3_6_3.json,1747,Dialog,,今助けに向かっても間に合わない！,It's too late to help them now!,,,
+151_3_6_3.json,1749,Dialog,Haruhi,「ハニー先輩！　逃げてください！」,"Run away, Honey-senpai!",,,
+151_3_6_3.json,1750,Dialog,Haruhi,叫ぶけど、ハニー先輩は気づかない。,"I yell, but Honey-senpai doesn't
+notice.",,,
+151_3_6_3.json,1751,Dialog,Haruhi,ダメだ……！　満腹さんの巨大なお腹がハニー,No way...! Manabu's huge belly,,,
+151_3_6_3.json,1752,Dialog,Haruhi,先輩に迫り――。,is about to hit Honey-senpai--!,,,
+151_3_6_3.json,1753,Dialog,Haruhi,ドシーン……。,Thud...,,,
+151_3_6_3.json,1754,Dialog,Haruhi,――その瞬間、張満腹さんが、ハニー先輩の上,"--At that moment, Zhang Manfu
+collapsed",,,
+151_3_6_3.json,1755,Dialog,Haruhi,に倒れ込んだ。,on top of Honey-senpai.,,,
+151_3_6_3.json,1757,Dialog,Haruhi,「あっ！」,Oh!,,,
+151_3_6_3.json,1758,Dialog,Haruhi,ガシャーーン！,Crash!,,,
+151_3_6_3.json,1759,Dialog,Haruhi,あ……。,Oh...,,,
+151_3_6_3.json,1760,Dialog,Haruhi,しまった、思わず運んでいたデザートを落とし,Dang it! I accidentally dropped,,,
+151_3_6_3.json,1761,Dialog,Haruhi,てしまった。,the dessert I was carrying.,,,
+151_3_6_3.json,1774,Dialog,Renge,「あーっと、アクシデントです！　張満腹さん,Aha! An accident! It looks,,,
+151_3_6_3.json,1775,Dialog,Renge,が転倒した模様！」,like Zhang Manfu fell down!,,,
+151_3_6_3.json,1778,Dialog,Renge,ハニー先輩……。,Honey-senpai...,,,
+151_3_6_3.json,1785,Dialog,Honey,「あぶなかったあ〜」,"Phew, that was close~!",,,
+151_3_6_3.json,1787,Dialog,Honey,満腹さんが倒れている陰から、ハニー先輩が立,"From behind Full Meal,",,,
+151_3_6_3.json,1788,Dialog,Honey,ち上がった。,Honey-senpai stood up.,,,
+151_3_6_3.json,1790,Dialog,Haruhi,「ハニー先輩！　無事ですか！？」,Senior Honey! Are you okay!?,,,
+151_3_6_3.json,1804,Dialog,Renge,「ハニー先輩立ち上がりました！　ぎりぎりで,Honey-senpai stood up!,,,
+151_3_6_3.json,1805,Dialog,Renge,かわしたようです！」,He barely dodged it!,,,
+151_3_6_3.json,1808,Dialog,Renge,良かった……、ハニー先輩がつぶされちゃった,Phew... I thought Honey-senpai,,,
+151_3_6_3.json,1809,Dialog,Renge,かと思った……。,was going to get squashed...,,,
+151_3_6_3.json,1811,Dialog,stuffed to the gills,「チッ……」,Tch...,,,
+151_3_6_3.json,1812,Dialog,stuffed to the gills,え……？　今、舌打ちされた気がする。まさか,Huh...? Did she just flip me off?,,,
+151_3_6_3.json,1813,Dialog,stuffed to the gills,今倒れたのってわざと……？,No way she fell on purpose...?,,,
+151_3_6_3.json,1821,Dialog,Honey,「あ〜〜！　ハルちゃん、お皿！」,"「Ah~! Haru-chan, plate!」",,,
+151_3_6_3.json,1822,Dialog,Honey,え……？,Huh...?,,,
+151_3_6_3.json,1825,Dialog,Honey,言われて足元を見ると――、足元に散乱してい,"Looking down as I'm told--broken
+dishes and",,,
+151_3_6_3.json,1826,Dialog,Honey,る割れた食器と、こぼれたデザート。,"spilled desserts scattered at my
+feet.",,,
+151_3_6_3.json,1827,Dialog,Honey,そうだった、皿を落としたらペナルティが……！,"I see, dropping plates has
+penalties...!",,,
+151_3_6_3.json,1840,Dialog,Renge,「またしても大ハプニングです！　ハルヒ君が,Another big mishap! Haruhi,,,
+151_3_6_3.json,1841,Dialog,Renge,３皿落としてしまっています！」,dropped three plates!,,,
+151_3_6_3.json,1846,Dialog,Sayuri,「３０食分の追加ペナルティです！　これ,Thirty extra servings,,,
+151_3_6_3.json,1847,Dialog,Sayuri,は……」,as penalty! This is...,,,
+151_3_6_3.json,1851,Dialog,Haruhi,「すみません、ハニー先輩……、自分のせいで」,"I'm sorry, Honey-senpai... It's all
+my fault.",,,
+151_3_6_3.json,1858,Dialog,Honey,「考えてもしょうがないよ、ハルちゃん。僕、,"Don't worry about it, Haru-chan!",,,
+151_3_6_3.json,1859,Dialog,Honey,がんばって食べるからね！」,I'll eat my fill!,,,
+151_3_6_3.json,1860,Dialog,Honey,ハニー先輩の言う通り落ち込んでてもしょう,"Like Honey-senpai said, moping",,,
+151_3_6_3.json,1861,Dialog,Honey,がない。とにかくまたデザートを持ってこな,won't help. I have,,,
+151_3_6_3.json,1862,Dialog,Honey,いと……。,to bring more desserts...,,,
+151_3_6_3.json,1865,Dialog,stuffed to the gills,「完食！」,Finished!,,,
+151_3_6_3.json,1867,Dialog,starving,「完食！」,Finished!,,,
+151_3_6_3.json,1869,Dialog,Haruhi,「え……。そんな……」,Eh...? No way...,,,
+151_3_6_3.json,1870,Dialog,Haruhi,ピーーーーーーーーッ！,Beep!,,,
+151_3_6_3.json,1883,Dialog,Renge,「ああ〜〜っ！！　絢爛ホスト部っ、完食で,Yay!! Exquisite Host,,,
+151_3_6_3.json,1884,Dialog,Renge,す！」,"Club, I'm done!",,,
+151_3_6_3.json,1893,Dialog,Honey,「負けちゃった……」,I lost...,,,
+151_3_6_3.json,1894,Dialog,Honey,これで１勝２敗……。桜蘭ホスト部の負け。,"That's one win and two losses... The
+Ouran Host Club loses.",,,
+151_3_6_3.json,1903,Dialog,,とにかく助けないと！,We have to help her!,,,
+151_3_6_3.json,1905,Dialog,Haruhi,「モリ先輩！　大丈夫ですか？」,Senior Mori! Are you okay?,,,
+151_3_6_3.json,1906,Dialog,Haruhi,何ができるかわからないけど、とにかく走る。,"I don't know what I can do, but I'll
+run anyway.",,,
+151_3_6_3.json,1913,Dialog,Mori,「来るな！」,Stay back!,,,
+151_3_6_3.json,1914,Dialog,Mori,モリ先輩の声に足が止まった。,"I stopped in my tracks at
+Mori-senpai's voice.",,,
+151_3_6_3.json,1920,Dialog,Mori,「心配しなくていい……」,Don't worry...,,,
+151_3_6_3.json,1921,Dialog,Mori,ふり向いた笑顔は、まだ余裕がありそうだった。,"The smile she turned back with still
+seemed confident.",,,
+151_3_6_3.json,1922,Dialog,Mori,モリ先輩、まだ本気じゃないのかな？,"Mori-senpai, are you still not
+serious?",,,
+151_3_6_3.json,1933,Dialog,Gotokuji,「銛之塚崇……。貴様、手を抜いているな」,"Takashi Morino... You're holding
+back!",,,
+151_3_6_3.json,1938,Dialog,Mori,「戦う理由がない」,No reason to fight.,,,
+151_3_6_3.json,1943,Dialog,Gotokuji,「――それならばっ」,「--If that's the case!」,,,
+151_3_6_3.json,1945,Dialog,Gotokuji,豪徳寺さんがうなる。そして突然、自分へと進,Gouda-san growls and suddenly,,,
+151_3_6_3.json,1946,Dialog,Gotokuji,路を変えて突っ込んできた。,charges at me.,,,
+151_3_6_3.json,1949,Dialog,Haruhi,「え？　何が――？」,Huh? What are you talking about--?,,,
+151_3_6_3.json,1950,Dialog,Haruhi,何でこっちに……！？,Why are you over here...!?!,,,
+151_3_6_3.json,1957,Dialog,Gotokuji,「本気にさせるまでだ！」,I'll make you take me seriously!,,,
+151_3_6_3.json,1965,Dialog,Mori,「ハルヒ、逃げろ！」,"Run, Haruhi!",,,
+151_3_6_3.json,1967,Dialog,Mori,そう言われても……。,Even if you say so...,,,
+151_3_6_3.json,1968,Dialog,Mori,とっさに頭が回らない。,My mind goes blank.,,,
+151_3_6_3.json,1969,Dialog,Mori,豪徳寺さんが迫ってくるのが見えているのに、,"I can see Gouda-san coming closer,",,,
+151_3_6_3.json,1970,Dialog,Mori,ちっとも体は動こうとしない。,but my body won't move.,,,
+151_3_6_3.json,1977,Dialog,Honey,「ハルちゃん、逃げて！」,"Haru-chan, run!",,,
+151_3_6_3.json,1978,Dialog,Honey,ハニー先輩が何かを投げた。,Honey-senpai threw something.,,,
+151_3_6_3.json,1987,Dialog,Gotokuji,「小細工を！」,No tricks!,,,
+151_3_6_3.json,1988,Dialog,Gotokuji,豪徳寺さんが、手刀で何かを叩き落とす。床に,"Godoji-san strikes something with
+his",,,
+151_3_6_3.json,1989,Dialog,Gotokuji,落ちて転がったのはフォークだった。,palm. A fork rolls across the floor.,,,
+151_3_6_3.json,1991,Dialog,Gotokuji,豪徳寺さんは止まらない。,Goudouji-san won't stop.,,,
+151_3_6_3.json,1998,Dialog,Gotokuji,「悪く思うな。……これも勝負のためだ！」,"Don't misunderstand! This is for the
+sake of winning!",,,
+151_3_6_3.json,1999,Dialog,Gotokuji,豪徳寺さんが、拳を思いきり自分にふり下ろす。,"Godoji swings his fist down hard at
+me.",,,
+151_3_6_3.json,2007,Dialog,Mori,「ハルヒ！」,Haruhi!,,,
+151_3_6_3.json,2011,Dialog,Mori,ビュッ――！,Buuuh--!,,,
+151_3_6_3.json,2015,Dialog,Haruhi,「……あれ？」,......huh?,,,
+151_3_6_3.json,2016,Dialog,Haruhi,目を開けると、目の前にモリ先輩の背中が見え,"When I open my eyes, I see
+Mori-senpai's back in front",,,
+151_3_6_3.json,2017,Dialog,Haruhi,た。豪徳寺さんの拳を受け止めて立っている。,"of me. I'm standing there catching
+Kamikamo-san's fist.",,,
+151_3_6_3.json,2019,Dialog,Mori,「ケガはないな？」,You're not hurt?,,,
+151_3_6_3.json,2020,Dialog,Mori,豪徳寺さんの拳をつかんだまま、ふり返らずに,"Still holding Gouda-san's fist,",,,
+151_3_6_3.json,2021,Dialog,Mori,聞いてくる。,she asks without turning around.,,,
+151_3_6_3.json,2023,Dialog,Haruhi,「はい……。おかげさまで」,Yes... Thanks to you.,,,
+151_3_6_3.json,2025,Dialog,Mori,「……良かった」,...I am glad.,,,
+151_3_6_3.json,2026,Dialog,Mori,モリ先輩が小さくうなずく。,Mori-senpai nods slightly.,,,
+151_3_6_3.json,2028,Dialog,Gotokuji,「銛之塚……、崇ッ！！」,「Kurakano... Takashi!!」,,,
+151_3_6_3.json,2029,Dialog,Gotokuji,豪徳寺さんがモリ先輩につかまれた腕に力を込,"Koudouji-san tries to put strength
+into Mori-senpai's",,,
+151_3_6_3.json,2030,Dialog,Gotokuji,めるが、ビクともしない。,"grip on her wrist, but she doesn't
+budge.",,,
+151_3_6_3.json,2032,Dialog,Gotokuji,「グ……ッ！」,「Gh...!」,,,
+151_3_6_3.json,2033,Dialog,Gotokuji,逆に、豪徳寺さんの方が苦しげに顔をゆがめた。,"On the contrary, Goudoji-san winced
+in pain.",,,
+151_3_6_3.json,2034,Dialog,Gotokuji,モリ先輩が、豪徳寺さんの拳を強く握りしめて,It seems Mori-senpai is tightly,,,
+151_3_6_3.json,2035,Dialog,Gotokuji,いるらしい。,gripping Kotodera-san's fist.,,,
+151_3_6_3.json,2038,Dialog,Mori,「いい加減にしろ」,Cut it out.,,,
+151_3_6_3.json,2039,Dialog,Mori,拳のきしむ音が聞こえてきそうだった。豪徳寺,I could hear his knuckles cracking.,,,
+151_3_6_3.json,2040,Dialog,Mori,さんの顔がさらにゆがみ、とうとう片膝をつい,Koudouji's face twisted even more,,,
+151_3_6_3.json,2041,Dialog,Mori,た。,and he finally dropped to one knee.,,,
+151_3_6_3.json,2053,Dialog,,そして、豪徳寺さんが腕に込めていた力が抜け,"And once Morikuni confirmed that
+Goudouji-san",,,
+151_3_6_3.json,2054,Dialog,,たのを確認すると、モリ先輩は手を離した。,"had relaxed his grip, he let go.",,,
+151_3_6_3.json,2061,Dialog,,ふう、モリ先輩が怪我しなくて良かった。,"Phew, I'm glad Mori-senpai wasn't
+hurt.",,,
+151_3_6_3.json,2062,Dialog,,そう思って息を吐いたとき――。,"Just as I thought that, I exhaled--.",,,
+151_3_6_3.json,2067,Dialog,Mori,「ハルヒっ」,Haruhi!,,,
+151_3_6_3.json,2069,Dialog,Haruhi,「え？」,Huh?,,,
+151_3_6_3.json,2071,Dialog,Haruhi,モリ先輩に名前を呼ばれて、自分が何をしてい,Being called by Mori-senpai reminded,,,
+151_3_6_3.json,2072,Dialog,Haruhi,るところだったかを思い出した。,me of what I was doing.,,,
+151_3_6_3.json,2074,Dialog,Haruhi,「はいっ！」,「Yes!」,,,
+151_3_6_3.json,2075,Dialog,Haruhi,慌てて並んでいるデザートのなかから、ケーキ,I grab a cake and parfait from the,,,
+151_3_6_3.json,2076,Dialog,Haruhi,とパフェを取って、ハニー先輩のもとへ走る。,line and run to Honey-senpai.,,,
+151_3_6_3.json,2079,Dialog,Haruhi,「ハニー先輩、これで最後です！」,"Honey-senpai, this is it!",,,
+151_3_6_3.json,2087,Dialog,Honey,「うん！」,Yep!,,,
+151_3_6_3.json,2088,Dialog,Honey,最後のデザートを渡すと、ハニー先輩はすごい,Honey-senpai starts eating,,,
+151_3_6_3.json,2089,Dialog,Honey,勢いで食べていく。,it with amazing force.,,,
+151_3_6_3.json,2091,Dialog,Honey,そして――。,And--.,,,
+151_3_6_3.json,2098,Dialog,Honey,「ごちそうさま〜♪　ぜんぶ食べたよ！」,Thanks for the food~♪ I ate it all!,,,
+151_3_6_3.json,2099,Dialog,Honey,ハニー先輩は見事に完食。一方、絢爛ホスト部,"Honey-senpai finished his meal
+perfectly. On the other hand,",,,
+151_3_6_3.json,2100,Dialog,Honey,のテーブルには、まだたくさん残っている。,"there's still a lot left on the
+Extravagant Host Club table.",,,
+151_3_6_3.json,2101,Dialog,Honey,ということは……。,That means...,,,
+151_3_6_3.json,2103,Dialog,Honey,ピーーーーーーーーッ！,Beep!,,,
+151_3_6_3.json,2116,Dialog,Renge,「終了ですわーーーーっ！　ハニー先輩、完食,"Game over!! Honey-senpai,",,,
+151_3_6_3.json,2117,Dialog,Renge,です！！」,you finished it all!!,,,
+151_3_6_3.json,2122,Dialog,Sayuri,「これで勝負は２勝１敗……」,"That makes it two wins and one
+loss...",,,
+151_3_6_3.json,2127,Dialog,Renge,「桜蘭ホスト部の勝利です！！」,Our victory!!,,,
+151_3_6_3.json,2128,Dialog,Renge,ギャラリーが一段と盛り上がった。,The audience got even more excited.,,,
+151_3_6_3.json,2132,Dialog,Haruhi,「やった！　勝ちましたよ！」,Yay! We won!,,,
+151_3_6_3.json,2139,Dialog,Honey,「良かった〜。おいしいお菓子たくさん食べら,Yay! We got to eat lots of yummy,,,
+151_3_6_3.json,2140,Dialog,Honey,れたし、楽しかったね！」,sweets and had so much fun!,,,
+151_3_6_3.json,2148,Dialog,Mori,「ハルヒも、良くやったな……」,"Good job, Haruhi...",,,
+151_3_6_3.json,2149,Dialog,Mori,モリ先輩も笑顔を浮かべている。,"Mori-senpai has a smile on his face
+too.",,,
+151_3_6_3.json,2150,Dialog,Mori,本当に、勝ったんだ……。,We really won...,,,

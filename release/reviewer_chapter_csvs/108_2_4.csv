@@ -1,0 +1,984 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+108_2_4.json,8,Dialog,Kyoya,「ハルヒ……、ちょっと」,Haruhi... a moment.,,,
+108_2_4.json,10,Dialog,Kyoya,鏡夜先輩に呼び出されて、お客さんのいない場,"Kyoya-senpai calls me over, and we
+move",,,
+108_2_4.json,11,Dialog,Kyoya,所まで来る。,somewhere away from the guests.,,,
+108_2_4.json,16,Dialog,Kyoya,「……お前の接客態度は消極的過ぎる」,"...Your attitude toward hosting is
+far too passive.",,,
+108_2_4.json,18,Dialog,Haruhi,「……はい」,...Yes.,,,
+108_2_4.json,19,Dialog,Haruhi,確かに、営業中なのに接客しないことが多かっ,"He is right. Even during club hours,
+there were probably",,,
+108_2_4.json,20,Dialog,Haruhi,たかもしれない……。,"a lot of times when I was not really
+serving anyone...",,,
+108_2_4.json,28,Dialog,Kyoya,「以前、警告したはずだ。借金を返済すること,"I warned you before. Paying off your
+debt",,,
+108_2_4.json,29,Dialog,Kyoya,も重要だが、お前自身がホスト部にいて楽しめ,"is important, but if you cannot
+enjoy",,,
+108_2_4.json,30,Dialog,Kyoya,ないのであれば――」,being in the Host Club yourself--,,,
+108_2_4.json,31,Dialog,Kyoya,鏡夜先輩は、冷たい口調で言い放った。,Kyoya-senpai says it in an icy tone.,,,
+108_2_4.json,39,Dialog,Kyoya,「お前は、ここにいる資格がない。今日限りで,You have no right to be here. As of,,,
+108_2_4.json,40,Dialog,Kyoya,ホスト部は辞めてもらう」,"today, you will leave the Host Club.",,,
+108_2_4.json,42,Dialog,Haruhi,「えっ！？　そんな……」,Huh!? But...,,,
+108_2_4.json,47,Dialog,Kyoya,「借金のことは忘れてもらって構わない。,You may forget about the debt.,,,
+108_2_4.json,48,Dialog,Kyoya,……ここには、もう二度と来るな」,...Do not ever come here again.,,,
+108_2_4.json,49,Dialog,Kyoya,鏡夜先輩の言葉をかみしめながら、部室を出る。,"I leave the clubroom with
+Kyoya-senpai's words weighing on me.",,,
+108_2_4.json,52,Dialog,Kyoya,……ある意味、これで自分は自由になれたのか,"...In one sense, maybe this",,,
+108_2_4.json,53,Dialog,Kyoya,もしれない。,means I am free now.,,,
+108_2_4.json,54,Dialog,,でも……。,But...,,,
+108_2_4.json,56,Dialog,,青い空を見上げる。,I look up at the blue sky.,,,
+108_2_4.json,57,Dialog,,もっと積極的に行動すれば良かった……。,"I should have acted more
+proactively...",,,
+108_2_4.json,58,Dialog,,何でだろう？　なんだか胸に穴があいた感じが,Why is that? It feels like there,,,
+108_2_4.json,59,Dialog,,する……。,is a hole in my chest...,,,
+108_2_4.json,67,Dialog,,今日も趣向をこらしたイベントって聞いたか,"I heard today would be another
+elaborate",,,
+108_2_4.json,68,Dialog,,ら、また改装でもしてるのかと思って来てみ,"event, so I came expecting the
+clubroom",,,
+108_2_4.json,69,Dialog,,たけど……。,"to be remodeled again, but...",,,
+108_2_4.json,70,Dialog,,#Color[7]#Scale[1.8]ホスト部営業中,#Color[7]#Scale[1.8]Host Club Open,,,
+108_2_4.json,80,Dialog,Tamaki,「ようこそ、麗しのわが姫……」,"Welcome, my lovely princess...",,,
+108_2_4.json,90,Dialog,Kyoya,「どうぞ、２人きりの逢瀬をお楽しみください」,"Please enjoy this private rendezvous
+for two.",,,
+108_2_4.json,102,Dialog,Kaoru,「光、やっぱり僕は光じゃないと――」,"Hikaru, I knew it has to be you--",,,
+108_2_4.json,113,Dialog,Hikaru,「わかってるよ馨。僕だって、馨じゃないとダ,"I know, Kaoru. I feel the",,,
+108_2_4.json,114,Dialog,Hikaru,メさ――」,same. It has to be you--,,,
+108_2_4.json,118,Dialog,Hikaru,みんな、いつも通りの接客をしてる。,Everyone is hosting just like usual.,,,
+108_2_4.json,127,Dialog,Honey,「今日もケーキがいっぱいだね！　みんなもい,"There is so much cake again today!
+And",,,
+108_2_4.json,128,Dialog,Honey,るし、楽しいなあ〜♪」,"everyone is here, so this is fun♪",,,
+108_2_4.json,137,Dialog,Mori,「……ああ」,...Yeah.,,,
+108_2_4.json,140,Dialog,Mori,お客さんたちもみんなうれしそうだ。特に何も,"All the guests look happy too.
+Nothing",,,
+108_2_4.json,141,Dialog,Mori,変わらない。,in particular has changed.,,,
+108_2_4.json,142,Dialog,Mori,特別な仕掛けでもあるのかな……。,"Is there some special trick to
+it...?",,,
+108_2_4.json,162,Dialog,,あたりを見回していると――。,As I look around--,,,
+108_2_4.json,169,Dialog,Kyoya,「ハルヒ、ちょっといいか？」,"Haruhi, do you have a moment?",,,
+108_2_4.json,170,Dialog,Kyoya,鏡夜先輩に声をかけられた。,Kyoya-senpai calls out to me.,,,
+108_2_4.json,172,Dialog,Haruhi,「はい？」,Yes?,,,
+108_2_4.json,177,Dialog,Kyoya,「お前がここにいる理由はなんだ？」,What is your reason for being here?,,,
+108_2_4.json,179,Dialog,Haruhi,「借金を返すため、ですけど」,To pay back my debt.,,,
+108_2_4.json,187,Dialog,Kyoya,「自覚はあるようだが、働きはいまひとつだな」,"You seem aware of that, but your
+work leaves something to be desired.",,,
+108_2_4.json,189,Dialog,Haruhi,「……頑張っているつもりなんですけど」,...I am trying my best.,,,
+108_2_4.json,197,Dialog,Kyoya,「そうか。では、問題は別のところにありそう,I see. Then the problem,,,
+108_2_4.json,198,Dialog,Kyoya,だな」,may lie elsewhere.,,,
+108_2_4.json,200,Dialog,Haruhi,「それは……」,That is...,,,
+108_2_4.json,205,Dialog,Kyoya,「ここにいることがお前にとって、意味のある,Whether being here has meaning,,,
+108_2_4.json,206,Dialog,Kyoya,場所であるかどうか。そして、この時を楽しめ,for you. And whether you,,,
+108_2_4.json,207,Dialog,Kyoya,るのかどうか、というところか」,can enjoy this time here.,,,
+108_2_4.json,209,Dialog,Haruhi,「楽しむ……？」,Enjoy it...?,,,
+108_2_4.json,210,Dialog,Haruhi,どうすればいいんだろう？　鏡夜先輩にしては、,"What am I supposed to do? For
+Kyoya-senpai, this",,,
+108_2_4.json,211,Dialog,Haruhi,珍しくまわりくどい言い方だけど。,"is an unusually roundabout way of
+saying things.",,,
+108_2_4.json,212,Dialog,Haruhi,……もっと接客すればいいのかな？,"...Maybe I should host more
+actively?",,,
+108_2_4.json,214,Dialog,Haruhi,「えっと、もう少し積極的に接客するように心,"Um, I will try to be a little more",,,
+108_2_4.json,215,Dialog,Haruhi,掛けます」,proactive about serving guests.,,,
+108_2_4.json,220,Dialog,Kyoya,「……なるほど。それもひとつの解釈だな」,"...I see. That is one
+interpretation.",,,
+108_2_4.json,222,Dialog,Kyoya,小さくため息をついて――、しっかりなとつぶ,"He lets out a small sigh, mutters,",,,
+108_2_4.json,223,Dialog,Kyoya,やいて歩いていった。,"""Do your best,"" and walks away.",,,
+108_2_4.json,234,Dialog,Kurakano,「ハルヒくーん」,Haruhi-kuuun.,,,
+108_2_4.json,236,Dialog,Haruhi,「あ……、はい？」,Oh... yes?,,,
+108_2_4.json,244,Dialog,Kamikamo,「考え込まれているようでしたから、どうされ,"You seemed deep in thought, so",,,
+108_2_4.json,245,Dialog,Kamikamo,たかと思いましたわ」,I wondered what was wrong.,,,
+108_2_4.json,254,Dialog,Sakurazuka,「何か、悩みごとでも？」,Is something troubling you?,,,
+108_2_4.json,256,Dialog,Haruhi,「いえ、何でもありませんよ」,"No, it is nothing.",,,
+108_2_4.json,257,Dialog,Haruhi,何でもないっていうか、本当にどうでもいい事,"It is not exactly nothing, but it
+really",,,
+108_2_4.json,258,Dialog,Haruhi,だし。,is not worth worrying about.,,,
+108_2_4.json,259,Dialog,Haruhi,そうそう、考えていてもしょうがない。,"Right, right. There is no point
+thinking about it.",,,
+108_2_4.json,260,Dialog,Haruhi,接客をしないと……。,I need to serve guests...,,,
+108_2_4.json,261,Dialog,Haruhi,さて、誰のテーブルに行こうかな？,"Now then, whose table should I go
+to?",,,
+108_2_4.json,262,Choice,Haruhi,倉賀野さん,Kurakano-san,,,
+108_2_4.json,263,Choice,,桜塚さん,Sakurazuka-san,,,
+108_2_4.json,264,Choice,,上賀茂さん,Kamikamo-san,,,
+108_2_4.json,265,Choice,,またあとで,Maybe later,,,
+108_2_4.json,291,Dialog,Kurakano,「ハルヒ君は、この夏休みをどこで過ごすのか,"Haruhi-kun, where will you",,,
+108_2_4.json,292,Dialog,Kurakano,しら？」,spend your summer vacation?,,,
+108_2_4.json,293,Dialog,Kurakano,夏休みって……、まだ５月なのに。,Summer vacation...? It is still May.,,,
+108_2_4.json,295,Dialog,Haruhi,「いえ、特にないですね。倉賀野さんは？」,"No, I do not have any particular
+plans. What about you, Kurakano-san?",,,
+108_2_4.json,300,Dialog,Kurakano,「家族で海外旅行の予定がありますの」,"My family has plans to travel
+overseas.",,,
+108_2_4.json,305,Dialog,Kurakano,「ホスト部で、何かご予定は？」,Does the Host Club have any plans?,,,
+108_2_4.json,307,Dialog,Haruhi,「うーん。鏡夜先輩の事ですから、何か計画を,"Hmm. Knowing Kyoya-senpai, he",,,
+108_2_4.json,308,Dialog,Haruhi,立てているかもしれませんね」,may be planning something.,,,
+108_2_4.json,309,Dialog,Haruhi,夏休み中だからって、鏡夜先輩が営業を完全に,"I cannot imagine Kyoya-senpai
+completely shutting",,,
+108_2_4.json,310,Dialog,Haruhi,休みにするとは思えないし。,"down business just because it is
+summer vacation.",,,
+108_2_4.json,315,Dialog,Kurakano,「そのときは、わたくしもぜひ参加したいです。,"If that happens, I would very much
+like to join you.",,,
+108_2_4.json,316,Dialog,Kurakano,楽しそうですから」,It sounds fun.,,,
+108_2_4.json,317,Dialog,Kurakano,……うーん。,...Hmm.,,,
+108_2_4.json,318,Choice,Kurakano,楽しみですね,That sounds fun,,,
+108_2_4.json,319,Choice,Kurakano,興味ないですね,Not interested,,,
+108_2_4.json,332,Dialog,Haruhi,「ええ、とっても楽しみですね」,"Yes, I am really looking forward to
+it.",,,
+108_2_4.json,333,Dialog,Haruhi,何が起こるかわからないという点では不安だけ,"I am nervous because I never know
+what will happen,",,,
+108_2_4.json,334,Dialog,Haruhi,ど、少しは楽しみだし。,"but I am looking forward to it a
+little too.",,,
+108_2_4.json,339,Dialog,Kurakano,「うらやましいです。仲のいいお友だち同士で,"I envy you. Going out with close
+friends",,,
+108_2_4.json,340,Dialog,Kurakano,お出かけするのは、楽しいですものね」,is such a fun thing to do.,,,
+108_2_4.json,341,Dialog,Kurakano,仲のいいお友だち……。確かに仲は悪いわけじゃ,"Close friends... I mean, it is not",,,
+108_2_4.json,342,Dialog,Kurakano,ないけど……。,"like we are on bad terms, but...",,,
+108_2_4.json,352,Dialog,,あの人たちと旅行に行っても、無駄に疲れそう,"Going on a trip with those people
+seems like",,,
+108_2_4.json,353,Dialog,,だし……。,"it would be pointlessly
+exhausting...",,,
+108_2_4.json,355,Dialog,Haruhi,「興味ないですね」,I am not interested.,,,
+108_2_4.json,360,Dialog,Kurakano,「そうなんだ……」,Oh. Is that so...,,,
+108_2_4.json,361,Dialog,Kurakano,しまった……。なんとかフォローしないと……。,"Oops... I need to smooth that over
+somehow...",,,
+108_2_4.json,363,Dialog,Haruhi,「で、でも、倉賀野さんも一緒だったらきっと,"B-But if you came too, Kurakano-san,",,,
+108_2_4.json,364,Dialog,Haruhi,楽しいでしょうね」,I am sure it would be fun.,,,
+108_2_4.json,369,Dialog,Kurakano,「くすっ……、ハルヒ君、気をつかっていただ,"Hehe... Haruhi-kun, thank you",,,
+108_2_4.json,370,Dialog,Kurakano,いて、ありがとうございます」,for being so considerate.,,,
+108_2_4.json,371,Dialog,Kurakano,あれ？　笑われちゃった。でも、笑顔に戻って,"Huh? She laughed at me. But she is
+smiling",,,
+108_2_4.json,372,Dialog,Kurakano,くれたからいいか。,"again, so I guess it is fine.",,,
+108_2_4.json,389,Dialog,Sakurazuka,「ハルヒ君の好きな冷たいデザートってなあ,"Haruhi-kun, what cold",,,
+108_2_4.json,390,Dialog,Sakurazuka,に？」,desserts do you like?,,,
+108_2_4.json,392,Dialog,Haruhi,「おいしければ何でも好きですよ。……でも、,I like anything as long as it tastes,,,
+108_2_4.json,393,Dialog,Haruhi,どうして突然？」,good. ...But why so suddenly?,,,
+108_2_4.json,399,Dialog,Sakurazuka,「あのね、パリの有名パティシエが夏に向けて,"Well, a famous Paris patissier
+announced",,,
+108_2_4.json,400,Dialog,Sakurazuka,冷たい新作スイーツを発表したの。早く食べて,a new cold sweet for summer.,,,
+108_2_4.json,401,Dialog,Sakurazuka,みたくって……」,I cannot wait to try it...,,,
+108_2_4.json,403,Dialog,Haruhi,「そんなに他のものと違うものなんですか……」,"Is it that different from other
+desserts...?",,,
+108_2_4.json,408,Dialog,Sakurazuka,「ええ、見た目もかわいらしいのよ。良かった,"Yes, and it looks adorable too. I
+thought perhaps",,,
+108_2_4.json,409,Dialog,Sakurazuka,らハルヒ君たちもいかがかしら、と思って」,"Haruhi-kun and the others might like
+to try it.",,,
+108_2_4.json,410,Dialog,Sakurazuka,スイーツか……。,"Sweets, huh...",,,
+108_2_4.json,411,Choice,Sakurazuka,いえ、自分は……,"No, I...",,,
+108_2_4.json,412,Choice,Sakurazuka,ぜひご一緒に,I would love to,,,
+108_2_4.json,428,Dialog,Haruhi,「いえ、自分は……」,"No, I...",,,
+108_2_4.json,433,Dialog,Sakurazuka,「……そうなの」,...I see.,,,
+108_2_4.json,435,Dialog,Haruhi,「いえ、自分は甘いものが苦手なだけで……。,"No, it is only that I am not good
+with very sweet things...",,,
+108_2_4.json,436,Dialog,Haruhi,他のみんなはうれしいんじゃないかな」,"I think everyone else would be happy
+about it.",,,
+108_2_4.json,437,Dialog,Haruhi,ハニー先輩なんて特に喜びそうだ。,"Honey-senpai especially would
+probably be thrilled.",,,
+108_2_4.json,442,Dialog,Sakurazuka,「そうなの……。じゃあ、ハルヒ君には甘さ控,I see... Then what if I,,,
+108_2_4.json,443,Dialog,Sakurazuka,えめのものを用意する、というのではどうかし,prepare something less sweet,,,
+108_2_4.json,444,Dialog,Sakurazuka,ら？」,"for you, Haruhi-kun?",,,
+108_2_4.json,446,Dialog,Haruhi,「あ、それなら嬉しいです」,"Oh, I would like that.",,,
+108_2_4.json,450,Dialog,Haruhi,良かった……、桜塚さんが笑顔に戻ってくれた。,"Good... Sakurazuka-san is smiling
+again.",,,
+108_2_4.json,458,Dialog,Haruhi,「ええ、ぜひご一緒に」,"Yes, I would love to join you.",,,
+108_2_4.json,459,Dialog,Haruhi,そこまでおいしいものなら、食べてみたい。,"If it is that good, I would like to
+try it.",,,
+108_2_4.json,461,Dialog,Haruhi,「ひとつだけわがままが許されるのなら、甘さ,"If I am allowed one selfish request,
+I would",,,
+108_2_4.json,462,Dialog,Haruhi,が控え目だと嬉しいですね」,be happy if it were not too sweet.,,,
+108_2_4.json,468,Dialog,Sakurazuka,「ええ任せて！　わたし、絶対にハルヒ君の,"Yes, leave it to me! I will
+absolutely choose",,,
+108_2_4.json,469,Dialog,Sakurazuka,お口に合うお菓子を選ぶからね」,"a sweet that suits your taste,
+Haruhi-kun.",,,
+108_2_4.json,470,Dialog,Sakurazuka,桜塚さんは意気込んでうなずいた。,Sakurazuka-san nods with enthusiasm.,,,
+108_2_4.json,487,Dialog,Kamikamo,「ハルヒくんはお祭りというものに行ったこと,"Haruhi-kun, have you ever",,,
+108_2_4.json,488,Dialog,Kamikamo,がありまして？」,been to a festival?,,,
+108_2_4.json,490,Dialog,Haruhi,「お祭りっていうと、縁日ですか？　昔はよく,"By festival, do you mean a fair? I
+went a lot when",,,
+108_2_4.json,491,Dialog,Haruhi,行きましたね。……どうしたんですか、急に？」,"I was little. ...Why do you ask so
+suddenly?",,,
+108_2_4.json,492,Dialog,Haruhi,上賀茂さんがお祭りの話をするなんて、結構意,"It is pretty surprising to hear
+Kamikamo-san",,,
+108_2_4.json,493,Dialog,Haruhi,外だな。,talk about festivals.,,,
+108_2_4.json,498,Dialog,Kamikamo,「出先から戻るとき、車の窓から見えましたの。,"I saw one from the car window while
+I was returning from an outing.",,,
+108_2_4.json,499,Dialog,Kamikamo,わたくし、お祭りに行ったことがないもので、ど,"I have never been to a festival, so",,,
+108_2_4.json,500,Dialog,Kamikamo,んなところなのかしらと……」,I wondered what they are like...,,,
+108_2_4.json,501,Dialog,Kamikamo,上賀茂さんは、お祭りに行ったことがないん,Kamikamo-san has never been,,,
+108_2_4.json,502,Dialog,Kamikamo,だ……。,to a festival before...,,,
+108_2_4.json,507,Dialog,Kamikamo,「やはり、お祭りというのは楽しいところ……、,So festivals truly are enjoyable,,,
+108_2_4.json,508,Dialog,Kamikamo,ですの？」,places... are they?,,,
+108_2_4.json,509,Dialog,Kamikamo,どう答えようかな……？,How should I answer...?,,,
+108_2_4.json,510,Choice,Kamikamo,はい、とても,"Yes, very",,,
+108_2_4.json,511,Choice,Kamikamo,つまらないですよ,They are boring,,,
+108_2_4.json,524,Dialog,Haruhi,「はい、とても楽しいところですよ」,"Yes, they are very fun.",,,
+108_2_4.json,529,Dialog,Kamikamo,「まあ、やはりそうですの……。わたくしも一度,"Oh my, so they are after all... I
+would",,,
+108_2_4.json,530,Dialog,Kamikamo,行ってみたいですわ」,like to go just once as well.,,,
+108_2_4.json,532,Dialog,Haruhi,「夏になったら、ホスト部のみんなで行けない,"When summer comes, I will ask
+Kyoya-senpai",,,
+108_2_4.json,533,Dialog,Haruhi,かどうか、鏡夜先輩に聞いておきますよ」,"if the whole Host Club can go
+together.",,,
+108_2_4.json,538,Dialog,Kamikamo,「本当に？　うれしいわ、わたくし……」,Truly? I am so happy...,,,
+108_2_4.json,540,Dialog,Haruhi,「上賀茂さんは浴衣が似合いそうですから、楽,"I think you would look good in a
+yukata, Kamikamo-san,",,,
+108_2_4.json,541,Dialog,Haruhi,しみにしていますね」,so I am looking forward to it.,,,
+108_2_4.json,546,Dialog,Haruhi,上賀茂さんは少し顔を赤くしてうなずいた。,"Kamikamo-san blushed a little and
+nodded.",,,
+108_2_4.json,557,Dialog,Haruhi,「つまらないですよ。込んでますし」,They are boring. And crowded.,,,
+108_2_4.json,562,Dialog,Kamikamo,「そうなんですか……」,Is that so...,,,
+108_2_4.json,564,Dialog,Haruhi,「で、でも、みんなで行ったら楽しいかもしれ,"B-But it might be fun if we all went
+together.",,,
+108_2_4.json,565,Dialog,Haruhi,ませんね。鏡夜先輩に相談してみます」,I will ask Kyoya-senpai about it.,,,
+108_2_4.json,570,Dialog,Kamikamo,「本当ですの？」,Truly?,,,
+108_2_4.json,571,Dialog,Kamikamo,上賀茂さんに笑顔が戻った。良かった……。,"Kamikamo-san's smile came back.
+Good...",,,
+108_2_4.json,586,Dialog,,特に指名されてるわけでもないし、あとででも,"I have not been asked for
+specifically,",,,
+108_2_4.json,587,Dialog,,いいかな。,so I guess later is fine.,,,
+108_2_4.json,593,Dialog,,さて、少し時間ができたし、どこかのヘルプに,"Well, I have a little free time now,",,,
+108_2_4.json,594,Dialog,,行こうかな。,so maybe I should go help somewhere.,,,
+108_2_4.json,595,Dialog,,ざっと視線を周囲に巡らせてみる。,"I sweep my eyes quickly around the
+room.",,,
+108_2_4.json,596,Dialog,,……ハニー先輩たちのところが忙しそうだなあ。,"...Honey-senpai and the others look
+busy.",,,
+108_2_4.json,597,Dialog,,２人だけでは手が足りてないように見える。,The two of them seem short-handed.,,,
+108_2_4.json,598,Dialog,,ハニー先輩とモリ先輩、どっちを重視で手伝お,"Should I focus on helping
+Honey-senpai",,,
+108_2_4.json,599,Dialog,,うかな？,or Mori-senpai?,,,
+108_2_4.json,600,Choice,,行かなくてもいいかな,Maybe I do not need to go,,,
+108_2_4.json,601,Choice,,ハニー先輩のヘルプへ,Help Honey-senpai,,,
+108_2_4.json,602,Choice,,モリ先輩のヘルプへ,Help Mori-senpai,,,
+108_2_4.json,617,Dialog,,……そう思ったけど、あの２人なら大丈夫そう,"...That is what I thought, but those",,,
+108_2_4.json,618,Dialog,,だなあ。,two look like they will be fine.,,,
+108_2_4.json,619,Dialog,,今のところはヘルプに行かなくてもいいか。,"I guess I do not need to go help for
+now.",,,
+108_2_4.json,624,Dialog,,ハニー先輩のテーブルに向かおう。,I will head to Honey-senpai's table.,,,
+108_2_4.json,637,Dialog,Kamikamo,「そうですの。さすがハニーくんですわね」,"I see. Just what I would expect of
+Honey-kun.",,,
+108_2_4.json,642,Dialog,Honey,「うん、毎日やってるよ。上賀茂ちゃんもやっ,"Yep, I do it every day.
+Kamikamo-chan,",,,
+108_2_4.json,643,Dialog,Honey,てみたら？」,why do not you try it too?,,,
+108_2_4.json,648,Dialog,Kamikamo,「わたくしは続けられそうにありませんわ。そう,"I do not think I could keep it up.
+Things like",,,
+108_2_4.json,649,Dialog,Kamikamo,いうものは、正しいやり方がありますし……」,"that have a proper method, after
+all...",,,
+108_2_4.json,655,Dialog,Honey,「大丈夫！　僕が教えてあげるから」,It is okay! I will teach you.,,,
+108_2_4.json,662,Dialog,,飲み物を手に、自分もハニー先輩のところへ。,"Drink in hand, I head over to
+Honey-senpai too.",,,
+108_2_4.json,663,Dialog,,今の２人の話題はなんだろう……。,"I wonder what those two are talking
+about right now...",,,
+108_2_4.json,695,Dialog,Haruhi,「ハニー先輩の得意とするところですからね」,"That is one of Honey-senpai's
+specialties, after all.",,,
+108_2_4.json,701,Dialog,Honey,「うん、正しい運動は、美容にも健康にも良い,"Yep, proper exercise is good for
+beauty",,,
+108_2_4.json,702,Dialog,Honey,んだよ。それにとっても楽しいの」,"and health. And it is really fun
+too.",,,
+108_2_4.json,707,Dialog,Kamikamo,「ハニーくんって、本当に健康的ですものね」,Honey-kun really is so healthy.,,,
+108_2_4.json,708,Dialog,Kamikamo,優れた格闘家は、トレーナーとしての知識もあ,"I have heard that skilled martial
+artists",,,
+108_2_4.json,709,Dialog,Kamikamo,ると聞いた事がある。,also have knowledge as trainers.,,,
+108_2_4.json,710,Dialog,Kamikamo,正直、自分は苦手なんだけど……。,"Honestly, I am not very good at that
+kind of thing...",,,
+108_2_4.json,732,Dialog,Honey,「ちがうよ、ハルちゃん。体を動かすこと、ト,"That is not it, Haru-chan. We mean",,,
+108_2_4.json,733,Dialog,Honey,レーニングだよ」,moving your body. Training.,,,
+108_2_4.json,735,Dialog,Haruhi,「あ、そうだったんですか。すみません」,"Oh, is that what you meant? Sorry.",,,
+108_2_4.json,736,Dialog,Haruhi,ちょっと失敗したな……。,I messed that up a little...,,,
+108_2_4.json,741,Dialog,Honey,「あのね、軽いトレーニングなら、体型維持に,"You know, even light training",,,
+108_2_4.json,742,Dialog,Honey,もなるんだよ〜」,can help you keep your figure.,,,
+108_2_4.json,746,Dialog,Honey,ハニー先輩はそのまま話題を続ける。途中から,"Honey-senpai keeps the topic going
+from there. It is hard to",,,
+108_2_4.json,747,Dialog,Honey,話題についていくのって難しいなあ。,"keep up when you come in halfway
+through a conversation.",,,
+108_2_4.json,754,Dialog,,モリ先輩のテーブルに向かう。,I head to Mori-senpai's table.,,,
+108_2_4.json,767,Dialog,Kamikamo,「そうですの。さすがモリくんですわ」,"I see. Just what I would expect of
+Mori-kun.",,,
+108_2_4.json,772,Dialog,Mori,「……武道の基本は体から」,"...The basics of martial arts start
+with the body.",,,
+108_2_4.json,777,Dialog,Kamikamo,「なんだか意外ですわ。ご自分で支度もなさる,How unexpected. Do you,,,
+108_2_4.json,778,Dialog,Kamikamo,の？」,prepare it yourself?,,,
+108_2_4.json,783,Dialog,Mori,「材料だけ……」,Just the ingredients...,,,
+108_2_4.json,784,Dialog,Mori,自分も、飲み物を用意して、モリ先輩のところ,I prepare a drink myself and,,,
+108_2_4.json,785,Dialog,Mori,へ。,head over to Mori-senpai.,,,
+108_2_4.json,786,Dialog,Mori,今の２人の話題は……。,"What those two are talking about
+right now is...",,,
+108_2_4.json,821,Dialog,Mori,「ハルヒ、違うぞ……」,"Haruhi, that is not it...",,,
+108_2_4.json,826,Dialog,Kamikamo,「健康食の話題でしたのよ」,We were discussing health food.,,,
+108_2_4.json,827,Dialog,Kamikamo,ちょっと困った顔で上賀茂さんが微笑む。,"Kamikamo-san smiles with a slightly
+troubled look.",,,
+108_2_4.json,829,Dialog,Haruhi,「そうだったんですか……」,"Oh, I see...",,,
+108_2_4.json,834,Dialog,Mori,「ああ……」,Oh...,,,
+108_2_4.json,835,Dialog,Mori,途中から話題についていくのって、難しいなあ。,"It is hard to keep up when you come
+in halfway through a conversation.",,,
+108_2_4.json,854,Dialog,Haruhi,「ああ、健康食ですね」,"Oh, health food.",,,
+108_2_4.json,860,Dialog,Mori,「そうだ」,Yes.,,,
+108_2_4.json,861,Dialog,Mori,モリ先輩は、そう言って微笑む。,Mori-senpai says that and smiles.,,,
+108_2_4.json,866,Dialog,Kamikamo,「モリくんは、運動だけじゃなく栄養管理にも,"Mori-kun, you pay attention not only
+to exercise,",,,
+108_2_4.json,867,Dialog,Kamikamo,気をつかっていらっしゃるのね」,but to nutrition management as well.,,,
+108_2_4.json,874,Dialog,,モリ先輩は続けて、健康食について語ってくれ,Mori-senpai went on to tell,,,
+108_2_4.json,875,Dialog,,た。,us about health food.,,,
+108_2_4.json,876,Dialog,,自分も詳しくはないから、けっこう勉強になる,"I do not know much about it either,
+so",,,
+108_2_4.json,877,Dialog,,なあ。,this is actually pretty educational.,,,
+108_2_4.json,891,Dialog,Tamaki,「さてみなさん！」,"Now then, everyone!",,,
+108_2_4.json,892,Dialog,Tamaki,突然、環先輩が大きな声で叫んだ。,"Tamaki-senpai suddenly shouted in a
+loud voice.",,,
+108_2_4.json,897,Dialog,Tamaki,「本日は庶民ラーメンへ挑戦――、いや、研究,"Today we shall challenge commoner
+ramen...",,,
+108_2_4.json,898,Dialog,Tamaki,を行います！」,"no, conduct research into it!",,,
+108_2_4.json,906,Dialog,Tamaki,「庶民ラーメンとは、お湯を注ぐだけでできる,"Commoner ramen is an astonishing
+commoner food that",,,
+108_2_4.json,907,Dialog,Tamaki,という、庶民の驚くべき食べ物です！」,"can be made simply by pouring in hot
+water!",,,
+108_2_4.json,908,Dialog,Tamaki,昨日言ってたお楽しみって、この事か……。,"So this is the fun thing he
+mentioned yesterday...",,,
+108_2_4.json,909,Dialog,Tamaki,しかもすごい言い方してるけど、ただのカップ,"He is making it sound incredible,",,,
+108_2_4.json,910,Dialog,Tamaki,ラーメンでは……。,but is this not just cup ramen...?,,,
+108_2_4.json,911,Dialog,Tamaki,だいたい、研究っていったい何をするつもりな,"Besides, what exactly does",,,
+108_2_4.json,912,Dialog,Tamaki,んだろう？,he plan to do for research?,,,
+108_2_4.json,915,Dialog,,環先輩がものすごい種類のカップラーメンをテー,Tamaki-senpai lined up an enormous,,,
+108_2_4.json,916,Dialog,,ブルの上に並べた。,variety of cup ramen on the table.,,,
+108_2_4.json,917,Dialog,,お客さんがテーブルの前に集まってくる。,"The guests gather in front of the
+table.",,,
+108_2_4.json,924,Dialog,Kamikamo,「まあ、ずいぶんと色々な種類があるのね」,"Oh my, there are so many different
+kinds.",,,
+108_2_4.json,932,Dialog,Sakurazuka,「とっても、カラフル〜」,They are so colorful.,,,
+108_2_4.json,940,Dialog,Kurakano,「意外と軽いのね」,They are lighter than I expected.,,,
+108_2_4.json,948,Dialog,Tamaki,「さあ、庶民ラーメンを作ってみましょう！」,"Now, let us try making commoner
+ramen!",,,
+108_2_4.json,956,Dialog,Kyoya,「作り方については、先生の教え方に従うこと」,"As for how to make it, follow the
+teacher's instructions.",,,
+108_2_4.json,957,Dialog,Kyoya,……先生って、もしかして。,"...By teacher, could he mean...",,,
+108_2_4.json,959,Dialog,Kyoya,自然と、みんなの視線が自分に集まる。,"Naturally, everyone's eyes gather on
+me.",,,
+108_2_4.json,960,Dialog,Kyoya,自分ですか、やっぱり……。,"Me, just as I thought...",,,
+108_2_4.json,961,Dialog,Kyoya,先輩の買ってきたカップラーメンの種類はバラ,"The cup ramen Tamaki-senpai bought
+is all different types.",,,
+108_2_4.json,962,Dialog,Kyoya,バラだ。微妙に作り方がちがうんだよね……。,"The instructions vary a little from
+one to another...",,,
+108_2_4.json,963,Dialog,,まずは誰か１人のカップラーメンを作ってあげ,Maybe I should make one person's,,,
+108_2_4.json,964,Dialog,,ようかな。,cup ramen for them first.,,,
+108_2_4.json,965,Dialog,,１回作るのを見てもらえば、あとはカップに書,"If they watch me make one once, I
+think they will understand",,,
+108_2_4.json,966,Dialog,,いてある説明で理解できると思うし……。,"the instructions written on the cups
+after that...",,,
+108_2_4.json,967,Dialog,,それじゃあ、まず誰のところにいこうかな？,"In that case, whose should I go to
+first?",,,
+108_2_4.json,968,Choice,,環先輩,Tamaki-senpai,,,
+108_2_4.json,969,Choice,,鏡夜先輩,Kyoya-senpai,,,
+108_2_4.json,970,Choice,,光,Hikaru,,,
+108_2_4.json,971,Choice,,馨,Kaoru,,,
+108_2_4.json,972,Choice,,ハニー先輩,Honey-senpai,,,
+108_2_4.json,973,Choice,,モリ先輩,Mori-senpai,,,
+108_2_4.json,994,Dialog,,環先輩にしよう。,I will go with Tamaki-senpai.,,,
+108_2_4.json,995,Dialog,,部室でよくカップラーメンを作って食べてるか,"He often makes and eats cup ramen in
+the club room,",,,
+108_2_4.json,996,Dialog,,ら、教えやすそうだし。,"so he seems like he would be easy to
+teach.",,,
+108_2_4.json,1006,Dialog,Tamaki,「おお、ハルヒ！　この庶民ラーメンは作った,"Oh, Haruhi! I have never made this
+commoner",,,
+108_2_4.json,1007,Dialog,Tamaki,ことがなくて、困っていたのだ」,"ramen before, and I was at a loss.",,,
+108_2_4.json,1008,Dialog,Tamaki,環先輩が手にしているのは、新発売の【濃厚,"What Tamaki-senpai is holding is the
+new release,",,,
+108_2_4.json,1009,Dialog,Tamaki,こってりトンコツ大盛り】。,"[Rich and Heavy Extra-Large
+Tonkotsu].",,,
+108_2_4.json,1013,Dialog,,他のみんなと同じように悩んでると思ったら、,"I thought he was confused just like
+everyone else, but his",,,
+108_2_4.json,1014,Dialog,,湯切り生めんタイプだし。,"is the fresh-noodle type where you
+drain the hot water.",,,
+108_2_4.json,1015,Dialog,,いつも環先輩が作ってる種類とはちがう。,"It is different from the kind
+Tamaki-senpai usually makes.",,,
+108_2_4.json,1023,Dialog,Tamaki,「生めんとはどういうことだ？　庶民ラーメン,"What do you mean, fresh noodles?
+Commoner ramen",,,
+108_2_4.json,1024,Dialog,Tamaki,は最初はパリパリしているものだろう？」,"is supposed to be crunchy at first,
+is it not?",,,
+108_2_4.json,1026,Dialog,Haruhi,「これはこうやって、作るんですよ」,You make this one like this.,,,
+108_2_4.json,1027,Dialog,Haruhi,生めんを袋から取り出してカップに入れ、お湯,"I take the fresh noodles out of the
+bag, put",,,
+108_2_4.json,1028,Dialog,Haruhi,を注ぐ。,"them in the cup, and pour in hot
+water.",,,
+108_2_4.json,1037,Dialog,Tamaki,「そこからはわかるぞ、フタをして３分だな」,"I know what comes after that. Put
+the lid on and wait three minutes.",,,
+108_2_4.json,1039,Dialog,Haruhi,「１分で充分ですよ」,One minute is enough.,,,
+108_2_4.json,1042,Dialog,Haruhi,「はい、できましたよ」,"There, it is ready.",,,
+108_2_4.json,1050,Dialog,Tamaki,「……これが庶民の知恵というものか」,"...So this is what they call
+commoner wisdom.",,,
+108_2_4.json,1051,Dialog,Tamaki,こんなことで感動されても……。,"Being moved by something like this
+is kind of...",,,
+108_2_4.json,1060,Dialog,Tamaki,「ん……、ウマイ！　ハルヒも少しどうだ？」,"Mm... delicious! Haruhi, would you
+like a little as well?",,,
+108_2_4.json,1062,Dialog,Haruhi,「じゃあ、味見だけさせてもらいます」,Then I'll just have a taste.,,,
+108_2_4.json,1071,Dialog,,鏡夜先輩が選んだのは、新発売の【極辛トリプ,"Kyoya-senpai chose the newly
+released",,,
+108_2_4.json,1072,Dialog,,ルソース焼きそば】。,[Extra-Spicy Triple Sauce Yakisoba].,,,
+108_2_4.json,1073,Dialog,,近所の『スーパーまるとみ』でも、史上最高の,"Even at the neighborhood Super
+Marutomi, it had",,,
+108_2_4.json,1074,Dialog,,辛さだって評判だったなあ。,"a reputation for being the spiciest
+one ever.",,,
+108_2_4.json,1081,Dialog,Haruhi,「鏡夜先輩も、カップラーメンなんて食べるん,"Kyoya-senpai, you",,,
+108_2_4.json,1082,Dialog,Haruhi,ですね」,eat cup ramen too?,,,
+108_2_4.json,1083,Dialog,Haruhi,こういうのは口に合わないのかと思ってたけ,I thought this sort of thing,,,
+108_2_4.json,1084,Dialog,Haruhi,ど……。,would not suit his tastes...,,,
+108_2_4.json,1089,Dialog,Kyoya,「確かに、俺の口には合わないだろうな」,"True, it probably will not suit my
+tastes.",,,
+108_2_4.json,1090,Dialog,Kyoya,何も言ってないのに……。,I did not even say anything...,,,
+108_2_4.json,1098,Dialog,Kyoya,「ところでハルヒ。これは、焼いていないのに,"By the way, Haruhi. Is it not
+strange that this is",,,
+108_2_4.json,1099,Dialog,Kyoya,【焼き】そばなのは、変じゃないか？」,"called [yaki]soba when nothing is
+being fried?",,,
+108_2_4.json,1101,Dialog,Haruhi,「味付けがソースですから、焼きそばでもいい,"Since it is seasoned with sauce, I
+think",,,
+108_2_4.json,1102,Dialog,Haruhi,んじゃないですか？」,"calling it yakisoba is fine, isn't
+it?",,,
+108_2_4.json,1107,Dialog,Kyoya,「いい加減なものだな」,How imprecise.,,,
+108_2_4.json,1108,Dialog,Kyoya,苦笑いの鏡夜先輩の前で、まずはかやくを麺の,"With Kyoya-senpai smiling wryly in
+front of me, I start by teaching",,,
+108_2_4.json,1109,Dialog,Kyoya,下に入れるなどの小技を教える。,"him little tricks, like putting the
+toppings under the noodles.",,,
+108_2_4.json,1110,Dialog,Kyoya,お湯を切ったあとにソースを加えていくんだけ,"After draining the hot water, you
+add the sauce,",,,
+108_2_4.json,1111,Dialog,Kyoya,ど、このソースは好みに合わせて段階的に調整,"and this sauce is made so you can
+adjust",,,
+108_2_4.json,1112,Dialog,Kyoya,できるようになっている。,"the spice level in stages to suit
+your taste.",,,
+108_2_4.json,1121,Dialog,Kyoya,「できたようだな。ここから先は自分でやろう」,"It seems to be ready. I will handle
+it myself from here.",,,
+108_2_4.json,1122,Dialog,Kyoya,先輩は激辛ソースをかけると、焼きそばを口に,"Senpai poured on the super-spicy
+sauce,",,,
+108_2_4.json,1123,Dialog,Kyoya,運んだ。,"then brought the yakisoba to his
+mouth.",,,
+108_2_4.json,1126,Dialog,Kyoya,表情も変えず、うっすらと汗だけを浮かべなが,"Without changing his expression, and
+with only a faint sheen",,,
+108_2_4.json,1127,Dialog,Kyoya,ら鏡夜先輩は焼きそばを食べている。,"of sweat on him, Kyoya-senpai is
+eating the yakisoba.",,,
+108_2_4.json,1129,Dialog,Haruhi,「あの……、おいしいですか？」,Um... is it good?,,,
+108_2_4.json,1131,Dialog,Kyoya,「おいしいような顔に見えるか？」,Do I look as though I find it good?,,,
+108_2_4.json,1133,Dialog,Haruhi,「……見えませんけど」,"...No, you don't.",,,
+108_2_4.json,1134,Dialog,Haruhi,まるで実験するかのように、鏡夜先輩はソース,"As if he were conducting an
+experiment, Kyoya-senpai",,,
+108_2_4.json,1135,Dialog,Haruhi,を最高の辛さへと調整していく。,"adjusts the sauce to its highest
+spice level.",,,
+108_2_4.json,1137,Dialog,Haruhi,「鏡夜先輩、それはいくら何でも……」,"Kyoya-senpai, that is going a little
+too far...",,,
+108_2_4.json,1138,Dialog,Haruhi,激辛焼きそばを、鏡夜先輩はなおも口にはこぶ。,"Kyoya-senpai keeps bringing the
+extra-spicy yakisoba to his mouth.",,,
+108_2_4.json,1139,Dialog,Haruhi,鏡夜先輩の顔を汗が伝っていく……。,"Sweat runs down Kyoya-senpai's
+face...",,,
+108_2_4.json,1144,Dialog,Kyoya,「あとにしてくれ」,Later.,,,
+108_2_4.json,1147,Dialog,Kyoya,「……邪魔をしないでくれるか」,"...Would you mind not interrupting
+me?",,,
+108_2_4.json,1150,Dialog,Kyoya,「何の真似だ？」,What do you think you are doing?,,,
+108_2_4.json,1154,Dialog,Kyoya,「…………悪いな」,............Sorry.,,,
+108_2_4.json,1155,Dialog,Kyoya,額の汗を自分がハンカチでぬぐってあげると、,"When I wiped the sweat from his
+forehead with my handkerchief,",,,
+108_2_4.json,1156,Dialog,Kyoya,鏡夜先輩は少し照れた様子で続けた。,"Kyoya-senpai continued, looking a
+little embarrassed.",,,
+108_2_4.json,1158,Dialog,Kyoya,「……辛さを調節できる点は、評価できる」,"...The ability to adjust the
+spiciness is worth noting.",,,
+108_2_4.json,1165,Dialog,,鏡夜先輩がカップをテーブルに置いた。,"Kyoya-senpai set the cup on the
+table.",,,
+108_2_4.json,1166,Dialog,,なんか焼きそばが激辛ソースでいかにも辛そう,"Somehow, the yakisoba has turned an
+intensely spicy-looking",,,
+108_2_4.json,1167,Dialog,,な色になってる……。,"color from all that super-spicy
+sauce...",,,
+108_2_4.json,1168,Dialog,,どれくらい辛かったんだろう？　少しだけ自分,"I wonder how spicy it was? Maybe I
+should",,,
+108_2_4.json,1169,Dialog,,も味見を……。,have just a tiny taste myself...,,,
+108_2_4.json,1171,Dialog,Haruhi,"#Pos[0,20]#Scale[1.4]「んーーーーーーーーーー！！」","#Pos[0,20]#Scale[1.4]Nnnnnnnnnnnnnnnnnn!!",,,
+108_2_4.json,1180,Dialog,Kyoya,「味覚が破壊されるな」,It destroys your sense of taste.,,,
+108_2_4.json,1181,Dialog,Kyoya,そう言って、鏡夜先輩は笑った。,"With that, Kyoya-senpai smiled.",,,
+108_2_4.json,1190,Dialog,,光が選んだカップラーメンは、新発売の【ミー,"The cup ramen Hikaru chose was the
+newly",,,
+108_2_4.json,1191,Dialog,,トソース・スパゲッティ】。,released [Meat Sauce Spaghetti].,,,
+108_2_4.json,1199,Dialog,Hikaru,「ていうか、これってパスタでしょ？　本当,"I mean, this is pasta, right?",,,
+108_2_4.json,1200,Dialog,Hikaru,にお湯を注ぐだけで、『アルデンテ』になん,Can it really turn out al dente,,,
+108_2_4.json,1201,Dialog,Hikaru,の？」,just by pouring hot water in?,,,
+108_2_4.json,1202,Dialog,Hikaru,『アルデンテ』って、パスタの一番おいしいゆ,"Al dente means pasta boiled to the
+tastiest",,,
+108_2_4.json,1203,Dialog,Hikaru,で加減だっけ。そんなのインスタントに求めら,"firmness, right? Expecting that",,,
+108_2_4.json,1204,Dialog,Hikaru,れても……。,from instant food is kind of...,,,
+108_2_4.json,1209,Dialog,Hikaru,「他に塩加減とか固さとかも、パスタには大事,"Besides, isn't the saltiness and
+firmness and stuff",,,
+108_2_4.json,1210,Dialog,Hikaru,じゃない？　できんの？」,"important with pasta too? Can it
+even do that?",,,
+108_2_4.json,1212,Dialog,Haruhi,「インスタント食品にそんなに期待しちゃダメ,You cannot expect that,,,
+108_2_4.json,1213,Dialog,Haruhi,だよ」,much from instant food.,,,
+108_2_4.json,1222,Dialog,Hikaru,「最初から期待はしてないけどさ」,"I wasn't expecting anything from the
+start, though.",,,
+108_2_4.json,1224,Dialog,Hikaru,そう言って、調理は自分に任せて、光は自分の,"After saying that, Hikaru leaves the
+cooking to",,,
+108_2_4.json,1225,Dialog,Hikaru,横で見物するらしい。,"me and apparently plans to watch
+from beside me.",,,
+108_2_4.json,1226,Dialog,Hikaru,これって、作り方を教えてることになるのか,Does this really count as teaching,,,
+108_2_4.json,1227,Dialog,Hikaru,な……。,him how to make it...?,,,
+108_2_4.json,1228,Dialog,Hikaru,湯を切って、ミートソースをかけてできあがり,"I drain the hot water, pour on the
+meat sauce,",,,
+108_2_4.json,1229,Dialog,,だ。光にカップを手渡す。,"and it is done. I hand the cup to
+Hikaru.",,,
+108_2_4.json,1236,Dialog,Hikaru,「おいしくなさそう……」,It doesn't look good...,,,
+108_2_4.json,1238,Dialog,Haruhi,「そんなことないと思うけど」,I don't think that is true.,,,
+108_2_4.json,1243,Dialog,Hikaru,「でもまあ、こんなのでもハルヒが作ったワケ,"Well, even if it is this stuff,",,,
+108_2_4.json,1244,Dialog,Hikaru,だしね。いただきまーす」,"Haruhi made it, so. Time to eat.",,,
+108_2_4.json,1256,Dialog,Hikaru,「ごちそーさま」,Thanks for the food.,,,
+108_2_4.json,1258,Dialog,Haruhi,「ひと口だけしか食べないの？」,You are only eating one bite?,,,
+108_2_4.json,1263,Dialog,Hikaru,「もういらなーい」,I don't want any more.,,,
+108_2_4.json,1264,Dialog,Hikaru,……そんなにおいしくなかったかなあ。味見程,"...Was it really that bad? I try
+taking a bite myself,",,,
+108_2_4.json,1265,Dialog,Hikaru,度に自分もひと口食べてみるけど……、普通だ。,"just to taste it, but... it is
+ordinary.",,,
+108_2_4.json,1273,Dialog,Hikaru,「そんなのスパゲッティじゃない」,That isn't spaghetti.,,,
+108_2_4.json,1274,Dialog,Hikaru,だから、インスタントに期待しちゃいけないっ,That is why I said you cannot expect,,,
+108_2_4.json,1275,Dialog,Hikaru,て言ったのに……。,too much from instant food...,,,
+108_2_4.json,1284,Dialog,,馨が選んだカップラーメンは、有名な【しょう,"The cup ramen Kaoru chose was the
+famous",,,
+108_2_4.json,1285,Dialog,,ゆバターうに・スパゲッティ】。,"[Soy Sauce Butter Sea Urchin
+Spaghetti].",,,
+108_2_4.json,1292,Dialog,Kaoru,「本当に『うに』の味がするの？　だまされて,"Does it really taste like sea
+urchin?",,,
+108_2_4.json,1293,Dialog,Kaoru,るんじゃないの？」,Aren't they tricking you?,,,
+108_2_4.json,1295,Dialog,Haruhi,「でも、原材料の欄にはきちんと『うに』って,But the ingredients list,,,
+108_2_4.json,1296,Dialog,Haruhi,書いてあるよ」,clearly says sea urchin.,,,
+108_2_4.json,1301,Dialog,Kaoru,「あやしいね……」,Suspicious...,,,
+108_2_4.json,1302,Dialog,Kaoru,まあ、作って、食べて納得してもらうしかない,"Well, I guess I will just have to
+make it, let",,,
+108_2_4.json,1303,Dialog,Kaoru,か。さっそく、手順の通りに封を切ってお湯を,"him eat it, and convince him. I
+immediately open",,,
+108_2_4.json,1304,Dialog,Kaoru,注ぐ。,"it as instructed and pour in the hot
+water.",,,
+108_2_4.json,1314,Dialog,Kaoru,「あ、手伝うよ。こーゆーの興味あるし」,"Oh, I'll help. I'm interested in
+this kind of thing.",,,
+108_2_4.json,1316,Dialog,Haruhi,「インスタントだから、手伝うようなことは何,"It is instant, so there is nothing
+for you",,,
+108_2_4.json,1317,Dialog,Haruhi,もないよ。……はい、もうできた」,"to help with. ...There, it is done
+already.",,,
+108_2_4.json,1326,Dialog,Kaoru,「おいしくなさそうなんだけど……」,It doesn't look very good...,,,
+108_2_4.json,1328,Dialog,Haruhi,「見た目はね……。でもいい香りだよ」,"Its appearance, sure... but it
+smells good.",,,
+108_2_4.json,1333,Dialog,Kaoru,「……ハルヒがせっかく作ってくれたんだから,...Since Haruhi went to the trouble,,,
+108_2_4.json,1334,Dialog,Kaoru,食べるけど」,"of making it, I will eat it.",,,
+108_2_4.json,1344,Dialog,Kaoru,「ごちそうさま……、お、おいしかったよ……」,"Thanks for the food... I-It was
+good...",,,
+108_2_4.json,1346,Dialog,Haruhi,「別に無理しなくてもいいんだけど」,You do not have to force yourself.,,,
+108_2_4.json,1347,Dialog,Haruhi,自分が料理したわけじゃないし。,"It is not like I actually cooked it
+myself.",,,
+108_2_4.json,1355,Dialog,Kaoru,「そんなの『うに』じゃない。ハルヒはだまさ,"That isn't sea urchin. Haruhi,",,,
+108_2_4.json,1356,Dialog,Kaoru,れてるよ」,you've been tricked.,,,
+108_2_4.json,1357,Dialog,Kaoru,……でも、それは言いすぎなんじゃないかな。,"...But I think that is going a
+little too far.",,,
+108_2_4.json,1366,Dialog,,ハニー先輩が選んだのは、シンプルな定番カッ,"Honey-senpai chose a simple, classic",,,
+108_2_4.json,1367,Dialog,,プラーメン【塩ラーメン特盛り】。,"cup ramen, [Extra-Large Salt Ramen].",,,
+108_2_4.json,1368,Dialog,,特盛りってところはハニー先輩らしいけど……。,"The extra-large part is very
+Honey-senpai, but...",,,
+108_2_4.json,1369,Dialog,,あっさり塩味ってところがなんか違和感を感じ,Something about the light salt,,,
+108_2_4.json,1370,Dialog,,るなあ。,flavor feels kind of odd.,,,
+108_2_4.json,1377,Dialog,Haruhi,「これはお湯を注ぐだけで、できますね」,"This will be ready just by pouring
+in hot water.",,,
+108_2_4.json,1386,Dialog,Honey,「わあ〜、とっても簡単なんだねえ」,"Waaah, it is really easy, huh?",,,
+108_2_4.json,1395,Dialog,Haruhi,「……はい、できました。どうぞ」,"...Okay, it is ready. Here you go.",,,
+108_2_4.json,1400,Dialog,Honey,「う〜ん、見た目がさびしいよねえ」,"Hmmm, it looks kind of lonely,
+doesn't it?",,,
+108_2_4.json,1401,Dialog,Honey,シンプルなシリーズだけに、ネギ以外に何も入っ,"Since it is such a simple series,
+there",,,
+108_2_4.json,1402,Dialog,Honey,ていない。,"is nothing in it except green
+onions.",,,
+108_2_4.json,1404,Dialog,Haruhi,「それなら、何かのせればいいんじゃないです,Then why not put,,,
+108_2_4.json,1405,Dialog,Haruhi,か？」,something on top?,,,
+108_2_4.json,1406,Dialog,Haruhi,テーブルには、ラーメンの具材がそろってる。,"The table is stocked with ramen
+toppings.",,,
+108_2_4.json,1412,Dialog,Honey,「そうだねっ」,"Yeah, good idea!",,,
+108_2_4.json,1414,Dialog,Honey,満面の笑みでハニー先輩はケーキを取りに行っ,"With a huge smile on his face,
+Honey-senpai",,,
+108_2_4.json,1415,Dialog,Honey,てしまった。,went off to get cake.,,,
+108_2_4.json,1418,Dialog,Haruhi,「いや、あの、それは……、ちょっと……」,"No, um, that is... a little...",,,
+108_2_4.json,1419,Dialog,Haruhi,まさかとは思うけど……、まさか、本当にやる,Surely not... Surely you are not,,,
+108_2_4.json,1420,Dialog,Haruhi,つもりですか！？,really planning to do that!?,,,
+108_2_4.json,1428,Dialog,Honey,「ケーキラーメン」,Cake ramen.,,,
+108_2_4.json,1430,Dialog,Haruhi,「やめてくださいハニー先輩！　それは見たく,"Please stop, Honey-senpai!",,,
+108_2_4.json,1431,Dialog,Haruhi,ありません！」,I do not want to see that!,,,
+108_2_4.json,1437,Dialog,Honey,「じゃあ、ラーメンパフェ〜！」,"Then, ramen parfait!",,,
+108_2_4.json,1438,Dialog,Honey,ハニー先輩はまったく聞いてくれない……。,"Honey-senpai is not listening to me
+at all...",,,
+108_2_4.json,1446,Dialog,Honey,「あとアイスものせて、よーし、できあが,And I will add ice cream,,,
+108_2_4.json,1447,Dialog,Honey,り〜！」,"too. Okay, all done!",,,
+108_2_4.json,1452,Dialog,Honey,すごい食べ物を完成させてしまった……。,"He has completed an incredible
+food...",,,
+108_2_4.json,1454,Dialog,Honey,「ハルちゃん、一緒に食べよ？」,"Haru-chan, let's eat it together?",,,
+108_2_4.json,1456,Dialog,Haruhi,「……いえ、自分は見てるだけで……」,"...No, I will just watch...",,,
+108_2_4.json,1459,Dialog,Honey,「え、ホントにいいの……？」,"Huh, are you really sure...?",,,
+108_2_4.json,1461,Dialog,Haruhi,「ええ……」,Yes...,,,
+108_2_4.json,1464,Dialog,Honey,「わーい、いっただきまーす！」,"Yaaay, time to eat!",,,
+108_2_4.json,1473,Dialog,Honey,「ごちそうさま〜！」,Thanks for the food!,,,
+108_2_4.json,1474,Dialog,Honey,一瞬で食べ終わった……。,"He finished eating it in an
+instant...",,,
+108_2_4.json,1479,Dialog,Honey,「おいしかったけど、まだ物足りないなあ」,"It was good, but I still feel like
+it was not enough.",,,
+108_2_4.json,1481,Dialog,Honey,ハニー先輩のお腹のなかは、きっと別の世界に,Honey-senpai's stomach must connect,,,
+108_2_4.json,1482,Dialog,Honey,つながってるんじゃないかな……。,to another world or something...,,,
+108_2_4.json,1491,Dialog,,モリ先輩が選んだのは、【きつねそば】と【た,Mori-senpai picked out 【kitsune,,,
+108_2_4.json,1492,Dialog,,ぬきそば】。,soba】 and 【tanuki soba】.,,,
+108_2_4.json,1499,Dialog,Haruhi,「モリ先輩、２つも食べられるんですか？」,"Mori-senpai, can you really eat two
+of those?",,,
+108_2_4.json,1505,Dialog,Mori,「……昼食を抜いてきた」,...I skipped lunch.,,,
+108_2_4.json,1506,Dialog,Mori,……今日のこのイベントのためにお腹をすかせ,...Did he come here hungry,,,
+108_2_4.json,1507,Dialog,Mori,てきたんだろうか。,just for today's event?,,,
+108_2_4.json,1508,Dialog,Mori,イベントが食べ物じゃなかったらどうしていた,What would he have done if the,,,
+108_2_4.json,1509,Dialog,Mori,んだろう……。,event had not involved food...?,,,
+108_2_4.json,1511,Dialog,Haruhi,「じゃあ、作りましょう」,Then let's make them.,,,
+108_2_4.json,1518,Dialog,,モリ先輩は無言でうなずき、エプロンを取り出,Mori-senpai nodded silently,,,
+108_2_4.json,1519,Dialog,,した。,and took out an apron.,,,
+108_2_4.json,1521,Dialog,Haruhi,「そのエプロンは？」,What is that apron for?,,,
+108_2_4.json,1526,Dialog,Mori,「用意してきた……」,I brought it...,,,
+108_2_4.json,1527,Dialog,Mori,必要はないと思うけど……。モリ先輩は、本気,I do not think he needs it... but,,,
+108_2_4.json,1528,Dialog,Mori,なんだ。,Mori-senpai is serious about this.,,,
+108_2_4.json,1531,Dialog,Mori,次に、真顔でたぬきそばのてんぷらを最初から,"Next, with a completely serious
+face, he tries to put",,,
+108_2_4.json,1532,Dialog,Mori,入れようとする。,"the tanuki soba tempura in right
+from the start.",,,
+108_2_4.json,1535,Dialog,Haruhi,「あ、それはあとからのせるんです」,"Oh, that goes on afterward.",,,
+108_2_4.json,1538,Dialog,Mori,「なるほど……」,I see...,,,
+108_2_4.json,1539,Dialog,Mori,そう言って、今度はきつねそばの乾燥あげに視,"After saying that, this time he
+turns his eyes",,,
+108_2_4.json,1540,Dialog,Mori,線を向ける。,"to the dried fried tofu for the
+kitsune soba.",,,
+108_2_4.json,1543,Dialog,Haruhi,「それは、最初から入れたままでいいんです」,"That one is fine to leave in from
+the beginning.",,,
+108_2_4.json,1546,Dialog,Mori,「複雑だな……」,Complicated...,,,
+108_2_4.json,1549,Dialog,Haruhi,「そうですか？　でもあとはお湯を入れて終わ,"You think so? But after this, you
+just",,,
+108_2_4.json,1550,Dialog,Haruhi,りですから」,pour in hot water and you are done.,,,
+108_2_4.json,1553,Dialog,Mori,「そうか」,I see.,,,
+108_2_4.json,1554,Dialog,Mori,ちょっと残念そうに、モリ先輩はもそもそとエ,"Looking a little disappointed,
+Mori-senpai",,,
+108_2_4.json,1555,Dialog,Mori,プロンを脱ぐ。,slowly takes off the apron.,,,
+108_2_4.json,1563,Dialog,Haruhi,「フタをして３分待たなきゃダメなんですよ」,"You have to put the lid on and wait
+three minutes.",,,
+108_2_4.json,1565,Dialog,Mori,「……わかった」,...Got it.,,,
+108_2_4.json,1572,Dialog,,ふう……。みんな、一通り作れたかな？,"Phew... I wonder if everyone managed
+to make theirs.",,,
+108_2_4.json,1573,Dialog,,試食タイムに入っているらしい。光と馨なんて、,"Apparently it is tasting time.
+Hikaru",,,
+108_2_4.json,1574,Dialog,,つまみぐい感覚でみんなのカップめんに手を出,and Kaoru are even reaching for,,,
+108_2_4.json,1575,Dialog,,している。,everyone's cup noodles like snacks.,,,
+108_2_4.json,1577,Dialog,Nekozawa,「……藤岡君」,...Fujioka-kun.,,,
+108_2_4.json,1584,Dialog,,驚いてふり向くと、そこには猫澤先輩が立って,"When I turned around in surprise,
+Nekozawa-senpai",,,
+108_2_4.json,1585,Dialog,,いた。,was standing there.,,,
+108_2_4.json,1587,Dialog,Haruhi,「猫澤先輩……。どうしたんですか、突然？」,"Nekozawa-senpai... What is it, all
+of a sudden?",,,
+108_2_4.json,1588,Dialog,Haruhi,この人は本当に神出鬼没で心臓に悪い。,"This person really does appear out
+of nowhere, and it is bad for my
+heart.",,,
+108_2_4.json,1593,Dialog,Nekozawa,「実は……。藤岡君の身に良くないことが起こ,"Actually... My fortune-telling
+showed that something",,,
+108_2_4.json,1594,Dialog,Nekozawa,る、と……、占いに出てね……」,"unfortunate would happen to you,
+Fujioka-kun...",,,
+108_2_4.json,1603,Dialog,Tamaki,「ハルヒの身に――！？」,To Haruhi--!?,,,
+108_2_4.json,1618,Dialog,Hikaru & Kaoru,「良くないこと？」,Something unfortunate?,,,
+108_2_4.json,1627,Dialog,Nekozawa,「ああ、じつにうらやましい……」,"Ah, how truly enviable...",,,
+108_2_4.json,1640,Dialog,Tamaki,「いったい何が起こるというんです、猫澤先,What on earth is going to,,,
+108_2_4.json,1641,Dialog,Tamaki,輩！？」,"happen, Nekozawa-senpai!?",,,
+108_2_4.json,1646,Dialog,Nekozawa,「さあ、そこまでは私の占いでも……」,"Well, even my fortune-telling did
+not show me that much...",,,
+108_2_4.json,1649,Dialog,Nekozawa,なんだか、まわりもざわざわしてきた。お客さ,"Somehow, the people around us have
+started murmuring",,,
+108_2_4.json,1650,Dialog,Nekozawa,んたちが不安そうな目で自分を見ている。,"too. The guests are looking at me
+with worried eyes.",,,
+108_2_4.json,1651,Dialog,Nekozawa,みんな心配してくれてるみたいだけど、自分,Everyone seems worried,,,
+108_2_4.json,1652,Dialog,Nekozawa,は……。,"about me, but I...",,,
+108_2_4.json,1653,Choice,,信じない,Do not believe it,,,
+108_2_4.json,1654,Choice,,……信じる？,...Believe it?,,,
+108_2_4.json,1666,Dialog,,もともと占いとか信じないから……。,"I do not believe in fortune-telling
+in the first place...",,,
+108_2_4.json,1673,Dialog,Haruhi,「あの……、ご忠告はありがたいのですが、自,"Um... I appreciate the warning, but
+I do",,,
+108_2_4.json,1674,Dialog,Haruhi,分は占いとかは信じないので」,"not really believe in
+fortune-telling.",,,
+108_2_4.json,1679,Dialog,Nekozawa,「そうですか……」,I see...,,,
+108_2_4.json,1685,Dialog,Nekozawa,「……しかし何かあってからでは遅い……。藤,"...But once something happens, it
+will be too",,,
+108_2_4.json,1686,Dialog,Nekozawa,岡君、この身代わりにもなるベルゼネ,"late... Fujioka-kun, take this
+Belzenef, who",,,
+108_2_4.json,1687,Dialog,Nekozawa,フをお持ちなさい……」,"can also serve as a substitute for
+you...",,,
+108_2_4.json,1690,Dialog,Haruhi,「いえ……、遠慮させてください」,No... I will have to pass.,,,
+108_2_4.json,1692,Dialog,Haruhi,むしろそれを持っていたほうが危ない感じがす,"If anything, carrying that around
+feels",,,
+108_2_4.json,1693,Dialog,Haruhi,る……。,like it would be more dangerous...,,,
+108_2_4.json,1698,Dialog,,占いなんて信じてないけど、ハッキリ信じてな,"I do not believe in fortune-telling,
+but",,,
+108_2_4.json,1699,Dialog,,いって言うのも悪い気がするし……。,"saying so outright feels kind of
+rude...",,,
+108_2_4.json,1706,Dialog,Nekozawa,「……不安なのでしょう……。藤岡君、この身,"...You must be uneasy...
+Fujioka-kun,",,,
+108_2_4.json,1707,Dialog,Nekozawa,代わりにもなる、ベルゼネフをお持ち,"take this Belzenef, who can also",,,
+108_2_4.json,1708,Dialog,Nekozawa,なさい……」,serve as a substitute for you...,,,
+108_2_4.json,1709,Dialog,Nekozawa,猫澤先輩はうっすらと笑みを浮かべて、ベルゼ,Nekozawa-senpai gives a faint smile,,,
+108_2_4.json,1710,Dialog,Nekozawa,ネフを自分に差し出した。,and holds Belzenef out to me.,,,
+108_2_4.json,1712,Dialog,Haruhi,「まあ、不安は確かですけど……」,"Well, I am definitely uneasy, but...",,,
+108_2_4.json,1713,Dialog,Haruhi,その人形も怖いものがあるなあ……。,"There is something scary about that
+doll too...",,,
+108_2_4.json,1721,Dialog,Tamaki,「そうだろうそうだろう、不安で心細い、そん,"Of course, of course! Haruhi is
+anxious and lonely,",,,
+108_2_4.json,1722,Dialog,Tamaki,なハルヒを温かく迎えるのが父の役目！」,"and it is a father's duty to welcome
+her warmly!",,,
+108_2_4.json,1729,Dialog,Tamaki,「さあ！　お父さんの胸に飛び込んでおいで！」,"Now! Come leap into your father's
+arms!",,,
+108_2_4.json,1731,Dialog,Haruhi,「それはもっとイヤです」,That is even worse.,,,
+108_2_4.json,1736,Dialog,Haruhi,環先輩に頼ってどうにかなる問題でもなさそう,"This does not really seem like a
+problem",,,
+108_2_4.json,1737,Dialog,Haruhi,だし。,relying on Tamaki-senpai would fix.,,,
+108_2_4.json,1749,Dialog,Nekozawa,「私からのお話はこれだけです……、それで,That is all I have to tell,,,
+108_2_4.json,1750,Dialog,Nekozawa,は……」,you... Now then...,,,
+108_2_4.json,1752,Dialog,Nekozawa,猫澤先輩はつぶやきながら部室を出て行った。,"Nekozawa-senpai murmured as he left
+the clubroom.",,,
+108_2_4.json,1753,Dialog,Nekozawa,しばらくの間、沈黙がホスト部を包みこんでい,"For a while, silence enveloped",,,
+108_2_4.json,1754,Dialog,Nekozawa,た。,the Host Club.,,,
+108_2_4.json,1761,Dialog,Kyoya,「まだイベントは終わっていません。いかがい,The event is not over yet.,,,
+108_2_4.json,1762,Dialog,Kyoya,たしましょう？　みなさん」,"What shall we do, everyone?",,,
+108_2_4.json,1764,Dialog,Haruhi,「あ、そうでした」,"Oh, right.",,,
+108_2_4.json,1765,Dialog,Haruhi,今の猫澤先輩のせいで、完全に忘れてた。,"Because of Nekozawa-senpai just now,
+I had completely forgotten.",,,
+108_2_4.json,1773,Dialog,Tamaki,「さあみなさん！　気を取り直して、庶民ラー,"Now then, everyone! Let us pull
+ourselves together",,,
+108_2_4.json,1774,Dialog,Tamaki,メンの研究を再開いたしましょう」,"and resume our study of commoner
+ramen.",,,
+108_2_4.json,1775,Dialog,Tamaki,明るい声で環先輩が言うものの――。,"Tamaki-senpai says it in a bright
+voice, but--",,,
+108_2_4.json,1776,Dialog,Tamaki,お客さんたちもラーメンへの興味は失っていな,The guests do not seem to have lost,,,
+108_2_4.json,1777,Dialog,Tamaki,いようだけど、さっきみたいに積極的じゃない,"interest in the ramen, but they do
+not",,,
+108_2_4.json,1778,Dialog,Tamaki,感じがする。,feel as eager as they did before.,,,
+108_2_4.json,1779,Dialog,Tamaki,……どうしたんだろう？,...What is wrong?,,,
+108_2_4.json,1792,Dialog,Hikaru,「……これじゃない？」,...Is this why?,,,
+108_2_4.json,1793,Dialog,Hikaru,光と馨が、そっとカップラーメンのふたを指さ,Hikaru and Kaoru quietly point,,,
+108_2_4.json,1794,Dialog,Hikaru,す。,at the lid of a cup ramen.,,,
+108_2_4.json,1796,Dialog,Kaoru,「カロリー表示」,The calorie label.,,,
+108_2_4.json,1797,Dialog,Kaoru,そっか。ラーメンのカロリーを気にしてるのか。,"Oh, I see. They are worried about
+the calories in the ramen.",,,
+108_2_4.json,1798,Dialog,Kaoru,女の子にとってカロリーの多すぎる食べ物は、,"For girls, foods with too many
+calories",,,
+108_2_4.json,1799,Dialog,Kaoru,困り物なのだろう。,are probably a problem.,,,
+108_2_4.json,1800,Dialog,Kaoru,それなら、カロリーが低くて体に良いものが入っ,"In that case, what about ramen that
+is low",,,
+108_2_4.json,1801,Dialog,Kaoru,ているラーメンならどうかな。,"in calories and has healthy
+ingredients?",,,
+108_2_4.json,1804,Dialog,,カップラーメンの山のなかから、目当ての物は,"I rummage through the mountain of
+cup ramen,",,,
+108_2_4.json,1805,Dialog,,ないかと、かきわけて探す。,"searching for the one I have in
+mind.",,,
+108_2_4.json,1807,Dialog,Haruhi,「……あった！」,...Found it!,,,
+108_2_4.json,1808,Dialog,Haruhi,ダイエット用の低カロリーめんを取り出した。,"I pull out some low-calorie diet
+noodles.",,,
+108_2_4.json,1809,Dialog,Haruhi,寒天やこんにゃくでできてて、食物繊維（しょ,"They are made with agar and konjac,
+and they",,,
+108_2_4.json,1810,Dialog,Haruhi,くもつせんい）も豊富だ。ただ、これだけだと,"are rich in dietary fiber too. The
+only thing",,,
+108_2_4.json,1811,Dialog,Haruhi,味気ない。,"is, they are pretty bland on their
+own.",,,
+108_2_4.json,1812,Dialog,Haruhi,器や盛り付けを変えれば、大丈夫な気もする。,"I feel like it should be fine if we
+change the bowl and presentation.",,,
+108_2_4.json,1813,Dialog,Haruhi,それに、一緒に作ればきっと楽しいし。,"Besides, I am sure it will be fun if
+we make it together.",,,
+108_2_4.json,1814,Dialog,,さっそくお客さんに声かけてみようかな。,"Maybe I should try talking to one of
+the guests right away.",,,
+108_2_4.json,1815,Choice,,倉賀野さん,Kurakano-san,,,
+108_2_4.json,1816,Choice,,桜塚さん,Sakurazuka-san,,,
+108_2_4.json,1817,Choice,,上賀茂さん,Kamikamo-san,,,
+108_2_4.json,1818,Choice,,ひと休み,Take a break,,,
+108_2_4.json,1842,Dialog,Haruhi,「これはいかがですか？　美容食で、女の子に,"How about this? It is a beauty food,",,,
+108_2_4.json,1843,Dialog,Haruhi,人気があるんですよ」,and it is popular with girls.,,,
+108_2_4.json,1844,Dialog,Haruhi,倉賀野さんに、ダイエットラーメンを見せる。,I show Kurakano-san the diet ramen.,,,
+108_2_4.json,1850,Dialog,Kurakano,「こんにゃく……？　面白いですね……」,Konjac...? How interesting...,,,
+108_2_4.json,1851,Dialog,Kurakano,倉賀野さんは目を輝かせた。,Kurakano-san's eyes lit up.,,,
+108_2_4.json,1856,Dialog,Haruhi,「それじゃあ、一緒に作りましょうか」,Then shall we make it together?,,,
+108_2_4.json,1860,Dialog,Haruhi,倉賀野さんは笑顔でうなずいてくれた。,Kurakano-san nodded with a smile.,,,
+108_2_4.json,1875,Dialog,Haruhi,「これはどうでしょう？　カロリー控え目のラー,How about this? It is,,,
+108_2_4.json,1876,Dialog,Haruhi,メンなんですよ」,a lower-calorie ramen.,,,
+108_2_4.json,1877,Dialog,Haruhi,ダイエットラーメンを桜塚さんに見せる。,"I show Sakurazuka-san the diet
+ramen.",,,
+108_2_4.json,1883,Dialog,Sakurazuka,「寒天……？　ずいぶんと不思議な食べ物ね」,Agar...? What a very curious food.,,,
+108_2_4.json,1884,Dialog,Sakurazuka,桜塚さんはダイエットラーメンに興味があるみ,Sakurazuka-san seems interested,,,
+108_2_4.json,1885,Dialog,Sakurazuka,たいだ。,in the diet ramen.,,,
+108_2_4.json,1887,Dialog,Haruhi,「それじゃあ、一緒に作りましょうか」,Then shall we make it together?,,,
+108_2_4.json,1891,Dialog,Haruhi,桜塚さんは笑顔でうなずいてくれた。,Sakurazuka-san nodded with a smile.,,,
+108_2_4.json,1906,Dialog,Haruhi,「これはいかがです？」,How about this?,,,
+108_2_4.json,1907,Dialog,Haruhi,ダイエットラーメンを上賀茂さんに見せる。,I show Kamikamo-san the diet ramen.,,,
+108_2_4.json,1913,Dialog,Kamikamo,「寒天なら、カロリーも低そうですわね……。,"If it is made with agar, it does
+seem low in calories...",,,
+108_2_4.json,1914,Dialog,Kamikamo,あ――」,Ah--,,,
+108_2_4.json,1918,Dialog,Kamikamo,上賀茂さんが照れ笑いを浮かべた。,"Kamikamo-san gives an embarrassed
+smile.",,,
+108_2_4.json,1920,Dialog,Haruhi,「それじゃあ、一緒に作りましょうか」,Then shall we make it together?,,,
+108_2_4.json,1924,Dialog,Haruhi,上賀茂さんは笑顔でうなずいてくれた。,Kamikamo-san nodded with a smile.,,,
+108_2_4.json,1936,Dialog,,でも、これからまだ先は長いんだし……。,"But there is still a long way to go
+from here...",,,
+108_2_4.json,1937,Dialog,,みんながラーメン作りを楽しんでる間は、ひと,"While everyone is enjoying making
+ramen,",,,
+108_2_4.json,1938,Dialog,,休みしておこう。,I should take a quick break.,,,
+108_2_4.json,1950,Dialog,Renge,「ああ、出遅れてしまいましたわ」,"Oh my, we are terribly late.",,,
+108_2_4.json,1961,Dialog,Sayuri,「ハルちゃん、盛り上がってるみたいね」,"Haru-chan, it looks like things are
+really lively.",,,
+108_2_4.json,1963,Dialog,Haruhi,「れんげちゃん、小百合。どうしたの今頃」,"Renge-chan, Sayuri. What brings you
+here now?",,,
+108_2_4.json,1964,Dialog,Haruhi,お開きになろうとした頃に、れんげちゃんと,"Just as we were about to call it a
+day,",,,
+108_2_4.json,1965,Dialog,Haruhi,小百合の２人が現れた。,Renge-chan and Sayuri showed up.,,,
+108_2_4.json,1970,Dialog,Sayuri,「私たちも参加させてもらおうと思って、用意,We thought we would join in as,,,
+108_2_4.json,1971,Dialog,Sayuri,してきたのよ」,"well, so we came prepared.",,,
+108_2_4.json,1972,Dialog,Sayuri,そう言って、小百合は【限定発売・最高級フカ,"Saying that, Sayuri takes out a cup
+ramen",,,
+108_2_4.json,1973,Dialog,Sayuri,ヒレラーメン】と書かれたカップラーメンをと,"labeled [Limited Release: Highest
+Grade Shark",,,
+108_2_4.json,1974,Dialog,Sayuri,りだしてテーブルに置く。,Fin Ramen] and sets it on the table.,,,
+108_2_4.json,1980,Dialog,Renge,「インスタントなら、こんなものですわよね。,"For instant ramen, this should be
+the proper sort of thing, yes?",,,
+108_2_4.json,1981,Dialog,Renge,よろしければ作り方を教えてくださる？」,"If you would be so kind, could you
+teach us how to make it?",,,
+108_2_4.json,1983,Dialog,Haruhi,「……はあ」,...Sure.,,,
+108_2_4.json,1996,Dialog,,何の問題もなくフカヒレラーメンは完成。小さ,"The shark fin ramen was finished
+without any problems. I served",,,
+108_2_4.json,1997,Dialog,,な器に盛り付けて、２人の前にさしだす。,"it in small bowls and set them in
+front of the two of them.",,,
+108_2_4.json,2003,Dialog,Renge,「あら、おいしいですわね」,"Oh my, this is delicious.",,,
+108_2_4.json,2009,Dialog,Sayuri,「本当。なかなか悪くないわ」,It really is. Not bad at all.,,,
+108_2_4.json,2022,Dialog,,ひょいっと、光と馨がのぞき込む。,Hikaru and Kaoru casually peer in.,,,
+108_2_4.json,2027,Dialog,Hikaru,「へ〜、どんなのか僕たちも味見したーい」,"Ooh, we wanna taste some too and see
+what it is like.",,,
+108_2_4.json,2032,Dialog,Kaoru,「それ、本物なの？」,Is that the real thing?,,,
+108_2_4.json,2041,Dialog,Tamaki,「俺にも少しいただけるかにゃ」,"May I have a little as well, nya?",,,
+108_2_4.json,2043,Dialog,Haruhi,「あなたたちはフカヒレなんて食べなれてるで,Surely all of you are used,,,
+108_2_4.json,2044,Dialog,Haruhi,しょう」,to eating shark fin.,,,
+108_2_4.json,2052,Dialog,Hikaru & Kaoru,「だってさ？　殿」,"That's what she says, milord.",,,
+108_2_4.json,2057,Dialog,Tamaki,「え〜っ！　俺だって食べたいぞ！」,Whaaat?! I want to eat some too!,,,
+108_2_4.json,2067,Dialog,Hikaru,「器はひとつしかないんだから！」,There is only one bowl!,,,
+108_2_4.json,2069,Dialog,Haruhi,「あ、それ自分のなのに……」,"Ah, that is mine, though...",,,
+108_2_4.json,2070,Dialog,Haruhi,勝手に自分のぶんをとりあう環先輩と光たち。,"Tamaki-senpai and Hikaru's group
+start fighting over my portion
+without asking.",,,
+108_2_4.json,2071,Dialog,Haruhi,何でこうなるかなあ……。ていうか、器をそん,"How does it always end up like
+this...? Actually, if you",,,
+108_2_4.json,2072,Dialog,Haruhi,なふうに持ったら中身がこぼれて――。,"hold the bowl like that, the
+contents are going to spill-",,,
+108_2_4.json,2073,Dialog,Haruhi,ゴトンッ。,Clunk.,,,
+108_2_4.json,2084,Dialog,Everyone,「あー！！」,Aah!!,,,
+108_2_4.json,2086,Dialog,Everyone,そのまま最高級フカヒレラーメンも、床にこぼ,"And just like that, the highest
+grade shark",,,
+108_2_4.json,2087,Dialog,Everyone,れた……。,"fin ramen spilled all over the
+floor...",,,
+108_2_4.json,2095,Dialog,Hikaru & Kaoru,「殿のせいだ！」,"It is your fault, milord!",,,
+108_2_4.json,2100,Dialog,Hikaru & Kaoru,……反省の色ゼロだし。,"...And he does not look sorry at
+all.",,,
+108_2_4.json,2115,Dialog,Haruhi,「ごめん、２人とも。せっかく買ってきたの,"Sorry, you two. You went out",,,
+108_2_4.json,2116,Dialog,Haruhi,に……」,of your way to buy it...,,,
+108_2_4.json,2121,Dialog,Renge,「かまいませんわ」,We do not mind.,,,
+108_2_4.json,2126,Dialog,Sayuri,「私たちは食べられたし」,We did get to eat some.,,,
+108_2_4.json,2128,Dialog,Haruhi,「そっか……」,Right...,,,
+108_2_4.json,2129,Dialog,Haruhi,でも、もったいないなあ。,"Still, what a waste.",,,
+108_2_4.json,2137,Dialog,,いつになく、環先輩が深刻な顔をしてフカヒレ,"Tamaki-senpai was staring at the
+shark",,,
+108_2_4.json,2138,Dialog,,を見ていた。,"fin with an unusually grave
+expression.",,,
+108_2_4.json,2146,Dialog,Tamaki,「なんということだ……」,What a calamity...,,,
+108_2_4.json,2148,Dialog,Haruhi,「どうしたんですか、先輩」,"What is wrong, senpai?",,,
+108_2_4.json,2156,Dialog,Tamaki,「占いが、現実に……」,The fortune... has come true...,,,
+108_2_4.json,2158,Dialog,Haruhi,「は？」,Huh?,,,
+108_2_4.json,2159,Dialog,Haruhi,確かに【良くない事】は起きたけど……。,"It is true that [something bad]
+happened, but...",,,
+108_2_4.json,2160,Dialog,Haruhi,でも、これって人災だよね、どう見ても……。,"Still, this was obviously caused by
+people, no matter how you look at
+it...",,,
+108_2_4.json,2161,Dialog,Haruhi,……とにかく片付けないと。,"...Anyway, I need to clean this up.",,,
+108_2_4.json,2169,Dialog,,何の問題もなくフカヒレラーメンは完成した。,"The shark fin ramen was finished
+without any problems.",,,
+108_2_4.json,2170,Dialog,,……と、思いきや。,...Or so I thought.,,,
+108_2_4.json,2171,Dialog,,とり出し忘れたらしい調味料の袋が、スープの,"A seasoning packet I had apparently
+forgotten",,,
+108_2_4.json,2172,Dialog,,上にぷかぷか浮いていた。,"to remove was bobbing on top of the
+soup.",,,
+108_2_4.json,2173,Dialog,,袋がたくさん入ってたし、ひとつくらい取り忘,"There were a lot of packets inside,
+so it",,,
+108_2_4.json,2174,Dialog,,れていてもおかしくはない。,"would not be strange if I had missed
+one.",,,
+108_2_4.json,2175,Dialog,,さすが高級インスタントラーメン。ハシでつま,"That is high-class instant ramen for
+you. Just",,,
+108_2_4.json,2176,Dialog,,もうとしたとき――。,"as I tried to pick it up with my
+chopsticks-",,,
+108_2_4.json,2184,Dialog,Tamaki,「いい加減にしないか！　このドッペルゲンガー,"Will you two cut it out already,",,,
+108_2_4.json,2185,Dialog,Tamaki,ズ！！」,you doppelgangers?!,,,
+108_2_4.json,2198,Dialog,Hikaru & Kaoru,「僕らのせいじゃないもーん」,It is not our fault.,,,
+108_2_4.json,2201,Dialog,Hikaru & Kaoru,ドンッ！,Thud!,,,
+108_2_4.json,2203,Dialog,Haruhi,「わっ！」,Whoa!,,,
+108_2_4.json,2204,Dialog,Haruhi,言い争いをしてた３人がぶつかって来て、完成,"The three of them, still arguing,",,,
+108_2_4.json,2205,Dialog,Haruhi,間近のフカヒレラーメンは、ひっくりかえって,"crashed into me, and the nearly
+finished",,,
+108_2_4.json,2206,Dialog,Haruhi,しまった。,shark fin ramen tipped over.,,,
+108_2_4.json,2213,Dialog,Renge,「せっかく買ってきましたのに〜」,"And after we went to the trouble of
+buying it...",,,
+108_2_4.json,2221,Dialog,Sayuri,「……なんてことかしら」,...How unfortunate.,,,
+108_2_4.json,2223,Dialog,Sayuri,ため息をつくれんげちゃんと小百合。,Renge-chan and Sayuri sigh.,,,
+108_2_4.json,2230,Dialog,Tamaki,「なんということだ……」,What a calamity...,,,
+108_2_4.json,2231,Dialog,Tamaki,いつになく、環先輩が深刻な顔をしていた。,"Tamaki-senpai had an unusually grave
+expression.",,,
+108_2_4.json,2233,Dialog,Haruhi,「どうしたんですか、先輩」,"What is wrong, senpai?",,,
+108_2_4.json,2238,Dialog,Tamaki,「占いが、現実に……」,The fortune... has come true...,,,
+108_2_4.json,2240,Dialog,Haruhi,「は？」,Huh?,,,
+108_2_4.json,2241,Dialog,Haruhi,確かに【良くない事】は起きたけど……。,"It is true that [something bad]
+happened, but...",,,
+108_2_4.json,2242,Dialog,Haruhi,でも、これって人災だよね、どう見ても……。,"Still, this was obviously caused by
+people, no matter how you look at
+it...",,,
+108_2_4.json,2243,Dialog,Haruhi,……とにかく片付けないと。,"...Anyway, I need to clean this up.",,,
+108_2_4.json,2250,Dialog,,……今日の営業も、ラーメンをこぼしたあと片,"...Today's club business, and the
+cleanup after spilling",,,
+108_2_4.json,2251,Dialog,,付けも無事終了。,"the ramen, both ended without
+further incident.",,,
+108_2_4.json,2252,Dialog,,あとは食器を棚に戻して帰るだけかなと思った,"I was thinking all that was left was
+to put the",,,
+108_2_4.json,2253,Dialog,,とき――。,"dishes back on the shelf and go
+home, when-",,,
+108_2_4.json,2254,Dialog,,ピシッ！,Crack!,,,
+108_2_4.json,2255,Dialog,,突然、自分のコップが割れた。,"Suddenly, my glass broke.",,,
+108_2_4.json,2257,Dialog,Haruhi,「あーあ……、ずいぶん前におまけでもらった,Oh well... I got that glass as a,,,
+108_2_4.json,2258,Dialog,Haruhi,コップですし、いいですけど」,"freebie ages ago, so it is fine.",,,
+108_2_4.json,2266,Dialog,Tamaki,「誰も……、コップに触ってないよな？」,"Nobody... touched that glass, right?",,,
+108_2_4.json,2279,Dialog,Hikaru,「うん……」,Right...,,,
+108_2_4.json,2281,Dialog,Kaoru,「誰も……」,No one...,,,
+108_2_4.json,2285,Dialog,Kaoru,ニャー。,Meow.,,,
+108_2_4.json,2286,Dialog,Kaoru,なぜか、黒猫がトコトコ歩いて部室を横切って,"For some reason, a black cat padded",,,
+108_2_4.json,2287,Dialog,Kaoru,行った。,straight across the clubroom.,,,
+108_2_4.json,2289,Dialog,Haruhi,「どこから入ってきたんでしょうね」,I wonder where it came in from.,,,
+108_2_4.json,2297,Dialog,Tamaki,「……いや、あのな」,"...No, listen.",,,
+108_2_4.json,2298,Dialog,Tamaki,ギイィィィィ……。,Creeeeeak...,,,
+108_2_4.json,2306,Dialog,,今度は、部室のドアがきしんで開く。,"This time, the clubroom door creaks
+open.",,,
+108_2_4.json,2308,Dialog,Haruhi,「油、足りないんですかねえ」,Maybe it needs some oil.,,,
+108_2_4.json,2313,Dialog,Tamaki,「……ハルヒ、変だとは思わないのか！？　お,"...Haruhi, do you not think this is
+strange?!",,,
+108_2_4.json,2314,Dialog,Tamaki,かしいとは思わないのか！？」,"Do you not think something is
+wrong?!",,,
+108_2_4.json,2322,Dialog,Honey,「そーだよ、ハルちゃんっ」,"Yeah, Haru-chan!",,,
+108_2_4.json,2325,Dialog,Haruhi,「いえ別に」,"No, not really.",,,
+108_2_4.json,2338,Dialog,Hikaru,「さすがにコレ……」,Even for this...,,,
+108_2_4.json,2340,Dialog,Kaoru,「ちょっと……、ねえ？」,It is kind of... you know?,,,
+108_2_4.json,2341,Dialog,Kaoru,いったい、みんなどうしたんだろう？,What is with everyone?,,,
+108_2_4.json,2343,Dialog,Haruhi,「あのー、自分これを片付けたら帰りますね。,"Um, I am going home once I finish
+cleaning this up.",,,
+108_2_4.json,2344,Dialog,Haruhi,スーパーの特売に間に合わないので」,"I will miss the supermarket sale
+otherwise.",,,
+108_2_4.json,2347,Dialog,Haruhi,不安そうな表情の環先輩たちを残して、自分は,"Leaving Tamaki-senpai and the others
+with their",,,
+108_2_4.json,2348,Dialog,Haruhi,部室を後にした。,"uneasy expressions behind, I left
+the clubroom.",,,
+108_2_4.json,2354,Dialog,,今日も色々あったような、なかったような……。,"Today felt like a lot happened, and
+also like nothing happened at all...",,,
+108_2_4.json,2355,Dialog,,カップラーメンの食べ比べなんて事を行うとは、,"Honestly, I never expected us to end",,,
+108_2_4.json,2356,Dialog,,正直思ってもいなかった。,up doing a cup ramen taste test.,,,
+108_2_4.json,2357,Dialog,,それにしても……。,Still...,,,
+108_2_4.json,2359,Dialog,Haruhi,「猫澤先輩の占いかあ……」,"Nekozawa-senpai's fortune, huh...",,,
+108_2_4.json,2360,Dialog,Haruhi,どういう事なんだろう？,What was that all about?,,,
+108_2_4.json,2361,Dialog,Haruhi,どうも、本気で信じているのって、環先輩だけ,"Though I get the feeling
+Tamaki-senpai is",,,
+108_2_4.json,2362,Dialog,Haruhi,のような気もするけども。,"the only one who really believes in
+it.",,,
+108_2_4.json,2363,Dialog,Haruhi,まあ、別にどうでもいいや。忘れないうちに、,"Well, it does not really matter.
+Before",,,
+108_2_4.json,2364,Dialog,Haruhi,パソコンのチェックをしておこう。,"I forget, I should check the
+computer.",,,
+108_2_4.json,2366,Dialog,,今日は、もう寝よう……。,I should just go to sleep now...,,,
