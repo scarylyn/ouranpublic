@@ -1,0 +1,491 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+kaoru.json,1,Chapter name,,双子のサービスデー,Twin service day,,,
+kaoru.json,4,Dialog,Haruhi,「失礼しまーす」,Excuse me--,,,
+kaoru.json,5,Dialog,Haruhi,いつものようにホスト部部室に顔を出す。,"Show up at the Host Club room as
+usual.",,,
+kaoru.json,6,Dialog,Haruhi,借金返済完了までの長い道のりを、お客様支持率を上げて完済すれば良いだろう？,"Isn't it just a long road to paying
+off my debts if I raise customer
+support?",,,
+kaoru.json,7,Dialog,Haruhi,みたいなことを鏡夜先輩に言われて現在もホスト部で接客に励んでいる。,"Something like that. Kyoya-senpai
+told me, and now I'm still working
+hard at the Host Club.",,,
+kaoru.json,8,Dialog,Haruhi,自分としては普通に働いて返していけばいいかなあとは思うんだけど、このホスト部特有の空気に慣れちゃったせいか……。,"I thought I could just work
+and pay it back, but maybe
+I've gotten used to this club...",,,
+kaoru.json,10,Dialog,Haruhi,（ここにいるのが楽しい、なんて絶対末期だよね）,"(If I'm having fun here, then it
+must be the end...) Well,",,,
+kaoru.json,11,Dialog,Haruhi,まあ、そんなわけで今日も今日とて部室に来たんだけど……。,"anyway, that's why I came to the
+clubroom today too...",,,
+kaoru.json,13,Dialog,Haruhi,「あれ？　光と馨だけ？」,Hikaru and Kaoru only?,,,
+kaoru.json,14,Dialog,Haruhi,いつもだったら必要以上に歯の浮くセリフで接客をしている環先輩や、営業にいそしむ鏡夜先輩。,"Usually Tamaki-senpai serves
+with flowery lines, while
+Kyoya-senpai focuses on sales.",,,
+kaoru.json,15,Dialog,Haruhi,それに甘い匂いが漂ってくるハニー先輩もそれに付き従うようなモリ先輩も見当たらない。,"I don't see Honey-senpai or
+Mori-senpai either.",,,
+kaoru.json,22,Dialog,Hikaru,「殿も鏡夜先輩もハニー先輩もモリ先輩もみーんな用事があってこれないってさ」,"Lord Tama-chan, Otori-senpai,
+Honey-senpai, and Mori-senpai are
+all busy and can't come.",,,
+kaoru.json,24,Dialog,Haruhi,「用事？」,What business?,,,
+kaoru.json,32,Dialog,Kaoru,「殿と鏡夜先輩は家の用事。ハニー先輩はチカの試合を見に行ってるし、モリ先輩はそれの付き添いでいないわけ」,"Tamaki and Kyouya have
+family business. Honey
+and Mori are away.",,,
+kaoru.json,34,Dialog,Haruhi,「じゃあ今日は自分と光、馨だけってこと？」,"So it's just me, Hikaru, and Kaoru
+today?",,,
+kaoru.json,36,Dialog,Hikaru,「まあそうなるね」,"Well, that's to be expected.",,,
+kaoru.json,38,Dialog,Hikaru,「殿もさー、人手がないんだから臨時休業すれば良いのに、ホスト部を求めてる女性がいるのならば！　とか言っちゃってさ」,"With so few people, Tamaki should
+just close temporarily, but he says
+ladies still need the Host Club.",,,
+kaoru.json,40,Dialog,Haruhi,「あれでも部長だからね」,That's because you're the president.,,,
+kaoru.json,42,Dialog,Kaoru,「鏡夜先輩にも言ってみたんだけど、殿が言うのならば実施しろみたいな感じでさ」,"I told Kyoya-senpai too, but he said
+something like 'If you say so, then
+let's do it.'",,,
+kaoru.json,50,Dialog,Hikaru & Kaoru,「あーめんどくさいよねえ」,"Aah, it's such a hassle.",,,
+kaoru.json,52,Dialog,Haruhi,「そろそろお客様も来ると思うから、そうゆうセリフは思っていても口に出さないでよね」,"Since customers will be here soon,
+don't say such things out loud,
+okay?",,,
+kaoru.json,53,Dialog,Haruhi,天上天下唯我独尊みたいな光と馨。その上ものすごく飽きっぽい２人だからやーめた、とか接客を放り出さないと良いんだけど……。,"Hikaru and Kaoru act like the world
+revolves around them, and they get
+bored fast too...",,,
+kaoru.json,61,Dialog,Hikaru,「冗談だよ、じょーだん。ホスト部での仕事は真面目にやるよ」,"Just kidding, just kidding. I'll
+take my work in the Host Club
+seriously.",,,
+kaoru.json,63,Dialog,Kaoru,「売りのシンメトリーな兄弟愛でちゃんとやり遂げるさ」,"Let's pull off this act of
+symmetrical brotherly love.",,,
+kaoru.json,71,Dialog,Hikaru & Kaoru,「ねー」,No way.,,,
+kaoru.json,79,Dialog,Kaoru,「でもいいの、光？」,"「But it's okay with you, Hikaru?」",,,
+kaoru.json,81,Dialog,Hikaru,「なにが？」,What?,,,
+kaoru.json,83,Dialog,Kaoru,「ハルヒが来る前はあんまり乗り気じゃなかったじゃん」,"You weren't really into it before
+Haruhi came.",,,
+kaoru.json,85,Dialog,Hikaru,「まあね〜。ほら、僕らだけでも出来るって証明するのも楽しいかなって思ってさ」,"Well, yeah. I thought it might be
+fun to prove we can do this on our
+own.",,,
+kaoru.json,87,Dialog,Kaoru,「だよね、光ならそう言ってくれると思ったよ。僕らの麗しい兄弟愛の前では殿だってタジタジだもんね〜」,"I knew Hikaru would say that.
+Even Milord is helpless before
+our beautiful brotherly love.",,,
+kaoru.json,88,Dialog,Kaoru,……絶対違う意味でのタジタジだと思うけど。実際自分もこの２人にタジタジになった事例は数多いし。,"I'm sure he means helpless
+in a different way. They've
+flustered me plenty too.",,,
+kaoru.json,90,Dialog,Haruhi,「……じゃあ、いつも通りにお客様をお迎えするってこと？」,"So we're welcoming customers as
+usual?",,,
+kaoru.json,92,Dialog,Kaoru,「そうなるね。だからハルヒも頑張ってよ？」,"That's how it goes. So you better do
+your best too?",,,
+kaoru.json,101,Dialog,Haruhi,「ほどほどに頑張るよ」,I'll do my best.,,,
+kaoru.json,106,Dialog,Hikaru,「ほどほど〜？」,Just right~?,,,
+kaoru.json,111,Dialog,Kaoru,「なんか煮えきらない答えだよね」,That's not a definitive answer.,,,
+kaoru.json,113,Dialog,Haruhi,「ああ、それと。自分は光と馨のシンメトリーな世界には付き合わないからね」,"Yeah, and I'm not part of Hikaru and
+Kaoru's little symmetry act.",,,
+kaoru.json,121,Dialog,Hikaru,「えー」,Umm...,,,
+kaoru.json,123,Dialog,Kaoru,「えー」,Umm...,,,
+kaoru.json,131,Dialog,Hikaru & Kaoru,「折角だからハルヒも入れてあげようと思ったのにさ」,"I was thinking of letting Haruhi
+join too.",,,
+kaoru.json,133,Dialog,Haruhi,「全力でヘルプにまわらせて頂きます」,I'll do my best to help.,,,
+kaoru.json,138,Dialog,Haruhi,「借金完済がかかってるんだから、もちろん頑張るよ」,"I'll do my best since it's tied to
+paying off my debt.",,,
+kaoru.json,143,Dialog,Hikaru,「なんか答えが所帯じみてるよね〜」,It sounds so domestic~,,,
+kaoru.json,148,Dialog,Kaoru,「うんうん。もっと違う理由で頑張って欲しいよね」,"Yeah, yeah. I want you to try harder
+for different reasons.",,,
+kaoru.json,150,Dialog,Hikaru & Kaoru,「僕たちと一緒だから頑張れるーみたいなさ」,"I can do my best because I'm with
+us--or something like that.",,,
+kaoru.json,152,Dialog,Haruhi,「ああ、それと。自分は光と馨のシンメトリーな世界には付き合わないからね」,"Yeah, and I'm not part of Hikaru and
+Kaoru's little symmetry world.",,,
+kaoru.json,160,Dialog,Hikaru,「えー」,Umm...,,,
+kaoru.json,162,Dialog,Kaoru,「えー」,Umm...,,,
+kaoru.json,170,Dialog,Hikaru & Kaoru,「折角だからハルヒも入れてあげようと思ったのにさ」,"I was thinking of letting Haruhi
+join too.",,,
+kaoru.json,172,Dialog,Haruhi,「全力でヘルプにまわらせて頂きます」,I'll do my best to help.,,,
+kaoru.json,177,Dialog,Haruhi,「うーん、自分も頑張った方がいいのかなあ。ストッパーがいた方がいいと思うけど？」,"Hmm, should I try my best too? I
+think it's better to have a stopper.",,,
+kaoru.json,182,Dialog,Hikaru,「ハルヒ〜」,「Haruhi~」,,,
+kaoru.json,187,Dialog,Kaoru,「それどうゆう意味？」,What do you mean by that?,,,
+kaoru.json,189,Dialog,Haruhi,「言葉どおりだよ。なので自分はヘルプにまわらせてもらうね」,"Right on the money. So I'll leave it
+to you guys.",,,
+kaoru.json,191,Dialog,Hikaru,「なんでだよ、一緒に頑張ればいいじゃん」,"Why not? We can do our best
+together.",,,
+kaoru.json,193,Dialog,Kaoru,「ねー、ノリが悪いよハルヒ」,"Come on, Haruhi, you're no fun.",,,
+kaoru.json,201,Dialog,Haruhi,「思うがままに行動する２人と一緒に行動していたら誰が止めるわけ？」,"Who's going to stop them if I act on
+my impulses with those two?",,,
+kaoru.json,203,Dialog,Hikaru,「そのまま行動してればいいんじゃない」,Just go with it.,,,
+kaoru.json,205,Dialog,Kaoru,「うん。別に悪いことなんてないじゃん」,"Yeah. I'm not doing anything bad, am
+I?",,,
+kaoru.json,206,Dialog,Kaoru,……全力でヘルプにまわろう。,...I'll do my best to help.,,,
+kaoru.json,211,Dialog,Haruhi,「自分はヘルプとして頑張ります」,I'll do my best as support.,,,
+kaoru.json,219,Dialog,Hikaru,「えー」,Umm...,,,
+kaoru.json,221,Dialog,Kaoru,「えー」,Umm...,,,
+kaoru.json,223,Dialog,Haruhi,「文句を言われようとヘルプで２人をフォローするんだからね」,"I'll back them up at the help desk
+no matter what.",,,
+kaoru.json,225,Dialog,Hikaru,「なーんだ、つまんないのー」,"Aww, boring~",,,
+kaoru.json,227,Dialog,Kaoru,「ハルヒも巻き込んで面白い寸劇でもしようかと思ったのにさ」,"I was thinking of putting you in an
+amusing little skit too.",,,
+kaoru.json,235,Dialog,Hikaru & Kaoru,「まあいっか。どさくさに紛れて巻き込んでもいいしー」,"Never mind. I could drag you into it
+while the chaos continues~",,,
+kaoru.json,236,Dialog,Hikaru & Kaoru,ひたすら性質が悪いな、この双子は……。,These twins are so infuriating...,,,
+kaoru.json,246,Dialog,Hikaru,「どのカップにお茶を注ぐ？」,Which cup should I pour tea into?,,,
+kaoru.json,248,Dialog,Guest A,「マイセンのティーカップがよろしいわ」,May I have the Mycenae tea cup?,,,
+kaoru.json,256,Dialog,Kaoru,「紅茶の味はどれにする？」,Which flavor of tea?,,,
+kaoru.json,258,Dialog,Guest A,「そうね……お紅茶はウェッジウッドでお願いしますわ」,"That's right... I'll have my
+afternoon tea in Wedgwood, please.",,,
+kaoru.json,259,Dialog,Guest A,自分はヘルプとして２人から少し離れた柱のとこから様子を窺う。,"I'll stay by that pillar over there
+and watch from a distance.",,,
+kaoru.json,260,Dialog,Guest A,今のところ問題はない……かな。,"There shouldn't be any problems... I
+hope.",,,
+kaoru.json,262,Dialog,Kaoru,「……ヴィクトリアンものとか収集するとはまっちゃうよね」,"...Getting into Victorian stuff
+really gets to you, huh?",,,
+kaoru.json,264,Dialog,Guest A,「ええ、私も休日はイギリスのアンティークマーケットを練り歩いたりしますの」,"Yeah, on weekends I stroll through
+antique markets in England.",,,
+kaoru.json,269,Dialog,Kaoru,「へー……っつ」,Hey...so.,,,
+kaoru.json,274,Dialog,Hikaru,「馨！！」,「Kaoru!!」,,,
+kaoru.json,279,Dialog,Kaoru,「光……僕は大丈夫だから」,Hikaru... I'm fine.,,,
+kaoru.json,284,Dialog,Hikaru,「大丈夫なもんか！　ほら、小指が赤く腫れてる……」,"Are you sure you're okay?! Look,
+your pinky's all red and swollen...",,,
+kaoru.json,289,Dialog,Kaoru,「光！　恥ずかしいよ」,「Hikaru! That's embarrassing!」,,,
+kaoru.json,294,Dialog,Hikaru,「恥ずかしいなら僕が抱き込んで顔を隠してあげるから……」,"If you're embarrassed, I'll hug you
+and hide your face...",,,
+kaoru.json,296,Dialog,Kaoru,「光……」,「Hikaru...」,,,
+kaoru.json,298,Dialog,Hikaru,「さあ、キッチンで指を冷やそう。あまり僕に心配をかけさせるなよ」,"Come on, let's cool off your fingers
+in the kitchen. Don't worry me too
+much.",,,
+kaoru.json,300,Dialog,Kaoru,「ごめん、光」,"Sorry, Hikaru.",,,
+kaoru.json,304,Dialog,Guest A,「キャア！　麗しき兄弟愛よ！！」,Kyaa! Splendid brotherly love!!,,,
+kaoru.json,306,Dialog,Customer B,「眼福ですわ！」,It's a feast for the eyes!,,,
+kaoru.json,308,Dialog,Haruhi,「あの、代えの紅茶は自分が注ぎますので暫くお待ち下さい」,"Um, I'll pour your replacement tea
+in a moment, please wait.",,,
+kaoru.json,309,Dialog,Haruhi,……と、ここまではまだ良かったんだ。そう、ここまではいつも通りの行き過ぎた兄弟愛？で。,"...And up until here, it was still
+fine. Yes, up until here, it was
+just over-the-top brotherly love?",,,
+kaoru.json,310,Dialog,Haruhi,その歯止めが利かなくなると……かなりの惨状になるんだって身をもって知ることになりました。,"When that fails... I learned
+firsthand just how bad things can
+get.",,,
+kaoru.json,317,Dialog,Hikaru,「馨！　それは僕が持って行くって言っただろ！」,Kaoru! Didn't I say I'd take it!,,,
+kaoru.json,325,Dialog,Kaoru,「でも、光にばっかり任せてるのも……」,"But leaving it all to Hikaru
+isn't...",,,
+kaoru.json,330,Dialog,Hikaru,「ケガしてるだろう？　お前はゆっくり休んでいれば良いんだよ」,"You're hurt, right? You should just
+rest.",,,
+kaoru.json,332,Dialog,Kaoru,「やだよ、僕だって光の役にたちたい！」,No way! I want to help Hikaru too!,,,
+kaoru.json,334,Dialog,Hikaru,「馨……気持ちは嬉しいけど、お前は僕だけを見てればいいんだ。他のお客様に気を取られてまたケガをするお前を見ていたくない……」,"Kaoru... I'm happy, but just
+watch me. I don't want you hurt
+by other customers again.",,,
+kaoru.json,339,Dialog,Kaoru,「光！！」,Hikaru!!,,,
+kaoru.json,349,Dialog,Hikaru,「あ……」,Ah...,,,
+kaoru.json,351,Dialog,Kaoru,「あ……」,Ah...,,,
+kaoru.json,352,Dialog,Kaoru,２人とも自分たちが食器を持っていることを忘れていたのか、２人で手を取り合った瞬間に支えを失った食器が無残にも床に落ちる。,"They forgot they were holding
+dishes, and when they grabbed hands,
+the dishes fell.",,,
+kaoru.json,353,Dialog,Kaoru,お客様のいない所で兄弟愛を熱演しても仕方ないんですよ、とは言い辛い雰囲気だ。,"It's hard to say brotherly love
+is pointless when no customers
+are watching.",,,
+kaoru.json,355,Dialog,Haruhi,「片付けは自分がやっておくから、２人はあの方たちの接客をお願いします」,"I'll clean up. You two handle those
+customers.",,,
+kaoru.json,363,Dialog,Hikaru & Kaoru,「ごめん、ハルヒ」,"Sorry, Haruhi.",,,
+kaoru.json,365,Dialog,Haruhi,「ううん、気にしないでよ」,Don't worry about it.,,,
+kaoru.json,371,Dialog,Haruhi,その後も張り切り過ぎた２人の失敗は続き……。,"Their overeager attempts continued
+to fail...",,,
+kaoru.json,378,Dialog,Hikaru,「注文ってスコーンだけだよね？」,"Just scones, right?",,,
+kaoru.json,380,Dialog,Customer C,「はい。あの、よろしければダージリンのおかわりを頂けますかしら？」,"Sure. Um, if it's not too much
+trouble, could I get another
+Darjeeling?",,,
+kaoru.json,388,Dialog,Kaoru,「おかわりね、りょーかい」,"「Refill, got it.」",,,
+kaoru.json,393,Dialog,Hikaru,「馨！　さっき紅茶で火傷したばっかりだろ！おかわりは僕が持っていくからお前はスコーンを持っていけよ」,"Kaoru! You just burned yourself with
+the tea! I'll get you a refill, so
+you take the scone!",,,
+kaoru.json,398,Dialog,Kaoru,「僕だって子供じゃないんだから何度も失敗しないって」,"I'm not a kid anymore, so I won't
+make the same mistake over and over.",,,
+kaoru.json,403,Dialog,Hikaru,「失敗とかそうゆうことじゃないんだよ！　また馨が火傷をしたらと思うと……」,"It's not about failing or anything
+like that! I just worry what would
+happen if Kaoru gets burned again...",,,
+kaoru.json,405,Dialog,Kaoru,「光は心配し過ぎだよ。何度もヘマをやらかすほど馬鹿じゃないさ」,"You're worrying too much. I'm not
+that stupid to mess up so many
+times.",,,
+kaoru.json,410,Dialog,Hikaru,「なに言ってるんだよ、この前の課題の時だって１人で出来るとか言って結局僕に泣きついてきたじゃないか！」,"What? Last assignment, you said
+you could do it alone, then came
+crying to me for help!",,,
+kaoru.json,415,Dialog,Kaoru,「そ、それと今とは関係ないだろ！」,That's got nothing to do with this!,,,
+kaoru.json,417,Dialog,Hikaru,「いーや、関係大ありだね。馨は僕がいないとなーんにも出来ないんだからさ」,"No way, it's totally related. You
+can't do anything without me, Kaoru.",,,
+kaoru.json,423,Dialog,Kaoru,「光だって僕がいないと１人じゃ寝れないくせに！！」,"You can't even sleep alone without
+me!!",,,
+kaoru.json,424,Dialog,Kaoru,あ、これはなんだかやばそうな雰囲気かも。,This feels like it could be bad...,,,
+kaoru.json,425,Dialog,Kaoru,暇な双子ほど悪魔なものはないけれど、張り切り過ぎた双子ほどやっかいなものはない。,"Twins with too much free time are
+devilish, but twins who try too hard
+are even more troublesome.",,,
+kaoru.json,427,Dialog,Haruhi,「光、馨。今はお客様の接客が……」,"Hikaru, Kaoru. You two need to
+attend to the customers...",,,
+kaoru.json,432,Dialog,Hikaru,「馨の方こそ１人で寝れないから僕の布団に潜り込んでくるんだろ！」,"You're the one who can't sleep alone
+and always sneaks into my futon!",,,
+kaoru.json,437,Dialog,Kaoru,「光が寂しそうに縮こまってるからしかたなく一緒に寝てあげてるんじゃないか！」,"That's because I'm sleeping with him
+since he looks so lonely and curled
+up!",,,
+kaoru.json,439,Dialog,Hikaru,「僕はぜんっぜん寂しくないから馨が寂しいんだろ！　この弱虫！」,"I'm not lonely at all! You're the
+one who's lonely, you wimp!",,,
+kaoru.json,441,Dialog,Kaoru,「よ、よわ……なんだよ、光みたいに僕は性格が悪くはないからね、弱虫の方がまだマシだよ」,"Y-You... weakling... I'm not a bad
+person like Hikaru, so being a
+coward is better.",,,
+kaoru.json,443,Dialog,Hikaru,「お前は底意地が悪くて弱虫なんだろ？　僕のがマシさ」,"You're just a cowardly bastard,
+aren't you? I'm better than that.",,,
+kaoru.json,445,Dialog,Haruhi,「あの、２人ともそこまでに……」,"Hey, you two, stop there...",,,
+kaoru.json,446,Dialog,Haruhi,何処がこの双子の琴線に触れたのかわからないけれど、とにかくこのままだと災厄を一手に引き受けることになってしまう。,"I don't know what set the twins off,
+but at this rate, I'll take
+the full hit.",,,
+kaoru.json,451,Dialog,Kaoru,「……光の……光のバカー！　光なんて大嫌いだー！！！」,"......Hikaru's......I hate
+Hikaru!!!!!!!",,,
+kaoru.json,463,Dialog,Haruhi,「あ、馨！！」,「Kaoru!!」,,,
+kaoru.json,465,Dialog,Haruhi,突如ケンカが始まり、ケンカの果てに馨が耐え切れなくなって飛び出して行ってしまったわけなんだけど……。,"Suddenly, a fight broke out, and in
+the end, Kaoru couldn't take it
+anymore and ran off...",,,
+kaoru.json,467,Dialog,Haruhi,（馨……泣いてた？）,"(Kaoru... was he crying?) I couldn't
+see clearly since he had his face in
+his hands,",,,
+kaoru.json,468,Dialog,Haruhi,顔を両手で押さえていたからはっきりと見えたわけじゃないけど、すれ違い様に水滴が床に落ちた……ような気がする。,"but I think I saw water drops fall
+to the floor as we passed each
+other.",,,
+kaoru.json,470,Dialog,Guest A,「馨くん……大丈夫かしら？」,Kaoru-kun... Are you okay?,,,
+kaoru.json,472,Dialog,Customer B,「ええ。なんだか追い詰められたような顔をしておりましたし……」,"Yeah. He looked like he was cornered
+or something...",,,
+kaoru.json,474,Dialog,Customer C,「心配ですわね……」,I'm worried...,,,
+kaoru.json,475,Dialog,Customer C,いきなりのことに驚いていたお客様も、落ち着いてくると双子の片割れである馨を心配するように扉を見つめる。,"The startled customers calm down
+and stare at the door, worried
+about Kaoru.",,,
+kaoru.json,482,Dialog,Hikaru,「……あのさ、ハルヒに頼みがあるんだけど」,"...Hey Haruhi, I need to ask you
+something.",,,
+kaoru.json,484,Dialog,Haruhi,「わかってるよ。馨を迎えに行ってくれってことでしょ？」,"I get it. You want me to go pick up
+Kaoru, right?",,,
+kaoru.json,486,Dialog,Hikaru,「うん。僕も言い過ぎたなって思ってるし、馨のこと責める気なんてちっともなかった」,"Yeah. I think I went too far, and I
+didn't blame you at all.",,,
+kaoru.json,488,Dialog,Hikaru,「いつもみたいに禁断の兄弟愛だけじゃ弱いと思ったからさ、ノリでああなったわけなんだけど……」,"Forbidden brotherly love felt weak,
+so we got carried away and
+ended up like that...",,,
+kaoru.json,490,Dialog,Haruhi,「まあ、そんなことだろうと思ってたよ。いいよ、自分が迎えに行ってくる」,"Well, I thought that would be the
+case. It's fine, I'll come get you
+myself.",,,
+kaoru.json,492,Dialog,Hikaru,「悪いな。今は僕よりハルヒに迎えにきて欲しいってあいつも思ってると思うし……」,"Sorry. I think he wants you to come
+pick Haruhi up instead of me...",,,
+kaoru.json,494,Dialog,Haruhi,「そうかな？　あ、どこに行ったかわからないからちょっと遅くなると思うけど、後のことよろしくね」,"Is that so? Oh, I don't know where I
+went, but I'll be a bit late, so
+please take care of things after.",,,
+kaoru.json,499,Dialog,Hikaru,「ああ。馨のこと頼んだぞ！」,Hey. Count on Kaoru!,,,
+kaoru.json,503,Dialog,Haruhi,（当てずっぽうになるけど、どっち側から探せばいいかなあ……）,"(I'll just take a guess... Should I
+look from this side or that side?)",,,
+kaoru.json,504,Choice,Haruhi,校舎の東側を探す,Search east side of school,,,
+kaoru.json,505,Choice,Haruhi,校舎の西側を探す,Search west side of school,,,
+kaoru.json,515,Dialog,Haruhi,「東側から見て行こうかな」,"Let's check it out from the east
+side.",,,
+kaoru.json,516,Dialog,Haruhi,馨が飛び出して行ってから１０分も経ってないし、こっち側の校舎にいるんだったら簡単に見つかるはずなんだけど……。,"It's been under ten minutes.
+If Kaoru's on this side,
+I should find him easily...",,,
+kaoru.json,518,Dialog,Haruhi,「無駄に広くて機能的とは言い難い構造だからなあ……」,"It's hard to call it spacious and
+functional...",,,
+kaoru.json,519,Dialog,Haruhi,学校見学でも思ったことだけど、財あるものは暇を持て余し、日常の刺激としてこんな迷路のような学校を作ったのかなあ。,"Maybe rich people get bored and
+build maze-like schools for
+daily excitement.",,,
+kaoru.json,520,Dialog,Haruhi,やっぱりお金持ちの感性は一般人の自分にはわからないな。,"I guess I can't understand the
+sensibilities of rich people.",,,
+kaoru.json,524,Dialog,Haruhi,「あ、すみません」,Sorry.,,,
+kaoru.json,525,Dialog,Haruhi,ちょうど前方からやってきた生徒に声をかける。,"Greet the student approaching from
+ahead.",,,
+kaoru.json,527,Dialog,Student C,「はい。私に何か用事ですか？」,Yeah. Do you need something from me?,,,
+kaoru.json,529,Dialog,Haruhi,「あの、１年Ａ組の常陸院馨を見かけませんでしたか？」,"Hey, have you seen Kyouya Ootori
+from class 1-A?",,,
+kaoru.json,530,Dialog,Haruhi,あの強烈な双子は１学年を問わず２年・３年の間でも知られている。,"Those intense twins are well-known
+even among second and third-year
+students.",,,
+kaoru.json,531,Dialog,Haruhi,特徴を言わなくても、良い意味でも悪い意味でも有名な双子だから見かければ印象に残るんだよね。,"Even without details, famous twins
+leave an impression when seen.",,,
+kaoru.json,533,Dialog,Student C,「馨くん？　いいえ、こちらではお見かけしておりませんよ」,"Kaoru-kun? No, I haven't seen him
+here.",,,
+kaoru.json,535,Dialog,Haruhi,「そうですか。ありがとうございます」,That so? Thanks.,,,
+kaoru.json,536,Dialog,Haruhi,となると……西側校舎か。,That means... the west wing.,,,
+kaoru.json,539,Dialog,Haruhi,夕焼け色に染まる校舎を背景に、馨が背を丸めて体育座りをしている。,"Kaoru sat curled up against
+the school building, dyed orange
+by sunset.",,,
+kaoru.json,540,Dialog,Haruhi,なんだか環先輩を連想させる姿だなと思ったけど、本人の前で言ったら違う！　と否定されると思うので言わない。,"I thought it reminded me of Senpai,
+but I doubt he'd like that said to
+his face.",,,
+kaoru.json,542,Dialog,Haruhi,「……馨」,...Kaoru.,,,
+kaoru.json,549,Dialog,Kaoru,「！！？　……ハルヒ」,!!? ...Haruhi,,,
+kaoru.json,553,Dialog,Kaoru,慌てて立ち上がる馨に笑みが浮かんでしまう。そんなに見られたくない姿だったのかな？,"A smile floats onto Kaoru's face as
+he hurriedly stands up. Did you not
+want me to see you like that?",,,
+kaoru.json,558,Dialog,Kaoru,「……ハルヒが来てくれるなんて思わなかった」,I didn't think Haruhi would come...,,,
+kaoru.json,560,Dialog,Haruhi,「そう？」,Is that so?,,,
+kaoru.json,565,Dialog,Kaoru,「うん。……あのさ」,Uh... Hey.,,,
+kaoru.json,567,Dialog,Haruhi,「なに？」,Hmm?,,,
+kaoru.json,572,Dialog,Kaoru,「やっぱなんでもない」,It's nothing after all.,,,
+kaoru.json,573,Dialog,Kaoru,夕日の眩しさで気付かなかったけれど、馨の目元はうっすらと赤くなっていて。,"I didn't notice because of the glare
+from the sunset, but Kaoru's eyes
+are a little red.",,,
+kaoru.json,575,Dialog,Haruhi,（仲の良い光とケンカして、ショックだったんだろうな）,"(I wonder if she was shocked by
+fighting with Hikaru.)",,,
+kaoru.json,580,Dialog,Kaoru,「……さあってと、部室に戻るか」,"... Guess I should head back to the
+club room.",,,
+kaoru.json,582,Dialog,Haruhi,「馨。つらかったら無理して出なくても良いんだよ？　接客なら自分と光でなんとか出来るからさ」,"Kaoru, don't force yourself.
+Hikaru and I can handle
+the customers.",,,
+kaoru.json,587,Dialog,Kaoru,「へ？　なに言ってんの？」,Huh? What are you talking about?,,,
+kaoru.json,589,Dialog,Haruhi,「だから、馨が泣いてるみたいだからさ。光とケンカして落ち込んでるんでしょ？」,"So Kaoru looks like he's crying. He
+must be upset after arguing with
+Hikaru, right?",,,
+kaoru.json,594,Dialog,Kaoru,「あ、なーる。ハルヒはこれを涙と勘違いしたわけね」,"Oh, I see. Haruhi mistook this for
+tears.",,,
+kaoru.json,597,Dialog,Kaoru,「ふう……それ勘違いだよ、ハルヒ」,"Phew... That's a misunderstanding,
+Haruhi.",,,
+kaoru.json,599,Dialog,Haruhi,「え？　まさか……」,Huh? No way...,,,
+kaoru.json,600,Dialog,Haruhi,またいつぞやのように目薬で涙を演出してたと,"Like last time... using eye drops to
+fake",,,
+kaoru.json,601,Dialog,Haruhi,か……まさか、まさか……ね。,tears... no way... no way... right?,,,
+kaoru.json,606,Dialog,Kaoru,「ご名答だよ」,Good answer.,,,
+kaoru.json,608,Dialog,Haruhi,「！！？　人の顔で心を読まないでよ」,"Stop reading people's minds through
+their faces!!?",,,
+kaoru.json,613,Dialog,Kaoru,「だーってわっかりやすい顔してるハルヒが悪い。あ、ちなみにさっきのケンカも台本のうちの１つね」,"It's Haruhi's fault for being
+so easy to read. Also, that fight
+was scripted too.",,,
+kaoru.json,615,Dialog,Haruhi,「……はあ、なんかそんな気もしてたけど」,"... Yeah, I kind of felt that way
+too.",,,
+kaoru.json,617,Dialog,Haruhi,「じゃあ、なに？　その真っ赤に腫れた目元は目薬の影響ってこと？」,"So what? Are those puffy red eyes
+from using eyedrops?",,,
+kaoru.json,619,Dialog,Kaoru,「まあね。ちょっと涙をサービスしすぎたみたいでさ」,"Well, yeah. I think I went a bit
+overboard with the tears.",,,
+kaoru.json,621,Dialog,Kaoru,「あんまり痛くて部室を飛び出したんだけど、ハルヒが来たんだしこれはこれで役得ってことじゃない」,"I flew out of the club room because
+it hurt so much, but since Haruhi
+came over, this is a bonus for me.",,,
+kaoru.json,623,Dialog,Haruhi,「ああ、そう」,"Oh, right.",,,
+kaoru.json,624,Dialog,Haruhi,目薬のさしすぎって……心配した自分が馬鹿みたいだ。,"I feel like an idiot for worrying
+about you putting in too much eye
+drops...",,,
+kaoru.json,629,Dialog,Kaoru,「ハルヒが来たってことは、今部室にいるのって光１人だよね？」,"Does that mean Hikaru's the only one
+in the club room now?",,,
+kaoru.json,631,Dialog,Haruhi,「うん」,Yeah.,,,
+kaoru.json,633,Dialog,Kaoru,「そっか。そろそろ僕は戻るけどハルヒはどうする？　一緒に戻る？」,"Got it. I'm heading back now, but
+what about you, Haruhi? Want to come
+with?",,,
+kaoru.json,642,Dialog,Haruhi,「……そうだね。一緒に戻るよ」,...Yeah. I'll go back with you.,,,
+kaoru.json,647,Dialog,Kaoru,「なに、その間」,What's with that gap?,,,
+kaoru.json,649,Dialog,Haruhi,「すんなり頷くのもシャクじゃない。一緒に戻るけど、騙されたこっちとしては少しくらい抵抗したい気持ちがあるんだよ」,"I don't want to agree too easily.
+I'll go back, but I was tricked,
+so let me resist a little.",,,
+kaoru.json,654,Dialog,Kaoru,「ふーん、めんどくさい考え。ま、いいけどさ」,"Hmm, what a troublesome thought.
+Well, whatever.",,,
+kaoru.json,658,Dialog,Haruhi,「もちろん一緒に戻るよ！」,「Of course I'll go back with you!」,,,
+kaoru.json,664,Dialog,Kaoru,「うわっ！　なんか随分張り切ってない？」,Whoa! You seem pretty fired up!,,,
+kaoru.json,666,Dialog,Haruhi,「まあね」,Yeah.,,,
+kaoru.json,671,Dialog,Haruhi,（騙されてばっかりって言うのもあれだから、今度は自分が２人を驚かしてやる）,"(I don't want to be the one fooled
+all the time, so this time I'll
+surprise them.)",,,
+kaoru.json,673,Dialog,Haruhi,（巻き込まれたくないと思ってたのに……心境の変化って不思議だな）,"(I didn't want to get involved...
+but changes in heart are strange.)",,,
+kaoru.json,677,Dialog,Haruhi,「……自分は遠慮しておくよ」,I'll pass on that.,,,
+kaoru.json,682,Dialog,Kaoru,「ふーん。まあ、いいけどさ」,"Hmm. Well, whatever.",,,
+kaoru.json,683,Dialog,Kaoru,馨がつまらなそうに呟く。,"Kaoru mutters that she finds it
+boring.",,,
+kaoru.json,687,Dialog,Kaoru,だって、一緒に帰ったら確実にまたあの光景に付き合わされるってことで……。,"Because if we go home together, I'll
+definitely have to put up with that
+scene again...",,,
+kaoru.json,689,Dialog,Haruhi,（ちょっと……かなり、それは遠慮したいよね）,(I'd rather pass on that...),,,
+kaoru.json,692,Dialog,Haruhi,「自分は遠慮しておくよ」,I'll pass.,,,
+kaoru.json,698,Dialog,Kaoru,「うわっ、即答！？」,"Wow, instant answer!?",,,
+kaoru.json,700,Dialog,Haruhi,「一緒に帰ったら光、馨と一緒にあのわけのわからない世界を演じなきゃいけないんでしょ？」,"So if we go home together, Hikaru
+and Kaoru will make me act in that
+crazy world of theirs?",,,
+kaoru.json,705,Dialog,Kaoru,「わけのわからないって……いくら天然キャラだからってそれはひどくない？」,"That's going too far... Even if
+she's an airhead character, that's
+harsh, isn't it?",,,
+kaoru.json,707,Dialog,Haruhi,「じゃあ未知の世界？」,So uncharted territory?,,,
+kaoru.json,712,Dialog,Kaoru,「いや、まあ……確かにハルヒから見れば未知かもしれないけど」,"No, well... From your perspective,
+Haruhi, it might be new.",,,
+kaoru.json,715,Dialog,Kaoru,「……じゃあさ、僕は先に戻ってるけどハルヒもちゃんと戻ってきてよ」,"Hey, I'll go back first, but make
+sure to come back too, Haruhi.",,,
+kaoru.json,717,Dialog,Haruhi,「うん、わかった」,"Yeah, got it.",,,
+kaoru.json,719,Dialog,Kaoru,「ほんっと、真っ暗になる前に戻ってきてよね」,"Come back before it gets totally
+dark.",,,
+kaoru.json,721,Dialog,Haruhi,「そんなに念を押さなくてもちゃんと戻るよ。そんなに自分って信用ない？」,"Don't worry so much. I'll be back.
+Don't you trust me at all?",,,
+kaoru.json,726,Dialog,Kaoru,「信用っていうか、ハルヒの場合……」,"It's not so much trust... in your
+case, Haruhi...",,,
+kaoru.json,729,Dialog,Haruhi,「……ここは静かでいいなあ」,This place is nice and quiet...,,,
+kaoru.json,730,Dialog,Haruhi,騒がしい人間もいないし、ちょっと肌寒いけど身体を縮こまらせていれば温かいし。,"It's not noisy and even though it's
+a bit chilly, I'm warm if I curl up.",,,
+kaoru.json,732,Dialog,Haruhi,「このままここにいようかなあ」,Maybe we should stay here.,,,
+kaoru.json,733,Dialog,Haruhi,部室に戻れば現実に引き戻されるし、このまま、このまま……ここで……。,"If I go back to the club room, I'll
+be dragged back to reality...
+Here... here... right here...",,,
+kaoru.json,740,Dialog,Kaoru,「なんてことが」,What's going on?,,,
+kaoru.json,742,Dialog,Haruhi,#Scale[1.8]「あるわけないよ！」,"#Scale[1.8]""There's no way!""",,,
+kaoru.json,743,Dialog,Haruhi,気持ちよさにうとうとと寝てしまうなんて間抜けなことはしでかさないよ、環先輩じゃあるまいし。,"I won't do something as stupid as
+falling asleep because I feel good,
+I'm not Tamaki-senpai.",,,
+kaoru.json,745,Dialog,Kaoru,「冗談だよ、じょーだん。ま、早く戻ってきてよね？　でないと面白くないからさー」,"Just kidding, just kidding. But do
+come back soon, okay? Or it won't be
+fun.",,,
+kaoru.json,747,Dialog,Kaoru,……戻るのをやめようか、と本気で思った。ほんっと馨のが底意地悪いよ、うん。,"...I seriously thought about not
+going back. Kaoru's really mean,
+yeah.",,,
+kaoru.json,749,Dialog,Kaoru,……あの時、違った返事をしていれば、別の結末もあったのかな？,"...If I had answered differently
+back then, would things have turned
+out differently?",,,
+kaoru.json,750,Dialog,Kaoru,もし、あの時に戻れたら、今度は別の答え方を……,"If I could go back to that moment,
+I'd answer differently this time...",,,
+kaoru.json,767,Dialog,Kaoru,「ただいま〜」,I'm home~,,,
+kaoru.json,769,Dialog,Haruhi,「ただいま戻りました」,I'm back.,,,
+kaoru.json,771,Dialog,Guest A,「まあ、お２人がお帰りになられましたわ！」,"Well, you two are back!",,,
+kaoru.json,773,Dialog,Customer B,「お帰りなさいませ」,Welcome back.,,,
+kaoru.json,775,Dialog,Customer C,「私たち、胸が張り裂けんばかりに心配しておりましたのよ」,We were worried sick.,,,
+kaoru.json,777,Dialog,Haruhi,「ご迷惑をおかけしました」,I apologize for troubling you.,,,
+kaoru.json,778,Dialog,Haruhi,部室に戻るなり、目に涙をためたお客様が自分たちを出迎えてくれる。,"As soon as we return to the club
+room, customers with tears in their
+eyes greet us.",,,
+kaoru.json,786,Dialog,Hikaru,「……遅かったじゃん」,...You're late.,,,
+kaoru.json,791,Dialog,Kaoru,「光……」,「Hikaru...」,,,
+kaoru.json,792,Dialog,Kaoru,何食わぬ顔でソファに座っている光が、顔だけこちらに向ける。,"Hikaru sits on the sofa with an
+indifferent expression and turns his
+face toward us.",,,
+kaoru.json,794,Dialog,Haruhi,「ちゃんと接客してた？」,Did you serve them properly?,,,
+kaoru.json,799,Dialog,Hikaru,「あったりまえじゃん。僕を誰だと思ってるわけ？　天下の常陸院兄弟の兄だよ、兄」,"Duh. Who do you think I am? I'm
+Hikaru's big brother, the great
+Hitachiin brothers.",,,
+kaoru.json,801,Dialog,Haruhi,「はあ、まあそこはどうでもいいよ」,"Ha, well, I don't really care about
+that.",,,
+kaoru.json,806,Dialog,Kaoru,「ハルヒ、それどうでもよくないと思うけど」,"Haruhi, I don't think that's okay.",,,
+kaoru.json,808,Dialog,Haruhi,「そう？」,Is that so?,,,
+kaoru.json,813,Dialog,Hikaru,「いいよ、いいよ。ハルヒのざっくり具合なんて今に始まったことじゃないし」,"Sure, whatever. Your roughness isn't
+exactly new to me.",,,
+kaoru.json,815,Dialog,Hikaru,「それより、ハルヒはこの後もヘルプ？」,"Haruhi, do you still need help?",,,
+kaoru.json,817,Dialog,Haruhi,「うーん、自分も２人に混ざろうかなあと」,"Hmm, should I join them too?",,,
+kaoru.json,818,Dialog,Haruhi,どうせだったら２人の寸劇に付き合ってもいいし。,"I might as well watch your little
+skit.",,,
+kaoru.json,823,Dialog,Kaoru,「え、ホントに！？」,Huh? Really!?!,,,
+kaoru.json,828,Dialog,Haruhi,「２人より３人の方が楽しいと思うんだよね」,I think three's more fun than two.,,,
+kaoru.json,833,Dialog,Haruhi,「だから……自分はここに座らせてもらうね」,So... I'll take this seat then.,,,
+kaoru.json,834,Dialog,Haruhi,馨を座らせてから、真ん中に自分が座る。,"Have Kaoru sit down and then take my
+place in the middle.",,,
+kaoru.json,835,Dialog,Haruhi,目の前には微笑ましい光景を見るように、にこにこと笑っているお客様たち。,"Customers smiling sweetly as if they
+were enjoying a pleasant sight.",,,
+kaoru.json,837,Dialog,Guest A,「ハルヒくんと馨くん、光くんは仲がよろしいのね」,"You and Kaoru-kun get along well
+with Hikaru-kun, don't you?",,,
+kaoru.json,839,Dialog,Customer B,「クラスも一緒でしたわよね？　確かお席も近かったような……」,"Didn't we have class together? I
+think our seats were close too...",,,
+kaoru.json,841,Dialog,Haruhi,「そうだね。今座ってるみたいな感じかな」,"Yeah, I guess it's like we're
+sitting there.",,,
+kaoru.json,843,Dialog,Customer C,「まあ！　本当に仲がよろしいのね」,Wow! You guys really get along well.,,,
+kaoru.json,845,Dialog,Guest A,「少し妬けてしまいますわ」,I'm a little jealous.,,,
+kaoru.json,847,Dialog,Haruhi,「そうかな？」,I see...,,,
+kaoru.json,849,Dialog,Customer B,「私たちは光くんと馨くんの素晴らしきシンメトリーの世界には恐れ多くて入れませんもの」,"We mortals cannot enter Hikaru-kun
+and Kaoru-kun's wonderful world of
+symmetry.",,,
+kaoru.json,851,Dialog,Customer C,「ええ、ハルヒくんだからこそ入れるのかもしれませんわね」,"Perhaps because you're Haruhi, I can
+let you in.",,,
+kaoru.json,852,Dialog,Customer C,うーん、確かにガードは固そうだけど……結構単純だけどね、光と馨って。,"Hmm, their guard is strong... but
+Hikaru and Kaoru are pretty simple,
+really.",,,
+kaoru.json,854,Dialog,Hikaru,「まあ、こいつは特別だからね〜」,"Well, he's special~",,,
+kaoru.json,856,Dialog,Kaoru,「そうそう」,That's right.,,,
+kaoru.json,858,Dialog,Hikaru & Kaoru,「だってハルヒはうちの養子だもんね、養子」,"Because Haruhi's my adopted
+daughter, after all. Adopted
+daughter.",,,
+kaoru.json,860,Dialog,Haruhi,「はあ……でも実の父が１人いるんですけど」,"Sigh... But I do have an actual
+father.",,,
+kaoru.json,862,Dialog,Hikaru & Kaoru,「ならハルヒのパパさんも含めて常陸院がバックアップすれば良いじゃん」,"Then let Toukurin be backed up by
+Haruhi's papa too.",,,
+kaoru.json,863,Dialog,Hikaru & Kaoru,そうゆう問題でもないと思うんだけど……。でも、２人があんまり真剣だから否定するのも忍びなくて。,"I don't think that's the issue...
+but they're so serious, I can't
+just deny it.",,,
+kaoru.json,864,Dialog,Hikaru & Kaoru,だから言ってしまった。,So I ended up saying it.,,,
+kaoru.json,866,Dialog,Haruhi,「……それも良いかもね」,That might be good too.,,,
+kaoru.json,870,Dialog,Haruhi,「なーんて、冗談だよ。冗談」,Just kidding~ Joking!,,,

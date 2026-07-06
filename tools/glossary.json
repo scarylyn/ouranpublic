@@ -1,0 +1,53 @@
+{
+  "_about": "Authoritative term map for the Ouran translation. The translate/review pipeline applies these substitutions so names and terms stay consistent across all 62 script files. 'confirmed': true entries are canonical (matched to the official English release of Ouran High School Host Club). 'confirmed': false entries were auto-detected from speaker labels and NEED a human to verify the reading/spelling before mass use.",
+
+  "honorifics": {
+    "policy": "keep",
+    "note": "Decide once: keep Japanese honorifics (-senpai, -kun, -chan, -san) or localize them. Ouran's humor leans on -senpai (Honey/Mori) and Tamaki's '-kun', so 'keep' is the common fan choice. Change to 'drop' to strip them.",
+    "map": { "先輩": "-senpai", "君": "-kun", "ちゃん": "-chan", "さん": "-san", "様": "-sama" }
+  },
+
+  "characters": [
+    { "jp": "ハルヒ",   "en": "Haruhi",    "full": "Haruhi Fujioka",            "confirmed": true,  "count": 2962 },
+    { "jp": "環",       "en": "Tamaki",    "full": "Tamaki Suoh",              "confirmed": true,  "count": 953 },
+    { "jp": "鏡夜",     "en": "Kyoya",     "full": "Kyoya Ootori",             "confirmed": true,  "count": 917 },
+    { "jp": "光",       "en": "Hikaru",    "full": "Hikaru Hitachiin",         "confirmed": true,  "count": 674 },
+    { "jp": "光邦",     "en": "Honey",     "full": "Mitsukuni 'Honey' Haninozuka", "confirmed": true, "count": 622, "note": "Given name is Mitsukuni; the official English release calls him 'Honey'. Switch en to 'Mitsukuni' if you prefer the literal speaker label." },
+    { "jp": "馨",       "en": "Kaoru",     "full": "Kaoru Hitachiin",          "confirmed": true,  "count": 563 },
+    { "jp": "崇",       "en": "Mori",      "full": "Takashi 'Mori' Morinozuka","confirmed": true,  "count": 444, "note": "Given name is Takashi; official English uses 'Mori'." },
+    { "jp": "光＆馨",   "en": "Hikaru & Kaoru", "full": "the Hitachiin twins",  "confirmed": true,  "count": 203 },
+    { "jp": "れんげ",   "en": "Renge",     "full": "Renge Houshakuji",         "confirmed": true,  "count": 153 },
+    { "jp": "猫澤",     "en": "Nekozawa",  "full": "Umehito Nekozawa",         "confirmed": true,  "count": 72 },
+    { "jp": "蘭花",     "en": "Ranka",     "full": "Ranka Fujioka (Haruhi's father)", "confirmed": true, "count": 40 },
+
+    { "jp": "小百合",   "en": "Sayuri",    "full": "",  "confirmed": false, "count": 275, "note": "confirmed: Sayuri Himemiya (furigana himemiya-sayuri in 101_1_1)" },
+    { "jp": "レオ",     "en": "Leo",       "full": "",  "confirmed": false, "count": 176 },
+    { "jp": "桜塚",     "en": "Sakurazuka","full": "",  "confirmed": false, "count": 171 },
+    { "jp": "倉賀野",   "en": "Kurakano",  "full": "",  "confirmed": false, "count": 162 },
+    { "jp": "上賀茂",   "en": "Kamikamo",  "full": "",  "confirmed": false, "count": 159 },
+    { "jp": "王",       "en": "Ou",        "full": "",  "confirmed": false, "count": 107, "note": "could be surname 'Ou' or a nickname/'King'; confirm in context" },
+    { "jp": "豪徳寺",   "en": "Gotokuji",  "full": "",  "confirmed": false, "count": 103 },
+    { "jp": "真嶋",     "en": "Majima",    "full": "",  "confirmed": false, "count": 14, "note": "reading Majima/Mashima; confirm" }
+  ],
+
+  "generic_labels": [
+    { "jp": "男子生徒",   "en": "Male Student",  "confirmed": true },
+    { "jp": "男子生徒１", "en": "Male Student 1","confirmed": true },
+    { "jp": "男子生徒２", "en": "Male Student 2","confirmed": true },
+    { "jp": "男子生徒３", "en": "Male Student 3","confirmed": true },
+    { "jp": "生徒Ｂ",     "en": "Student B",     "confirmed": true },
+    { "jp": "お客様Ａ",   "en": "Guest A",       "confirmed": true },
+    { "jp": "店員",       "en": "Clerk",         "confirmed": true },
+    { "jp": "みんな",     "en": "Everyone",      "confirmed": true },
+    { "jp": "女の子",     "en": "Girl",          "confirmed": true },
+    { "jp": "ファンの子B","en": "Fan Girl B",    "confirmed": true },
+    { "jp": "？？？",     "en": "???",           "confirmed": true }
+  ],
+
+  "terms": [
+    { "jp": "ホスト部",   "en": "Host Club",     "confirmed": true },
+    { "jp": "桜蘭",       "en": "Ouran",         "confirmed": true },
+    { "jp": "桜蘭学院",   "en": "Ouran Academy",  "confirmed": true },
+    { "jp": "音楽室",     "en": "music room",    "confirmed": true }
+  ]
+}

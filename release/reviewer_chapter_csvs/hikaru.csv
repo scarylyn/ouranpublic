@@ -1,0 +1,559 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+hikaru.json,1,Chapter name,,光の悩み相談,Hikaru's Advice Corner,,,
+hikaru.json,10,Dialog,Tamaki,「諸君！　麗しき乙女たちが心を震わすための新企画として、黒魔術部共同の下【予言の館】を開催しようと思う！」,"Everyone! New plan to flutter
+maidens' hearts: 'Fortune Manor,'
+with the Black Magic Club!",,,
+hikaru.json,11,Dialog,Tamaki,いつものようにホスト部に顔を出すと、バックに花が散っている環先輩と。,"As usual, I show up at the Host Club
+to find Tamaki-senpai backed by
+scattered flowers.",,,
+hikaru.json,19,Dialog,Nekozawa,「よろしくお願いします〜」,Nice to meet you~,,,
+hikaru.json,20,Dialog,Nekozawa,黒いマントをはおった猫澤先輩がいた。,"There was Nekozawa-senpai, wearing
+his black cloak.",,,
+hikaru.json,22,Dialog,Haruhi,「はあ……予言の館ですか」,Hmm... The House of Prophecy?,,,
+hikaru.json,30,Dialog,Tamaki,「うむ。乙女はいつ何時でも占いに心をときめかせてしまうものだ。特に恋愛相談など乙女のためにあるものと言って良い！」,"Mm. A maiden's heart always flutters
+at fortune-telling -- especially
+love advice, made just for her!",,,
+hikaru.json,32,Dialog,Haruhi,「つまり……恋愛相談を主に扱うってことですね」,"So... you mainly deal with love
+advice.",,,
+hikaru.json,34,Dialog,Tamaki,「うむ、そうなるな」,"Indeed, that's how it will be.",,,
+hikaru.json,41,Dialog,Hikaru,「ふーん。でもさあ、よく殿が猫澤先輩と組もうって考えたよね」,"Hmm. But really, I can't believe you
+thought to team up with
+Nekozawa-senpai.",,,
+hikaru.json,48,Dialog,Kaoru,「そうそう。猫澤先輩に関わると呪われる〜とか言ってハルヒに泣きついてたのって殿じゃん」,"Right, right. You were the one
+crying to Haruhi about getting
+cursed by Nekozawa-senpai.",,,
+hikaru.json,54,Dialog,Tamaki,「ぬう。た、確かに猫澤先輩はちょっとばかり変わっておられるが、我が部に貢献したいと名乗り出てくださったのだぞ！」,"Nuu. T-That's true, Nekozawa-senpai
+has changed a bit, but he offered to
+contribute to our club!",,,
+hikaru.json,62,Dialog,Hikaru & Kaoru,「それこそ怪しいじゃん。なんで貢献したいとか思ったわけ？」,"Why are you suddenly so eager to
+help?",,,
+hikaru.json,72,Dialog,Nekozawa,「それは簡単なことですよ〜」,That's easy~,,,
+hikaru.json,74,Dialog,Nekozawa,「黒魔術部の素晴らしさを皆さんに知って頂く為にはオーソドックスに占いから入って頂こうと思いまして〜」,"To show you all how great the Black
+Magic Club is, I figured we'd start
+with some classic fortune-telling~",,,
+hikaru.json,76,Dialog,Nekozawa,「ちょうど須王くんが新企画に何をなさろうか悩んでらっしゃったので、お口添えしたまでですよ〜」,"I just gave my input on what
+Kurakano-kun should do for his new
+project~",,,
+hikaru.json,78,Dialog,Nekozawa,「実は他に理由があったりするのですが、それをお話するのは身を切られる思いでして〜」,"I actually have another reason, but
+telling you would be like cutting
+myself.",,,
+hikaru.json,80,Dialog,Nekozawa,目深まで被ったマントからちらりと鏡夜先輩をいちべつした気がする。,"I think I caught a glimpse of
+Kyoya-senpai from under his hood.",,,
+hikaru.json,81,Dialog,Nekozawa,……気のせいじゃないと思うけど。,"I don't think it's just my
+imagination.",,,
+hikaru.json,88,Dialog,Kyoya,「ホスト部はイベントごとに服装をチェンジするなど、その時々にあった接客方法に変えてはいるが……」,"The Host Club changes its outfits
+for each event and adjusts its
+approach accordingly... but...",,,
+hikaru.json,90,Dialog,Kyoya,「占いというのも１つのニーズだからな。叶うかどうかもわからない占いでも、それには占ってもらったという安心感」,"Fortune-telling fills a need. Even
+an uncertain fortune brings comfort
+just from being told.",,,
+hikaru.json,92,Dialog,Kyoya,「言わば誰かに大丈夫だと言ってもらったという無意識の安堵がある」,"I feel an unconscious relief as if
+someone told me it's okay.",,,
+hikaru.json,97,Dialog,Kyoya,「仮に悪い結果であったとしてもそれに対するフォローがあるだろう？」,"Even if it's a bad result, there'll
+be a follow-up, right?",,,
+hikaru.json,102,Dialog,Kyoya,「能力いかんに関係なくそうゆうものを求めるお客様も存在するからな」,"There are customers who seek such
+things regardless of ability.",,,
+hikaru.json,104,Dialog,Kyoya,「なので、強制……いや手を組んで開催することに決定したのだよ」,"So I've decided to hold it by
+force... no, make that with
+everyone's cooperation.",,,
+hikaru.json,107,Dialog,Haruhi,「長々としたご説明ありがとうございます」,Thanks for the long explanation.,,,
+hikaru.json,108,Dialog,Haruhi,夢をずたずたと切り刻んでいく人だよ、鏡夜先輩は……。,"He's someone who cuts dreams to
+shreds, Kyoya-senpai...",,,
+hikaru.json,109,Dialog,Haruhi,お客様がいなくて良かった、本当に。,"I'm glad there aren't any customers.
+Really.",,,
+hikaru.json,117,Dialog,Honey,「ハルちゃん、ハルちゃん。みんなでね、このお洋服を着るんだよ」,"Haru-chan, Haru-chan. We're all
+gonna wear these clothes!",,,
+hikaru.json,119,Dialog,Honey,ハニー先輩が可愛らしく小首を傾げながら、猫澤先輩と寸分違わない服装を手にしている。,"Senior Honey tilts his cute little
+head while holding clothes that
+match Nekozawa-senpai exactly.",,,
+hikaru.json,127,Dialog,Hikaru,「うげっ、ほんとうにそれ着なきゃいけないわけ？」,"Eww, do I really have to wear that?",,,
+hikaru.json,134,Dialog,Kaoru,「猫澤先輩と一緒じゃ、誰が誰だかわかんなくなるよ、絶対」,"I'll never know who's who if I'm
+with Nekozawa-senpai.",,,
+hikaru.json,142,Dialog,Hikaru & Kaoru,「まあ僕たちはどっちがどっちだかわかるけどさ」,"Well, we know who's who.",,,
+hikaru.json,151,Dialog,Nekozawa,「だいじょうぶです〜そこはちゃんと考慮してフードは取り外し可能になっておりますから」,It's fine~ The hood can be removed.,,,
+hikaru.json,159,Dialog,Kyoya,「暗所の中で行うものだからな、お客様にもプライバシーがある。あまりお顔を見られたくはない場合もあるだろう？」,"It's done in the dark, after all --
+guests need privacy. Some don't want
+their faces seen.",,,
+hikaru.json,167,Dialog,Tamaki,「ホスト部はお客様に優しい設計なのだ！　お母さんの風邪薬の半分が優しさで出来ているように！」,"The Host Club is designed to be kind
+to guests! Like how half of cold
+medicine is made of kindness!",,,
+hikaru.json,175,Dialog,Kyoya,「環の発言は無視しても構わないが、そうゆうことなのでいつも通りの接客に励むように」,"Feel free to ignore Tama-chan's
+comments, but please continue with
+your usual service.",,,
+hikaru.json,180,Dialog,Kyoya,「ああ、思いついたまま言うのもなんだからな。マニュアル書などをテーブルの上に置いておいた。参考にすると良い」,"Ah, can't just wing it. I left a
+manual on the table -- take a look.",,,
+hikaru.json,183,Dialog,Guest A,「お席、よろしいかしら？」,Is this seat okay?,,,
+hikaru.json,185,Dialog,Haruhi,「はい、どうぞ」,Here you go.,,,
+hikaru.json,186,Dialog,Haruhi,準備だけは無駄に良いホスト部は、開始が決まった途端に（実際はかなり前に決まっていたことだけど）,"The Host Club, which had been
+preparing so well, had the curtains
+drawn",,,
+hikaru.json,187,Dialog,Haruhi,暗幕カーテンが引かれ、張りぼてには程遠い立派な舞台が設置され……。,"as soon as (or rather, quite a while
+before) it was decided to begin...",,,
+hikaru.json,188,Dialog,Haruhi,あっと言う間に【予言の館】が出来上がった。,"The Prophecy Mansion was completed
+in no time.",,,
+hikaru.json,189,Dialog,Haruhi,ハニー先輩は真っ暗なところは嫌ー！　ということで、ハニー先輩の周りだけ大量の電飾が飾られている。,"Honey-senpai hates dark places! So
+there are tons of decorative lights
+around him.",,,
+hikaru.json,191,Dialog,Guest A,「実は…………」,In fact...,,,
+hikaru.json,193,Dialog,Haruhi,「自分だったらまず謝ります。謝ることって重要だと思いますから」,"I'd apologize first. I think
+apologizing is important.",,,
+hikaru.json,195,Dialog,Guest A,「そう、そうよね……ハルヒくんありがとう。私、勇気がつきましたわ」,"That's right, that's right... Thank
+you, Haruhi. I've found my courage.",,,
+hikaru.json,197,Dialog,Haruhi,「上手くいくといいですね」,I hope it goes well.,,,
+hikaru.json,199,Dialog,Guest A,「ええ。では、失礼致しますわ」,Very well. Excuse me.,,,
+hikaru.json,206,Dialog,Hikaru,「ハールヒ」,Haruhi,,,
+hikaru.json,208,Dialog,Haruhi,「うわっ、光か。あれ、光は占いしてないの？」,"Whoa, Hikaru? Wait, you're not
+getting your fortune told?",,,
+hikaru.json,209,Dialog,Haruhi,ホスト部のメンバー全員が占い要員として活動しているはずなんだけど……。,"But all the Host Club members are
+supposed to be fortune-telling
+staff...",,,
+hikaru.json,214,Dialog,Hikaru,「あー、休憩中」,"Ah, break time.",,,
+hikaru.json,216,Dialog,Haruhi,「なにそれ。光が休憩したいだけじゃないの？」,"What's that? Hikaru just wants to
+take a break!",,,
+hikaru.json,221,Dialog,Hikaru,「いいじゃんそんなの。僕が休憩したくなったから休憩してるんだからさ」,"Whatever. I'm taking a break 'cause
+I want to.",,,
+hikaru.json,223,Dialog,Haruhi,「はいはい。で、自分に何か用があるんでしょ？」,"Yeah, yeah. So what do you want with
+me?",,,
+hikaru.json,228,Dialog,Hikaru,「んーハルヒが暇そうだったからさ、僕のこと占ってもいいよって言いに来ただけ」,"Nn--I came over 'cause Haruhi looked
+free and said I could have her read
+my fortune.",,,
+hikaru.json,230,Dialog,Hikaru,「もちろん占うよね？」,Of course I'll read your fortune!,,,
+hikaru.json,239,Dialog,Haruhi,「うーん、いいよ」,"Hmm, sure.",,,
+hikaru.json,244,Dialog,Hikaru,「なにその前のうーん、って」,What was with that 'um' before?,,,
+hikaru.json,246,Dialog,Haruhi,「だって命令口調で言われて即座にうん！　って言えるわけないでしょ、普通は」,"I mean, there's no way I can just
+say 'yes!' when someone orders me
+around.",,,
+hikaru.json,251,Dialog,Hikaru,「僕だったら命令口調で言われたら絶対に頷かないけどね」,"I wouldn't nod if you told me to in
+that tone.",,,
+hikaru.json,253,Dialog,Haruhi,（だったら頼む場合も命令口調で言わないって思わないのかな……ああ、思わないよね光は）,"(Doesn't he realize he orders people
+around even when asking for help...
+ah, of course not.)",,,
+hikaru.json,258,Dialog,Hikaru,「……なんか言った？」,What did you say?,,,
+hikaru.json,260,Dialog,Haruhi,「べつに何も言ってないよ」,I didn't say anything.,,,
+hikaru.json,265,Dialog,Hikaru,「ふーん。ま、いいや。ありがと、ハルヒ」,"Hmm. Well, never mind. Thanks,
+Haruhi.",,,
+hikaru.json,267,Dialog,Haruhi,「え？」,Huh?,,,
+hikaru.json,269,Dialog,Hikaru,「だーかーら、占ってくれるわけでしょ？　だからお礼」,"So you're going to read my fortune,
+right? That's why I'm here.",,,
+hikaru.json,271,Dialog,Haruhi,「……ああ、そっか……お礼言われたんだ。自分の聞き違いかと思ったよ」,"... Oh, I see... You were thanking
+me. I thought I must've heard wrong.",,,
+hikaru.json,276,Dialog,Hikaru,「……何気にっていうか、ハルヒって素で最凶だよね」,"...You're seriously the worst,
+Haruhi.",,,
+hikaru.json,279,Dialog,Haruhi,「もちろん占うよ！」,Of course I'll read your fortune!,,,
+hikaru.json,285,Dialog,Hikaru,「うわっ、なんでそんなに張り切ってるわけ？」,"Whoa, why are you so pumped up?",,,
+hikaru.json,287,Dialog,Haruhi,「え？　だって占って欲しいって言ったの、光でしょ？」,"Huh? But you said you wanted Hikaru
+to read your fortune.",,,
+hikaru.json,292,Dialog,Hikaru,「まあ、そうなんだけどさ……」,"Well, that's true...",,,
+hikaru.json,293,Dialog,Hikaru,なんだろう、歯切れが悪いなあ。,What's wrong? You sound hesitant.,,,
+hikaru.json,295,Dialog,Hikaru,「なんか張り切られると相談したくなくなるんだよね」,"I don't feel like confiding in
+someone who's all pumped up.",,,
+hikaru.json,297,Dialog,Haruhi,「ああ、光って天邪鬼だもんね……」,"Yeah, Hikaru's being stubborn
+again...",,,
+hikaru.json,302,Dialog,Hikaru,「ま、そうゆうこと。相談はまた気が向いたらするかもしれないし」,"Well, that's what I meant. I might
+talk to you again when I feel like
+it.",,,
+hikaru.json,304,Dialog,Haruhi,「じゃあまた気が向いたら来てよ」,「Drop by again if you feel like it~」,,,
+hikaru.json,309,Dialog,Hikaru,「気が向いたらね。さーってと、殿でもからかいに行って来るかな〜」,"Maybe I'll go bother them if I feel
+like it~",,,
+hikaru.json,310,Dialog,Hikaru,……とめどなく自由だよね、光って。,"...You're so free-spirited, Hikaru.",,,
+hikaru.json,313,Dialog,Hikaru,……あの時、違った返事をしていれば、別の結末もあったのかな？,"...If I had answered differently
+back then, would things have turned
+out differently?",,,
+hikaru.json,314,Dialog,Hikaru,もし、あの時に戻れたら、今度は別の答え方を……,"If I could go back to that moment,
+I'd answer differently this time...",,,
+hikaru.json,318,Dialog,Haruhi,「えー」,Umm...,,,
+hikaru.json,323,Dialog,Hikaru,「なんだよ、その嫌そうな答え」,What's with that grumpy answer?,,,
+hikaru.json,325,Dialog,Haruhi,「自分は占いなんてしたことがないし、成り行きでやってるだけだよ？」,"I've never done tarot readings
+before. I'm just winging it?",,,
+hikaru.json,330,Dialog,Hikaru,「そんなの知ってるって。ホスト部の中に占いを熟知してる奴なんて１人もいないってこと百も承知だし」,"I know that. I'm well aware nobody
+in the Host Club actually knows
+fortune-telling.",,,
+hikaru.json,332,Dialog,Haruhi,「じゃあ……」,「Well then...」,,,
+hikaru.json,337,Dialog,Hikaru,「それでも僕が占ってもいいかなって思ったからそれで良いんだよ」,"I thought I'd give you a reading, so
+that's okay, right?",,,
+hikaru.json,339,Dialog,Haruhi,「ああ、うん。それは」,"Yeah, sure. That's right.",,,
+hikaru.json,344,Dialog,Hikaru,「そうそう。ハルヒは頷いてればいいんだって」,"That's right. Haruhi, just nod.",,,
+hikaru.json,345,Dialog,Hikaru,頷いたわけじゃなくて、それは知ってるって言うつもりだったんだけど……まあ、良いか。,"I didn't nod to agree; I just meant
+to say I already knew... Well, never
+mind.",,,
+hikaru.json,348,Dialog,Haruhi,「嫌だよ。光のことだからまた何か企んでいるでしょ？」,"I don't want to. Hikaru's probably
+up to something again.",,,
+hikaru.json,349,Dialog,Haruhi,自分が占いを出来ないことを指摘するとか、営業妨害をするとか……。,"Pointing out that I can't do tarot
+readings... or interfering with
+business...",,,
+hikaru.json,354,Dialog,Hikaru,「べっつにー。ただ気が向いたから占ってもらおうかなって思っただけだし」,"I just felt like it. I didn't really
+plan on getting a reading.",,,
+hikaru.json,356,Dialog,Haruhi,「そうなの？」,Really?,,,
+hikaru.json,361,Dialog,Hikaru,「まあね。だけど気分が変わったから占いはいいや」,"Well, I don't feel like it anymore.",,,
+hikaru.json,363,Dialog,Haruhi,「ならちゃんと光も接客しなよ？」,"「Then do your job properly with
+Hikaru too?」",,,
+hikaru.json,365,Dialog,Hikaru,「まあ、気が向いたらね〜」,Whenever you feel like it~,,,
+hikaru.json,367,Dialog,Hikaru,ひらひらと手を振って暗闇に溶け込んでいく。,"Waving her hands, she blends into
+the darkness.",,,
+hikaru.json,368,Dialog,Hikaru,光の気まぐれは今に始まったことじゃないし、自分は接客を頑張ろうっと。,"I'm not letting Hikaru's mood swings
+get to me. I'll do my best with the
+customers!",,,
+hikaru.json,370,Dialog,Hikaru,……あの時、違った返事をしていれば、別の結末もあったのかな？,"...If I had answered differently
+back then, would things have turned
+out differently?",,,
+hikaru.json,371,Dialog,Hikaru,もし、あの時に戻れたら、今度は別の答え方を……,"If I could go back to that moment,
+I'd answer differently this time...",,,
+hikaru.json,375,Dialog,Haruhi,「……で光の相談って？」,So what's Hikaru's problem?,,,
+hikaru.json,376,Dialog,Haruhi,頼まれた？　手前、自分には光の相談に乗る義務があるんだけれど……。,"You asked me? I feel like I have to
+listen to Hikaru's problems...",,,
+hikaru.json,381,Dialog,Hikaru,「ん〜ハルヒはさ、ラブレターって貰ったことある？」,"Hmm~ Have you ever gotten a love
+letter, Haruhi?",,,
+hikaru.json,383,Dialog,Haruhi,「へ？　ラブレター？」,Huh? A love letter?,,,
+hikaru.json,388,Dialog,Hikaru,「そ、ラブレター」,"A, love letter!",,,
+hikaru.json,390,Dialog,Haruhi,「……中学時代、下駄箱に手紙が入ってたり家に差出人不明で手紙が届いたりしたことはあるけど……これってラブレターに入るかな？」,"...I got letters in my locker in
+middle school, some unsigned... do
+those count as love letters?",,,
+hikaru.json,396,Dialog,Hikaru,「！！？　あのさ、その差出人不明の手紙ってどうした？」,"!!? Hey, what about that unsigned
+letter?",,,
+hikaru.json,398,Dialog,Haruhi,「え？　間違って届いたのかなと思って宛先を確認したら自分宛てだったし、差出人を書くのを忘れたのかな……と思って」,"Huh? I thought it might be a
+mistake, but the address was really
+mine. Maybe they forgot to sign it.",,,
+hikaru.json,400,Dialog,Haruhi,「一応ひととおり読んだけど、よくわからない内容だったから今は机にしまってあるよ」,"I read it through, but I didn't get
+much out of it, so I put it away on
+the desk.",,,
+hikaru.json,405,Dialog,Hikaru,「それ、速攻捨てること」,Dump it right away.,,,
+hikaru.json,407,Dialog,Haruhi,「え、でも……」,「B-But...」,,,
+hikaru.json,412,Dialog,Hikaru,「いいから、それは捨てる！　ちぎって燃やして跡形もなくす！　ハルヒは僕のおもちゃなんだからな！」,"Come on, throw that away! Tear it up
+and burn it until there's nothing
+left! After all, Haruhi is my toy!",,,
+hikaru.json,414,Dialog,Hikaru,「僕が捨てろって言ったら捨てなきゃいけないんだよ！」,"You have to throw it away when I say
+so!",,,
+hikaru.json,416,Dialog,Haruhi,「はあ……光の気分が悪いならしかるべき処置はしておくよ」,"Phew... If Hikaru feels bad, I'll
+take care of it.",,,
+hikaru.json,418,Dialog,Haruhi,「それより、そのラブレターと光にどんな関係があるの？」,"What's the connection between that
+love letter and Hikaru?",,,
+hikaru.json,423,Dialog,Hikaru,「あーうん、なんか言い辛いんだけどさ」,"Umm, it's kind of hard to say...",,,
+hikaru.json,424,Dialog,Hikaru,光らしくない歯切れの悪いセリフ。,Speak more like Hikaru.,,,
+hikaru.json,425,Dialog,Hikaru,多分、真剣に悩んでいることなのかもしれないな。,Maybe she's really worried about it.,,,
+hikaru.json,430,Dialog,Hikaru,「ラブレターを貰った場合のうまい断り方ってないかなって思ってさ」,"What's a good way to turn down a
+love letter?",,,
+hikaru.json,432,Dialog,Hikaru,「今までも今もいろんな子に告白されたりするのはいいんだけど……」,"I don't mind being confessed to by
+all sorts of people... but...",,,
+hikaru.json,434,Dialog,Hikaru,「まだ世界が僕と馨しかいない、世の中がバカばっかりだって思ってた時期にひどい断り方をした子がいてさ」,"Back when I thought it was just me
+and Kaoru against a world of idiots,
+I turned a girl down harshly.",,,
+hikaru.json,439,Dialog,Hikaru,「今はあんなことしないって言えるけど……でもやっぱりダメなわけ。好意を寄せてもらっても僕が返すのって拒絶なわけじゃん？」,"I wouldn't do that now... but it's
+still not okay. Turning someone down
+is still rejection, right?",,,
+hikaru.json,441,Dialog,Hikaru,「どーやっても相手を傷つける答えしか出せないし、そーゆうのを見てるのも面倒だし……」,"I can't come up with an answer that
+doesn't hurt someone... and watching
+that is a hassle...",,,
+hikaru.json,446,Dialog,Hikaru,「……ハルヒは生物学上、女だろ？　だから同じ同性としてハルヒだったら傷つかないセリフってのがわかるんじゃないかと思ってさ」,"...Haruhi's biologically a girl,
+right? As a fellow woman, I thought
+you'd know what wouldn't hurt her.",,,
+hikaru.json,449,Dialog,Haruhi,「……自分で言うのもなんだけど、自分のセリフで光に告白してきた女の子が傷つかない保証はないよ？」,"...Not that I should say this, but
+there's no guarantee my lines won't
+hurt the girl confessing to Hikaru.",,,
+hikaru.json,450,Dialog,Haruhi,自分の感性と同じ年の女の子の感性には結構差があるって自覚はしているし。,"I'm aware that there's quite a
+difference between my sensibilities
+and those of a girl my age.",,,
+hikaru.json,455,Dialog,Hikaru,「別にさして期待してないから、１つの参考意見として受け取っとくよ」,"I'm not really expecting much, so
+I'll take it as one option.",,,
+hikaru.json,457,Dialog,Haruhi,「なら……まず馨もそうだけど思ったことが顔に出易いよね、光は」,"So... Kaoru's like this too, but you
+always show what you're thinking,
+Hikaru.",,,
+hikaru.json,462,Dialog,Hikaru,「それ、断る時のアドバイスじゃないじゃん」,"That's not advice for turning
+someone down.",,,
+hikaru.json,464,Dialog,Haruhi,「まずは自分自身が他からどう見られているかってところから整理していった方がいいでしょ？」,"Isn't it better to start by figuring
+out how others see you?",,,
+hikaru.json,466,Dialog,Haruhi,「それにさ、光には光の。馨には馨の違いがあるんだから、それを知ってもらうのも大事だと思うんだよね」,"Besides, Hikaru has his own
+qualities, Kaoru his own. People
+should know the difference.",,,
+hikaru.json,467,Dialog,Haruhi,よく見ていればわかるけど、光と馨は違う。,"If you look closely, you can tell
+Hikaru and Kaoru are different.",,,
+hikaru.json,468,Dialog,Haruhi,よくどっちがどっちだかわからないって言う人を見るけれど、言動や行動なんかは馨の方が多少セーブしている。,"I often see people who can't tell us
+apart, but Kaoru holds back a bit
+more in his words and actions.",,,
+hikaru.json,473,Dialog,Hikaru,「つってもさ、ハルヒだけじゃない？　僕らの違いがわかるのって」,"Still, isn't it just you, Haruhi?
+Who can tell the difference between
+us?",,,
+hikaru.json,475,Dialog,Haruhi,「そんなことないよ。光の言動の方が一割増しで性格悪そうだし、馨は１人だと常識人っぽいし」,"That's not true. Hikaru comes off
+worse than he is, and Kaoru seems
+normal when he's alone.",,,
+hikaru.json,477,Dialog,Haruhi,「光は１人でもうるさくて非常識、だから一見光が兄としてリードしているようにみえて、弟の馨の方が光のストッパーとして……」,"Hikaru's loud and reckless alone --
+he seems the leader, but Kaoru
+really keeps him in check...",,,
+hikaru.json,483,Dialog,Hikaru,「……あのさあ、それを聞いている身としてはめちゃくちゃ不愉快なんだけど」,"...You know, that's really
+unpleasant to hear.",,,
+hikaru.json,485,Dialog,Haruhi,「そうかな？　本当のことだよ」,Really? It's the truth.,,,
+hikaru.json,487,Dialog,Hikaru,「本当のことほど相手はムカつくんだよ。自分の短所ばっかり言われてればイライラするだろ」,"The truer it is, the more it annoys
+people. Hearing your flaws pointed
+out gets old fast.",,,
+hikaru.json,489,Dialog,Haruhi,「……それもそうだね。光は馨より数学が強いよね」,"Yeah, you're right. Hikaru's better
+at math than Kaoru.",,,
+hikaru.json,494,Dialog,Hikaru,「まあね。数学なんて公式さえ覚えとけば後は解くだけじゃん」,"Sure. Once you memorize the
+formulas, it's just solving them.",,,
+hikaru.json,496,Dialog,Haruhi,「ああ、そっか。マニュアルがないから語学は嫌いなんだね」,"Oh, I see. You hate languages
+because there's no manual.",,,
+hikaru.json,497,Dialog,Haruhi,語学系は数学と違って１つの答えが存在しない科目だから、光みたいに好きか嫌いかしかない人間にはわかり辛い教科だろうな。,"Language subjects have no single
+right answer like math, so it's hard
+for Hikaru, who only loves or hates.",,,
+hikaru.json,498,Dialog,Haruhi,やっぱり語学系が得意な馨の方が精神的に大人なのかもね。,"Maybe Kaoru is more mentally mature
+since he's good at languages.",,,
+hikaru.json,503,Dialog,Hikaru,「ハルヒ。僕をけなすのかほめるのかどっちかにしてくんない？　ほめられてから落とされるとものすっごくムカつくから」,"Haruhi. Pick one -- insult me or
+praise me. Getting praised then shot
+down really ticks me off.",,,
+hikaru.json,505,Dialog,Haruhi,「じゃあけなしておく？」,Then should I leave it as is?,,,
+hikaru.json,510,Dialog,Hikaru,「却下。僕の神経がもたない」,Rejected. I can't handle it.,,,
+hikaru.json,512,Dialog,Haruhi,「……じゃあほめる？」,「...Praise her?」,,,
+hikaru.json,514,Dialog,Hikaru,「あのさ、その間はなに。間は」,"So what's this thing called? The
+pause?",,,
+hikaru.json,516,Dialog,Haruhi,「だってあんまりないよ、光の長所」,"There aren't that many of Hikaru's
+strengths.",,,
+hikaru.json,521,Dialog,Hikaru,「……ふーん。僕は非常識で性格が悪くていいところがないってわけ」,"...Hmm. So I'm reckless,
+bad-tempered, and have no redeeming
+qualities.",,,
+hikaru.json,523,Dialog,Haruhi,「えーと探せばあるよ、いいところ」,"Um, I'll find something good.",,,
+hikaru.json,529,Dialog,Hikaru,「言い換えれば探さなきゃないってことだろ？なら反対に聞くけどさ……」,"In other words, you don't have to
+look for it, right? Then let me ask
+the opposite...",,,
+hikaru.json,534,Dialog,Hikaru,「ハルヒは自分にいいところがあるって思う？　つまり長所ってやつ」,"Do you think you have any good
+points? Like your strengths.",,,
+hikaru.json,536,Dialog,Haruhi,「うーん……自分は……」,Hmm... myself...,,,
+hikaru.json,545,Dialog,Haruhi,「ある、と思うよ。一応」,"I think so, I guess.",,,
+hikaru.json,550,Dialog,Hikaru,「へえ、是非とも聞きたいね。その長所ってやつ」,"Wow, I'm really curious. Tell me
+about those strengths.",,,
+hikaru.json,552,Dialog,Haruhi,「あんまり物事に動じない性格かな」,"You're not easily shaken, are you?",,,
+hikaru.json,557,Dialog,Hikaru,「それって図太いってことでしょ？　繊細な神経がないっていうのは長所じゃないんじゃない？」,"That means you're thick-skinned,
+right? Not having sensitive nerves
+isn't a good thing?",,,
+hikaru.json,559,Dialog,Haruhi,「……人のことはよく見ているつもりだよ。人間は中身だと思うし」,"I think I know people pretty well. I
+believe it's what's inside that
+counts.",,,
+hikaru.json,561,Dialog,Hikaru,「それもさ、長所には弱いんじゃない？　ハルヒの場合よく見てても、持ち前のざっくり感で相手をえぐるような発言してるじゃん」,"And you're weak on strengths too,
+aren't you? Even Haruhi says pretty
+cutting things if you look closely.",,,
+hikaru.json,563,Dialog,Haruhi,「〜〜〜あのさ、とことん否定したいんだよね、自分のこと」,"I really want to deny everything
+about myself.",,,
+hikaru.json,568,Dialog,Hikaru,「さあね〜」,I don't know~,,,
+hikaru.json,569,Dialog,Hikaru,ほんとうに意地が悪いよね、光は……。,Hikaru's really stubborn...,,,
+hikaru.json,571,Dialog,Haruhi,「……とにかく、長所短所の話はここまでにして話を戻すからね」,"Anyway, let's put the pros and cons
+aside and get back to the point.",,,
+hikaru.json,574,Dialog,Haruhi,「あるよ」,Got it.,,,
+hikaru.json,576,Dialog,Hikaru,「なら教えてよ」,Tell me then.,,,
+hikaru.json,578,Dialog,Haruhi,「物事に動じない」,Stay calm.,,,
+hikaru.json,583,Dialog,Hikaru,「それって図太いってことでしょ？　繊細な神経がないっていうのは長所じゃないんじゃない？」,"That means you're thick-skinned,
+right? Not having sensitive nerves
+isn't a good thing?",,,
+hikaru.json,585,Dialog,Haruhi,「……人のことはよく見ているつもりだよ。人間は中身だと思うし」,"I think I know people pretty well. I
+believe it's what's inside that
+counts.",,,
+hikaru.json,587,Dialog,Hikaru,「それもさ、長所には弱いんじゃない？　ハルヒの場合よく見てても、持ち前のざっくり感で相手をえぐるような発言してるじゃん」,"And you're weak on strengths too,
+aren't you? Even Haruhi says pretty
+cutting things if you look closely.",,,
+hikaru.json,589,Dialog,Haruhi,「〜〜〜あのさ、とことん否定したいんだよね、自分のこと」,I wanna deny it about myself...,,,
+hikaru.json,594,Dialog,Hikaru,「さあね〜」,I don't know~,,,
+hikaru.json,595,Dialog,Hikaru,ほんとうに意地が悪いよね、光は……。,Hikaru's really stubborn...,,,
+hikaru.json,597,Dialog,Haruhi,「……とにかく、長所短所の話はここまでにして話を戻すからね」,"Anyway, let's put the pros and cons
+aside and get back to the point.",,,
+hikaru.json,600,Dialog,Haruhi,「ない、かな。やっぱり長所より短所のが多いかなって思うし」,"I don't think so. I guess my flaws
+outnumber my strengths.",,,
+hikaru.json,605,Dialog,Hikaru,「へえ、でもちょっとはあるんだろ？　長所」,"Hmm, but you do have some strengths,
+don't you?",,,
+hikaru.json,607,Dialog,Haruhi,「そりゃあちょっとはね」,"Yeah, a little.",,,
+hikaru.json,609,Dialog,Hikaru,「じゃあその長所ってやつを教えてよ」,Then tell me those strengths.,,,
+hikaru.json,611,Dialog,Haruhi,「うーん……ざっくばらんなところ？」,Hmm... Something casual?,,,
+hikaru.json,612,Dialog,Haruhi,自分で自分をほめるのって難しいところだよね。短所は思いつくんだけど、良い所となると他から見て良いかどうかの区別が難しいし。,"Praising yourself is hard. Flaws
+come easy, but knowing what others
+see as good about you is tricky.",,,
+hikaru.json,617,Dialog,Hikaru,「それ長所？　まあ、ハルヒらしさを表してる言葉だとは思うけどさ。長所より短所に近いよね、それ」,"That's a strength? Well, I guess it
+shows your Haruhi-ness. It's more of
+a weakness than a strength.",,,
+hikaru.json,619,Dialog,Haruhi,「だからないって言ったでしょ」,Didn't I say no?,,,
+hikaru.json,620,Dialog,Haruhi,ほんとうに意地が悪いよね、光は……。,Hikaru's really stubborn...,,,
+hikaru.json,622,Dialog,Haruhi,「……とにかく、長所短所の話はここまでにして話を戻すからね」,"Anyway, let's put the pros and cons
+aside and get back to the point.",,,
+hikaru.json,625,Dialog,Haruhi,「ないよ」,Nope.,,,
+hikaru.json,630,Dialog,Hikaru,「なーんだ、ハルヒも僕と一緒じゃん」,"Aww, so Haruhi's on my side too.",,,
+hikaru.json,632,Dialog,Haruhi,「……でも光ほど意地は悪くないからね」,But I'm not as stubborn as Hikaru.,,,
+hikaru.json,637,Dialog,Hikaru,「そっかな〜。別の意味でハルヒは意地が悪いじゃん。天然兵器で騒動に巻き込んだこともあるし」,"Really~? In another sense, Haruhi's
+pretty mean. She's caused a stir
+with her innocent acts before.",,,
+hikaru.json,639,Dialog,Haruhi,「自分は巻き込まれる方だと思うけど……」,"I think I'll be the one getting
+dragged into things...",,,
+hikaru.json,644,Dialog,Hikaru,「あー知らないっていうのも罪だよね」,I guess not knowing is also a sin.,,,
+hikaru.json,645,Dialog,Hikaru,あからさまに溜息をつかれたよ。,Sighed right in my face.,,,
+hikaru.json,646,Dialog,Hikaru,ほんとうに意地が悪いよね、光は……。,Hikaru's really stubborn...,,,
+hikaru.json,648,Dialog,Haruhi,「……とにかく、長所短所の話はここまでにして話を戻すからね」,"Anyway, let's put the pros and cons
+aside and get back to the point.",,,
+hikaru.json,654,Dialog,Hikaru,「……でさ、結局解決策ってあんの？」,"So, what's the solution?",,,
+hikaru.json,656,Dialog,Haruhi,「まずは光にしろ、馨にしろ自分を知ってもらうってことかな」,"Is this about getting Hikaru and
+Kaoru to know me?",,,
+hikaru.json,657,Dialog,Haruhi,かなりな快楽主義者だけど、性格が修復不可能なほど破綻しているわけじゃないし……。,"I'm quite a hedonist, but my
+personality isn't completely beyond
+repair...",,,
+hikaru.json,658,Dialog,Haruhi,わかり合いたいって子が出てくれば光も馨も自ずと傷つけない方法がわかってくるんじゃないかな……。,"If someone wants to understand us,
+Hikaru and I will naturally figure
+out a way not to hurt them...",,,
+hikaru.json,660,Dialog,Haruhi,「……もし、もしもだけどさ。光のことを知りたいって本気で思ってる子がきたらどうするの？」,"What if... what if a girl really
+wants to know about Hikaru?",,,
+hikaru.json,665,Dialog,Hikaru,「はあ？　そんなの考えたこともないよ」,"「Huh? I never even thought about
+that.」",,,
+hikaru.json,667,Dialog,Haruhi,「だからもしもだって言ってるじゃない。光が相手を傷つけたくないって気持ちがあるんだったらさ……」,"If you really care about not hurting
+the other person...",,,
+hikaru.json,669,Dialog,Haruhi,「その子が本気だったら光だって考えてあげるでしょ？　そうゆう子だったら付き合う可能性だってあるんじゃないかなって思って」,"If she's serious, you'd consider it,
+right? Someone like her might
+actually have a shot with you.",,,
+hikaru.json,671,Dialog,Hikaru,「ないよ、ないない」,"Nope, not here",,,
+hikaru.json,673,Dialog,Haruhi,「……それはさ、付き合う可能性がないってこと、それとも光のことを本気で知りたいって思う子がいないってこと？」,"...So you're saying there's no
+possibility of dating, or that no
+one really wants to know Hikaru?",,,
+hikaru.json,677,Dialog,Hikaru,「……そんなの知らないよ！　とにかくそうゆうもしも話は嫌いなんだ！　仮定ほどあてにならない話ってないだろ！！」,"...I don't know that! I just hate
+hypotheticals! Nothing's less
+reliable than 'what if'!!",,,
+hikaru.json,679,Dialog,Haruhi,「それはそうかもしれないけど……」,"That might be true, but...",,,
+hikaru.json,681,Dialog,Hikaru,「だろ！？　とにかくハルヒから仮定の話を持ち出されるのは嫌なんだ。すごくイライラする」,"Right?! Anyway, I hate it when
+Haruhi brings up hypothetical stuff.
+It really annoys me.",,,
+hikaru.json,683,Dialog,Haruhi,「それは……ごめん」,「That's... sorry」,,,
+hikaru.json,684,Dialog,Haruhi,ちょっと無神経だったかな。,Was that a bit insensitive?,,,
+hikaru.json,685,Dialog,Haruhi,自分は図太いところがあるから、繊細な話題が苦手な部分がある。,"I'm thick-skinned, so I'm not good
+at delicate topics.",,,
+hikaru.json,686,Dialog,Haruhi,光にとって触れられたくない繊細な部分に触れてしまったのかもしれない。,"Maybe I touched on a sensitive spot
+that Hikaru didn't want to be
+touched.",,,
+hikaru.json,697,Dialog,Hikaru,「別に……僕も大人気なかったとは思うけど。あのさあ、ハルヒがさっき仮定の話したじゃんか」,"I don't think I was that popular
+either... You know, about what you
+said earlier.",,,
+hikaru.json,699,Dialog,Haruhi,「うん」,Yeah.,,,
+hikaru.json,704,Dialog,Hikaru,「ならそれにならって僕も仮定の話を出しても構わないよね？」,"Then if that's the case, it's fine
+for me to bring up some
+hypotheticals too, right?",,,
+hikaru.json,706,Dialog,Haruhi,「うん」,Yeah.,,,
+hikaru.json,708,Dialog,Hikaru,「じゃあさ、もし僕がハルヒの持論にならって誰かと付き合ったとする。僕じゃなくて馨でもいいけどさ」,"So what if I start dating someone,
+following Haruhi's theory? It could
+be Kaoru instead of me.",,,
+hikaru.json,710,Dialog,Hikaru,「そうしたらもうハルヒには構ってあげられなくなるよ？　彼女を構ってばっかりでハルヒが寂しくなっても遅いってわけ」,"Then you won't have time for Haruhi,
+right? Too late once she's lonely
+from being ignored.",,,
+hikaru.json,712,Dialog,Hikaru,「ハルヒは……それでもいいって思う？」,"Haruhi... Do you still think it's
+okay?",,,
+hikaru.json,721,Dialog,Haruhi,「それは……仕方ないと思うよ。寂しくても光と馨が彼女と幸せならそれでいいと思うし」,"That's okay... I think. As long as
+Hikaru and Kaoru are happy with her,
+even if she's lonely.",,,
+hikaru.json,726,Dialog,Hikaru,「！！？　そっか。ハルヒは僕らの幸せを考えて身を引くってこと」,"!!? So that's it. Haruhi's stepping
+down to think about our happiness.",,,
+hikaru.json,731,Dialog,Haruhi,「うーん、まあそんな感じかな」,"Hmm, well, I guess so.",,,
+hikaru.json,732,Dialog,Haruhi,厳密に言うとちょっと違うんだけどね……。,"Technically, that's not quite
+right...",,,
+hikaru.json,734,Dialog,Hikaru,「……僕だったら踏み込んで荒らしまくるけどね」,"If it were me, I'd go in and cause
+chaos.",,,
+hikaru.json,736,Dialog,Haruhi,「そんな質の悪いことできないよ……」,I can't do something so mean...,,,
+hikaru.json,739,Dialog,Haruhi,「うん。光も馨も自分たち以外に大切な人を見つけられたんだねって嬉しい気持ちになるかな」,"Yeah. I wonder if they'll feel happy
+that Hikaru and Kaoru found someone
+else important to them.",,,
+hikaru.json,744,Dialog,Hikaru,「ハルヒは僕らのお母さんじゃないだろ？　殿じゃあるまいし、家族ごっこなんてやめてよね」,"Haruhi's not our mom, is she? You're
+no lord, so stop with the family
+act.",,,
+hikaru.json,746,Dialog,Haruhi,「環先輩と一緒にしないでよ。そうゆうんじゃなくて、友達として良かったねって祝福するってこと！」,"Don't compare me to Tama-chan! I
+meant that you should celebrate how
+great it is for us to be friends!",,,
+hikaru.json,751,Dialog,Hikaru,「友達……そっか友達か」,"Friends... I see, friends.",,,
+hikaru.json,753,Dialog,Haruhi,「？　なんかおかしいかな？」,Hmm? Is something wrong?,,,
+hikaru.json,758,Dialog,Hikaru,「別に。僕たち友達だからね」,"Whatever. We're friends, after all.",,,
+hikaru.json,759,Dialog,Hikaru,……明らかに不満そうだよね、その言い方。,...He sounds clearly dissatisfied.,,,
+hikaru.json,762,Dialog,Haruhi,「それは……ちょっと嫌かな」,That's... kind of gross.,,,
+hikaru.json,763,Dialog,Haruhi,騒がしい２人だけど、それがなかったらないで寂しさを感じる。,"They're noisy, but I'd feel lonely
+without them.",,,
+hikaru.json,768,Dialog,Hikaru,「ちょっと？　ちょっとだけ嫌なわけ？」,"What's this? You don't like it a
+little bit?",,,
+hikaru.json,770,Dialog,Haruhi,「すっごく嫌！　とか言ったら心の狭い人みたいじゃない」,"I can't say I hate it! It'd sound
+like I have a narrow mind.",,,
+hikaru.json,772,Dialog,Hikaru,「僕だったらちょっとでも嫌だったらそれはすごく嫌だけどね。自分にとって不快なものは即行排除だし」,"For me, even slight discomfort is
+unbearable. I get rid of anything
+unpleasant right away.",,,
+hikaru.json,774,Dialog,Haruhi,「……自分はもう少し常識人です」,"I consider myself more
+down-to-earth.",,,
+hikaru.json,777,Dialog,Haruhi,「嫌かな。なんだか凄く寂しいって気がする」,"I don't like it. I feel really
+lonely.",,,
+hikaru.json,778,Dialog,Haruhi,自分で勧めておいて嫌、だなんて子供みたいな感情だけど……いつの間にか２人が傍にいるのが当たり前になってたのかもしれない。,"Hating something I suggested myself
+is childish, but... maybe having
+them both around just became normal.",,,
+hikaru.json,783,Dialog,Hikaru,「だよね。僕らがいなくなるとハルヒは寂しくて泣いちゃうもんね〜」,"Right? Haruhi would be so lonely and
+cry without us~",,,
+hikaru.json,785,Dialog,Haruhi,「いや、そこまでは……」,"No, not that far...",,,
+hikaru.json,790,Dialog,Hikaru,「そっか、そっか〜。仕方ないから当分はハルヒで遊ぶので勘弁してあげるよ」,"Got it, got it~. I'll go easy on you
+for now and play with Haruhi.",,,
+hikaru.json,791,Dialog,Hikaru,なんだかもの凄く機嫌が良くなってしまった光にそこまでじゃないとは言い辛く。,"It's hard to tell Hikaru that he's
+not really happy.",,,
+hikaru.json,793,Dialog,Haruhi,（まあ、いっか。寂しくなると思ったのは本当のことだし……）,"(I guess it's fine. I really did
+think I'd be lonely...)",,,
+hikaru.json,799,Dialog,Hikaru,「さてと、僕も接客にもどろっかな〜」,"Well then, I guess it's time to get
+back to serving customers~",,,
+hikaru.json,801,Dialog,Haruhi,「あ、もういいの？」,Is it already okay?,,,
+hikaru.json,803,Dialog,Hikaru,「なんかもう飽きちゃった」,I'm already bored.,,,
+hikaru.json,804,Dialog,Hikaru,いつものことながら気まぐれだなあ……。,"As usual, you're so unpredictable...",,,
+hikaru.json,809,Dialog,Hikaru,「相談に乗ってくれたお礼に高級寿司でもおごろうかなって思ってたけど、別にいいよね」,"I was thinking of treating you to
+some fancy sushi as a thank-you, but
+it's fine if you don't want to.",,,
+hikaru.json,811,Dialog,Haruhi,「え？」,Huh?,,,
+hikaru.json,816,Dialog,Hikaru,「なんか今、すっごく意地悪したい気分だからさ。今度ハルヒの前で大トロでも食べよっかな」,"I feel like being really mean right
+now. Maybe I'll eat some fatty tuna
+in front of Haruhi next time.",,,
+hikaru.json,818,Dialog,Haruhi,「ええええ」,「Eeeeeh?」,,,
+hikaru.json,820,Dialog,Hikaru,「……じょーだん、冗談。今の顔見られただけで充分。じゃ、精々がんばれよー」,"...Just kidding. I'm satisfied just
+seeing that face. Well then, do your
+best!",,,
+hikaru.json,821,Dialog,Hikaru,ひらひらと手を振って暗闇に溶け込んでいく。,"Waving her hands, she blends into
+the darkness.",,,
+hikaru.json,822,Dialog,Hikaru,光の気まぐれは今に始まったことじゃないし、自分は引き続き接客を頑張ろうっと。,"Hikaru's mood swings aren't new, so
+I'll just keep doing my best with
+the hosting.",,,
+hikaru.json,825,Dialog,Hikaru,……あの時、違った返事をしていれば、別の結末もあったのかな？,"...If I had answered differently
+back then, would things have turned
+out differently?",,,
+hikaru.json,826,Dialog,Hikaru,もし、あの時に戻れたら、今度は別の答え方を……,"If I could go back to that moment,
+I'd answer differently this time...",,,
+hikaru.json,837,Dialog,Kaoru,「光！　ここにいたんだ！」,Hikaru! I found you here!,,,
+hikaru.json,842,Dialog,Hikaru,「馨、どうしたんだよ」,"Kaoru, what's wrong?",,,
+hikaru.json,847,Dialog,Kaoru,「光がいつまで経っても戻ってこないから探してたんだよ」,"I was looking for you because you
+never came back.",,,
+hikaru.json,852,Dialog,Hikaru,「ごめんな、馨！！　……心配かけただろう？」,"I'm sorry, Kaoru!! ...I must have
+worried you?",,,
+hikaru.json,854,Dialog,Kaoru,「ううん。無事に見つかって良かった……」,"No, I'm glad you're safe...",,,
+hikaru.json,856,Dialog,Haruhi,「あの〜」,Um...,,,
+hikaru.json,857,Dialog,Haruhi,樹海で迷子になったんじゃないし、そこまで大げさに感動されても……。,"I didn't get lost in the forest...
+and I don't need you to get so
+worked up about it...",,,
+hikaru.json,865,Dialog,Kaoru,「あ、ごめん。邪魔しちゃったね」,"Ah, sorry. Did I interrupt?",,,
+hikaru.json,867,Dialog,Haruhi,「それは別にいいんだけど……」,"That's fine with me, but...",,,
+hikaru.json,872,Dialog,Kaoru,「じゃあ僕は先に戻ってるからさ。光もちゃんと戻ってきてよね」,"I'll head back first. You better
+come back too, Hikaru.",,,
+hikaru.json,876,Dialog,Haruhi,「……迎え、来たんだからちゃんと接客しなよ？」,"Since I came to pick you up, give me
+proper service?",,,
+hikaru.json,878,Dialog,Hikaru,「そだね。……最後にさ、１つ聞いていい？」,"That's right. ...Can I ask you one
+last thing?",,,
+hikaru.json,880,Dialog,Haruhi,「なに？」,Hmm?,,,
+hikaru.json,885,Dialog,Hikaru,「ハルヒはさ、なんで僕たちを見分けられたわけ？　今まで僕たちを一発で見分けた人なんていなかったからさ」,"Why can you tell us apart? No one
+has ever been able to do that
+before.",,,
+hikaru.json,887,Dialog,Haruhi,「なんだ、そんなことか……簡単だよ、そんなの」,"Oh, that's it? That's easy.",,,
+hikaru.json,889,Dialog,Haruhi,「だって２人とも別の人間じゃない。どんなに似通っていてもやっぱり違うよ、２人とも」,"Because you're both separate people.
+No matter how alike, you're still
+different.",,,
+hikaru.json,891,Dialog,Haruhi,「考えも行動も……似ているけどやっぱり違う。よく見ていればわかるよ、そんなに難しいことじゃないからね」,"Your thoughts, your actions...
+similar, yet different. Look closely
+and you'll see -- not that hard.",,,
+hikaru.json,895,Dialog,Hikaru,「……そっか。だよな、ハルヒの場合は相手をちゃんと見てから判断するもんな」,"...I see. That's right, Haruhi
+always observes her opponent before
+making a judgment.",,,
+hikaru.json,897,Dialog,Hikaru,「なんかすっきりした。さんきゅーな」,I feel refreshed. Thanks.,,,
+hikaru.json,899,Dialog,Haruhi,「ううん。自分もいろいろと話せて楽しかったし」,Nope. I had fun talking too.,,,
+hikaru.json,901,Dialog,Hikaru,「ま、今度なんらかの形で礼はするよ。馨と考えておくから楽しみにしとけよー」,"Hey, I'll return your favor somehow
+next time. Kaoru and I will think of
+something, so look forward to it~!",,,
+hikaru.json,902,Dialog,Hikaru,ひらひらと手を振って、暗闇に溶け込んでいく。,"Waving her hands, she blends into
+the darkness.",,,
+hikaru.json,903,Dialog,Hikaru,光と馨の２人が計画するんだからとんでもない騒動だとは思うけど……。,"I think it'll be a huge mess since
+Hikaru and Kaoru are planning it...",,,
+hikaru.json,905,Dialog,Haruhi,（それはそれで楽しいかも）,"(That might be fun too.) They're
+wild and crazy,",,,
+hikaru.json,906,Dialog,Haruhi,破天荒でめちゃくちゃな２人だけど、ジェットコースターのように刺激に溢れた２人でもあるから……。,"but also thrilling like a roller
+coaster...",,,
+hikaru.json,907,Dialog,Haruhi,自分ですら気付かないうちに、笑みを浮かべていた。,"I was smiling without even realizing
+it.",,,

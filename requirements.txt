@@ -1,0 +1,3 @@
+argostranslate>=1.11
+flask>=3.0
+huggingface-hub>=0.20.0

@@ -1,0 +1,713 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+109_2_5.json,8,Dialog,Kyoya,「ハルヒ……、ちょっと」,Haruhi... a moment.,,,
+109_2_5.json,10,Dialog,Kyoya,鏡夜先輩に呼び出されて、お客さんのいない場,"Kyoya-senpai calls me over, and we
+move",,,
+109_2_5.json,11,Dialog,Kyoya,所まで来る。,somewhere away from the guests.,,,
+109_2_5.json,16,Dialog,Kyoya,「……お前の接客態度は消極的過ぎる」,"...Your attitude toward hosting is
+far too passive.",,,
+109_2_5.json,18,Dialog,Haruhi,「……はい」,...Yes.,,,
+109_2_5.json,19,Dialog,Haruhi,確かに、営業中なのに接客しないことが多かっ,"He is right. Even during club hours,
+there were probably",,,
+109_2_5.json,20,Dialog,Haruhi,たかもしれない……。,"a lot of times when I was not really
+serving anyone...",,,
+109_2_5.json,28,Dialog,Kyoya,「以前、警告したはずだ。借金を返済すること,"I warned you before. Paying off your
+debt",,,
+109_2_5.json,29,Dialog,Kyoya,も重要だが、お前自身がホスト部にいて楽しめ,"is important, but if you cannot
+enjoy",,,
+109_2_5.json,30,Dialog,Kyoya,ないのであれば――」,being in the Host Club yourself--,,,
+109_2_5.json,31,Dialog,Kyoya,鏡夜先輩は、冷たい口調で言い放った。,Kyoya-senpai says it in an icy tone.,,,
+109_2_5.json,39,Dialog,Kyoya,「お前は、ここにいる資格がない。今日限りで,You have no right to be here. As of,,,
+109_2_5.json,40,Dialog,Kyoya,ホスト部は辞めてもらう」,"today, you will leave the Host Club.",,,
+109_2_5.json,42,Dialog,Haruhi,「えっ！？　そんな……」,Huh!? But...,,,
+109_2_5.json,47,Dialog,Kyoya,「借金のことは忘れてもらって構わない。,You may forget about the debt.,,,
+109_2_5.json,48,Dialog,Kyoya,……ここには、もう二度と来るな」,...Do not ever come here again.,,,
+109_2_5.json,49,Dialog,Kyoya,鏡夜先輩の言葉をかみしめながら部室を出る。,"I leave the clubroom with
+Kyoya-senpai's words weighing on me.",,,
+109_2_5.json,52,Dialog,Kyoya,……ある意味、これで自分は自由になれたのか,"...In one sense, maybe this",,,
+109_2_5.json,53,Dialog,Kyoya,もしれない。,means I am free now.,,,
+109_2_5.json,54,Dialog,,でも……。,But...,,,
+109_2_5.json,56,Dialog,,青い空を見上げる。,I look up at the blue sky.,,,
+109_2_5.json,57,Dialog,,もっと積極的に行動すれば良かった……。,"I should have acted more
+proactively...",,,
+109_2_5.json,58,Dialog,,何でだろう？　なんだか胸に穴があいた感じが,Why is that? It feels like there,,,
+109_2_5.json,59,Dialog,,する……。,is a hole in my chest...,,,
+109_2_5.json,67,Dialog,,#Color[7]#Scale[1.8]ホスト部営業中,#Color[7]#Scale[1.8]Host Club Open,,,
+109_2_5.json,68,Dialog,,今日も、いつも通りホスト部の部活が始まった。,"Today, Host Club activities begin as
+usual again.",,,
+109_2_5.json,80,Dialog,,さて、きちんと接客しないとなあ。どこかのヘ,"Now then, I need to host properly.
+Maybe",,,
+109_2_5.json,81,Dialog,,ルプに入ろうかな？,I should help at one of the tables.,,,
+109_2_5.json,82,Dialog,,今、手の足りなそうなのは……。,"Right now, the ones who look
+short-handed are...",,,
+109_2_5.json,83,Dialog,,環先輩か鏡夜先輩のところかな。どっちのヘル,"Tamaki-senpai or Kyoya-senpai,",,,
+109_2_5.json,84,Dialog,,プに入ろう……。,maybe. Which one should I help?,,,
+109_2_5.json,85,Choice,,環先輩,Tamaki-senpai,,,
+109_2_5.json,86,Choice,,鏡夜先輩,Kyoya-senpai,,,
+109_2_5.json,87,Choice,,やめておこう,Leave it,,,
+109_2_5.json,111,Dialog,,環先輩のテーブルにつく。,I join Tamaki-senpai's table.,,,
+109_2_5.json,116,Dialog,Sakurazuka,「まあ、お詳しいのね環様って」,"My, you know so much, Tamaki-sama.",,,
+109_2_5.json,121,Dialog,Tamaki,「ええ、桜塚姫。一言一句、すべて暗記するほ,"Yes, Princess Sakurazuka. I was so",,,
+109_2_5.json,122,Dialog,Tamaki,どに。本当に感動しました」,moved that I memorized every word.,,,
+109_2_5.json,127,Dialog,Sakurazuka,「今思い浮かべても、あのシーンには涙が出ま,Even thinking of that scene now,,,
+109_2_5.json,128,Dialog,Sakurazuka,すわ……」,brings tears to my eyes...,,,
+109_2_5.json,130,Dialog,Sakurazuka,今、ふたりが話題にしているものは……。,"What they are talking about right
+now is...",,,
+109_2_5.json,161,Dialog,Haruhi,「ああ、『千年の孤独』ですね？」,"Oh, A Thousand Years of Solitude,
+right?",,,
+109_2_5.json,167,Dialog,Tamaki,「ほう、ハルヒも観ていたとは」,"Oh? Haruhi, you watched it too?",,,
+109_2_5.json,172,Dialog,Haruhi,「この間、テレビでですけど……」,On TV the other day...,,,
+109_2_5.json,177,Dialog,Sakurazuka,「ステキよねえ、わたしもあんな燃えるような,"It is wonderful. I would love to
+experience",,,
+109_2_5.json,178,Dialog,Sakurazuka,恋をしてみたいわ」,a love that burns like that.,,,
+109_2_5.json,182,Dialog,Sakurazuka,そう言って、うっとりとした瞳の桜塚さんの手,"As she says that with dreamy eyes,
+Tamaki-senpai",,,
+109_2_5.json,183,Dialog,Sakurazuka,を、環先輩はすかさず取る。,"promptly takes Sakurazuka-san's
+hand.",,,
+109_2_5.json,186,Dialog,Tamaki,「お相手は、僕でよろしいでしょうか……」,"Would you allow me to be your
+partner...?",,,
+109_2_5.json,192,Dialog,Sakurazuka,「まあ……、環様……」,Oh... Tamaki-sama...,,,
+109_2_5.json,193,Dialog,Sakurazuka,桜塚さんが目をうるうるさせつつ、赤くなって,"Sakurazuka-san blushes shyly,",,,
+109_2_5.json,194,Dialog,Sakurazuka,照れる。,her eyes glistening.,,,
+109_2_5.json,195,Dialog,Sakurazuka,でも自分としては恋愛とかよりも――。,"But personally, instead of the
+romance--",,,
+109_2_5.json,197,Dialog,Haruhi,「自分は、どちらかといえば特撮がすごいなっ,"For me, I thought the special",,,
+109_2_5.json,198,Dialog,Haruhi,て思いましたけどね」,effects were more impressive.,,,
+109_2_5.json,204,Dialog,Tamaki,「ハルヒ……。もっと見るべき部分があるんじゃ,"Haruhi... Is there not something
+else you should",,,
+109_2_5.json,205,Dialog,Tamaki,ないか？　ほら、恋愛映画なんだし」,"be looking at? It is a romance film,
+after all.",,,
+109_2_5.json,207,Dialog,Haruhi,「興味がないので……」,I am not interested...,,,
+109_2_5.json,228,Dialog,,……あれ？,...Huh?,,,
+109_2_5.json,230,Dialog,Tamaki,「『千年の孤独』という映画なのだが、ハルヒ,"It is a film called A Thousand Years
+of Solitude.",,,
+109_2_5.json,231,Dialog,Tamaki,は知らないか？」,"Have you not heard of it, Haruhi?",,,
+109_2_5.json,232,Dialog,Tamaki,そういって、環先輩は残念そうな顔をする。,"Tamaki-senpai says that with a
+disappointed look.",,,
+109_2_5.json,234,Dialog,Sakurazuka,「……ハルヒ君、恋愛映画には興味ないのか,"...Haruhi-kun, are you not
+interested",,,
+109_2_5.json,235,Dialog,Sakurazuka,な？」,in romance films?,,,
+109_2_5.json,237,Dialog,Haruhi,「すみません、よくわからないもので……」,"Sorry, I do not really know much
+about them...",,,
+109_2_5.json,238,Dialog,Haruhi,もっと話題についていけるようにしないとダメ,I need to get better at keeping,,,
+109_2_5.json,239,Dialog,Haruhi,だなあ。,up with the topic.,,,
+109_2_5.json,257,Dialog,,鏡夜先輩のテーブルにつく。,I join Kyoya-senpai's table.,,,
+109_2_5.json,262,Dialog,Kyoya,「そうですか、それは大変ですね……。僕でよ,"I see. That must be difficult... If
+I can",,,
+109_2_5.json,263,Dialog,Kyoya,ろしければ力になりますよ」,"be of any help, I would be glad to
+assist.",,,
+109_2_5.json,268,Dialog,Sakurazuka,「本当？　うれしいわ。鏡夜先輩なら、こういっ,"Really? I am so happy. Kyoya-senpai,",,,
+109_2_5.json,269,Dialog,Sakurazuka,た事にはお詳しいですものね」,you know so much about these things.,,,
+109_2_5.json,274,Dialog,Kyoya,「ええ、門前の小僧、習わぬ何とやら、と言い,"Yes, as they say, even the child by
+the",,,
+109_2_5.json,275,Dialog,Kyoya,ますからね。何か原因に心当たりはおありでしょ,"temple gate learns the sutras. Do
+you",,,
+109_2_5.json,276,Dialog,Kyoya,うか？」,"have any idea what might be causing
+it?",,,
+109_2_5.json,281,Dialog,Sakurazuka,「それが、自分でもさっぱりわからないんです,That is the thing. I have no idea. I,,,
+109_2_5.json,282,Dialog,Sakurazuka,の。ちゃんと眠っているはずなのに、授業中に,"should be sleeping properly, but
+during",,,
+109_2_5.json,283,Dialog,Sakurazuka,眠くて眠くて……」,class I get so terribly sleepy...,,,
+109_2_5.json,285,Dialog,Sakurazuka,今、ふたりが話題にしているものは……。,"What they are talking about right
+now is...",,,
+109_2_5.json,316,Dialog,Haruhi,「それはきっと呼吸のせいですよ。寝ていると,"It is probably because of your
+breathing. If your airway",,,
+109_2_5.json,317,Dialog,Haruhi,きに気道がふさがると、安眠できないんです」,"is blocked while you sleep, you
+cannot sleep soundly.",,,
+109_2_5.json,320,Dialog,Kyoya,「……詳しいな」,...You know a lot about this.,,,
+109_2_5.json,321,Dialog,Kyoya,それはこの間の『加藤家の食卓』で……、とは,"I learned it from Kato Family Dinner
+the other",,,
+109_2_5.json,322,Dialog,Kyoya,さすがに言えない。,"day... but I definitely cannot say
+that.",,,
+109_2_5.json,323,Dialog,Kyoya,テレビから受け売りの知識とはいえ、一通り安,"Even if it is secondhand knowledge
+from TV,",,,
+109_2_5.json,324,Dialog,Kyoya,眠についての話をする。,"I explain the basics of sleeping
+well.",,,
+109_2_5.json,329,Dialog,Kyoya,「なるほどな……」,I see...,,,
+109_2_5.json,334,Dialog,Sakurazuka,「ハルヒ君、ありがとう」,"Thank you, Haruhi-kun.",,,
+109_2_5.json,356,Dialog,Kyoya,「やれやれ……」,Good grief...,,,
+109_2_5.json,357,Dialog,Kyoya,ため息まじりで、鏡夜先輩はあきれた目を自分,"With a sigh, Kyoya-senpai gives",,,
+109_2_5.json,358,Dialog,Kyoya,に向けた。,me an exasperated look.,,,
+109_2_5.json,363,Dialog,Kyoya,「ハルヒ。お前が何を聞いていたのかは知らな,"Haruhi. I do not know what you were
+listening to,",,,
+109_2_5.json,364,Dialog,Kyoya,いが、桜塚さんは睡眠不足で悩んでいるんだ」,"but Sakurazuka-san is troubled by
+lack of sleep.",,,
+109_2_5.json,369,Dialog,Sakurazuka,「そうなの。最近眠りが浅い感じで……」,"Yes. Lately it feels like I am
+sleeping lightly...",,,
+109_2_5.json,371,Dialog,Haruhi,「そうだったんですか……」,"Oh, I see...",,,
+109_2_5.json,372,Dialog,Haruhi,失敗しちゃったな。もう少し話をよく聞いてお,I messed up. I should have listened,,,
+109_2_5.json,373,Dialog,Haruhi,けば良かった。,to the conversation more carefully.,,,
+109_2_5.json,380,Dialog,,あんまり自信もないから、今日はやめておこう。,"I am not very confident, so I will
+leave it for today.",,,
+109_2_5.json,381,Dialog,,それに環先輩や鏡夜先輩の前じゃ、自分は足を,"Besides, in front of Tamaki-senpai
+or Kyoya-senpai,",,,
+109_2_5.json,382,Dialog,,引っ張るだけかもしれないし。,I might only drag things down.,,,
+109_2_5.json,388,Dialog,,お客さんの数もだんだん増えてきて、今日も相,"The number of guests is gradually
+increasing,",,,
+109_2_5.json,389,Dialog,,変わらず大盛況。,and today is as lively as ever.,,,
+109_2_5.json,390,Dialog,,ホスト部のみんなもいつも通り接客してる。,"Everyone in the Host Club is hosting
+as usual too.",,,
+109_2_5.json,391,Dialog,,自分はどうしようかな……？　指名はないけど、,"What should I do...? No one has
+requested me,",,,
+109_2_5.json,392,Dialog,,どこかのテーブルで接客しようかな。,"but maybe I should serve at one of
+the tables.",,,
+109_2_5.json,393,Choice,,倉賀野さん,Kurakano-san,,,
+109_2_5.json,394,Choice,,桜塚さん,Sakurazuka-san,,,
+109_2_5.json,395,Choice,,上賀茂さん,Kamikamo-san,,,
+109_2_5.json,396,Choice,,少し休憩……,Take a short break,,,
+109_2_5.json,419,Dialog,,倉賀野さんのテーブルについて、話をすること,I decide to sit at Kurakano-san's,,,
+109_2_5.json,420,Dialog,,にした。,table and talk.,,,
+109_2_5.json,425,Dialog,Kurakano,「……ハルヒ君は、休日をどうやって過ごして,"...Haruhi-kun, how do you",,,
+109_2_5.json,426,Dialog,Kurakano,ますか？」,spend your days off?,,,
+109_2_5.json,428,Dialog,Haruhi,「そうですね……。自分は、掃除に洗濯、それ,"Let's see... I mostly clean, do
+laundry,",,,
+109_2_5.json,429,Dialog,Haruhi,にスーパーに買い物に行くくらいですね」,and go shopping at the supermarket.,,,
+109_2_5.json,434,Dialog,Kurakano,「まあ……。ハルヒ君って、えらいです。尊敬,"My... Haruhi-kun, you are",,,
+109_2_5.json,435,Dialog,Kurakano,しますわ！」,wonderful. I respect you!,,,
+109_2_5.json,440,Dialog,Kurakano,「学業にホスト部のお仕事、くわえて家事まで,"To handle your studies, Host Club
+work, and",,,
+109_2_5.json,441,Dialog,Kurakano,なさるなんて……。わたくしも見習わなくちゃ」,"even housework... I must learn from
+you.",,,
+109_2_5.json,442,Dialog,Kurakano,自分にとっては普通なんだけどなあ……。,"It is normal for me, though...",,,
+109_2_5.json,456,Dialog,,桜塚さんのテーブルについて、話をすることに,I decide to sit at Sakurazuka-san's,,,
+109_2_5.json,457,Dialog,,した。,table and talk.,,,
+109_2_5.json,462,Dialog,Sakurazuka,「……ハルヒ君は、休日をどうやって過ごして,"...Haruhi-kun, how do you",,,
+109_2_5.json,463,Dialog,Sakurazuka,いるの？」,spend your days off?,,,
+109_2_5.json,465,Dialog,Haruhi,「そうですね……。自分は、掃除に洗濯、それ,"Let's see... I mostly clean, do
+laundry,",,,
+109_2_5.json,466,Dialog,Haruhi,にスーパーに買い物に行くくらいですね」,and go shopping at the supermarket.,,,
+109_2_5.json,471,Dialog,Sakurazuka,「スーパーって、どんなものが買えるの？」,"What kinds of things can you buy at
+a supermarket?",,,
+109_2_5.json,473,Dialog,Haruhi,「ええと……、野菜やお肉、この前のカップラー,"Um... vegetables, meat, the cup
+ramen from",,,
+109_2_5.json,474,Dialog,Haruhi,メンや、駄菓子も安く買えますよ」,"the other day, and cheap sweets too.",,,
+109_2_5.json,479,Dialog,Sakurazuka,「まあ、夢のようなお店ね」,"My, it sounds like a dream store.",,,
+109_2_5.json,480,Dialog,Sakurazuka,どうやら桜塚さんは、スーパーに興味を持った,Apparently Sakurazuka-san has become,,,
+109_2_5.json,481,Dialog,Sakurazuka,みたいだ。,interested in supermarkets.,,,
+109_2_5.json,495,Dialog,,上賀茂さんのテーブルについて、話をすること,I decide to sit at Kamikamo-san's,,,
+109_2_5.json,496,Dialog,,にした。,table and talk.,,,
+109_2_5.json,501,Dialog,Kamikamo,「……ハルヒくんは、休日をどうやって過ごし,"...Haruhi-kun, how do you",,,
+109_2_5.json,502,Dialog,Kamikamo,ていらっしゃるの？」,spend your days off?,,,
+109_2_5.json,504,Dialog,Haruhi,「そうですね……。自分は、掃除に洗濯、それ,"Let's see... I mostly clean, do
+laundry,",,,
+109_2_5.json,505,Dialog,Haruhi,にスーパーに買い物に行くくらいですね」,and go shopping at the supermarket.,,,
+109_2_5.json,510,Dialog,Kamikamo,「まあ、それではお休みになっていないみたい,"My, then it hardly sounds like",,,
+109_2_5.json,511,Dialog,Kamikamo,ですわ。何かお手伝いできればいいのですけれ,"a day off. I wish there were
+something",,,
+109_2_5.json,512,Dialog,Kamikamo,ど……」,I could help you with...,,,
+109_2_5.json,514,Dialog,Haruhi,「いえ、お気持ちだけで充分ですよ」,"No, your kind thoughts are more than
+enough.",,,
+109_2_5.json,519,Dialog,Kamikamo,「ハルヒくん……。困った事があったら、いつ,"Haruhi-kun... If anything is
+troubling",,,
+109_2_5.json,520,Dialog,Kamikamo,でもわたくしに言ってくださいね」,"you, please come to me anytime.",,,
+109_2_5.json,522,Dialog,Haruhi,「ええ、ありがとうございます」,"Yes, thank you.",,,
+109_2_5.json,528,Dialog,Haruhi,少し休憩しよう……。,I should take a short break...,,,
+109_2_5.json,529,Dialog,,まだまだ先は長いんだし。,There is still a long way to go.,,,
+109_2_5.json,535,Dialog,,お茶を運んだり雑用をこなしたりしていると、,"Between carrying tea around and
+handling odd",,,
+109_2_5.json,536,Dialog,,案外あっという間に時間は過ぎた。,"jobs, time passed surprisingly
+quickly.",,,
+109_2_5.json,538,Dialog,Male Student,「すいませーん」,Excuse me.,,,
+109_2_5.json,539,Dialog,Male Student,テーブルの片づけをしていたら、急に後ろから,"While I was clearing the table,
+someone",,,
+109_2_5.json,540,Dialog,Male Student,声をかけられた。,"suddenly called out to me from
+behind.",,,
+109_2_5.json,542,Dialog,Haruhi,「はい、何ですか？」,"Yes, what is it?",,,
+109_2_5.json,544,Dialog,Male Student,「あのー、藤岡さんっています？」,"Um, is Fujioka-san here?",,,
+109_2_5.json,546,Dialog,Haruhi,「自分ですけど」,That is me.,,,
+109_2_5.json,548,Dialog,Male Student,「手紙を預かってきたんで、どうぞ」,"I was asked to bring you this
+letter, so here you go.",,,
+109_2_5.json,550,Dialog,Haruhi,「ありがとうございます。誰からですか？」,Thank you. Who is it from?,,,
+109_2_5.json,552,Dialog,Male Student,「さあ……？　僕は預かってきただけですから。,"Who knows...? I was only asked to
+deliver it.",,,
+109_2_5.json,553,Dialog,Male Student,それじゃあ」,"Well, goodbye.",,,
+109_2_5.json,554,Dialog,Male Student,そう言って、すぐに帰って行った。,"With that, he left right away.",,,
+109_2_5.json,556,Dialog,Male Student,封筒を見ると……、差出人の名前はなし。きれ,"I looked at the envelope... There
+was no sender's name.",,,
+109_2_5.json,557,Dialog,Male Student,いな字で、『藤岡ハルヒ様』と書いてある。,"In neat handwriting, it said, ""To
+Haruhi Fujioka-sama.""",,,
+109_2_5.json,559,Dialog,Haruhi,「……何だろ、これ」,...What is this?,,,
+109_2_5.json,567,Dialog,Kyoya,「ほう、ラブレターか」,Oh? A love letter?,,,
+109_2_5.json,568,Dialog,Kyoya,ヒョイとのぞき込んで、鏡夜先輩が一言。,"Kyoya-senpai peered over and said
+that in a single remark.",,,
+109_2_5.json,577,Dialog,Tamaki,「ナヌ！」,What!,,,
+109_2_5.json,578,Dialog,Tamaki,環先輩が、間髪を入れず大声を上げた。,"Tamaki-senpai immediately raised his
+voice.",,,
+109_2_5.json,591,Dialog,Hikaru & Kaoru,「ラブレター！？」,A love letter!?,,,
+109_2_5.json,601,Dialog,Honey,「えー、どれどれー？」,"Ooh, let's see, let's see.",,,
+109_2_5.json,611,Dialog,Mori,……あっという間に、みんなが集まって来た。,"...Before I knew it, everyone had
+gathered around.",,,
+109_2_5.json,619,Dialog,Tamaki,「許しません！　お父さん、そんな男はゼッタ,"I will not allow it! As your father,
+I",,,
+109_2_5.json,620,Dialog,Tamaki,イに反対です！」,am absolutely opposed to such a man!,,,
+109_2_5.json,632,Dialog,Hikaru,「いや、男って決まったわけじゃないじゃん」,No one said it was definitely a man.,,,
+109_2_5.json,634,Dialog,Kaoru,「てゆーか、ハルヒあてなら女の子でしょ」,"I mean, if it is addressed to
+Haruhi, it is probably from a girl.",,,
+109_2_5.json,644,Dialog,Tamaki,「……それなら、いいだろう。――それで、誰,"...In that case, I suppose it is",,,
+109_2_5.json,645,Dialog,Tamaki,から？」,"acceptable. So, who is it from?",,,
+109_2_5.json,647,Dialog,Haruhi,「何でそんなの報告しなきゃいけないんですか」,"Why do I have to report something
+like that?",,,
+109_2_5.json,660,Dialog,Hikaru,「どんなコかなあ、意外とダイタンだよね〜」,"I wonder what kind of girl she is.
+Pretty bold, huh?",,,
+109_2_5.json,662,Dialog,Kaoru,「でも、手紙を人に頼むくらいだから、内気な,But if she had someone else bring,,,
+109_2_5.json,663,Dialog,Kaoru,んじゃない？」,"the letter, maybe she is shy?",,,
+109_2_5.json,666,Dialog,Kaoru,本人を置いてけぼりにして、みんな勝手に盛り,"Everyone is getting carried away
+without",,,
+109_2_5.json,667,Dialog,Kaoru,上がってるし。,even including the person involved.,,,
+109_2_5.json,668,Dialog,Kaoru,どんな手紙なのか、内容を見もしないであそこ,"They have not even read what kind of
+letter",,,
+109_2_5.json,669,Dialog,,まで盛り上がれるなんて……、ある意味スゴイ,"it is, but they can still get this
+excited...",,,
+109_2_5.json,670,Dialog,,なあ。,"In a way, that is impressive.",,,
+109_2_5.json,706,Dialog,Kurakano,「あの……、ハルヒ君」,Um... Haruhi-kun.,,,
+109_2_5.json,708,Dialog,Haruhi,「倉賀野さんも手紙が気になります？」,"Are you curious about the letter
+too, Kurakano-san?",,,
+109_2_5.json,713,Dialog,Kurakano,「うん……」,Right...,,,
+109_2_5.json,715,Dialog,Haruhi,「そういえば……。中学の頃も、こういう手紙,"Come to think of it... I used to get
+letters",,,
+109_2_5.json,716,Dialog,Haruhi,はよくもらいましたよ」,"like this all the time in middle
+school.",,,
+109_2_5.json,722,Dialog,Kurakano,「そ、そうなんだ……」,I-I see...,,,
+109_2_5.json,726,Dialog,Kurakano,何か複雑な顔をして、倉賀野さんは考え込んで,"Kurakano-san has a complicated look
+on",,,
+109_2_5.json,727,Dialog,Kurakano,いる。,her face and seems lost in thought.,,,
+109_2_5.json,728,Dialog,Kurakano,あれ？　自分、何か倉賀野さんにまずいことを,Huh? Did I say something,,,
+109_2_5.json,729,Dialog,,言ったかな……？,bad to Kurakano-san...?,,,
+109_2_5.json,743,Dialog,Sakurazuka,「……お手紙」,...A letter.,,,
+109_2_5.json,745,Dialog,Haruhi,「桜塚さんも手紙が気になります？」,"Are you curious about the letter
+too, Sakurazuka-san?",,,
+109_2_5.json,751,Dialog,Sakurazuka,「えっ！？　ええ、ラブレターなんて、めずら,"Huh!? Yes, well, love",,,
+109_2_5.json,752,Dialog,Sakurazuka,しいものだから……」,letters are so rare...,,,
+109_2_5.json,753,Dialog,Sakurazuka,こういうのって、めずらしいものなんだろうか。,"Are things like this really that
+rare?",,,
+109_2_5.json,755,Dialog,Haruhi,「そういえば……。中学の頃も、こういう手紙,"Come to think of it... I used to get
+letters",,,
+109_2_5.json,756,Dialog,Haruhi,はよくもらいましたよ」,"like this all the time in middle
+school.",,,
+109_2_5.json,761,Dialog,Sakurazuka,「そ、そうよね……。ハルヒ君なら、おかしく,"Y-Yes, of course... For you,
+Haruhi-kun,",,,
+109_2_5.json,762,Dialog,Sakurazuka,ないわよね……」,that would not be strange...,,,
+109_2_5.json,763,Dialog,Sakurazuka,ため息をつきながら、桜塚さんはがっかりした,"Sighing, Sakurazuka-san looked",,,
+109_2_5.json,764,Dialog,Sakurazuka,ような感じだった。,somewhat disappointed.,,,
+109_2_5.json,765,Dialog,Sakurazuka,あれ？　なんかまずいことを言ったかな……？,Huh? Did I say something wrong...?,,,
+109_2_5.json,779,Dialog,Kamikamo,上賀茂さんが、じっと自分の持ってる手紙を見,Kamikamo-san is staring intently,,,
+109_2_5.json,780,Dialog,Kamikamo,ている。,at the letter in my hand.,,,
+109_2_5.json,782,Dialog,Haruhi,「上賀茂さんも気になります？」,"Are you curious too, Kamikamo-san?",,,
+109_2_5.json,788,Dialog,Kamikamo,「えっ！？　い、いえ……。少し……」,Huh!? N-No... A little...,,,
+109_2_5.json,790,Dialog,Haruhi,「そういえば……。中学の頃も、こういう手紙,"Come to think of it... I used to get
+letters",,,
+109_2_5.json,791,Dialog,Haruhi,はよくもらいましたよ」,"like this all the time in middle
+school.",,,
+109_2_5.json,796,Dialog,Kamikamo,「そんなに……。でも、ハルヒくんなら無理も,"That many...? But for you,
+Haruhi-kun,",,,
+109_2_5.json,797,Dialog,Kamikamo,ないわ」,I suppose it is no wonder.,,,
+109_2_5.json,798,Dialog,Kamikamo,はぁっとため息をはきながら、上賀茂さんはや,"Kamikamo-san lets out a sigh and
+looks down",,,
+109_2_5.json,799,Dialog,Kamikamo,や困ったような顔でうつむいている。,with a slightly troubled expression.,,,
+109_2_5.json,800,Dialog,Kamikamo,あれ？　なんかまずいことを言ったかな……？,Huh? Did I say something wrong...?,,,
+109_2_5.json,813,Dialog,Renge,「フラグですわ！　イベントですわ！　ハルヒ,It is a flag! It is an event!,,,
+109_2_5.json,814,Dialog,Renge,君、次の選択肢は『誰か突き止める』で決まり,"Haruhi-kun, the next choice",,,
+109_2_5.json,815,Dialog,Renge,ですわよ〜！」,"is definitely ""Find out who""!",,,
+109_2_5.json,816,Dialog,Renge,れんげちゃんまで、いつのまに……。,"Even Renge-chan showed up at some
+point...",,,
+109_2_5.json,817,Dialog,Renge,ていうか、フラグとか選択肢っていったい……。,"Actually, what does she even mean by
+flags and choices...?",,,
+109_2_5.json,823,Dialog,Renge,「禁断の想いを手紙に託し……。そして嫉妬の,"Entrusting forbidden feelings to a
+letter...",,,
+109_2_5.json,824,Dialog,Renge,炎が――」,And then the flames of jealousy--,,,
+109_2_5.json,826,Dialog,Haruhi,「……とりあえず、お茶いれてきますね」,"...For now, I will go make some tea.",,,
+109_2_5.json,831,Dialog,Renge,「いったい、どなたなのかしら……」,Who in the world could it be...?,,,
+109_2_5.json,832,Dialog,Renge,妄想に忙しいれんげちゃんを残して、自分はお,"Leaving Renge-chan busy with her
+fantasies,",,,
+109_2_5.json,833,Dialog,Renge,茶の用意に向かった。,I went to prepare the tea.,,,
+109_2_5.json,840,Dialog,,自分にきた手紙のことでみんなが騒いで収拾が,"Everyone made such a commotion over
+the",,,
+109_2_5.json,841,Dialog,,つかなくなってしまったので、本日の営業は早,"letter I received that things got
+out of",,,
+109_2_5.json,842,Dialog,,めに終了、ということになった。,"hand, so today's business ended
+early.",,,
+109_2_5.json,843,Dialog,,お客さんたちも興味津々みたいだったけど、さ,The customers seemed very interested,,,
+109_2_5.json,844,Dialog,,すがに遠慮してくれたみたい。,"too, but apparently they held back.",,,
+109_2_5.json,845,Dialog,,……そんなに大騒ぎすることないのに。,"...There is no need to make such a
+fuss over it.",,,
+109_2_5.json,852,Dialog,Tamaki,「いいかハルヒ。こんなときこそ、おおおちお,"Listen, Haruhi. At times like this,
+you must",,,
+109_2_5.json,853,Dialog,Tamaki,ち、落ち着いて対処するのだ」,"c-c-calmly, calmly deal with the
+matter.",,,
+109_2_5.json,855,Dialog,Haruhi,「落ち着いてください、環先輩」,"Please calm down, Tamaki-senpai.",,,
+109_2_5.json,863,Dialog,Kyoya,「俺たちが騒ぎ立てる事でもないだろう。それ,"This is hardly something for us to
+make",,,
+109_2_5.json,864,Dialog,Kyoya,に、ハルヒにも【いちおう】プライバシーとい,"a fuss about. Besides, Haruhi
+technically",,,
+109_2_5.json,865,Dialog,Kyoya,うものがある」,does have a thing called privacy.,,,
+109_2_5.json,870,Dialog,Kyoya,「内容については、本人から聞かせてもらおう,"As for the contents, why don't we",,,
+109_2_5.json,871,Dialog,Kyoya,じゃないか」,hear them from Haruhi herself?,,,
+109_2_5.json,874,Dialog,Haruhi,「えっ？　報告するんですか？」,Huh? I have to report it?,,,
+109_2_5.json,882,Dialog,Kyoya,「もちろんだ。大切な娘さんをお預かりしてい,"Of course. We are looking after
+someone's precious",,,
+109_2_5.json,883,Dialog,Kyoya,るんだから、把握しておく必要があるだろう」,"daughter, so we need to keep
+ourselves informed.",,,
+109_2_5.json,884,Dialog,Kyoya,にっこりと笑う鏡夜先輩。,Kyoya-senpai smiles pleasantly.,,,
+109_2_5.json,890,Dialog,Kyoya,「そうそう、予定外の営業時間の切り上げにつ,"Oh, and you need not worry about the
+unexpected",,,
+109_2_5.json,891,Dialog,Kyoya,いては、心配しなくていいからね」,early end to business hours.,,,
+109_2_5.json,893,Dialog,Haruhi,「……わかりました」,...All right.,,,
+109_2_5.json,895,Dialog,Haruhi,みんなは、自分の手元をじっと見つめている。,"Everyone is staring fixedly at my
+hands.",,,
+109_2_5.json,897,Dialog,Haruhi,「プライバシーは？」,What about privacy?,,,
+109_2_5.json,904,Dialog,Tamaki,「家族に秘密は必要ありません。なあ……、母,A family needs no secrets.,,,
+109_2_5.json,905,Dialog,Tamaki,さんや」,Right... Mother dear?,,,
+109_2_5.json,913,Dialog,Kyoya,「……そうだな。父さんや」,...Indeed. Father dear.,,,
+109_2_5.json,916,Dialog,Haruhi,「……はあ、わかりました」,"...Fine, I understand.",,,
+109_2_5.json,917,Dialog,Haruhi,何を言ってもムダなことは分かってるから、,"I knew saying anything would be
+pointless,",,,
+109_2_5.json,918,Dialog,Haruhi,諦めて封筒の手紙を取り出して広げる,"so I gave up, took the letter out of
+the envelope,",,,
+109_2_5.json,919,Dialog,Haruhi,そこに書かれていたものは――。,and unfolded it. Written there was--,,,
+109_2_5.json,920,Dialog,Haruhi,『おまえのちちおやはあずかった』,We have your father.,,,
+109_2_5.json,923,Dialog,,あれ？,Huh?,,,
+109_2_5.json,924,Dialog,,って、もしかして…………。,"Wait, could this be...",,,
+109_2_5.json,925,Dialog,,#Scale[1.4]脅迫状！？,#Scale[1.4]A threat letter!?,,,
+109_2_5.json,926,Chapter name,,第２話　誘拐と温泉とホスト部,Ep. 2: Kidnapping & Hot Springs,,,
+109_2_5.json,934,Dialog,,部内は、凍りついたように静まりかえった。,"The clubroom went still, as quiet as
+if it had frozen over.",,,
+109_2_5.json,935,Dialog,,誰も、一言もしゃべらないまま、じっと手紙を,No one said a word. They just,,,
+109_2_5.json,936,Dialog,,みつめている。,stared fixedly at the letter.,,,
+109_2_5.json,938,Dialog,Haruhi,「……くだらないイタズラですね」,...What a stupid prank.,,,
+109_2_5.json,945,Dialog,Tamaki,「いや、安否くらいは確認するべきだろう」,"No, we should at least confirm that
+he is safe.",,,
+109_2_5.json,946,Dialog,Tamaki,手紙を丸めて捨てようとした手を、環先輩に止,"Just as I was about to crumple up
+the letter and",,,
+109_2_5.json,947,Dialog,Tamaki,められた。,"throw it away, Tamaki-senpai stopped
+my hand.",,,
+109_2_5.json,949,Dialog,Haruhi,「イタズラですよ、こんなの」,This is just a prank.,,,
+109_2_5.json,957,Dialog,Tamaki,「それを確認するんだよ、ハルヒ」,"That is what we are going to
+confirm, Haruhi.",,,
+109_2_5.json,959,Dialog,Haruhi,「……わかりました」,...All right.,,,
+109_2_5.json,961,Dialog,Haruhi,光たちから渡された携帯電話を取り出して、家,"I took out the cell phone Hikaru and
+the",,,
+109_2_5.json,962,Dialog,Haruhi,にかける。,others had given me and called home.,,,
+109_2_5.json,963,Dialog,Haruhi,プルルルルルル……、プルルルルルル……。,Rrrring... rrrring...,,,
+109_2_5.json,965,Dialog,Haruhi,……でない。,...No answer.,,,
+109_2_5.json,966,Dialog,,お父さんの勤務先に電話をかけてみても結果は,"I tried calling my father's
+workplace",,,
+109_2_5.json,967,Dialog,,同じ。,"too, but got the same result.",,,
+109_2_5.json,969,Dialog,Haruhi,「……誰もでません」,...No one is answering.,,,
+109_2_5.json,976,Dialog,Tamaki,「携帯電話にもかけてみよう」,Try calling his cell phone too.,,,
+109_2_5.json,980,Dialog,Haruhi,「駄目です。ただいま電波の届かないところか、,"No good. The message says he is
+either outside",,,
+109_2_5.json,981,Dialog,Haruhi,電源を切っておりますって案内が流れてますね」,"the service area or has his phone
+turned off.",,,
+109_2_5.json,994,Dialog,Honey,「……ハルちゃん、これって」,"...Haru-chan, does this mean...",,,
+109_2_5.json,996,Dialog,Mori,「……誘拐事件」,...A kidnapping.,,,
+109_2_5.json,998,Dialog,Haruhi,「そんなことは……」,It cannot be...,,,
+109_2_5.json,1008,Dialog,Kyoya,「手紙には、他に何も書いていないのか？」,"Is there nothing else written in the
+letter?",,,
+109_2_5.json,1010,Dialog,Haruhi,「……身代金の要求とかはありませんけど、身,"...There is no ransom demand or
+anything, but",,,
+109_2_5.json,1011,Dialog,Haruhi,柄の受け渡し場所は……、書かれてます」,"the place to hand him over is...
+written here.",,,
+109_2_5.json,1013,Dialog,Haruhi,「それから、警察に知らせないようにとの注意,It also says not to notify the,,,
+109_2_5.json,1014,Dialog,Haruhi,書きも入ってます。それから……、これ」,police. And then... this.,,,
+109_2_5.json,1015,Dialog,Haruhi,手紙の最後には、ぺったりキスマークがついて,"At the end of the letter, there is",,,
+109_2_5.json,1016,Dialog,Haruhi,いる。,a big kiss mark stamped on it.,,,
+109_2_5.json,1018,Dialog,Haruhi,「やっぱり、イタズラだと思います」,I really do think it is a prank.,,,
+109_2_5.json,1026,Dialog,Honey,「でも、ハルちゃん。これがイタズラだって、,"But, Haru-chan. Do you have any
+proof",,,
+109_2_5.json,1027,Dialog,Honey,決めちゃう証拠はあるの？」,that lets you decide it is a prank?,,,
+109_2_5.json,1029,Dialog,Haruhi,「……脅迫状にキスマークはないと思いますよ」,"...I do not think threat letters
+usually have kiss marks.",,,
+109_2_5.json,1037,Dialog,Mori,「……本人が誘拐されていると認識していない,"...It is possible the person himself
+does",,,
+109_2_5.json,1038,Dialog,Mori,可能性もある」,not realize he has been kidnapped.,,,
+109_2_5.json,1041,Dialog,Mori,このみんなの様子をみると、本気で心配してい,"Judging from how everyone looks,
+they",,,
+109_2_5.json,1042,Dialog,Mori,るみたいだけど。,seem to be seriously worried.,,,
+109_2_5.json,1044,Dialog,Haruhi,「指定されている場所は、草津の『スパリゾー,The place they named is somewhere in,,,
+109_2_5.json,1045,Dialog,Haruhi,ト・フェニックス』っていうところですね」,Kusatsu called Spa Resort Phoenix.,,,
+109_2_5.json,1052,Dialog,Honey,「草津って、どこだっけ〜？」,Where was Kusatsu again?,,,
+109_2_5.json,1065,Dialog,Hikaru,「……で、一番わからない事があるんだけど」,"...So, there is one thing I really
+do not understand.",,,
+109_2_5.json,1067,Dialog,Kaoru,「どうしてパパさんを誘拐したのかな？」,Why would they kidnap your papa?,,,
+109_2_5.json,1069,Dialog,Haruhi,「どうしてでしょうね……」,I wonder why...,,,
+109_2_5.json,1077,Dialog,Hikaru,「どっちかっていうと」,"If anything,",,,
+109_2_5.json,1085,Dialog,Kaoru,「ハルヒを連れて行くんじゃない？」,wouldn't they take Haruhi?,,,
+109_2_5.json,1087,Dialog,Haruhi,「何でそうなるの？」,Why would that happen?,,,
+109_2_5.json,1101,Dialog,Hikaru & Kaoru,「だって、ハルヒのパパさんって――」,Because Haruhi's papa is--,,,
+109_2_5.json,1111,Dialog,,自分のお父さんは藤岡涼二（ふじおかりょう,"My father's name is Ryoji Fujioka,",,,
+109_2_5.json,1112,Dialog,,じ）、源氏名は蘭花（らんか）。,and his stage name is Ranka.,,,
+109_2_5.json,1113,Dialog,,近所のオカマバーで働いてる。,He works at a neighborhood drag bar.,,,
+109_2_5.json,1114,Dialog,,前にホスト部のみんなとも会ったことがあって、,"He has met everyone in the Host Club
+before,",,,
+109_2_5.json,1115,Dialog,,お父さんはみんなを気に入ったらしい。,"and apparently he took a liking to
+them.",,,
+109_2_5.json,1129,Dialog,Kaoru,「普通なら、連れて行きたいと思わないんじゃ,"Normally, wouldn't you not",,,
+109_2_5.json,1130,Dialog,Kaoru,ない？」,want to take him along?,,,
+109_2_5.json,1132,Dialog,Kaoru,まあ、連れて行きたいかどうかは別にして、,"Well, whether or not they would want",,,
+109_2_5.json,1133,Dialog,Kaoru,とりあえず――。,"to take him along, for now--",,,
+109_2_5.json,1137,Dialog,Haruhi,「ちょうど明日は土曜日ですから、行ってきま,Tomorrow is Saturday,,,
+109_2_5.json,1138,Dialog,Haruhi,す」,"anyway, so I will go.",,,
+109_2_5.json,1140,Dialog,Everyone,「えーっ！？」,What!?,,,
+109_2_5.json,1142,Dialog,Haruhi,「準備があるので今日はこれで失礼します」,"I need to prepare, so I will excuse
+myself for today.",,,
+109_2_5.json,1150,Dialog,Tamaki,「待つんだ、ハルヒ！」,"Wait, Haruhi!",,,
+109_2_5.json,1151,Dialog,Tamaki,先輩が、再び自分の腕をつかんで引き止める。,"Tamaki-senpai grabs my arm again and
+stops me.",,,
+109_2_5.json,1159,Dialog,Tamaki,「ハルヒ１人だけでは危険だ。いいか、俺たち,It is too dangerous for Haruhi to,,,
+109_2_5.json,1160,Dialog,Tamaki,全員で行くぞ。これはホスト部の問題でもある,"go alone. Listen, we are all going.",,,
+109_2_5.json,1161,Dialog,Tamaki,からだ」,This is also a Host Club matter.,,,
+109_2_5.json,1163,Dialog,Haruhi,「いや、ホスト部は関係ないじゃないですか」,"No, the Host Club has nothing to do
+with this.",,,
+109_2_5.json,1171,Dialog,Tamaki,「いいや、ある！　大いにあるぞ！」,"No, it does! It most certainly does!",,,
+109_2_5.json,1172,Dialog,Tamaki,他のみんなもうなずいている。行く気満々だ。,"Everyone else is nodding too. They
+are all ready to go.",,,
+109_2_5.json,1174,Dialog,Tamaki,１人でいいんだけどなあ……。,"I would be fine going alone,
+though...",,,
+109_2_5.json,1182,Dialog,Tamaki,「よし！　作戦会議だ！」,Very well! Strategy meeting!,,,
+109_2_5.json,1184,Dialog,Tamaki,またみんなで盛り上がってる……。,"Now they are all getting excited
+again...",,,
+109_2_5.json,1185,Dialog,Tamaki,当事者なのに、完全に自分だけ置いてけぼり。,"I am the person involved, but
+somehow I have been completely left
+behind.",,,
+109_2_5.json,1192,Dialog,Tamaki,「いいか、皆の衆！」,"Listen well, my good people!",,,
+109_2_5.json,1193,Dialog,Tamaki,環先輩が大きな声で叫ぶ。,"Tamaki-senpai shouts in a loud
+voice.",,,
+109_2_5.json,1201,Dialog,Tamaki,「ここに【ハルヒのお父さんを救い出す作戦】,"Here begins [Operation Rescue
+Haruhi's Father]",,,
+109_2_5.json,1202,Dialog,Tamaki,を開始する！」,Commence!,,,
+109_2_5.json,1203,Dialog,Tamaki,そのまんまじゃないですか……。,"Isn't that just saying exactly what
+it is...?",,,
+109_2_5.json,1205,Dialog,Tamaki,それにしても……、単にタチの悪いイタズラだ,Even so... I really think this,,,
+109_2_5.json,1206,Dialog,Tamaki,と思うんだけどなあ。,is simply a nasty prank.,,,
+109_2_5.json,1207,Dialog,Tamaki,誰かに意見を聞いてみようかな。,"Maybe I should ask someone what they
+think.",,,
+109_2_5.json,1208,Choice,,環先輩,Tamaki-senpai,,,
+109_2_5.json,1209,Choice,,鏡夜先輩,Kyoya-senpai,,,
+109_2_5.json,1210,Choice,,光,Hikaru,,,
+109_2_5.json,1211,Choice,,馨,Kaoru,,,
+109_2_5.json,1212,Choice,,ハニー先輩,Honey-senpai,,,
+109_2_5.json,1213,Choice,,モリ先輩,Mori-senpai,,,
+109_2_5.json,1234,Dialog,,環先輩に意見を聞いてみようか……。,"Maybe I should ask Tamaki-senpai
+what he thinks...",,,
+109_2_5.json,1235,Dialog,,いや、あまり期待はしていないけど。,Not that I am expecting much.,,,
+109_2_5.json,1244,Dialog,Tamaki,「心配するな、俺たちがついている。安心しな,Do not worry. We are with,,,
+109_2_5.json,1245,Dialog,Tamaki,さい！」,you. You may rest easy!,,,
+109_2_5.json,1246,Dialog,Tamaki,胸を張って、平然とこんな事を言い切っちゃっ,"He says it so calmly, chest",,,
+109_2_5.json,1247,Dialog,Tamaki,てるけど――。,puffed out and everything--,,,
+109_2_5.json,1255,Dialog,Tamaki,「草津か。初めて行く土地だな。ああ、いった,"Kusatsu, is it? I have never been
+there",,,
+109_2_5.json,1256,Dialog,Tamaki,い何があるのか楽しみだ」,"before. Ah, I wonder what awaits us.",,,
+109_2_5.json,1257,Dialog,Tamaki,イマイチこう、遊び気分というか、旅行気分と,"Somehow, this feels less like
+concern and more like",,,
+109_2_5.json,1258,Dialog,Tamaki,いうか。,"he is in the mood to play around, or
+go on a trip.",,,
+109_2_5.json,1264,Dialog,Tamaki,「ハルヒ。不安なときはお父さんの胸に、いつ,"Haruhi. Whenever you feel uneasy,
+come",,,
+109_2_5.json,1265,Dialog,Tamaki,でも飛び込んでおいで」,"and throw yourself into Father's
+arms.",,,
+109_2_5.json,1267,Dialog,Haruhi,「いえ、別に不安などは……」,"No, I am not especially uneasy...",,,
+109_2_5.json,1275,Dialog,Tamaki,「家族と離れ離れになって、不安にならない子,What child could be separated from,,,
+109_2_5.json,1276,Dialog,Tamaki,どもがいるわけないじゃないか」,their family and not feel anxious?,,,
+109_2_5.json,1277,Dialog,Tamaki,真剣なまなざしで、環先輩は顔を自分に近づけ,"With a serious look in his eyes,
+Tamaki-senpai",,,
+109_2_5.json,1278,Dialog,Tamaki,る。,brings his face closer to mine.,,,
+109_2_5.json,1283,Dialog,Tamaki,「何があろうとも、蘭花さんはこの俺が救い出,"No matter what happens, I will
+rescue",,,
+109_2_5.json,1284,Dialog,Tamaki,してみせる。だから、元気を出すんだ」,Ranka-san myself. So take heart.,,,
+109_2_5.json,1286,Dialog,Haruhi,「……自分、元気がないように見えますか？」,"...Do I look like I am not feeling
+well?",,,
+109_2_5.json,1287,Dialog,Haruhi,先輩が、どこまで冗談でどこまで本気なのかは、,"I still cannot tell how much of what
+Senpai",,,
+109_2_5.json,1288,Dialog,Haruhi,やっぱりわからないけど。,"says is a joke and how much is
+serious.",,,
+109_2_5.json,1289,Dialog,Haruhi,それでも、自分を心配してくれている気持ちだ,"Even so, I am sure the part where he
+is",,,
+109_2_5.json,1290,Dialog,Haruhi,けは、間違いなく本気なんだろう。何とも、不,"worried about me is completely
+sincere. It",,,
+109_2_5.json,1291,Dialog,Haruhi,思議な気分になる。,"leaves me feeling strangely
+unsettled.",,,
+109_2_5.json,1306,Dialog,Haruhi,「……あの、鏡夜先輩はどう思いますか？」,"...Um, Kyoya-senpai, what do you
+think?",,,
+109_2_5.json,1314,Dialog,Kyoya,「どう思うか、と問われても、現時点では何も,"Even if you ask what I think, at
+this",,,
+109_2_5.json,1315,Dialog,Kyoya,言いようがないな」,point there is nothing I can say.,,,
+109_2_5.json,1316,Dialog,Kyoya,相変わらずの冷静さ。モリ先輩と鏡夜先輩だけ,"Calm as ever. Mori-senpai and
+Kyoya-senpai are the only ones",,,
+109_2_5.json,1317,Dialog,Kyoya,は、騒いだりうかれたりは一切していない。,"who have not made a fuss or gotten
+carried away at all.",,,
+109_2_5.json,1319,Dialog,Haruhi,「……ですよねえ。まだ、本当に誘拐と決まっ,"...Right. It has not actually been
+decided",,,
+109_2_5.json,1320,Dialog,Haruhi,たわけじゃないんですから」,that this is a kidnapping yet.,,,
+109_2_5.json,1325,Dialog,Kyoya,「どのみち、誘拐なんてわりの合わない犯罪だ,"Either way, kidnapping is",,,
+109_2_5.json,1326,Dialog,Kyoya,からな」,hardly a crime that pays.,,,
+109_2_5.json,1327,Dialog,Kyoya,鏡夜先輩によると、身代金目的誘拐事件で、犯,"According to Kyoya-senpai, in ransom
+kidnapping cases, there has
+apparently",,,
+109_2_5.json,1328,Dialog,Kyoya,人が身代金を手に逃げ切った事件はないらしい。,"never been a case where the culprit
+escaped with the ransom.",,,
+109_2_5.json,1336,Dialog,Kyoya,「あくまで届け出のあった事件ではだがな。,"Only among reported cases, of
+course.",,,
+109_2_5.json,1337,Dialog,Kyoya,秘密裏に受け渡された成功例は、なくもないが」,"It is not as though there are no
+successful cases where the exchange
+was handled in secret.",,,
+109_2_5.json,1338,Dialog,Kyoya,そういえば、警察には言うな、と書いてあった。,"Come to think of it, the note did
+say not to tell the police.",,,
+109_2_5.json,1343,Dialog,Kyoya,「いずれにせよ、誘拐ほどリスクが高い愚かな,"In any event, there are few crimes
+as",,,
+109_2_5.json,1344,Dialog,Kyoya,犯罪もない」,foolish and high-risk as kidnapping.,,,
+109_2_5.json,1349,Dialog,Kyoya,「もっとも、今回は身代金の要求もなく身柄引,"That said, this time there has been
+no ransom demand,",,,
+109_2_5.json,1350,Dialog,Kyoya,き渡し場所だけ提示されているのだから、特殊,"only a location for handing over the
+person in",,,
+109_2_5.json,1351,Dialog,Kyoya,なケースといえるわけだが……」,"question, so it can be called a
+special case...",,,
+109_2_5.json,1353,Dialog,Haruhi,「それはつまり……、どういうことですか？」,"So, in other words... what does that
+mean?",,,
+109_2_5.json,1354,Dialog,Haruhi,目的がまったくわからない。,"I have no idea what the objective
+is.",,,
+109_2_5.json,1360,Dialog,Kyoya,「今のところ、事件と呼べるようなものではな,"It means that for the moment, this
+is not something that",,,
+109_2_5.json,1361,Dialog,Kyoya,いということだ。余計なことさえしなければ、,"can be called an incident. As long
+as you do nothing",,,
+109_2_5.json,1362,Dialog,Kyoya,蘭花さんは無事に解放されるだろう」,"unnecessary, Ranka-san will likely
+be released safely.",,,
+109_2_5.json,1363,Dialog,Kyoya,そう言われてみれば確かにそうか。,"Now that he says it, that does make
+sense.",,,
+109_2_5.json,1376,Dialog,,光に今回のことについて聞いてみると――。,When I ask Hikaru about this...,,,
+109_2_5.json,1381,Dialog,Hikaru,「誘拐なんて、映画みたいだな」,"A kidnapping, huh? It is like
+something out of a movie.",,,
+109_2_5.json,1389,Dialog,Hikaru,「電話で犯人と交渉したりとか、やってみたかっ,"I kind of wanted to negotiate with
+the culprit over the phone,",,,
+109_2_5.json,1390,Dialog,Hikaru,たけどさ。犯人からです！　よし逆探知だ！　,"you know. It is the culprit! All
+right, trace the call!",,,
+109_2_5.json,1391,Dialog,Hikaru,とかさ」,Stuff like that.,,,
+109_2_5.json,1396,Dialog,Haruhi,「……あのねえ、光」,"...Honestly, Hikaru.",,,
+109_2_5.json,1397,Dialog,Haruhi,何でそんなに楽しそうなんだ。,"Why does he sound like he is having
+so much fun?",,,
+109_2_5.json,1405,Dialog,Hikaru,「……わかってるって……」,"...I know, I know...",,,
+109_2_5.json,1414,Dialog,Hikaru,「……どんなことになっても僕らがついてるか,"...No matter what happens,",,,
+109_2_5.json,1415,Dialog,Hikaru,ら」,we are with you.,,,
+109_2_5.json,1417,Dialog,Haruhi,「それはどうも」,Thanks.,,,
+109_2_5.json,1422,Dialog,Hikaru,「蘭花さんを迎えに行くくらいの気持ちでいれ,Why not just think of it as,,,
+109_2_5.json,1423,Dialog,Hikaru,ばいいんじゃない」,going to pick up Ranka-san?,,,
+109_2_5.json,1424,Dialog,Hikaru,光なりに心配してくれてるってことだろうなあ。,"I guess this is Hikaru's way of
+worrying about me.",,,
+109_2_5.json,1426,Dialog,Haruhi,「……ありがと、光」,"...Thanks, Hikaru.",,,
+109_2_5.json,1427,Dialog,Haruhi,イタズラだとは思うし、本気で心配しているわ,"I think it is a prank, and I am not",,,
+109_2_5.json,1428,Dialog,Haruhi,けじゃないけど、光の気持ちは素直にうれしかっ,"seriously worried, but Hikaru's
+concern",,,
+109_2_5.json,1429,Dialog,Haruhi,た。,still made me honestly happy.,,,
+109_2_5.json,1442,Dialog,,今回のことを馨に聞くと――。,When I ask Kaoru about this...,,,
+109_2_5.json,1447,Dialog,Kaoru,「……ハルヒは心配だと思うけど、脅迫状を見,"...I know Haruhi must be worried,
+but judging from",,,
+109_2_5.json,1448,Dialog,Kaoru,る限り、危ない感じはしないね」,"the threatening letter, it does not
+feel dangerous.",,,
+109_2_5.json,1449,Dialog,Kaoru,いや、別に心配はしてないんだけど……。,"No, I am not especially worried,
+but...",,,
+109_2_5.json,1455,Dialog,Kaoru,「身代金の要求がないってところもそうだけど、,"There is the fact that there is no
+ransom demand,",,,
+109_2_5.json,1456,Dialog,Kaoru,キスマークがついてるところに余裕を感じるの,"too, but I do not think I am the
+only one who feels",,,
+109_2_5.json,1457,Dialog,Kaoru,は僕だけじゃないと思うよ」,"a certain confidence from the kiss
+mark on it.",,,
+109_2_5.json,1459,Dialog,Haruhi,「そうだよね」,That is true.,,,
+109_2_5.json,1467,Dialog,Kaoru,「……でも、これがイタズラだって決め付ける,...But it may be too soon to decide,,,
+109_2_5.json,1468,Dialog,Kaoru,のは早いかもしれないね」,this is definitely a prank.,,,
+109_2_5.json,1473,Dialog,Kaoru,「脅かす訳じゃないけど、油断は禁物ってこと,"I am not trying to scare you, but I
+suppose it means you should not",,,
+109_2_5.json,1474,Dialog,Kaoru,かな。ふざけた手紙かもしれないけどね」,"let your guard down. It might just
+be a ridiculous letter, though.",,,
+109_2_5.json,1475,Dialog,Kaoru,……そうか。今の馨の言葉で、少し反省する。,"...I see. Kaoru's words make me
+reflect a little.",,,
+109_2_5.json,1476,Dialog,Kaoru,にしても、やっぱりよく似ていても、馨と光は,"Even so, no matter how alike they
+look, Kaoru",,,
+109_2_5.json,1477,Dialog,Kaoru,全然ちがうな。,"and Hikaru really are completely
+different.",,,
+109_2_5.json,1478,Dialog,Kaoru,何でみんなわからないんだろう？,Why can nobody else tell?,,,
+109_2_5.json,1486,Dialog,,ハニー先輩はどう考えているか聞いてみようと,I thought I would ask Honey-senpai,,,
+109_2_5.json,1487,Dialog,,思ったけど……。あれ？,"what he thinks, but... Huh?",,,
+109_2_5.json,1488,Dialog,,突然、ハニー先輩の姿がどこにも見えなくなっ,"Suddenly, Honey-senpai",,,
+109_2_5.json,1489,Dialog,,ている。,is nowhere to be seen.,,,
+109_2_5.json,1490,Dialog,,どこにいったのかな？,Where did he go?,,,
+109_2_5.json,1498,Dialog,Honey,「ねえねえ、ハルちゃん」,"Hey, hey, Haru-chan.",,,
+109_2_5.json,1500,Dialog,Haruhi,「わっ、ビックリした」,"Whoa, that surprised me.",,,
+109_2_5.json,1501,Dialog,Haruhi,声をかけるつもりが、ひょいっと顔を出したハ,"I was about to call out to him, but
+Honey-senpai",,,
+109_2_5.json,1502,Dialog,Haruhi,ニー先輩から逆に声をかけられた。,"popped his head out and spoke to me
+first.",,,
+109_2_5.json,1510,Dialog,Honey,「奥のテーブルに、とっておきのケーキを用意,"I set aside a really special cake at
+the table",,,
+109_2_5.json,1511,Dialog,Honey,したから、僕と一緒に食べよ」,"in the back, so come eat it with me.",,,
+109_2_5.json,1513,Dialog,Haruhi,「……ケーキですか？」,...Cake?,,,
+109_2_5.json,1518,Dialog,Honey,「甘いものを食べると、気分が落ち着くんだっ,They say eating sweets helps you,,,
+109_2_5.json,1519,Dialog,Honey,て。ホントだよ？」,"calm down. It is true, okay?",,,
+109_2_5.json,1520,Dialog,Honey,ハニー先輩、心配してくれてるんだ。,Honey-senpai is worried about me.,,,
+109_2_5.json,1529,Dialog,Honey,「蘭花さん、ぜったい大丈夫だからね」,"Ranka-san is definitely going to be
+okay.",,,
+109_2_5.json,1531,Dialog,Haruhi,「……はい。ありがとうございます」,...Yes. Thank you very much.,,,
+109_2_5.json,1540,Dialog,,……モリ先輩に聞いてみよう。,...I will ask Mori-senpai.,,,
+109_2_5.json,1546,Dialog,,そう決めた瞬間に、モリ先輩と目が合った。,"The instant I decide that, my eyes
+meet Mori-senpai's.",,,
+109_2_5.json,1548,Dialog,,すっと立ち上がり、こちらから声をかけるまで,"He smoothly stands up, and before I
+even need to",,,
+109_2_5.json,1549,Dialog,,もなく、モリ先輩はこちらに歩いてくる。,"call out to him, Mori-senpai walks
+over to me.",,,
+109_2_5.json,1556,Dialog,Haruhi,「モリ先輩は今回のこと、どう思いますか？」,"Mori-senpai, what do you think about
+all this?",,,
+109_2_5.json,1562,Dialog,Mori,「……かならず助ける」,...I will save him.,,,
+109_2_5.json,1563,Dialog,Mori,ああ、やっぱりモリ先輩は、この脅迫状をみて、,"Ah, so Mori-senpai really has seen
+this",,,
+109_2_5.json,1564,Dialog,Mori,この【誘拐事件】を現実のものとして考えてい,threatening letter and is thinking,,,
+109_2_5.json,1565,Dialog,Mori,るんだ。,of this [kidnapping case] as real.,,,
+109_2_5.json,1566,Dialog,Mori,……うーん。,...Hmm.,,,
+109_2_5.json,1568,Dialog,Haruhi,「いや、まだ本当にさらわれたと決まったわけ,"No, we still do not actually know",,,
+109_2_5.json,1569,Dialog,Haruhi,でもありませんから……」,that he has been kidnapped...,,,
+109_2_5.json,1576,Dialog,,そう答えると、モリ先輩はポケットから何か取,"When I answer that way, Mori-senpai
+takes something",,,
+109_2_5.json,1577,Dialog,,り出して、自分の手にそっと握らせた。,"from his pocket and gently places it
+in my hand.",,,
+109_2_5.json,1579,Dialog,,それが何かを聞く前に、モリ先輩は微笑みを残,"Before I can ask what it is,
+Mori-senpai",,,
+109_2_5.json,1580,Dialog,,して歩いていった。,"leaves me with a smile and walks
+away.",,,
+109_2_5.json,1581,Dialog,,そっと、手を開く。,I gently open my hand.,,,
+109_2_5.json,1582,Dialog,,そこには──、無病息災のお守りがあった。,"Inside is... a charm for good health
+and safety.",,,
+109_2_5.json,1583,Dialog,,えーと……。,Um...,,,
+109_2_5.json,1584,Dialog,,いや、これはさすがに何か違うし。,"No, this is definitely kind of off.",,,
+109_2_5.json,1585,Dialog,,ちょっとずれてるけど……。モリ先輩の心遣い,"It is a little beside the point,
+but... I honestly",,,
+109_2_5.json,1586,Dialog,,は、素直に嬉しいと思った。,"appreciate Mori-senpai's
+thoughtfulness.",,,
+109_2_5.json,1598,Dialog,Tamaki,「いいか、皆の衆！」,"Listen well, my good fellows!",,,
+109_2_5.json,1599,Dialog,Tamaki,環先輩が、再び大きな声でみんなの注意を引く。,"Tamaki-senpai once again draws
+everyone's attention in a loud
+voice.",,,
+109_2_5.json,1607,Dialog,Tamaki,「それではいよいよ明日、出陣だ！」,"And so, tomorrow at last, we march!",,,
+109_2_5.json,1609,Dialog,Haruhi,「出陣って……、戦いに行くんですか？」,March... Are we going into battle?,,,
+109_2_5.json,1610,Dialog,Haruhi,環先輩は、用意する物や集合時間、おやつの金,"Tamaki-senpai gets swept up in the
+moment and decides every tiny detail
+on the spot,",,,
+109_2_5.json,1611,Dialog,Haruhi,額などをその場のノリでこと細かに決める。,"from what to bring, to the meeting
+time, to how much snack money is
+allowed.",,,
+109_2_5.json,1612,Dialog,Haruhi,明日は環先輩の手配した車で迎えに来るらしい。,"Apparently, a car arranged by
+Tamaki-senpai will come pick me up
+tomorrow.",,,
+109_2_5.json,1613,Dialog,Haruhi,高速バスでも用意するのだろうか。,"Is he planning to arrange a highway
+bus or something?",,,
+109_2_5.json,1614,Dialog,Haruhi,現実的なのか冗談なのか、まったくわからない。,"I cannot tell at all whether he is
+being practical or joking.",,,
+109_2_5.json,1615,Dialog,Haruhi,まあ、いつもの事ではあるんだけど……。,"Well, that is nothing new...",,,
+109_2_5.json,1623,Dialog,Tamaki,「では、明日にそなえて今日は解散だ！」,"Then let us adjourn for today and
+prepare for tomorrow!",,,
+109_2_5.json,1625,Dialog,Tamaki,みんなうなずいて、それぞれに帰っていった。,Everyone nods and heads home.,,,
+109_2_5.json,1631,Dialog,,はあ……。今日は本当に色々と疲れた日だった。,"Sigh... Today really was exhausting
+in all kinds of ways.",,,
+109_2_5.json,1632,Dialog,,とりあえず、パソコンをチェックしようかな。,"For now, maybe I should check my
+computer.",,,
+109_2_5.json,1634,Dialog,,お父さん、本当に誘拐されちゃったのかな？,Did Dad really get kidnapped?,,,
+109_2_5.json,1636,Dialog,,………いや、いくら何でもね。,"...No, that would be too much.",,,
+109_2_5.json,1637,Dialog,,考えてもしょうがない。明日草津に行けば分か,"There is no point thinking about it.
+I will know once",,,
+109_2_5.json,1638,Dialog,,る事だし。とりあえず寝よう……。,"I go to Kusatsu tomorrow. For now, I
+should sleep...",,,

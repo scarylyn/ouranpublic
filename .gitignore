@@ -1,0 +1,52 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local Python/model environments
+.venv/
+.ollama-models/
+
+# Original game files and generated builds
+Game Files/
+build/
+patched_bins/
+patched_bins_sergio_playable/
+patched_bins_sergio_wrapped/
+translated/*.bin
+
+# Local work output
+art_work/
+non_ui_artwork/
+non_ui_artwork_flat/
+backups/
+logs/
+transcripts/*
+!transcripts/layout_qa_current_narrow4.html
+!transcripts/layout_qa_current_narrow4.tsv
+transcripts/*.tmp*
+*.corrupt-*
+work/
+
+# Older translation experiments kept locally
+translated/
+translated_argos_baseline/
+translated_sergio/
+translated_sergio_playable/
+
+# ROM/save outputs. Share patches, not ROMs.
+release/local_roms_do_not_upload/
+*.nds
+*.srl
+*.sav
+*.dsv
+*.state
+
+# Generated source-package staging folders
+release/community_source_*/
+release/ouran-community-source-*/
+
+# Older/generated package copies kept locally
+ouran_en_translation_release.zip
+Ouran Highschool Translation.zip
+release/ouran-community-source-20260702.zip
+release/ouran-community-source-20260702-v2.zip

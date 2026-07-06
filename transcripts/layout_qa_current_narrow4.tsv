@@ -1,0 +1,188 @@
+file	id	type	kind	limit_width	limit_lines	line_count	max_line_len	reasons	jp	en
+101_1_1.json	1107,1108,1109	Dialog group	dialog-display	32	3	4	50	display-too-many-lines:4>3;display-line-too-wide:267px>224px	【見つめる】という行動は高度なテクニックで、相手の気持ちを理解していないと大失敗するということらしい。	"Apparently ""gazing"" is an advanced
+technique--getit wrong when you don't understand a
+guest'sfeelings, and it backfires
+spectacularly."
+101_1_1.json	1377,1378	Dialog group	dialog-display	32	3	3	43	display-line-too-wide:230px>224px	あいまいに答えながら、ハニー先輩から教わった内容を思い返してみるけど――。	"As I gave my vague answer, I tried
+to go backover what Honey-senpai had taught
+me, but--"
+101_1_1.json	1379,1380,1381	Dialog group	dialog-display	32	3	1	101	display-line-too-wide:545px>224px	甘くておいしいケーキを食べれば、みんなしあわせだってことと、どのケーキがおいしいのかしか思い出せない。	All I could remember was that sweet,yummy cake makes everyone happy--andwhich cakes are the yummiest.
+101_1_1.json	1619,1620	Dialog group	dialog-display	32	3	3	66	display-line-too-wide:361px>224px	話は大きく、勉強・雑学・食・運動・娯楽・健康の６種類に分けられるって言われても――。	"So conversation topics split into
+six broad types--study, trivia,food, sports, fun, and health. Easy
+for him to say--"
+101_1_1.json	1810,1811,1812	Dialog group	dialog-display	32	3	2	56	display-line-too-wide:287px>224px	いったいなんの話で盛り上がってるんだか、具体的にはわからないけど。庶民の技ってところがヒントだとすれば――。	"I have no clue what exactly hasthem so worked up. But if
+""commoner'stechnique"" is any hint--"
+101_1_1.json	1869,1870,1871	Dialog group	dialog-display	32	3	1	104	display-line-too-wide:554px>224px	「庶民の知恵もなかなかあなどりがたいものだな。うむ、これは加藤家の食卓を見直す必要がありそうだぞ」	The wisdom of commoners is not to beunderestimated. Hmm... I may needto rethink the family dinner table.
+101_1_1.json	1920,1921	Dialog group	dialog-display	32	3	3	50	display-line-too-wide:265px>224px	「俺が話していたのは、カップ焼きそばを作るとき、かやくを底に入れることにより――」	"What I was explaining was that when
+preparing instantyakisoba, placing the toppings at
+the bottom--"
+101_1_1.json	1996,1997,1998	Dialog group	dialog-display	32	3	4	51	display-too-many-lines:4>3;display-line-too-wide:276px>224px	いったいなんの話なのかな？　近づいてきてることで、日々の成果が試されること。それが話題を指しているんだから――。	"What on earth are they talking
+about? Somethingcoming up soon, where daily efforts
+getput to the test... So the topic must
+be--"
+101_1_1.json	2164,2165,2166	Dialog group	dialog-display	32	3	3	53	display-line-too-wide:277px>224px	れんげちゃんは、好きなゲームに登場するキャラクターのミヤビ君にそっくりな鏡夜先輩にひと目ぼれして――。	"Renge-chan fell in love at first
+sight with Kyoya-senpai,because he looks exactly like
+Miyabi-kun,a character from her favorite game--"
+101_1_1.json	3099,3100	Dialog group	dialog-display	32	3	3	54	display-line-too-wide:292px>224px	「あのね、上級生には見えないかもしれないけど、こちらが埴之塚光邦先輩。それから――」	"He may not look like an
+upperclassman, butthis is Mitsukuni Haninozuka-senpai.
+And--"
+101_1_1.json	3133,3134,3135	Dialog group	dialog-display	32	3	4	51	display-too-many-lines:4>3;display-line-too-wide:268px>224px	「失礼ですが、姫宮さんとハルヒが友人になっている時期を考えると……。性別やホストという立場に対して……」	"Forgive me for asking, Himemiya-san,
+but... consideringwhen you and Haruhi became
+friends--regardingthe matter of sex, and of being a
+host..."
+101_1_1.json	3148,3149,3150	Dialog group	dialog-display	32	3	3	51	display-line-too-wide:270px>224px	「きれいな髪を切っていることにも驚きましたけど、そんなことよりも女の子だったはずのハルちゃんが――」	"The fact that you cut that beautiful
+hairsurprised me too, but never mind
+that--Haru-chan,you're supposed to be a girl, and--"
+101_1_1.json	3321,3322,3323	Dialog group	dialog-display	32	3	3	85	display-line-too-wide:459px>224px	父親に連れられて出席する、知らない人ばかりのパーティーの数々。勝手もわからず、出るのはため息ばかり。	"Party after party on her father's
+arm, surroundedby strangers. Never knowing what todo with herself, sighing the nights
+away."
+101_1_1.json	3396,3397,3398	Dialog group	dialog-display	32	3	2	81	display-line-too-wide:426px>224px	「俺と鏡夜、光と馨、ハニー先輩とモリ先輩でペアを組み、小百合姫の恋をプロデュースするのだ！」	"Kyoya and I, Hikaru and Kaoru,
+Honey-senpaiand Mori-senpai--in pairs, we shallproduce Princess Sayuri's romance!"
+104_1_4.json	1501,1502,1503	Dialog group	dialog-display	32	3	1	91	display-line-too-wide:476px>224px	真嶋君は袋のなかからパンを取り出すと、皿に載せた。そこへ水をかけて、やわらかくしている。	Majima-kun took bread from thebag, put it on a plate, and pouredwater over it to soften it.
+104_1_4.json	3450,3451,3452	Dialog group	dialog-display	32	3	1	104	display-line-too-wide:541px>224px	考えたことなかったけど、自分もいつか小百合みたいに、誰かのことを想ってあんなふうになることが――。	I never thought about it before, butsomeday, could I end up like Sayuri,feeling that way about someone--
+105_2_1.json	383,384,385	Dialog group	dialog-display	32	3	2	61	display-line-too-wide:327px>224px	「自分は、掃除や洗濯……。それからちょっと遠くのスーパーまで買い物に行ったりするくらいですね」	"For me, cleaning and laundry...Then maybe going shopping at a
+supermarketa little farther away."
+105_2_1.json	1396,1397,1398	Dialog group	dialog-display	32	3	4	38	display-too-many-lines:4>3	明日は駄菓子のお祭りかあ……。テーブルに駄菓子を並べて食べるだけですめばいいんだけど……。	"Tomorrow is a cheap sweets festival,
+huh...I hope all we have to do is line
+cheapsweets up on the table and eat
+them..."
+106_2_2.json	490,491	Dialog group	dialog-display	32	3	3	53	display-line-too-wide:280px>224px	上賀茂さんの前には、『運勢占いつきのはっぴーラムネ』と、『めざし粉末入りのめざしチョコ』	"In front of Kamikamo-san are Happy
+Ramune with a fortuneand Mezashi Chocolate with dried
+sardine powder"
+106_2_2.json	1016,1017,1018	Dialog group	dialog-display	32	3	4	38	display-too-many-lines:4>3	……怪我も心配だけど、それよりもハニー先輩の雰囲気が危うい感じになってきているような……。	"...I am worried about him getting
+hurttoo, but more than that,
+Honey-senpai'saura is starting to feel
+dangerous..."
+107_2_3.json	739,740	Dialog group	dialog-display	32	3	3	49	display-line-too-wide:261px>224px	昨日まで和室だったのに一晩で元に戻ってるんだから、すごいっていうかなんていうか。	"It was a Japanese-style room until
+yesterday, and nowit is back to normal overnight.
+Amazing, or something."
+108_2_4.json	961,962	Dialog group	dialog-display	32	3	3	58	display-line-too-wide:296px>224px	先輩の買ってきたカップラーメンの種類はバラバラだ。微妙に作り方がちがうんだよね……。	"The cup ramen Tamaki-senpai bought
+is all different types.The instructions vary a little from
+one to another..."
+108_2_4.json	1155,1156	Dialog group	dialog-display	32	3	3	63	display-line-too-wide:341px>224px	額の汗を自分がハンカチでぬぐってあげると、鏡夜先輩は少し照れた様子で続けた。	"When I wiped the sweat from his
+forehead with my handkerchief,Kyoya-senpai continued, looking a
+little embarrassed."
+108_2_4.json	1685,1686,1687	Dialog group	dialog-display	32	3	4	47	display-too-many-lines:4>3;display-line-too-wide:250px>224px	「……しかし何かあってからでは遅い……。藤岡君、この身代わりにもなるベルゼネフをお持ちなさい……」	"...But once something happens, it
+will be toolate... Fujioka-kun, take this
+Belzenef, whocan also serve as a substitute for
+you..."
+108_2_4.json	1706,1707,1708	Dialog group	dialog-display	32	3	2	76	display-line-too-wide:412px>224px	「……不安なのでしょう……。藤岡君、この身代わりにもなる、ベルゼネフをお持ちなさい……」	"...You must be uneasy...
+Fujioka-kun,take this Belzenef, who can alsoserve as a substitute for you..."
+109_2_5.json	863,864,865	Dialog group	dialog-display	32	3	3	44	display-line-too-wide:229px>224px	「俺たちが騒ぎ立てる事でもないだろう。それに、ハルヒにも【いちおう】プライバシーというものがある」	"This is hardly something for us to
+makea fuss about. Besides, Haruhi
+technicallydoes have a thing called privacy."
+109_2_5.json	917,918,919	Dialog group	dialog-display	32	3	3	49	display-line-too-wide:262px>224px	何を言ってもムダなことは分かってるから、諦めて封筒の手紙を取り出して広げるそこに書かれていたものは――。	"I knew saying anything would be
+pointless,so I gave up, took the letter out of
+the envelope,and unfolded it. Written there was--"
+109_2_5.json	1349,1350,1351	Dialog group	dialog-display	32	3	4	53	display-too-many-lines:4>3;display-line-too-wide:280px>224px	「もっとも、今回は身代金の要求もなく身柄引き渡し場所だけ提示されているのだから、特殊なケースといえるわけだが……」	"That said, this time there has been
+no ransom demand,only a location for handing over the
+person inquestion, so it can be called a
+special case..."
+109_2_5.json	1610,1611	Dialog group	dialog-display	32	3	5	46	display-too-many-lines:5>3;display-line-too-wide:245px>224px	環先輩は、用意する物や集合時間、おやつの金額などをその場のノリでこと細かに決める。	"Tamaki-senpai gets swept up in the
+moment and decides every tiny detail
+on the spot,from what to bring, to the meeting
+time, to how much snack money is
+allowed."
+110_2_6.json	3111,3112	Dialog group	dialog-display	32	3	4	36	display-too-many-lines:4>3	光と馨が洞窟に入ると、話を無視された環先輩が洞窟の脇でひざを抱えてすねてしまった。	"When Hikaru and Kaoru entered the
+cave, Tamaki-senpai, whose speech
+hadbeen ignored, crouched beside the
+cave hugging his knees and sulking."
+111_3_1.json	244,245,246	Dialog group	dialog-display	32	3	5	46	display-too-many-lines:5>3;display-line-too-wide:256px>224px	「滝のマイナスイオンでリラックス！　メリーゴーランドで２人の距離は近づき……、お化けとの遭遇で、愛が生まれる――」	"Relaxation through the waterfall's
+negative ions! On the
+merry-go-round,the distance between two people
+draws closer...and through an encounter with a
+ghost, love is born--"
+111_3_1.json	688,689,690	Dialog group	dialog-display	32	3	3	69	display-line-too-wide:351px>224px	あれから１０分くらい、都市伝説の話をして説明してみたけど、モリ先輩にはぜんぜんわかってもらえなかった。	"For about ten minutes after that, I
+triedexplaining urban legends to him,but Mori-senpai didn't get it at
+all."
+111_3_1.json	1146,1147,1148	Dialog group	dialog-display	32	3	3	40	possible-missing-space	悪くはなかったみたいだけど……。もう少し、上賀茂さんのことを考えて行動しないと、ダメかなあ。	"Doesn't seem like it went badly...
+butmaybe I need to think a little more
+aboutKamikamo-san's feelings when I act."
+112_3_2.json	1151,1152,1153	Dialog group	dialog-display	32	3	4	55	display-too-many-lines:4>3;display-line-too-wide:293px>224px;possible-missing-space	「レオ君のテーブルには環と光、馨。王君のテーブルには、俺がつく。豪徳寺君のテーブルには、先輩方にお願いします」	"「Reo-kun's table will have
+Tama-chan, Hikaru, andKaoru. I'll take care of Ou-kun's
+table. For Goudetsuchi-kun'stable, I'll leave it to you
+seniors.」"
+112_3_2.json	1594,1595	Dialog group	dialog-display	32	3	4	47	display-too-many-lines:4>3;display-line-too-wide:245px>224px	まあ、所詮はただの部活動。私と鳳君は今後、経済の一翼を担う立場なわけですし――」	"Well, it's just a club after all.
+Since I and Haninozuka-kun will be
+shoulderingthe economic responsibilities of our
+families in the future--"
+112_3_2.json	1657,1658	Dialog group	dialog-display	32	3	3	47	display-line-too-wide:249px>224px;possible-missing-space	別にどこでもいいんだけど、モリ先輩と豪徳寺さんがにらみ合ってたことが気になるから……。	"I don't really care where we go, but
+I'm curious aboutMori-senpai and Mr. Gokurakuji
+glaring at each other..."
+112_3_2.json	2032	Dialog group	dialog-display	32	3	2	30	model-explanation	「予想以上におもしろくなりそうだからな」	"It looks like it's going to be
+more fun than I thought."
+114_3_4.json	80,81	Dialog group	dialog-display	32	3	3	46	display-line-too-wide:240px>224px	「昨夜から考え込んで一睡もしなかった挙げ句、自己嫌悪に陥ったらしい」	"I've been brooding since last night
+and haven't sleptat all, apparently leading to
+self-loathing."
+116_3_6_1.json	1470,1471	Dialog group	dialog-display	32	3	3	32	model-explanation	環先輩は、ネコ好きな人でも遠慮したくなりそうなくらいネコまみれになってしまった……。	"It looks like Tama-chan's become
+so cat-infested that even cat
+lovers would hesitate..."
+116_3_6_1.json	2179	Dialog group	dialog-display	32	3	2	30	model-explanation	「こっちだよ！　こっちにいるみたい！！」	"Over here! It looks like she's
+over here!!"
+117_4_1.json	157,158,159	Dialog group	dialog-display	32	3	4	45	display-too-many-lines:4>3;display-line-too-wide:239px>224px;possible-missing-space	「それに……。絢爛ホスト部には、ハルヒ君がいないんだもの。だから、絢爛に編入しちゃったらどうしようかなって……」	"And... without Haruhi-kun, the
+ExtravagantHost Club isn't complete. So I was
+thinkingabout transferring to
+Extravaganza..."
+117_4_1.json	999,1000,1001	Dialog group	dialog-display	32	3	2	77	display-line-too-wide:427px>224px	どうしよう。環先輩を呼んで……。その前にモリ先輩に保健室まで連れて行ってもらったほうが……。	"What should I do? Should I call
+Tama-chan...?No, maybe Morino-senpai shouldtake her to the infirmary first..."
+117_4_1.json	1867,1868,1869	Dialog group	dialog-display	32	3	4	34	display-too-many-lines:4>3	モリ先輩は寡黙（かもく）さが売りの人だし、無理に会話をしなくても、お客さんは充分満足しているに違いない。	"Mori-senpai's quiet nature is what
+drawscustomers in, so they'll be
+satisfiedeven if he doesn't force
+conversation."
+117_4_1.json	2124,2125	Dialog group	dialog-display	32	3	2	30	model-explanation	それにしても……。この分じゃ、かなりウワサは広まってると思って間違いない。	"Still... It looks like the
+rumors have spread pretty far."
+120_4_4.json	1826,1827	Dialog group	dialog-display	32	3	2	30	model-explanation	とりあえず、土曜日は忙しい休日になりそうだなあ……。	"It looks like Saturday's going
+to be a busy day off..."
+120_4_4.json	1886	Dialog group	dialog-display	32	3	2	28	model-explanation	土曜日は、なんだか忙しくなりそうだなあ……。	"It looks like I'll be pretty
+busy on Saturday..."
+122_4_6.json	409,410	Dialog group	dialog-display	32	3	3	45	display-line-too-wide:244px>224px	「そうか……。気づけなかった俺を、許しておくれ……。では、どこかレストランにでも――」	"Oh... Forgive me for not realizing
+it sooner...Then, shall we go to a restaurant
+somewhere--"
+122_4_6.json	924,925,926	Dialog group	dialog-display	32	3	3	41	display-line-too-wide:225px>224px	ファーストフードを出て、物産展の会場に入ると……。土曜日のお昼前ということもあって、かなり込んでいた。	"Exiting the fast food place and
+enteringthe fair... It was pretty crowded
+sinceit was Saturday just before noon."
+122_4_6.json	1550,1551	Dialog group	dialog-display	32	3	3	51	display-line-too-wide:260px>224px	まさかとは思うけど、１人でぜんぶ飲んじゃうつもりかな？　それなら無くなる前に――。	"I doubt it, but are you planning to
+drink it all byyourself? If that's the case, before
+it runs out--."
+122_4_6.json	1650,1651	Dialog group	dialog-display	32	3	3	52	display-line-too-wide:267px>224px	しばらく休憩したあと、せっかく来たんだからって食品売り場を回ってみたんだけど――。	"After taking a break for a while, I
+thought since wecame all this way, I'd check out the
+food section--."
+122_4_6.json	3189	Dialog group	dialog-display	32	3	2	28	model-explanation	モリ先輩を見て、何か話してるみたいだけど。	"It looks like Mori-senpai is
+saying something."
+123_5_1.json	23,24,25	Dialog group	dialog-display	32	3	2	70	display-line-too-wide:367px>224px	扉をあけると、そこは豪華絢爛（ごうかけんらん）たる、ホスト部絵巻が繰り広げられているはずなのに……。	"Opening the door, it should have
+beena magnificent and splendid displayof the Host Club's activities..."
+123_5_1.json	1242,1243	Dialog group	dialog-display	32	3	3	65	display-line-too-wide:319px>224px	「そうなるとじゃなくて、そうするの！　ハルちゃんがしっかりしなくてどうするのよ」	"That's not 'if that happens,' it's
+'we'll do it!' What am I supposedto do if you don't pull yourself
+together, Haru-chan?"
+125_5_4.json	776,777,778	Dialog group	dialog-display	32	3	4	51	display-too-many-lines:4>3;display-line-too-wide:262px>224px	ホスト部を標的に、高校生にふさわしくない部活だと取り上げ、理事長の息子が所属していることをせめて――。	"Target the Host Club, expose it as
+an unsuitable clubfor high school students, and at
+least criticizethe fact that the president's son is
+a member--."
+125_5_4.json	2412,2413,2414	Dialog group	dialog-display	32	3	4	44	display-too-many-lines:4>3;display-line-too-wide:226px>224px;possible-missing-space	目をそらさないで見つめ合っていたと思ったら、いきなりモリ先輩の胸元に、ぐいっと引き寄せられた――。	"I thought we were looking at each
+otherwithout averting our eyes, but
+suddenlyMori-senpai pulled me into his chest
+--"
+125_5_4.json	2446	Dialog group	dialog-display	32	3	1	28	model-explanation	「外国のお金みたいですね」	It looks like foreign money.
+125_5_4.json	2701,2702,2703	Dialog group	dialog-display	32	3	4	43	display-too-many-lines:4>3	「そう、あの須王さえいなくなれば、権力をふりかざされて迷惑することのない、素晴らしい学校生活が始まるんだ」	"That's right, once Suzumi leaves,
+our wonderfulschool life will begin without
+anyoneabusing their power and causing
+trouble."
+125_5_4.json	3014	Dialog group	dialog-display	32	3	2	18	model-explanation	「楽しそうですね、鏡夜先輩……」	"It looks like fun,
+Kyoya-senpai..."
+126_5_5.json	440,441,442	Dialog group	dialog-display	32	3	2	69	display-line-too-wide:373px>224px	あれだけのことがあったのに、簡単に許してしまうんだから……。こういうところって、すごいなあと素直に思う。	"Even though something like that
+happened,you just let it go... I haveto admit, that's pretty amazing."
+150_3_6_2.json	1131,1132,1133	Dialog group	dialog-display	32	3	4	45	display-too-many-lines:4>3;display-line-too-wide:230px>224px	初めての金魚すくいに、まったく勝手がわからないようで、光も馨もどんどんイラついていくのがわかる。	"I can tell both Hikaru and Kaoru are
+gettingmore and more frustrated as they
+have no ideahow to play the goldfish scooping
+game."
+151_3_6_3.json	1774,1775	Dialog group	dialog-display	32	3	2	31	model-explanation	「あーっと、アクシデントです！　張満腹さんが転倒した模様！」	"Aha! An accident! It looks like
+Zhang Manfu fell down!"
+151_3_6_3.json	2016,2017	Dialog group	dialog-display	32	3	3	61	display-line-too-wide:317px>224px	目を開けると、目の前にモリ先輩の背中が見えた。豪徳寺さんの拳を受け止めて立っている。	"When I open my eyes, I see
+Mori-senpai's back in frontof me. I'm standing there catching
+Kamikamo-san's fist."
+mitukuni.json	597	Dialog group	dialog-display	32	3	2	32	model-explanation	「良かったな。これで無事に作戦は決行できそうだ」	"Good. It looks like we can go
+ahead with the operation safely."
+takashi.json	424	Dialog group	dialog-display	32	3	2	31	model-explanation	メッセージカードがついてるみたいだ。えーと……。	"It looks like there's a message
+card. Um..."
+takashi.json	497	Dialog group	dialog-display	32	3	2	31	model-explanation	メッセージカードがついてるみたいだ。えーと……。	"It looks like there's a message
+card. Um..."

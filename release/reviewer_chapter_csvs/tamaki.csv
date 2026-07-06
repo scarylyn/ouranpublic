@@ -1,0 +1,499 @@
+﻿file,id,type,speaker,jp,current_english,suggested_english,notes,status
+tamaki.json,1,Chapter name,,お父さんと一緒,with dad,,,
+tamaki.json,4,Dialog,Haruhi,「平和だなぁ……」,It's peaceful...,,,
+tamaki.json,5,Dialog,Haruhi,スーパーの朝市で広告の品もゲットしたし、休日だからホスト部の個性豊かなメンバーに頭を悩ませることもないし。,"Got sale items at the supermarket,
+and since it's a day off, no Host
+Club members to deal with.",,,
+tamaki.json,12,Dialog,Ranka,「ハルヒー。ワタシあっついお茶が飲みたいな〜」,"Haruhi. I want to drink some hot
+tea~",,,
+tamaki.json,14,Dialog,Haruhi,「あ、はーい。今入れ……」,"「Ah, okay. Let me in...」",,,
+tamaki.json,18,Dialog,Haruhi,「あれ？　お客様かな？」,Hmm? Could it be a customer?,,,
+tamaki.json,20,Dialog,Haruhi,お茶を入れる為に立ち上がったついでに、ドアへと向かう。,"I stood up to make tea and headed
+for the door.",,,
+tamaki.json,22,Dialog,Haruhi,「どちら様で……」,Who might you be...,,,
+tamaki.json,24,Dialog,Hikaru,「ハルヒーいるー？」,"Haruhi, you here?",,,
+tamaki.json,26,Dialog,Kaoru,「いるんだったら早く出た方がいいよー」,Better come out if you're here--,,,
+tamaki.json,28,Dialog,Hikaru & Kaoru,「でないと学校でのあることないこと」,"Or else I'll make up something about
+you at school.",,,
+tamaki.json,29,Dialog,Hikaru & Kaoru,ガチャ,Spin!,,,
+tamaki.json,42,Dialog,Haruhi,「あることないことって何ですか！　脅すようなことを言わなくてもちゃんと開けます！」,"What do you mean by that! I'll open
+it even if you don't have to
+threaten me!",,,
+tamaki.json,45,Dialog,Haruhi,折角の休日なのに、この人たちはまた遊びにきたのか……。,"It's their day off yet they came to
+play again...",,,
+tamaki.json,46,Dialog,Haruhi,悪気はないんだろうけど、価値観が違いすぎるせいか自分の暮らしに対してとても失礼な発言が多い。,"They mean no harm, but our values
+differ so much that they're often
+pretty rude about how I live.",,,
+tamaki.json,47,Dialog,Haruhi,だからあまり家にも呼びたくないんだけど……。,"So I don't really want to call you
+over to my place...",,,
+tamaki.json,54,Dialog,Mori,「……お邪魔する」,...Excuse me.,,,
+tamaki.json,63,Dialog,Honey,「ハルちゃん、こんにちは」,Hi Haru-chan!,,,
+tamaki.json,65,Dialog,Haruhi,「ああどうもこんにちは」,Hello there.,,,
+tamaki.json,68,Dialog,Haruhi,そしてこのまま帰ってくれたら嬉しいんですけどね。,I'd be happy if you went home now.,,,
+tamaki.json,75,Dialog,Kyoya,「急に訪ねてきてしまって悪いな」,I'm sorry to drop by so suddenly.,,,
+tamaki.json,77,Dialog,Haruhi,「謝るくらいなら事前に知らせておいて下さい」,"Please let me know beforehand rather
+than apologizing later.",,,
+tamaki.json,82,Dialog,Kyoya,「まあ、俺たちにも都合があるしな」,"Well, we have our reasons too.",,,
+tamaki.json,84,Dialog,Kyoya,「たまたまメンバーの都合があったから来たという事情を先に説明するには無理があるというものだろう」,"It's hard to explain that I came
+because of a coincidence with the
+members' schedules.",,,
+tamaki.json,86,Dialog,Haruhi,「それは申し訳ありませんでした」,I apologize for that.,,,
+tamaki.json,88,Dialog,Haruhi,その理屈で言うと、自分の都合はばっさりと切り捨てられてますよね。,"If I follow that logic, you're just
+throwing my feelings aside.",,,
+tamaki.json,89,Dialog,Haruhi,まあ、いいですけど。,"Well, that's fine.",,,
+tamaki.json,96,Dialog,Tamaki,「ハルヒはおとーさんに会えない間寂しかったかにゃ？」,"Did my princess feel lonely without
+your dad?",,,
+tamaki.json,98,Dialog,Haruhi,「いえ、むしろ会いたくなかったです」,"No, I didn't want to see you.",,,
+tamaki.json,104,Dialog,Tamaki,「おかーさん！　ハルヒが、ハルヒが〜」,Mom! Haruhi's here~!,,,
+tamaki.json,107,Dialog,Haruhi,「で、自分の家にみなさんは何をしにきたんですか？　事前に連絡があれば何か用意も出来たんですけど……」,"So, why did you guys come to my
+house? If you'd told me in advance,
+I could have prepared something...",,,
+tamaki.json,115,Dialog,Ranka,「ハルヒ、お客様？」,"Haruhi, are you a customer?",,,
+tamaki.json,117,Dialog,Haruhi,「お父さん、実は……」,"Daddy, actually...",,,
+tamaki.json,122,Dialog,Ranka,「あら？　鏡夜くんじゃない。お久しぶりー」,"Oh? Isn't that Kyoya-kun. Long time
+no see!",,,
+tamaki.json,130,Dialog,Kyoya,「お久しぶりです。蘭花さんは変わらずお美しいですね」,"It's been a while. You're still
+beautiful as ever.",,,
+tamaki.json,132,Dialog,Ranka,「やだーありがとう。そこにいるのは埴之塚くんに銛之塚くんよね？」,"Eww, thanks. The ones there are
+Kurakano-kun and Kamikamo-kun,
+right?",,,
+tamaki.json,146,Dialog,Mori,「……どうも」,「...Thanks.」,,,
+tamaki.json,148,Dialog,Honey,「こんにちは〜」,Hello~,,,
+tamaki.json,152,Dialog,Ranka,「それに光くん、馨くんね」,"And Hikaru-kun, Kaoru-kun...",,,
+tamaki.json,164,Dialog,Hikaru,「どーもー」,Hey there!,,,
+tamaki.json,166,Dialog,Kaoru,「２人合わせて」,Add them up.,,,
+tamaki.json,174,Dialog,Hikaru & Kaoru,「常陸院兄弟でーす」,Hiromiya twins here!,,,
+tamaki.json,179,Dialog,Ranka,「うふふ。今日はハルヒに用事かしら？」,"Hmm? Do you have something for
+Haruhi today?",,,
+tamaki.json,187,Dialog,Kyoya,「ええ、まあ。蘭花さんはお仕事お休みですか？」,"Yeah, well. Are you off work today,
+Ran-kun?",,,
+tamaki.json,196,Dialog,Tamaki,#Scale[0.7]「あの〜……」,#Scale[0.7]*um*...,,,
+tamaki.json,198,Dialog,Ranka,「たまにはハルヒと親子の時間でも作ろうと思ってね」,"I thought I'd make some
+father-daughter time with my
+princess.",,,
+tamaki.json,203,Dialog,Kyoya,「そうでしたか。親子水入らずの時間を割いてしまい申し訳ありません」,"I see. I apologize for taking time
+away from our alone time.",,,
+tamaki.json,205,Dialog,Ranka,「やだ、そんな気にしなくて良いのよ〜。騒がしいのは嫌いじゃないもの」,"Eww, don't worry about it~ I don't
+mind noisy people.",,,
+tamaki.json,213,Dialog,Tamaki,"#Pos[0,20]#Scale[1.8]「おとうさん！　あの！」","#Pos[0,20]#Scale[1.8] ""Daddy! Wait!""",,,
+tamaki.json,218,Dialog,Ranka,「なあに、大きな声を出して」,"Come on, speak up.",,,
+tamaki.json,223,Dialog,Tamaki,「あの、その、あの。お、俺のことは……」,"Um, well, um. A-about me...",,,
+tamaki.json,228,Dialog,Ranka,「ああ、でっかい害虫」,"「Ah, big pests!」",,,
+tamaki.json,246,Dialog,Hikaru,（ハルヒのパパさんの殿に対する印象って激悪だよね）,"(Haruhi's dad really hates him,
+doesn't he?)",,,
+tamaki.json,248,Dialog,Kaoru,（初対面で娘を押し倒してる男を見ればそりゃあ印象最悪じゃない？）,"(Wouldn't you think it's the worst
+impression ever to see a guy pinning
+down his daughter on first meeting?)",,,
+tamaki.json,250,Dialog,Hikaru & Kaoru,（つくづく殿ってむくわれないよね〜行動が空回りしすぎてある意味それも一種の才能っていうかさ）,"(Milord never gets rewarded for his
+efforts... backfiring this much is
+almost a talent.)",,,
+tamaki.json,255,Dialog,Haruhi,「あのー和んでいるところ申し訳ないんですけど……」,"Um, sorry to bother you while you're
+relaxing...",,,
+tamaki.json,262,Dialog,Kyoya,「ああ、手土産ならちゃんと持参してきているぞ」,"Of course, I brought proper gifts.",,,
+tamaki.json,264,Dialog,Haruhi,「いえ、そうゆうことではなくてですね……」,It's not quite like that...,,,
+tamaki.json,269,Dialog,Kyoya,「庶民料理のすき焼きというものを食したくなってな。もちろん材料費はこちらもちだ」,"I feel like having sukiyaki, a dish
+for commoners. Of course, I'll cover
+all the ingredients.",,,
+tamaki.json,271,Dialog,Haruhi,「ですから」,So,,,
+tamaki.json,276,Dialog,Kyoya,「これが材料費だ。なるべく高級な素材を見繕うように」,"These are the material costs. Try to
+pick high-quality materials.",,,
+tamaki.json,277,Dialog,Kyoya,ぽんっと手の上に分厚い財布がのせられる。,"A thick wallet is placed on my hand
+with a thud.",,,
+tamaki.json,278,Dialog,Kyoya,あの、自分の言い分は無視ですよね？　明らかに。,"You're ignoring my side of the
+story, right? Obviously.",,,
+tamaki.json,280,Dialog,Haruhi,「……なんで自分が……」,Why am I...,,,
+tamaki.json,282,Dialog,Kyoya,「この辺りの事情に我々は明るくないからな」,We're not familiar with this area.,,,
+tamaki.json,290,Dialog,Mori,「……頼む」,...Please.,,,
+tamaki.json,292,Dialog,Haruhi,「はあ、仕方ないですね。ちょっと行ってきますから大人しく待ってて下さいよ」,"Fine, I'll be back soon. Stay put
+and wait for me.",,,
+tamaki.json,294,Dialog,Haruhi,わざわざ高級という指定をつけて、渡されたお財布もこの厚さ。この辺りのスーパーに並ぶ食材では到底期待にそえないだろう。,"He asked for high-end -- look how
+thick this wallet is. No local
+supermarket meets that.",,,
+tamaki.json,295,Dialog,Haruhi,となると商店街の方に行くことになるんだけど……メンバーの肥えた舌を満足させる食材を自分もちょっとはあやかれるわけで。,"Guess we're headed to the shopping
+district... I might get to enjoy the
+fancy food myself.",,,
+tamaki.json,297,Dialog,Haruhi,（なんか食べ物に釣られているみたいで嫌だなあ……）,"(I don't like feeling like I'm being
+lured with food... Well, this",,,
+tamaki.json,298,Dialog,Haruhi,まあ、こんな機会なんて滅多にないし素直にあやかっておこうかな。,"opportunity doesn't come often, so
+maybe I'll just accept it.)",,,
+tamaki.json,305,Dialog,Ranka,「ん〜お父さんもハルヒについていこっかな」,Hmm~ Should I go with Haruhi too?,,,
+tamaki.json,323,Dialog,Haruhi,「お父さんも一緒にくるの？」,"Are you coming too, Dad?",,,
+tamaki.json,325,Dialog,Ranka,「娘とのスキンシップも大事だもの〜」,"It's important to bond with my
+daughter too~",,,
+tamaki.json,327,Dialog,Haruhi,「じゃあ一緒に……」,「Then let's do it together...」,,,
+tamaki.json,335,Dialog,Tamaki,「ハルヒとおとうさんのお供をさせて下さい！！」,"Let me accompany my princess and
+father!!",,,
+tamaki.json,340,Dialog,Ranka,「……空気が読めない子ね、あんたは」,You're clueless about social cues.,,,
+tamaki.json,342,Dialog,Tamaki,「ぬうう。俺は是非おとうさんに認めてもらおうと！」,"Noooo. I'll definitely get my dad to
+acknowledge me!",,,
+tamaki.json,344,Dialog,Ranka,「何を認めるの？」,What are you admitting?,,,
+tamaki.json,349,Dialog,Tamaki,「えっと、その……俺のおとうさんとしての立場を！」,"Uh, well... As my dad's position!",,,
+tamaki.json,354,Dialog,Ranka,「アホは放っておいて２人で行きましょうか」,"Let's go together and leave the
+idiot behind.",,,
+tamaki.json,359,Dialog,Tamaki,「ま、待って下さい！　おとうさん！」,Wait! Father!,,,
+tamaki.json,364,Dialog,Ranka,「あんたにおとうさんって連呼される覚えはないんだけどね〜」,"I don't have any memory of you
+calling me 'daddy,' though~",,,
+tamaki.json,366,Dialog,Haruhi,「お父さん！　このままだと環先輩にキノコが生えてまた面倒なことになるから……」,"Dad! If we don't do something,
+Tama-chan will grow mushrooms again
+and cause more trouble...",,,
+tamaki.json,371,Dialog,Ranka,「もう、しょーがないわねえ。いいわよ、ついてきても」,"Fine, I guess there's no help for
+it. Come on then.",,,
+tamaki.json,376,Dialog,Tamaki,「あ、ありがとうございます！」,"Ah, thank you!",,,
+tamaki.json,391,Dialog,Hikaru,「……どーすんのさ」,What're you gonna do?,,,
+tamaki.json,393,Dialog,Kaoru,「殿とハルヒのパパさん一緒に出かけちゃったじゃん」,"You went out together with my dad
+and Tamaki-sama.",,,
+tamaki.json,402,Dialog,Kyoya,「当初の予定とは違うが、軌道修正可能だろう」,"We can adjust course even if it's
+not what we planned.",,,
+tamaki.json,410,Dialog,Hikaru,「ふーん。まあ、これから先は鏡夜先輩に任せて」,"Hmm. Well, I'll leave it to you from
+now on, Kyoya-senpai.",,,
+tamaki.json,412,Dialog,Kaoru,「僕たちは面白おかしく騒いでいればいいよねー」,"We just gotta make a fun ruckus,
+right~?",,,
+tamaki.json,417,Dialog,Kyoya,「……ほどほどにな」,Enough already.,,,
+tamaki.json,424,Dialog,Haruhi,「なるべく高級な食材をということなので、スーパーではなく商店街の方に行ってみたいと思います」,"I'll head to the shopping district
+instead of the supermarket since we
+want high-quality ingredients.",,,
+tamaki.json,425,Dialog,Haruhi,ここからだと２駅先の商店街まで行くことになるから、短く見積もっても４０分はかかる。,"It will take at least 40 minutes to
+get to the shopping street two
+stations away from here.",,,
+tamaki.json,426,Dialog,Haruhi,ホスト部メンバーが満足するほどの食材が揃うかはわからないけど、確実に近所で高級食材を見つけるのは困難を極めるからね。,"Not sure we'll satisfy the whole
+Host Club, but high-end ingredients
+nearby are hard to find.",,,
+tamaki.json,427,Dialog,Haruhi,確か、あの商店街の先には大型のスーパーやデパートもあったはずだから、場合によってはそこまで歩けばいいわけだし。,"Past that street there's a big
+supermarket and department store, so
+we can walk there if needed.",,,
+tamaki.json,434,Dialog,Tamaki,「商店街か！　色々なお店があって賑々しくしているのだろうなあ！」,"The shopping district! It must be
+bustling with all sorts of shops!",,,
+tamaki.json,436,Dialog,Haruhi,「まあ、今日は休みなのでいつもより混んでいると思いますよ」,"Well, since today's a holiday, I
+think it'll be busier than usual.",,,
+tamaki.json,438,Dialog,Tamaki,「おお、そうか！　前に皆の衆で行ったスーパーも異国のカーニバルのように賑わっていたがそれを上回る賑やかさか？」,"Oh, is that so! The supermarket we
+went to before was as lively as a
+carnival -- even more than that?",,,
+tamaki.json,440,Dialog,Haruhi,「異国のカーニバルは言いすぎですけど、それより騒がしいですね、あそこは」,"That's an exaggeration, but it sure
+is noisy over there.",,,
+tamaki.json,445,Dialog,Tamaki,「わくわく。わくわく」,Woo hoo! Woo hoo!,,,
+tamaki.json,453,Dialog,Ranka,「……嬉しさを言葉に出すなんてこの子、ハルヒより年上よね？」,"...To put your happiness into words,
+you must be older than Haruhi?",,,
+tamaki.json,455,Dialog,Haruhi,「一応先輩です」,I am your senior after all.,,,
+tamaki.json,457,Dialog,Ranka,「こんなのが先輩って世も末よねえ」,"This is what you call an
+upperclassman? The world's coming to
+an end.",,,
+tamaki.json,459,Dialog,Haruhi,「でも……ちょっとお父さんに似てますよ、環先輩」,"But... you kind of remind me of my
+dad, Tamaki-senpai.",,,
+tamaki.json,464,Dialog,Ranka,「！！？　やめてよね〜ワタシはもっとスマートよ？　それにこんな子供っぽいんだかアホなんだかわからないキャラじゃないわよ」,"!!? Cut it out~ I'm way more
+sophisticated! I'm not some
+childish, dumb character, okay?",,,
+tamaki.json,469,Dialog,Tamaki,「おとうさんと一緒か！　それは光栄だな！」,"Are you with my dad too?! That's an
+honor!",,,
+tamaki.json,474,Dialog,Ranka,「ワタシはぜったいに認めませんからね！　あんたは敵、敵！」,"I won't ever acknowledge you! You're
+my enemy, enemy!",,,
+tamaki.json,478,Dialog,Ranka,うーん、行動も言動も結構似てるんだけどなあ。,"Hmm, our actions and words are
+pretty similar.",,,
+tamaki.json,481,Dialog,,もしかしてあれかな、同属嫌悪。,Could it be that? Xenophobia.,,,
+tamaki.json,482,Dialog,,だとしたら……。,If that's so...,,,
+tamaki.json,484,Dialog,Haruhi,（あれはあれで案外仲良しなのかもね）,"(I guess they're pretty close after
+all.) It's too troublesome",,,
+tamaki.json,485,Dialog,Haruhi,いろいろと突っ込むのも面倒なので、そうゆうことにしておこう、うん。,"to argue with that, so I'll just go
+along with it.",,,
+tamaki.json,489,Dialog,Haruhi,「まずどこから見て行きましょうか？」,Where should we start looking?,,,
+tamaki.json,496,Dialog,Ranka,「ハルヒ、中心部にいけば専門店があるわよ」,"Haruhi, there are specialty stores
+in the center.",,,
+tamaki.json,505,Dialog,Tamaki,「ハルヒ、ハルヒ！　人がいっぱいいてなんだか楽しそうだなぁ！」,"Haruhi, Haruhi! There are so many
+people and it looks like a lot of
+fun!",,,
+tamaki.json,507,Dialog,Haruhi,「あーそうですね。じゃあ中心部に行って店を回ってみましょう」,"Okay, let's go to the center and
+check out some stores.",,,
+tamaki.json,509,Dialog,Tamaki,「わくわく。わくわく」,Woo hoo! Woo hoo!,,,
+tamaki.json,517,Dialog,Ranka,「……ほんと馬鹿」,...You really are stupid.,,,
+tamaki.json,525,Dialog,Honey,（タマちゃん楽しそうだねえ）,(Tamaki looks like he's having fun~),,,
+tamaki.json,537,Dialog,Hikaru,（僕らも含め、こうゆうところで買い物することってないじゃん）,"(We never do shopping here, even
+including ourselves.)",,,
+tamaki.json,539,Dialog,Kaoru,（そうそう。特に殿は楽しいものに目がないからね〜）,"(Sure thing. Our prince especially
+loves fun things~)",,,
+tamaki.json,547,Dialog,Hikaru & Kaoru,（だからハルヒのパパさんに馬鹿とか言われちゃうんだよね）,"(That's why Haruhi's dad calls me an
+idiot.)",,,
+tamaki.json,557,Dialog,Mori,（……右に曲がるようだ）,(...turning right),,,
+tamaki.json,562,Dialog,Honey,（たいへんたいへーん！　早く着いていかないと！）,(Oh no oh no! We have to hurry!),,,
+tamaki.json,571,Dialog,Kyoya,（……あまり騒ぐと気付かれるぞ。まあ、既に気付かれている可能性はあるようだが）,"(...Too much noise and they'll
+notice us. Though we might already
+be noticed.)",,,
+tamaki.json,581,Dialog,Haruhi,「お父さん、どうしたの？」,"What's wrong, Dad?",,,
+tamaki.json,586,Dialog,Ranka,「んーん。なんでもない。さ、早く行きましょ」,"Mm-mm. Nothing's wrong. C'mon, let's
+go.",,,
+tamaki.json,591,Dialog,Clerk A,「さあ寄ってらっしゃい、見てらっしゃい。今から２０分のタイムセールの開始だよ！」,"C'mon over and take a look! The
+time-limited sale starts in twenty
+minutes!",,,
+tamaki.json,593,Dialog,Clerk A,「サーロインステーキ定価１０００円のところを今ならなんと８００円！」,"Sirloin steak! Regular price 1000
+yen, now just 800 yen!",,,
+tamaki.json,595,Dialog,Clerk A,「破産覚悟の大出血サービスだ！！　さあ、早い者勝ちだよ！」,"Bankruptcy be damned, this is a huge
+loss service!! First come, first
+served!",,,
+tamaki.json,605,Dialog,Tamaki,「なななななんと、破産覚悟な上に大出血サービスをするなどなんたる博愛精神！！」,"What kind of philanthropy is this?
+Bankrupting yourself and offering
+such a huge discount!!",,,
+tamaki.json,610,Dialog,Tamaki,「これは善良な市民としてあの店のために並ばねば！！」,"I must wait in line for that shop as
+a good citizen!!",,,
+tamaki.json,612,Dialog,Tamaki,ちょっと目を離した隙に、環先輩がふらふらとタイムサービスを始めた店に引き寄せられていく。,"Just when I look away, Senpai starts
+dragging me to a store offering
+freebies.",,,
+tamaki.json,613,Dialog,Tamaki,うかつだった……。環先輩はお涙ちょうだいものとかに弱いんだった。,"I was careless... Senpai can't
+resist sob stories.",,,
+tamaki.json,615,Dialog,Haruhi,「行かなくていいです。あまりうろちょろしないで下さいよ？　自分もこの辺りに詳しくないんですから」,"You don't have to go. Don't wander
+around too much, okay? I'm not
+familiar with this area either.",,,
+tamaki.json,622,Dialog,Tamaki,「しかし破産覚悟と腹をくくっているのをスルーするのはいかがなものかにゃ？」,"Isn't it a bit reckless to ignore
+the fact that you're prepared for
+bankruptcy?",,,
+tamaki.json,624,Dialog,Haruhi,「実際には破産しませんし、それが狙いなんですよ。はいはい、行きますよ」,"We won't actually go bankrupt.
+That's the point. All right, let's
+do it.",,,
+tamaki.json,627,Dialog,Tamaki,「ま、待ってくれよハルヒ〜」,"Wait, Haruhi!",,,
+tamaki.json,629,Dialog,Clerk B,「今日は祝日サービスデイ！　ポイントが通常の３倍つくよー！　３００円のお買い物につき１ポイントが今日は３ポイント！」,"Today's a holiday service day!
+Triple points! Normally 1 point per
+300 yen, but today it's 3!",,,
+tamaki.json,631,Dialog,Clerk B,「この機会にポイントカードをつくる予定のお客様、どうぞよって見て下さい！」,"Customers planning to get point
+cards, please take a look!",,,
+tamaki.json,641,Dialog,Tamaki,「なななななんと、通常では３００円１ポイントを今日は３倍にしてくれるのか！」,"""Whaaat, you're giving three times
+the usual points today?""!",,,
+tamaki.json,643,Dialog,Tamaki,「ということは、９００円のお買い物をしたのと同じポイントがつくと言うのだな！　なんと、お買い得な日なのだ！！」,"That means I get the same points as
+if I spent 900 yen! What a great
+deal!!",,,
+tamaki.json,645,Dialog,Haruhi,「あーはいはい、行きますよー」,"Okay, okay, I'm going!",,,
+tamaki.json,648,Dialog,Tamaki,「ああ、店が……遠ざかっていく〜」,"Yeah, the shop... is getting farther
+away~",,,
+tamaki.json,650,Dialog,Clerk C,「さあさあ、店じまいセールだ！　定価の半額なんてざらだよ、ざら！」,"C'mon, c'mon! It's our closing sale!
+Half price is the norm here!",,,
+tamaki.json,660,Dialog,Tamaki,「なななななんと、定価の半額！！　儲けなどないではないか！！　しかも店じまいとならばここはこの須王環、一肌脱がねば！」,"Wh-Wh-What, half price?! No profit
+in that! If they're closing shop,
+Tamaki Suoh must lend a hand!",,,
+tamaki.json,666,Dialog,Haruhi,「行かんでいい！」,Don't go!,,,
+tamaki.json,667,Dialog,Haruhi,あーもう。環先輩を連れてきたのは失敗だったかなあ。,"Aw, maybe bringing Tama-chan was a
+mistake.",,,
+tamaki.json,675,Dialog,Tamaki,「あの、ハルヒ」,"「Hey, Haruhi.」",,,
+tamaki.json,677,Dialog,Haruhi,「なんですか？」,What is it?,,,
+tamaki.json,679,Dialog,Tamaki,「もしかして……俺は邪魔かにゃ？」,「Maybe... am I in the way?」,,,
+tamaki.json,688,Dialog,Haruhi,「そうですね。軽く邪魔です」,"Yeah, you're kind of in the way.",,,
+tamaki.json,693,Dialog,Tamaki,「ぬ、ぬう。ほどほどにします……」,N-N-No. I'll stop right there...,,,
+tamaki.json,695,Dialog,Haruhi,「そうしてくれると助かります」,That would be a great help.,,,
+tamaki.json,698,Dialog,Haruhi,「はっきり言って邪魔です」,"Frankly, you're in the way.",,,
+tamaki.json,706,Dialog,Ranka,「目的地以外のところで立ち止まってばっかりいられると迷惑よね〜」,"Standing still everywhere else is
+annoying~",,,
+tamaki.json,711,Dialog,Tamaki,「わああああん！　俺は最低の人間です〜」,"Waaaaaaaaah! I'm the worst person
+ever--!",,,
+tamaki.json,714,Dialog,Tamaki,#Scale[0.7]「ごめんなさいぃぃーーーー」,"#Scale[0.7] ""I'm sorryyyyyyy""",,,
+tamaki.json,717,Dialog,Tamaki,……あの時、違った返事をしていれば、別の結末もあったのかな？,"...If I had answered differently
+back then, would things have turned
+out differently?",,,
+tamaki.json,718,Dialog,Tamaki,もし、あの時に戻れたら、今度は別の答え方を……,"If I could go back to that moment,
+I'd answer differently this time...",,,
+tamaki.json,723,Dialog,Haruhi,「んーそんなに邪魔ではないですよ」,"Hmm, it's not that much of an
+obstruction.",,,
+tamaki.json,724,Dialog,Haruhi,ちょっとウザく思う時はありますけど。,It can be annoying sometimes.,,,
+tamaki.json,729,Dialog,Tamaki,「そ、そうか！　うむ、ほっとしたぞ」,"Is that so! Well, I'm relieved.",,,
+tamaki.json,732,Dialog,Haruhi,「慣れてますから。別に邪魔とか思いませんよ」,"I'm used to it. I don't think of it
+as getting in the way.",,,
+tamaki.json,737,Dialog,Tamaki,「そうか！　ハルヒに嫌われたらどうしようかと思ったぞ。良かった良かった」,"Really? I was worried you'd hate me!
+Phew, that's a relief!",,,
+tamaki.json,746,Dialog,Tamaki,「……ハルヒ、あれはなんだ？」,"...Haruhi, what's that?",,,
+tamaki.json,748,Dialog,Haruhi,「？　ああ、あれはカプセル自販機ですね」,"Hmm? Oh, that's a capsule vending
+machine.",,,
+tamaki.json,753,Dialog,Tamaki,「カプセル自販機？」,Vending machine capsule?,,,
+tamaki.json,755,Dialog,Haruhi,「ガチャとかポンとか言われているんですけど、お金を投入して取っ手を回すと中からカプセルが出てくるんです」,"That's what they call gacha or pona.
+You put in money, turn the crank,
+and a capsule comes out.",,,
+tamaki.json,760,Dialog,Tamaki,「おおおお！　それは面白そうだ！！」,Ooh! That sounds fun!!,,,
+tamaki.json,762,Dialog,Haruhi,「はあ、そうですか」,"Hmm, really?",,,
+tamaki.json,764,Dialog,Tamaki,「よし！　やってみようではないか！　……ハルヒ」,"All right! Let's give it a try!
+...Haruhi!",,,
+tamaki.json,766,Dialog,Haruhi,「……小銭がないんですね？」,...You don't have any change?,,,
+tamaki.json,771,Dialog,Tamaki,「う、うむ。小銭を貸してくれないかにゃーなんて」,"「U-Um. Not that I wanted you to lend
+me money nya~」",,,
+tamaki.json,772,Dialog,Tamaki,いつも思うんですが、なんでたまに猫口調なんですか環先輩……。,"I always wonder why you sometimes
+talk like a cat, Senpai...",,,
+tamaki.json,773,Choice,Tamaki,小銭を貸す,Lend me some change.,,,
+tamaki.json,774,Choice,Tamaki,小銭を貸さない,Don't lend me money.,,,
+tamaki.json,784,Dialog,Haruhi,「仕方ないですね。はい、５００円。ちゃんと返して下さいよ」,"Can't be helped. Here's 500 yen.
+Make sure to give it back.",,,
+tamaki.json,789,Dialog,Tamaki,「おおおお！　ありがとう、ハルヒ！！」,"「Oohoo! Thanks, Haruhi!!」",,,
+tamaki.json,791,Dialog,Haruhi,「近い、近い。顔が近いです」,"Close, close. Our faces are so
+close.",,,
+tamaki.json,796,Dialog,Tamaki,「お、俺としたことがついはしゃいでしまったな」,"Man, I got carried away.",,,
+tamaki.json,797,Dialog,Tamaki,……いつもはしゃいでますよね。,You're always so lively.,,,
+tamaki.json,802,Dialog,Tamaki,「１回１００円か。なんと５回も出来るのか！これは楽しみだなあ」,"100 yen per game? I can play five
+times! This is fun!",,,
+tamaki.json,805,Dialog,Haruhi,「嫌です」,No way.,,,
+tamaki.json,810,Dialog,Tamaki,「ノー！！」,No!!,,,
+tamaki.json,815,Dialog,Tamaki,「いや、いいんだ。俺がハルヒを困らせるようなことを言ったのが悪いんだよな」,"No, it's fine. I'm the one who said
+something to make Haruhi
+uncomfortable.",,,
+tamaki.json,817,Dialog,Tamaki,「庶民が楽しむ行事というものを俺も体感してみたかったが、それは次の機会に……」,"I wanted to experience what it's
+like for commoners to enjoy
+festivities, but maybe next time...",,,
+tamaki.json,822,Dialog,Tamaki,「次の機会があるよな、ハルヒ？」,"Will there be another chance,
+Haruhi?",,,
+tamaki.json,824,Dialog,Haruhi,「〜〜〜はい、５００円です。これで遊んでて下さい！」,"Here you go, 500 yen! Have fun with
+this!",,,
+tamaki.json,830,Dialog,Tamaki,「いろいろ種類があるが、さてさて、どのガチャで遊ぼうかな〜♪」,"Wow, there are so many kinds! Hm,
+which one should I play with~?",,,
+tamaki.json,832,Dialog,Haruhi,「環先輩。自分たちは雑貨店に用事があるので、終わったら雑貨店に来て下さい」,"Tamaki-senpai. We have something to
+do at the sundries shop, so please
+come there when you're done.",,,
+tamaki.json,833,Dialog,Haruhi,どうせ暫くはここで足止めされるんだし、その,"Since we'll be stuck here for a
+while anyway,",,,
+tamaki.json,834,Dialog,Haruhi,間に自分の用を済ませてしまおう。,"I might as well take care of my
+business.",,,
+tamaki.json,836,Dialog,Tamaki,「うむ」,Hmm.,,,
+tamaki.json,838,Dialog,Haruhi,「くれぐれも迷子にならないで下さいね。探すの大変なんですから」,"Please don't get lost. It's such a
+hassle to look for you.",,,
+tamaki.json,846,Dialog,Ranka,「どっちが年上かわかんないわよね〜」,I can't tell who's older~,,,
+tamaki.json,848,Dialog,Haruhi,「まあ、これが環先輩ですから。じゃあ行ってきます」,"Well, that's just how Tama-chan is.
+I'll be going now.",,,
+tamaki.json,854,Dialog,Tamaki,「ハルヒ、ハルヒー！！」,"Haruhi, Haruhi!!",,,
+tamaki.json,856,Dialog,Haruhi,「！？　ど、どうしたんですか環先輩」,"!? W-What's wrong, Tamaki-senpai?",,,
+tamaki.json,857,Dialog,Haruhi,必死の形相でこっちに駆けてくる環先輩と、何故か隣には５、６歳の女の子を連れている。,"Tamaki-senpai comes running,
+desperate, with a 5- or 6-year-old
+girl at his side for some reason.",,,
+tamaki.json,859,Dialog,Tamaki,「うむ。一大事だ！」,Hmm. This is serious!,,,
+tamaki.json,861,Dialog,Haruhi,「それだけじゃ全然わかりません」,I still don't get it.,,,
+tamaki.json,869,Dialog,Tamaki,「実はだな。買い物をしている間、この子も俺と同じ様に自販機の前で待つよう母親に言われたらしくてな」,"Actually, it seems that her mom told
+her to wait by the vending machine
+like I did while she was shopping.",,,
+tamaki.json,871,Dialog,Tamaki,「それからかれこれ３０分は経っているが母親がいっこうに姿を現さないというのだ！」,"It's been about thirty minutes, but
+my mother still hasn't shown up!",,,
+tamaki.json,873,Dialog,Haruhi,「それは……心配ですね」,That's... worrying.,,,
+tamaki.json,875,Dialog,Tamaki,「だろう！　しかもだ、この子のお母上は妊娠中であまり具合が良くない。何処ぞで倒れていたら一大事だろう？」,"Right?! Her mother's pregnant and
+unwell too. If she collapsed
+somewhere, that'd be a disaster!",,,
+tamaki.json,877,Dialog,Haruhi,「確かにそれは一大事ですね」,That's definitely a serious matter.,,,
+tamaki.json,888,Dialog,Kyoya,「ああ、一大事だな」,"Wow, this is serious.",,,
+tamaki.json,894,Dialog,Tamaki,「鏡夜！　お前いつからそこに！？」,Kyoya! When did you get there!?,,,
+tamaki.json,896,Dialog,Kyoya,「時間にすれば数分前といったところだな」,It was just a few minutes ago.,,,
+tamaki.json,898,Dialog,Haruhi,「自分たちの後をつけてきたんですか？」,Are you following us?,,,
+tamaki.json,901,Dialog,Haruhi,家で待ちきれなかった、とか子供っぽい理由ではないよね、流石に。,"It's not like I couldn't wait at
+home or some childish excuse, right?
+Of course.",,,
+tamaki.json,913,Dialog,Hikaru,「実はさーハルヒのパパさんの殿に対する印象をちょっとでも良くしようと思ってさ」,"I was thinking of improving your
+dad's impression of me just a
+little.",,,
+tamaki.json,915,Dialog,Kaoru,「そうそう。それでわざわざハルヒだけ買い物に行かせようとしたら肝心の２人も着いて行っちゃって」,"That's right. And when I tried to
+send Haruhi shopping alone, the two
+important ones followed her.",,,
+tamaki.json,923,Dialog,Hikaru & Kaoru,「だから仕方なく僕らも行くことになったんだよね〜」,So we had to go along too~,,,
+tamaki.json,932,Dialog,Honey,「ハルちゃん、タマちゃん、黙っててごめんね」,"Haru-chan, Tama-chan, sorry for
+keeping quiet.",,,
+tamaki.json,934,Dialog,Haruhi,「……ようするに、予期しない出来事だったから後をつけてきたと？」,"So you're saying you followed us
+because of an unexpected event?",,,
+tamaki.json,942,Dialog,Mori,「……ああ」,...Yeah.,,,
+tamaki.json,944,Dialog,Haruhi,「はあ……まあ、いいですけどね」,"Ha... Well, I guess it's fine.",,,
+tamaki.json,952,Dialog,Tamaki,「うむ、人生とは常に予測通りには動かぬものなのだよ！」,"Indeed, life never goes exactly as
+planned!",,,
+tamaki.json,960,Dialog,Kyoya,「今はそのことよりも、その子供の母親探しをするんじゃないのか？」,"Aren't you supposed to be looking
+for that kid's mother right now?",,,
+tamaki.json,965,Dialog,Tamaki,「おお、そうだったな。母親の居所がわからないならば父親に連絡をすべきだろうと思ったのだが、父親の連絡先を知らないのだそうだ」,"Oh, right. I thought we should
+contact her father, but it turns out
+she doesn't have his info either.",,,
+tamaki.json,967,Dialog,Girl,「……ごめんなさい」,...I am sorry.,,,
+tamaki.json,974,Dialog,Tamaki,「謝らなくても良いのだよ！　なので皆の衆にここで提案なのだが、俺が１日代理お父さんをしようと思う！」,"Don't apologize! So I have a
+proposal for everyone here. I'll be
+your stand-in dad for a day!",,,
+tamaki.json,982,Dialog,Ranka,「またお父さんなの？」,Are you my dad again?,,,
+tamaki.json,987,Dialog,Tamaki,「は、ハルヒ！　俺がおとーさんでは駄目だろうか？」,Ha-Haruhi! Can't I be your dad?,,,
+tamaki.json,998,Dialog,Haruhi,「あまり連発するのはよくないと思いますよ」,"I don't think it's good to do that
+too much.",,,
+tamaki.json,1003,Dialog,Tamaki,「う、うむ……だけどこのまま放ってはおけまい」,"Y-Yes... But I can't just leave it
+like this.",,,
+tamaki.json,1007,Dialog,Haruhi,「よくないと思います。本当の父親がいるんですし、父親じゃなくても良いんじゃないですか？」,"I don't think that's good. You have
+a real father, so maybe you don't
+need another one?",,,
+tamaki.json,1012,Dialog,Tamaki,「ガーン！！」,「Gah!!」,,,
+tamaki.json,1017,Dialog,Tamaki,「……しかし、あえて俺は復活する！　白い目で見られようと構うものか！！」,"...But I shall rise again! Who cares
+if they stare at me with those white
+eyes!!",,,
+tamaki.json,1021,Dialog,Haruhi,「まあ、いいんじゃないですか。環先輩だし」,"Well, it's fine, right? He's our
+king.",,,
+tamaki.json,1026,Dialog,Tamaki,「そうか、そうか。ならお父さんと名乗っても大丈夫だな」,"Is that so? Then it's fine for me to
+call myself your father.",,,
+tamaki.json,1030,Dialog,Haruhi,「環先輩は仮でもこの子のお父さんになりたいんですよね？」,"Are you really that desperate to be
+this girl's dad, even if it's just
+pretend?",,,
+tamaki.json,1035,Dialog,Tamaki,「うむ。この子の不安を少しでも拭えたらと思ってな」,"Hmm. I thought I'd ease her worries
+a bit.",,,
+tamaki.json,1037,Dialog,Haruhi,「なら……お父さんでも良いと思います、自分は」,"I think... 'Father' would be fine
+for me.",,,
+tamaki.json,1046,Dialog,Tamaki,「鏡夜、何処に行ってたんだ？」,"Kyoya, where were you?",,,
+tamaki.json,1054,Dialog,Kyoya,「入り口付近に人が集まっていたからな。何を話しているのか聞いたらちょうどその子の母親のことを話題にしていたようだ」,"People were gathered near the
+entrance. Turns out they were
+talking about this girl's mother.",,,
+tamaki.json,1059,Dialog,Tamaki,「なぬ！　それは願ってもない情報だ！」,"What! That's information I've been
+wishing for!",,,
+tamaki.json,1061,Dialog,Haruhi,「お母さんは近くにいるんですか？」,Is your mom nearby?,,,
+tamaki.json,1066,Dialog,Kyoya,「向かいのデパートで買い物をしていた主婦が陣痛を起こし病院に運ばれた。場所はここから１駅先の病院だ」,"A woman shopping at the department
+store went into labor, taken to the
+hospital one stop from here.",,,
+tamaki.json,1067,Dialog,Kyoya,鏡夜先輩が１枚の紙切れを環先輩に渡す。,"Kyoya-senpai hands a piece of paper
+to Tamaki-senpai.",,,
+tamaki.json,1072,Dialog,Kyoya,「そこに病院までの行き方が書いてある。……お前はその子供の父親なのだろう？」,"There's directions to the hospital
+over there. ...You're that kid's
+father, right?",,,
+tamaki.json,1077,Dialog,Tamaki,「ああ！　母親の姿が見えなければ、子供は父親を求めるだろう。今ここに父親がいないのであれば……」,"Ah! If they don't see their mother,
+children will look for their father.
+Since there's no father here...",,,
+tamaki.json,1079,Dialog,Tamaki,「俺が代理とはいえ父としてこの子を守る義務がある！」,"I have the duty to protect her as
+her father, even if I'm just
+standing in!",,,
+tamaki.json,1087,Dialog,Ranka,「ふーん、真剣に父親役になろうとしてるのね、あんた」,"Hmm, you're really trying to be a
+serious father, aren't you?",,,
+tamaki.json,1091,Dialog,Girl,「お父さん……」,Dad...,,,
+tamaki.json,1092,Dialog,Girl,女の子の手が、環先輩の服の裾を掴む。,"The girl's hand grabs Senpai's
+shirt.",,,
+tamaki.json,1093,Dialog,Girl,今にも零れ落ちそうな涙をそっと環先輩の手が拭う。,"Tamaki-senpai gently wipes away my
+tears that are about to fall.",,,
+tamaki.json,1098,Dialog,Tamaki,「だいじょうぶ。これからお母さんに会いに行こう。俺も、みんなも……一緒だ」,"I'm fine. Let's go see Mom together.
+I'll be with you and everyone...",,,
+tamaki.json,1100,Dialog,Girl,「うん……」,Right...,,,
+tamaki.json,1102,Dialog,Tamaki,「では行こうか！」,「Then let's go!」,,,
+tamaki.json,1112,Dialog,Tamaki,「だいじょうぶだろうか、だいじょうぶだろうか〜」,Are you okay? Are you okay?,,,
+tamaki.json,1124,Dialog,Hikaru,「殿が心配したってしょうがないじゃん」,It's no use worrying about you.,,,
+tamaki.json,1126,Dialog,Kaoru,「ねー」,No way.,,,
+tamaki.json,1128,Dialog,Tamaki,「いやいや、今まさに新たな生命が芽吹こうとしているのだぞ！」,"No, no, new life is about to sprout
+right now!",,,
+tamaki.json,1133,Dialog,Hikaru,「でも殿の子供じゃないじゃん」,But you're not my lord's child.,,,
+tamaki.json,1138,Dialog,Tamaki,「俺はお父さんだ！！」,I'm your dad!!,,,
+tamaki.json,1143,Dialog,Kaoru,「代理のね」,「In your place.」,,,
+tamaki.json,1148,Dialog,Tamaki,「代理でも立派にお父さんだ！　お父さんはお母さんを心配するものなんだ！　なあ、お母さん？」,"I'm still a great dad even as a
+stand-in! Dads worry about their
+moms, right? Mom?",,,
+tamaki.json,1158,Dialog,Kyoya,「……俺は母親ではないと何度言ったらわかるんだ、お前は」,"I told you already, I'm not your
+mother!",,,
+tamaki.json,1162,Dialog,Nurse A,「無事出産しました！　丈夫な男の子です！」,"We had a safe delivery! It's a
+healthy boy!",,,
+tamaki.json,1164,Dialog,Girl,「お父さん！！」,Daddy!!,,,
+tamaki.json,1165,Dialog,Girl,女の子が手を広げてこちらに駆け寄ってくる。,"A girl runs over with her arms
+outstretched.",,,
+tamaki.json,1170,Dialog,Tamaki,「娘よ！」,My daughter!,,,
+tamaki.json,1171,Dialog,Tamaki,それを受け止めようと環先輩も手を広げて……。,"Takashi also tried to catch it by
+spreading his arms...",,,
+tamaki.json,1177,Dialog,Girl,「お父さん！」,Dad!,,,
+tamaki.json,1179,Dialog,dad,「ごめんな、お前を１人にしてごめんな」,Sorry for leaving you alone.,,,
+tamaki.json,1181,Dialog,Girl,「ううん、いいの。お母さん、男の子を産んだんだよ？　私、お姉ちゃんになるの」,"Nope, it's fine. Mom gave birth to a
+boy? I'll be the big sister.",,,
+tamaki.json,1193,Dialog,Hikaru,「切ないねえ」,"Aww, how sad.",,,
+tamaki.json,1195,Dialog,Kaoru,「うん、あれは切ないねえ」,"Yeah, that's so sad.",,,
+tamaki.json,1199,Dialog,Haruhi,「先輩、いつまでそうしているつもりですか？」,"Senpai, how long do you plan on
+doing that?",,,
+tamaki.json,1202,Dialog,Tamaki,「……う、うむ。だが……良かったな。うん、良かった」,"...Y-yes. But... it's good. Yeah,
+it's good.",,,
+tamaki.json,1203,Dialog,Tamaki,この人って本当に涙もろいよね。,"This guy really is sensitive to
+tears.",,,
+tamaki.json,1205,Dialog,Haruhi,「はい、これハンカチです」,"Here, this is a handkerchief.",,,
+tamaki.json,1207,Dialog,Tamaki,「ぐすひっく……ありがと、ハルヒ」,"Sneeze... Thanks, Haruhi.",,,
+tamaki.json,1209,Dialog,Haruhi,「それで鼻はかまないでくださいよ」,So don't pick your nose.,,,
+tamaki.json,1211,Dialog,Ranka,「……ほんとあんたって馬鹿よね、馬鹿」,"You really are an idiot, you know.",,,
+tamaki.json,1213,Dialog,Ranka,「ま、憎めない馬鹿っていうのもいいんじゃないの、あんたの場合はさ」,"Well, maybe it's not so bad to be an
+endearing fool in your case.",,,
+tamaki.json,1215,Dialog,Tamaki,「おとーさん！」,Daddy!,,,
+tamaki.json,1217,Dialog,Ranka,「でもあんたは敵よ！　敵だから懐いたら承知しないんだからねー」,"But you're my enemy! I won't forgive
+you if you get too friendly!",,,
+tamaki.json,1218,Dialog,Ranka,……お父さん、素直じゃないなあ。環先輩のこと嫌いじゃないのに。,"...Dad, you're not being honest. You
+don't hate Tama-chan, do you?",,,
+tamaki.json,1220,Dialog,Ranka,「まだまだワタシはハルヒを手放す気はないんだからねー！」,"I'm not letting go of you yet,
+Haruhi!",,,

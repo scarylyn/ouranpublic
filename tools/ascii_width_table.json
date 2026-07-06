@@ -1,0 +1,483 @@
+{
+ "font": "LD937714LD937742.NFTR (normal dialogue, font id 8)",
+ "renderer": "arm9 0x203bc18: pen += glyph_w + letter_spacing (per-textbox, runtime). CWDH advance byte and left bearing are IGNORED by dialogue.",
+ "space": "ASCII 0x20 and fullwidth 0x8140 skip glyph entirely; advance = letter_spacing only",
+ "specials": "0x7E ~ = fixed 12px non-drawing space; 0x8141/0x8142 (fullwidth comma/period) get +4px pause spacing; ASCII 0x2C , and 0x2E . also +4px",
+ "chars": {
+  " ": {
+   "left": 0,
+   "glyph_w": 0,
+   "cwdh_advance": 6
+  },
+  "!": {
+   "left": 3,
+   "glyph_w": 1,
+   "cwdh_advance": 6
+  },
+  "\"": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "#": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "$": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "%": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "&": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "'": {
+   "left": 1,
+   "glyph_w": 3,
+   "cwdh_advance": 6
+  },
+  "(": {
+   "left": 3,
+   "glyph_w": 3,
+   "cwdh_advance": 6
+  },
+  ")": {
+   "left": 1,
+   "glyph_w": 3,
+   "cwdh_advance": 6
+  },
+  "*": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "+": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  ",": {
+   "left": 1,
+   "glyph_w": 2,
+   "cwdh_advance": 6
+  },
+  "-": {
+   "left": 2,
+   "glyph_w": 2,
+   "cwdh_advance": 6
+  },
+  ".": {
+   "left": 1,
+   "glyph_w": 2,
+   "cwdh_advance": 6
+  },
+  "/": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "0": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "1": {
+   "left": 2,
+   "glyph_w": 2,
+   "cwdh_advance": 6
+  },
+  "2": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "3": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "4": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "5": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "6": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "7": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "8": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "9": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  ":": {
+   "left": 2,
+   "glyph_w": 2,
+   "cwdh_advance": 6
+  },
+  ";": {
+   "left": 2,
+   "glyph_w": 2,
+   "cwdh_advance": 6
+  },
+  "<": {
+   "left": 3,
+   "glyph_w": 3,
+   "cwdh_advance": 6
+  },
+  "=": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  ">": {
+   "left": 1,
+   "glyph_w": 3,
+   "cwdh_advance": 6
+  },
+  "?": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "@": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "A": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "B": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "C": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "D": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "E": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "F": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "G": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "H": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "I": {
+   "left": 3,
+   "glyph_w": 1,
+   "cwdh_advance": 6
+  },
+  "J": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "K": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "L": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "M": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "N": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "O": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "P": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "Q": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "R": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "S": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "T": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "U": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "V": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "W": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "X": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "Y": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "Z": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "[": {
+   "left": 3,
+   "glyph_w": 3,
+   "cwdh_advance": 6
+  },
+  "\\": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "]": {
+   "left": 1,
+   "glyph_w": 3,
+   "cwdh_advance": 6
+  },
+  "^": {
+   "left": 1,
+   "glyph_w": 4,
+   "cwdh_advance": 6
+  },
+  "_": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "`": {
+   "left": 2,
+   "glyph_w": 2,
+   "cwdh_advance": 6
+  },
+  "a": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "b": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "c": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "d": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "e": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "f": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "g": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "h": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "i": {
+   "left": 3,
+   "glyph_w": 1,
+   "cwdh_advance": 6
+  },
+  "j": {
+   "left": 1,
+   "glyph_w": 4,
+   "cwdh_advance": 6
+  },
+  "k": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "l": {
+   "left": 2,
+   "glyph_w": 2,
+   "cwdh_advance": 6
+  },
+  "m": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "n": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "o": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "p": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "q": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "r": {
+   "left": 1,
+   "glyph_w": 4,
+   "cwdh_advance": 6
+  },
+  "s": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "t": {
+   "left": 1,
+   "glyph_w": 4,
+   "cwdh_advance": 6
+  },
+  "u": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "v": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "w": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "x": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "y": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "z": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  },
+  "{": {
+   "left": 2,
+   "glyph_w": 4,
+   "cwdh_advance": 6
+  },
+  "|": {
+   "left": 3,
+   "glyph_w": 1,
+   "cwdh_advance": 6
+  },
+  "}": {
+   "left": 1,
+   "glyph_w": 4,
+   "cwdh_advance": 6
+  },
+  "~": {
+   "left": 1,
+   "glyph_w": 5,
+   "cwdh_advance": 6
+  }
+ }
+}
